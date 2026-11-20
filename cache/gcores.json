@@ -1,10 +1,4 @@
 {
- "meta": {
-  "feed_base": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main",
-  "chapters_base": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters",
-  "max_items": 100,
-  "render": 3
- },
  "items": {
   "222328": {
    "id": "222328",
@@ -19,6 +13,10 @@
    "image": "https://image.gcores.com/cb8076abb7868325f749ae80509e95d7-1600-900.jpg",
    "summary": "本期《安利之王》围绕《女王魔域》与《深空当铺》展开推荐，前者被形容为够带劲，后者令人难自拔，简介还提及《GTA6》即将到来。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>只有PC的朋友们也不是没得玩了！哼</p>",
+   "participants": [
+    "西蒙",
+    "萝萝又卜卜"
+   ],
    "media_id": "23386",
    "timelines": [
     {
@@ -473,6 +471,11 @@
    "image": "https://image.gcores.com/d502dbe25c347f9bb0a5abfc36a831c9-1600-900.jpg",
    "summary": "机核“核电波”主播称已提前体验《GTA6》，在视频播客音频版中分享通关感受，并讨论Rockstar Games的制作水准，节目由Nadya、雪豆、西蒙主持。",
    "content_html": "<p>欢迎回到“核电波”！感谢Rockstar Games，我们已经体验了《GTA6》，今天就来聊聊感受究竟如何！ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】 </p>\n<p>本期主播：Nadya / 雪豆 / 西蒙 </p>",
+   "participants": [
+    "西蒙",
+    "雪豆",
+    "Nadya"
+   ],
    "media_id": "23383",
    "timelines": [],
    "length": 74097594,
@@ -492,6 +495,11 @@
    "image": "https://image.gcores.com/835359d96bb8b91c83640511d00d5f0c-1600-900.jpg",
    "summary": "玩不完根本玩不完",
    "content_html": "<p>感谢Rockstar Games提供的机会，我们已经体验了《GTA6》，本期节目就来分享一下通关感受。</p>\n<p>此外我们在B站“核电波”也发布了视频播客版通关体验，看看西蒙如何评价《GTA6》！</p>\n<p>*GadioWave是一档快速、自由的电台栏目，我们打算以尽量快的速度在节目里分享我们对于新鲜事物的感受。不管是玩的、看的、听的、读的，没有固定的更新时间，没有固定的主持人员，但是充满情感。  </p>",
+   "participants": [
+    "Nadya",
+    "雪豆",
+    "白广大"
+   ],
    "media_id": "23385",
    "timelines": [
     {
@@ -897,6 +905,11 @@
    "image": "https://image.gcores.com/9274a0a4bc7fb165c007fcc478f78f03-1600-900.jpg",
    "summary": "节目从“什么是Roguelike”谈起，介绍爱好者为这一80年代延续的概念提出的“柏林诠释”，并指出它虽提出即过时，仍有助于理解肉鸽的玩法特质与趣味所在。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>我们来聊聊“什么是Roguelike”这个话题。现在聊起肉鸽，回想起很多特定的玩法模块，这种特质的原因，来自于roguelike现代化的汹涌浪潮。而就在这浪潮的开端年份，有一群roguelike爱好者想要为这一从80年代延续至今的概念定义，这就是“柏林诠释”。虽然柏林诠释是一个提出即过时的概念，但它却对我们思考roguelike到底是什么，它的趣味在哪里提供了极佳的参考。“盗贼（Rogue）”有一千个面孔，映出电子游戏世界的无尽可能性。</p>",
+   "participants": [
+    "四十二",
+    "肉肉引擎！",
+    "萝萝又卜卜"
+   ],
    "media_id": "23309",
    "timelines": [
     {
@@ -1589,6 +1602,11 @@
    "image": "https://image.gcores.com/fbfeb75ae2f50174cbedee5a3ee054e5-1600-900.png",
    "summary": "机核GadioWave节目回顾BLG在英雄联盟S16全球总决赛3-1击败Gen.G夺冠的历程，这是BLG队史首座S赛奖杯，也是LPL时隔五年的S赛冠军，主播以粉丝视角分享这一年的跌宕故事。",
    "content_html": "<p>英雄联盟 S16 全球总决赛上，LPL战队 BLG最终 3‑1 战胜韩国 LCK 赛区的 Gen.G，夺得了他们梦寐以求的冠军。这是 BLG 队史上第一座 S 赛奖杯，也是 LPL 暌违五年的 S 赛冠军，实际上，BLG今年一年走来的路，有着极为丰富和跌宕的内容，办公室的铁杆BLG粉丝自然也忍不住分享——这是一期回望的Wave节目，如果不熟悉，你可以当故事来听；如果你早已熟悉，那可以再爽一次。</p>\n<p>*GadioWave是一档快速、自由的电台栏目，我们打算以尽量快的速度在节目里分享我们对于新鲜事物的感受。不管是玩的、看的、听的、读的，没有固定的更新时间，没有固定的主持人员，但是充满情感。  </p>",
+   "participants": [
+    "柏亚舟",
+    "说书人Jerry",
+    "弧弧"
+   ],
    "media_id": "23371",
    "timelines": [],
    "length": 118906999,
@@ -1607,7 +1625,12 @@
    "page_url": "https://www.gcores.com/radios/222021",
    "image": "https://image.gcores.com/d7083134ef22e541c75523d5f4f1f654-1600-900.jpg",
    "summary": "本期播客围绕《影之刃零》展开，从庞镇之乱的幕后布局切入，梳理游戏中的反派与侠客抉择，试图帮听众理清故事脉络。",
-   "content_html": "<p>本期时间轴制作：天行</p>\n<p>庞镇的乱，是谁布下的局？\n侠客的刃，又该向何处去？</p>\n<p>如果你觉得《影之刃零》里的故事不够吸引你，那不如来试试这期节目。</p>",
+   "content_html": "<p>本期时间轴制作：天行</p>\n<p>庞镇的乱，是谁布下的局？<br/>侠客的刃，又该向何处去？</p>\n<p>如果你觉得《影之刃零》里的故事不够吸引你，那不如来试试这期节目。</p>",
+   "participants": [
+    "说书人Jerry",
+    "雪豆",
+    "肉肉引擎！"
+   ],
    "media_id": "23351",
    "timelines": [
     {
@@ -2090,6 +2113,12 @@
    "image": "https://image.gcores.com/26009150211771c412c7a079ec11bceb-1600-900.png",
    "summary": "本期核周报汇总游戏要闻：Take-Two 财报称《GTA6》开发完成、预购远超预期，索尼与微软称其为各自商店史上预购最高游戏，全主机平台目标 30FPS；MW4 登顶 Steam 全球周榜，《影之刃零》国区三连庄、好评率升至 91%。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>本期要闻：《GTA6》开发正式完成，Take-Two 财报确认预购「远超预期」，索尼、微软双双官宣《GTA6》 是各自商店史上预购最高的游戏，全主机平台目标 30FPS，无性能模式；MW4 登顶Steam全球周榜，《影之刃零》国区三连庄、好评率升至 91%；Switch 23.5.0 固件推送；《塞尔达传说：时光之笛》重制版销量突破520万份；《魔兽世界：无限》国服：史上最高开服在线；金摇杆奖公布结果等。</p>",
+   "participants": [
+    "Ryoma",
+    "雪豆",
+    "萝萝又卜卜",
+    "Nadya"
+   ],
    "media_id": "23348",
    "timelines": [
     {
@@ -2586,6 +2615,11 @@
    "image": "https://image.gcores.com/ee51ef5ebb60ea7faaf4923726bc6800-1600-900.jpg",
    "summary": "机核播客“核电波”回顾GTA系列历史，并讨论对时隔13年推出的《GTA6》的期待，由Nadya、西蒙、Ryoma主持，本期为视频播客音频版。",
    "content_html": "<p>欢迎回到“核电波”！今天我们回顾一下GTA系列的过去，再聊聊对于《GTA6》的期待。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】     </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma </p>",
+   "participants": [
+    "Nadya",
+    "Ryoma",
+    "西蒙"
+   ],
    "media_id": "23346",
    "timelines": [],
    "length": 52534662,
@@ -2604,7 +2638,13 @@
    "page_url": "https://www.gcores.com/radios/222023",
    "image": "https://image.gcores.com/7c29c3f5908ba8d3f5ebfe45978bbf43-1600-900.jpg",
    "summary": "机核编辑在《影之刃零》茶话会中回顾通关体验，分享适应游戏的受苦过程、挑战强敌的顿悟时刻，以及对故事结局的吐槽，认为游戏虽过瘾但槽点不少。",
-   "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>《影之刃零》茶话会，启动！</p>\n<p>在本期节目里，几位编辑都回顾了一下，通关过程中的“惊喜”和“意外”。有些人在适应游戏的时候有点受苦；有些人在挑战强敌的过程中直接开悟；也有人在看完故事的结局之后彻底绷不住......</p>\n<p>一款游戏在让大家玩得大呼过瘾的同时，也实在槽点满满。</p>\n<h2>【活动】</h2>\n<p>机核「讨论」功能刚刚上线了一个新讨论：\n<a href=\"https://www.gcores.com/discussions/156720\">「宗门大比：谁是真轮椅？」</a>\n欢迎各位魂大人前来押宝！选出自己的神兵利器！</p>",
+   "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>《影之刃零》茶话会，启动！</p>\n<p>在本期节目里，几位编辑都回顾了一下，通关过程中的“惊喜”和“意外”。有些人在适应游戏的时候有点受苦；有些人在挑战强敌的过程中直接开悟；也有人在看完故事的结局之后彻底绷不住......</p>\n<p>一款游戏在让大家玩得大呼过瘾的同时，也实在槽点满满。</p>\n<h2>【活动】</h2>\n<p>机核「讨论」功能刚刚上线了一个新讨论：<br/><a href=\"https://www.gcores.com/discussions/156720\">「宗门大比：谁是真轮椅？」</a><br/>欢迎各位魂大人前来押宝！选出自己的神兵利器！</p>",
+   "participants": [
+    "说书人Jerry",
+    "雪豆",
+    "Ryoma",
+    "萝萝又卜卜"
+   ],
    "media_id": "23313",
    "timelines": [
     {
@@ -3409,6 +3449,10 @@
    "image": "https://image.gcores.com/856c31ca32f18483e7d6d673bd9729a7-1600-900.png",
    "summary": "机核GadioWave节目讨论黄仁勋宣布辞去英伟达总裁、CEO及董事职务一事，回顾其创立公司33年的历程，并梳理他在72小时内经历的风暴与后续可能面对的局面。",
    "content_html": "<p>2026年11月12日，黄仁勋宣布辞去英伟达总裁、CEO和董事的职位，彻底离开这家他一手创立了33年的世界科技巨头。在此之前，究竟发生了什么？风暴为何如此剧烈？作为一家掌握当前AI科技基石的炙手可热的公司，黄仁勋在72小时内经历了什么？他又会面对什么？我们试图用一期wave聊聊这件事情。或许说的都是错的，但别介意。</p>\n<p>*GadioWave是一档快速、自由的电台栏目，我们打算以尽量快的速度在节目里分享我们对于新鲜事物的感受。不管是玩的、看的、听的、读的，没有固定的更新时间，没有固定的主持人员，但是充满情感。  </p>",
+   "participants": [
+    "白广大",
+    "柏亚舟"
+   ],
    "media_id": "23349",
    "timelines": [
     {
@@ -3989,6 +4033,11 @@
    "image": "https://image.gcores.com/6cdee97528596d306db8ecfc79a322d7-1600-900.jpg",
    "summary": "文章回顾BioWare自2007年EA收购后近二十年的衰落历程，探讨这家曾以叙事见长的工作室为何在31岁时走向终结，并追问《质量效应》《龙腾世纪》IP留存之下，未来是否还会有更好的RPG。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>EA进场宴宾客，BioWare大厦倾颓早有预兆。上一次我们说到EA的大头目带着十分甚至九分的诚意来到了生软工作室，这已是2007年。那么在之后的近20年里，又发生了什么？三十功名尘与土，生软没能熬到下一个十年，便悄无声息地死去了。质量效应与龙腾世纪的IP还在，只是物是人非。未来还会有更好的RPG吗？一定会有。</p>",
+   "participants": [
+    "白广大",
+    "西蒙",
+    "萝萝又卜卜"
+   ],
    "media_id": "23308",
    "timelines": [
     {
@@ -4471,6 +4520,12 @@
    "image": "https://image.gcores.com/16d4e93a7bee500d3d5a4ae4e7f9ece5-1600-900.jpg",
    "summary": "本期游戏茶话会聊《火焰纹章：万缕千丝》：这款新作以激进态度为老IP带来新体验，但堆量设计与时间成本也让不少人却步。节目讨论它在哪里打动人，以及为何在当下游戏市场尤其动人。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>原皮肤《游戏茶话会》上线。</p>\n<p>在大作频出的九十月份，有一个游戏我们一直没有聊。一方面，它以激进的态度给一个老 IP 带来了新体验；另一方面，它的堆量设计和时间成本又让很多人望而却步。这个游戏就是——《火焰纹章：万缕千丝》。</p>\n<p>本期节目我们就来聊聊，这款新作在哪里打动了我们？在今天的游戏市场里，为什么这个作品尤其动人。</p>",
+   "participants": [
+    "说书人Jerry",
+    "Ryoma",
+    "雪豆",
+    "萝萝又卜卜"
+   ],
    "media_id": "23297",
    "timelines": [
     {
@@ -4869,6 +4924,11 @@
    "image": "https://image.gcores.com/926b7f955a325944078700460c3ef9ad-1600-900.jpg",
    "summary": "机核“核电波”播客中，Nadya、西蒙、Ryoma 围绕“一款游戏的好坏到底谁说了算”展开讨论，聚焦如何看待他人对游戏的评价，本期为视频播客的音频版。",
    "content_html": "<p>欢迎回到“核电波”！今天我们想聊聊如何看待别人对于游戏的评价。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】   </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma </p>",
+   "participants": [
+    "Ryoma",
+    "Nadya",
+    "西蒙"
+   ],
    "media_id": "23295",
    "timelines": [],
    "length": 44503577,
@@ -4888,6 +4948,12 @@
    "image": "https://image.gcores.com/b1057028e73d33549686f4d28650b393-1600-900.png",
    "summary": "本期核周报汇总游戏业要闻：《影之刃零》72小时全平台销量400万份并登顶Steam周销双榜；#SaveMassEffect请愿破30万签名，BioWare联合创始人回应；工会指控微软冻结招聘；Switch 2财年Q2销量267万台、同比降41%；Valve承认审核积压；卡普空称未来十年讲完生化危机当前叙事。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>本周要闻：《影之刃零》72 小时全平台 400 万份，Steam 周销双榜登顶；#SaveMassEffect 请愿突破 30 万签名，BioWare 联合创始人回应；工会指控微软 19 个月冻结招聘制造关闭借口；Switch 2 财年Q2 仅 267 万台、同比 降低41%；Valve 1公告承认审核积压：常规 3–5 个工作日的构建审核现已拉长到最多 12 个工作日；卡普空表示未来十年讲完生化危机「目前叙事」，系列本身不会完结等。</p>",
+   "participants": [
+    "Ryoma",
+    "雪豆",
+    "Nadya",
+    "萝萝又卜卜"
+   ],
    "media_id": "23296",
    "timelines": [
     {
@@ -5475,6 +5541,12 @@
    "image": "https://image.gcores.com/448f55d71b1d1842e8bfa32597b7815e-1600-900.jpg",
    "summary": "本期播客讨论那些前期备受期待、看完却令人失望的作品，并分享近期推荐。节目中提及《生化危机：爆发夜》《致命女人》第二季、《真探》第二季、《权力的游戏》第八季、《轮到你了》等。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>大家好，今天我们想讨论自己很期待但看完却十分失望的作品，当然最后也说了说我们自己近期的推荐。本期节目中提到了但不限于：《生化危机：爆发夜》《你能看到一切》《怪物：丽兹·波顿的故事》《致命女人》《致命女人 第二季》《杀死比尔：血色全传》《敦煌英雄》《真探第二季》《权力的游戏 第八季》《轮到你了》。</p>",
+   "participants": [
+    "annann",
+    "困鼠",
+    "说书人Jerry",
+    "搞搞是凉爽的夏夜"
+   ],
    "media_id": "23290",
    "timelines": [
     {
@@ -5943,6 +6015,10 @@
    "image": "https://image.gcores.com/cc11a3bf286ffec93e78907cc4584de6-1600-900.jpg",
    "summary": "生软Bioware官宣关闭后，节目回顾其从埃德蒙顿地下室小作坊起步的历程，讲述三位医生的创业碰撞，以及它与Interplay、黑岛等团队的关系，并探讨《博德之门》《质量效应》开辟的道路及“生软魔法”由祝福变诅咒的原因。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>三十一年尘与土，生软盖棺论定时。10月21日，生软Bioware官宣关闭，旗下IP去向未卜。天下没有不散的宴席，此刻，我们将目光投向宴席开始之处：这既是三个医生的碰撞与莽撞，也是一个神话时代的开始与破灭。与生软的草创密切相关的，是当时的Interplay，后来的黑岛、黑曜石，以及更多曾经在游戏业界响亮的名号。从医疗服务软件开始，直到《博德之门》和《质量效应》，生软开辟了怎样的道路？“生软魔法”为何在最开始是祝福，在后来却变成了诅咒？请听本期节目</p>",
+   "participants": [
+    "白广大",
+    "西蒙"
+   ],
    "media_id": "23278",
    "timelines": [
     {
@@ -6432,6 +6508,10 @@
    "image": "https://image.gcores.com/f222eaeaa48347a770fd9e711580b3af-1600-900.png",
    "summary": "萝卜和引擎体验了2026年最新《使命召唤》多人模式，坦言对枪和身法都不如他人，却仍从中找到属于自己的快乐，节目围绕这份乐趣展开讨论。",
    "content_html": "<p>随着26年最新作《使命召唤》落地，萝卜和引擎也玩了玩这次的多人模式。俗话说人老了干什么都心酸，对枪对不过，身法也比不上别人。但是这俩人为啥还是能在多人模式里找到属于自己的快乐呢？</p>\n<p>*GadioWave是一档快速、自由的电台栏目，我们打算以尽量快的速度在节目里分享我们对于新鲜事物的感受。不管是玩的、看的、听的、读的，没有固定的更新时间，没有固定的主持人员，但是充满情感。  </p>",
+   "participants": [
+    "萝萝又卜卜",
+    "肉肉引擎！"
+   ],
    "media_id": "23280",
    "timelines": [
     {
@@ -6781,6 +6861,10 @@
    "image": "https://image.gcores.com/4e58f7cf77a0d7b575f0fa618cb1ec73-1600-900.jpg",
    "summary": "本期《安利之王》节目中，作者讨论了《现代战争4》的表现，提到《魔兽争霸3》推出新内容，并评价《皇牌空战8》表现不佳，同时调侃西蒙的安利能力下滑。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>西蒙安利能力直线下滑</p>",
+   "participants": [
+    "西蒙",
+    "萝萝又卜卜"
+   ],
    "media_id": "23205",
    "timelines": [
     {
@@ -7220,7 +7304,12 @@
    "page_url": "https://www.gcores.com/radios/221135",
    "image": "https://image.gcores.com/891fef58fbcc73149006d1f5650960ac-1600-900.jpg",
    "summary": "本期节目讲述2012年由2K发行的军事题材动作冒险游戏《特殊行动：一线生机》的故事，以及多年来社区对其的讨论与想象；该作已于2024年2月因音乐版权过期在各平台下架。",
-   "content_html": "<p>本期时间轴制作：天行</p>\n<p>本期节目的内容和时间轴包含：\n可能引发精神创伤的极度残忍画面，以及对极度残忍画面的直白描述。</p>\n<p>本期节目讲述与2012年由2K发行的军事题材动作冒险游戏《Spec Ops : The Line》 的故事，以及多年以来社区对这个故事的讨论和想象。</p>\n<p>这款游戏已经于2024年2月因为音乐版权过期的原因于各个平台下架。</p>",
+   "content_html": "<p>本期时间轴制作：天行</p>\n<p>本期节目的内容和时间轴包含：<br/>可能引发精神创伤的极度残忍画面，以及对极度残忍画面的直白描述。</p>\n<p>本期节目讲述与2012年由2K发行的军事题材动作冒险游戏《Spec Ops : The Line》 的故事，以及多年以来社区对这个故事的讨论和想象。</p>\n<p>这款游戏已经于2024年2月因为音乐版权过期的原因于各个平台下架。</p>",
+   "participants": [
+    "萝萝又卜卜",
+    "四十二",
+    "说书人Jerry"
+   ],
    "media_id": "23231",
    "timelines": [
     {
@@ -7934,6 +8023,11 @@
    "image": "https://image.gcores.com/b9c64519e9015613d8545a42a1ed936b-1600-900.png",
    "summary": "本期核周报聚焦《影之刃零》发售热潮、《使命召唤：现代战争4》上线反响、微软延长Arkane Lyon买家搜寻期、EA关闭BioWare引发玩家抵制，以及任天堂Indie World公布的多款游戏消息。",
    "content_html": "<p>本期时间轴制作：佟和 </p>\n<p>本期要闻：​《影之刃零》发售掀起无暇热潮；《使命召唤：现代战争 4》完整版上线收获较好反响；微软为Arkane Lyon的买家搜寻期延长一个月时间；EA 关闭BioWare引起玩家抵制活动；任天堂 新一期Indie World 公布多款游戏消息及上线时间等。</p>",
+   "participants": [
+    "Ryoma",
+    "Nadya",
+    "萝萝又卜卜"
+   ],
    "media_id": "23229",
    "timelines": [
     {
@@ -8541,7 +8635,11 @@
    "page_url": "https://www.gcores.com/radios/221700",
    "image": "https://image.gcores.com/d4501de82bdb968aff657559b2fa1d4c-1600-900.jpg",
    "summary": "机核播客“核电波”本期邀请鸡哥和卡师傅，围绕两人作为室友的生活展开聊天，节目为视频播客的音频版，主播为Nadya与Ryoma。",
-   "content_html": "<p>欢迎回到“核电波”！今天请到了鸡哥和卡师傅，和他们俩聊聊作为室友的生活。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】             </p>\n<p>本期主播：Nadya / Ryoma \n本期嘉宾：鸡哥咕咕der / 村头卡师傅 </p>",
+   "content_html": "<p>欢迎回到“核电波”！今天请到了鸡哥和卡师傅，和他们俩聊聊作为室友的生活。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】             </p>\n<p>本期主播：Nadya / Ryoma <br/>本期嘉宾：鸡哥咕咕der / 村头卡师傅 </p>",
+   "participants": [
+    "Nadya",
+    "Ryoma"
+   ],
    "media_id": "23226",
    "timelines": [],
    "length": 30211044,
@@ -8561,6 +8659,10 @@
    "image": "https://image.gcores.com/d45204b4d42de740d147e60d07d73a56-1600-900.jpg",
    "summary": "西蒙与重轻在节目中怀念刘欢，从他熟悉的旋律谈到音乐创作与生平故事，并探讨他如何理解音乐及作品背后的想法与选择，希望借这些歌曲重新认识这位音乐人。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>有些歌，我们听了半辈子，早已熟悉得不用想就能跟着唱。等到唱歌的人离开，才发现，这个声音一直陪着我们，走过了那么多年。</p>\n<p>这期，西蒙和重轻一起怀念刘欢。从他的音乐创作聊到生平故事，也聊聊他如何理解音乐，以及作品背后的想法与选择。我们想借着那些熟悉的旋律，重新认识这个人：不只记得他唱过什么，也多了解一点，他为什么这样做音乐。</p>\n<p>把歌再听一遍，把关于他的故事，再讲一讲。</p>",
+   "participants": [
+    "西蒙",
+    "这样重这样轻"
+   ],
    "media_id": "23201",
    "timelines": [
     {
@@ -9092,6 +9194,11 @@
    "image": "https://image.gcores.com/f3a51b4d8eb9d208a5be69951428a9e2-1600-900.png",
    "summary": "本期节目分制作幕后、全剧情讲述、真结局讨论与游玩感受四部分，介绍瑞典五人团队 Wych Elm 开发、Team17 发行的 2.5D 横版生存恐怖游戏《银松镇》：私家侦探雷德·沃克循神秘电话来到迷雾笼罩的荒废小镇，逐渐接近一桩杀人案真凶，并拆解其中的用典。",
    "content_html": "<p>本期内容将分为：游戏制作幕后、全剧情讲述、真结局讨论（及用典拆解）和游玩感受四部分。本期节目有配上画面的视频版，请移步b站账号【<a href=\"https://space.bilibili.com/3707047392577882\">玩的核WonderCores</a>】观看。</p>\n<p>《银松镇》（Silver Pines）是瑞典五人团队 Wych Elm 开发、Team17 发行的 2.5D 横版生存恐怖游戏。私家侦探雷德·沃克循着一通神秘电话来到迷雾笼罩、几近荒废的美国小镇银松镇，却在神秘指引下，逐渐接近一桩小镇杀人案的真凶。游戏画面手绘结合转描动画，新黑色电影的湿冷光影，《双峰》《寂静岭》式的窒息感，让人欲罢不能。不过，这部作品究竟是怎么设计出来的，又讲了个什么故事？今天我们想和大家聊聊自己的理解。</p>",
+   "participants": [
+    "annann",
+    "困鼠",
+    "玩的核WonderCores"
+   ],
    "media_id": "23213",
    "timelines": [],
    "length": 57598238,
@@ -9111,6 +9218,11 @@
    "image": "https://image.gcores.com/92d29830cb5988d84537c54260a0140b-1600-900.jpg",
    "summary": "机核节目由Jerry梳理《影之刃》系列“影境”世界观，介绍主角冒险前的江湖历史、地理、科技与武林大事，内容基于《雨血》及前作设定，并提示《影之刃零》为重启之作，部分设定可能与最终剧情不同。",
    "content_html": "<p>本期时间轴制作：天行 </p>\n<p>很多玩家对即将上线的这部《影之刃零》，已经是望眼欲穿了。不过想必大家对于这个游戏的世界观——“影境”，还是一知半解。</p>\n<p>本期节目，Jerry 来当一回茶馆说书先生：给大家讲讲，在主角开始他的冒险之前，这个江湖究竟是什么样子的？这个武林中又曾经发生过哪些大事？</p>\n<p>* 本期内容基于《雨血》及《影之刃》前作设定整理。《影之刃零》是系列故事的重启之作，部分设定可能不完全对应最终剧情 *</p>",
+   "participants": [
+    "说书人Jerry",
+    "肉肉引擎！",
+    "雪豆"
+   ],
    "media_id": "23161",
    "timelines": [
     {
@@ -9585,7 +9697,11 @@
    "page_url": "https://www.gcores.com/radios/221449",
    "image": "https://image.gcores.com/93a575150f11d883b2cbb9a2d5fe07be-1600-900.jpg",
    "summary": "机核播客“核电波”邀请国产动作冒险游戏《湮灭之潮》开发团队，围绕圆桌骑士背景，聊国人如何编写西方奇幻、游戏实际玩法，以及团队想塑造让玩家记住的女主角。",
-   "content_html": "<p>欢迎回到“核电波”！《湮灭之潮》是一款以圆桌骑士为背景的国产动作冒险游戏，今天我们邀请到了游戏的开发团队，和他们聊聊国人如何编写西方奇幻，以及游戏玩起来到底是什么样。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】          </p>\n<p>本期主播：Nadya / Ryoma \n本期嘉宾：《湮灭之潮》游戏监制兼公司联席CEO陈琦 / 《湮灭之潮》主策划鹏飞 </p>",
+   "content_html": "<p>欢迎回到“核电波”！《湮灭之潮》是一款以圆桌骑士为背景的国产动作冒险游戏，今天我们邀请到了游戏的开发团队，和他们聊聊国人如何编写西方奇幻，以及游戏玩起来到底是什么样。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】          </p>\n<p>本期主播：Nadya / Ryoma <br/>本期嘉宾：《湮灭之潮》游戏监制兼公司联席CEO陈琦 / 《湮灭之潮》主策划鹏飞 </p>",
+   "participants": [
+    "Nadya",
+    "Ryoma"
+   ],
    "media_id": "23166",
    "timelines": [],
    "length": 71711883,
@@ -9605,6 +9721,12 @@
    "image": "https://image.gcores.com/d95f7fb32147ccaef24597610249c4d0-1600-900.png",
    "summary": "机核核周报10.24梳理本周游戏要闻：《使命召唤：现代战争4》战役提前解锁且Steam好评率创系列十年新高，GTA6最终预告48小时YouTube播放超4600万，另有EA关闭BioWare、育碧拟关闭RedLynx等消息。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>本周要闻：《使命召唤：现代战争 4》战役提前解锁，Steam 好评率 创系列十年新高；GTA6 放出最终预告，48 小时 YouTube 播放超过4600 万；EA关闭BioWare；育碧拟关闭RedLynx；《黎明行者之血》将推出1.1 版本，可重置技能点；《赛博朋克：边缘行者 2》上线等。</p>",
+   "participants": [
+    "Ryoma",
+    "雪豆",
+    "Nadya",
+    "萝萝又卜卜"
+   ],
    "media_id": "23160",
    "timelines": [
     {
@@ -10234,6 +10356,12 @@
    "image": "https://image.gcores.com/0c78726148912126c8524d7956cef077-1600-900.jpg",
    "summary": "机核播客本期聊双十一被影视剧意外种草的商品，并推荐近期书影音，包括《银松镇》《摩斯探长前传》《谜探路德维希》及J.K.罗琳化名所著《神探科莫兰》系列等。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>双十一快到了，想聊聊最近被种草的，想买的东西！同时也推荐我们最近看的玩的文艺作品！包括：《银松镇》《沉星之序》《Enigmash》《Gentoo Rescue》《Boombanana!》《星球大战：银河赛车手》《摩斯探长前传》《谜探路德维希》《幻视任务》《现在不是出轨的问题》，最后是J.K.罗琳化名罗伯特·加尔布雷斯写的侦探小说《神探科莫兰》系列。</p>",
+   "participants": [
+    "annann",
+    "搞搞是凉爽的夏夜",
+    "说书人Jerry",
+    "困鼠"
+   ],
    "media_id": "23158",
    "timelines": [
     {
@@ -10863,6 +10991,11 @@
    "image": "https://image.gcores.com/0d8d4a45e28f93780f28a1a30ef0bcc1-1600-900.jpg",
    "summary": "本期节目以鬼武者系列为线索回顾CAPCOM的发展：该系列二十余年仅有五部作品，经历闪亮登场、黯然退场与重新复活，作者认为它恰好成为CAPCOM历经困境迷茫后重寻方向的注脚。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>鬼武者系列自诞生以来，经历过比较剧烈的沉浮。有过闪亮登场，有过黯然退场，如今又重新复活。正如CAPCOM这家公司自己一样，并非一帆风顺，也经历过困境和迷茫，再重新找到方向。虽然在这20余年里只有五部作品，但这个系列也刚好成为了CAPCOM发展历程的注脚。</p>",
+   "participants": [
+    "Ryoma",
+    "xzzzzb",
+    "西蒙"
+   ],
    "media_id": "23119",
    "timelines": [
     {
@@ -11436,6 +11569,10 @@
    "image": "https://image.gcores.com/490139fafbacf3a1e703cb21d3462b58-1600-900.jpg",
    "summary": "微软9月22日宣布新一轮裁员并重组旗下工作室，贝塞斯达与黑曜石由此以戏剧性方式“合体”。节目时隔11年再邀G君与老白，围绕《辐射》及传统RPG爱好者的处境展开讨论。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>9月22日，微软宣布了新一轮的裁员举措，对旗下工作室进行了大规模重组与适配。贝塞斯达与黑曜石这一对相生相克的冤家，在多年的争斗和坎坷之中，以一种戏剧式的方式“合体”。但这对于传统RPG爱好者来说，似乎并不是一个最好的选择。离最开始的《辐射》节目也已经过去11年，所谓物是人非事事休？听G君和老白再聊聊这事。</p>",
+   "participants": [
+    "位面旅行者G",
+    "白广大"
+   ],
    "media_id": "23100",
    "timelines": [
     {
@@ -11778,6 +11915,10 @@
    "image": "https://image.gcores.com/0b3480e7f2196d890abde7cd92380e41-1600-900.jpg",
    "summary": "本期节目从《沉星之序》出发，既谈独立游戏界传奇 Jonathan Blow 及其游戏哲学，也聚焦一群把制造谜题当作手艺与乐趣的谜题构建者。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>在《沉星之序》这个游戏在背后，有着各种可以深挖的内容。从独立游戏界的传奇 Jonathan Blow，到他一直以来秉承的游戏哲学。</p>\n<p>不过今天这期节目，我们不仅仅聚焦于吹哥 Jonathan Blow 这一个人；另一边，还想借此展现另一个群体——一群把制造难题当成手艺、当成信仰、甚至当成生命中最重要乐趣的人。</p>",
+   "participants": [
+    "说书人Jerry",
+    "四十二"
+   ],
    "media_id": "23103",
    "timelines": [
     {
@@ -12400,6 +12541,10 @@
    "image": "https://image.gcores.com/ea6711113476f3a8531d1d2f4edfac7b-1600-900.png",
    "summary": "本期核周报盘点10月游戏发售潮，包括《恶魔城：贝尔蒙特的诅咒》《Ratatan》《全面战争：幕府将军2完全版》等多款新作；同时提到“内存荒”推高主机售价，PS5 Pro市场价突破万元，紧张供应预计持续到2027年第一季度。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>本期要闻：10月游戏发售潮继续，《恶魔城：贝尔蒙特的诅咒》、《不朽遗志》、《Ratatan》、《战锤 40K：爆失枪2》、《全面战争：幕府将军 2 完全版》、《永恒传说 Remastered》等游戏相继发售；“内存荒”推高主机售价，PS5 Pro 市场价突破万元，紧张供应预计持续到 2027 Q1；《漫威金刚狼》实体版占比数据引发讨论等。</p>",
+   "participants": [
+    "Ryoma",
+    "Nadya"
+   ],
    "media_id": "23101",
    "timelines": [
     {
@@ -12847,6 +12992,11 @@
    "image": "https://image.gcores.com/3973609a67172b7362309e5912210f2f-1600-900.jpg",
    "summary": "机核视频播客“核电波”音频版中，Nadya、西蒙与Ryoma围绕“什么样的游戏最能打动我们”展开讨论，分享各自评判游戏打动人的关键所在。",
    "content_html": "<p>欢迎回到“核电波”！今天想分享，什么样的游戏最能打动我们。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】        </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma </p>",
+   "participants": [
+    "Ryoma",
+    "Nadya",
+    "西蒙"
+   ],
    "media_id": "23098",
    "timelines": [],
    "length": 75291704,
@@ -12866,6 +13016,10 @@
    "image": "https://image.gcores.com/480073feb439e9ebd5d9b3e5f20102bf-1600-900.jpg",
    "summary": "本期《安利之王》围绕“战争的机器”展开，作者提到《鬼武者》也太好了，并抛出飞的与跑的战争机器你更喜欢哪一个的问题，时间轴由西楼制作。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>都是战争的机器，飞的和跑的你喜欢哪一个？</p>",
+   "participants": [
+    "西蒙",
+    "萝萝又卜卜"
+   ],
    "media_id": "23086",
    "timelines": [
     {
@@ -13446,6 +13600,11 @@
    "image": "https://image.gcores.com/75aac5d1c8f5d85bb6a2b71415a36594-1600-900.jpg",
    "summary": "《寂静岭：小镇陷落》发售半月后Steam评价褒贬不一，Ann和鼠以万字文本拆解其谜语人式叙事下的剧情，分析制作组埋藏的线索与设计玄机，并回应本作是否砸了系列招牌。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>本期节目为b站视频的音频，完整视频版请见：<a href=\"https://www.bilibili.com/video/BV1kgpH6sEfK/\">https://www.bilibili.com/video/BV1kgpH6sEfK/</a>  《寂静岭》系列的新作《寂静岭：Townfall（小镇陷落）》已经发售半个月了，但在Steam上的评价仍旧褒贬不一。</p>\n<p>本作谜语人一般的叙事手法之下究竟讲了什么故事？制作组又在线索藏了多少细节？这一作难道真的砸了寂静岭的招牌吗？</p>\n<p><a href=\"https://www.bilibili.com/video/BV1kgpH6sEfK/?vd_source=c2eda871c2d97f5f2be4b2865d86debb\">万字拆解《寂静岭：小镇陷落》剧情及隐喻【视频版】</a></p>\n<p>本期Ann和鼠将用万字的文本为大家讲解本作的剧情，并分析这些设计背后又暗藏了什么玄机。</p>\n<p>如果你还不了解本作，欢迎先观看我们的前瞻视频：</p>\n<p><a href=\"https://www.bilibili.com/video/BV1MUhe64E9P/?spm_id_from=333.1387.homepage.video_card.click&amp;vd_source=25dff8e16f5b88238a7167f74b3bf208\">寂静岭改成第一人称了？Townfall购入前你该知道的一切</a></p>\n<p>如果你还没玩过本作，也欢迎观看我们的全流程游戏实况视频：</p>\n<p><a href=\"https://www.bilibili.com/video/BV1nShq6pEvM/?spm_id_from=333.1387.homepage.video_card.click&amp;vd_source=25dff8e16f5b88238a7167f74b3bf208\">【已完结】心理恐怖经典IP新作《寂静岭：Townfall》全流程游戏实况</a></p>\n<p>如果你喜欢本期的解读，请一定关注并一键三连！</p>",
+   "participants": [
+    "困鼠",
+    "annann",
+    "玩的核WonderCores"
+   ],
    "media_id": "23025",
    "timelines": [
     {
@@ -13696,7 +13855,18 @@
    "page_url": "https://www.gcores.com/radios/220608",
    "image": "https://image.gcores.com/78663f185fd5c0f9cd295956328a0e7d-1600-900.jpg",
    "summary": "机核“赛博告解室”第二辑，同事们讲述历年核聚变活动中经历的尴尬与需要忏悔的事。节目同时预告核聚变2026·北京站将于10月24日至25日在首钢国际会展中心1、3号馆举行。",
-   "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>赛博告解室限时复活第二辑。10月24、25日，核聚变2026·北京站将在北京石景山 · 首钢国际会展中心 1、3 号馆开幕，今天节目依旧集结了同事们，讲讲历年核聚变经历过各种尴尬疯了的，需要忏悔的事。</p>\n<p>关于【核聚变2026·北京站】<a href=\"https://site.gcores.com/fusion2026_bj/\">https://site.gcores.com/fusion2026_bj/</a></p>\n<p><a href=\"https://show.bilibili.com/platform/detail.html?id=1006340\">获取2026北京核聚变门票</a></p>\n<p>✦展会时间：2026年10月24日-10月25日   \n✦展会地点：北京 · 石景山首钢国际会展中心1/3号馆  \n✦票务平台：哔哩哔哩会员购  </p>",
+   "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>赛博告解室限时复活第二辑。10月24、25日，核聚变2026·北京站将在北京石景山 · 首钢国际会展中心 1、3 号馆开幕，今天节目依旧集结了同事们，讲讲历年核聚变经历过各种尴尬疯了的，需要忏悔的事。</p>\n<p>关于【核聚变2026·北京站】<a href=\"https://site.gcores.com/fusion2026_bj/\">https://site.gcores.com/fusion2026_bj/</a></p>\n<p><a href=\"https://show.bilibili.com/platform/detail.html?id=1006340\">获取2026北京核聚变门票</a></p>\n<p>✦展会时间：2026年10月24日-10月25日   <br/>✦展会地点：北京 · 石景山首钢国际会展中心1/3号馆  <br/>✦票务平台：哔哩哔哩会员购  </p>",
+   "participants": [
+    "annann",
+    "西蒙",
+    "说书人Jerry",
+    "困鼠",
+    "NoSleepLee",
+    "柏亚舟",
+    "贝壳哈姆",
+    "白广大",
+    "LEOOOON"
+   ],
    "media_id": "23008",
    "timelines": [
     {
@@ -14144,6 +14314,12 @@
    "image": "https://image.gcores.com/e68bb6a1174b6247da5465829710b146-1600-900.png",
    "summary": "本期核周报汇总游戏要闻：「3i计划」第四季发布会公布多款新作，《战争机器：事变日》《皇牌空战8》《星球大战：银河赛车手》等发售；《极限竞速：地平线6》PS5版延期，草蜢工作室与网易分手恢复独立，Falcom上调业绩预期，并有《生化危机9》DLC爆料。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>本期要闻：「3i计划」第四季游戏线上发布会公布超多新作消息；《战争机器：事变日》、《皇牌空战 8：希孚之翼》、《星球大战：银河赛车手》、等多款新作好评发售；《极限竞速：地平线6》PS5 版延期；草蜢工作室与网易“和平分手”恢复独立；Falcom 再度上调全年业绩预期；Dusk Golem 爆料：《生化危机 9：安魂曲》大型 DLC 消息。</p>",
+   "participants": [
+    "Ryoma",
+    "雪豆",
+    "Nadya",
+    "萝萝又卜卜"
+   ],
    "media_id": "23027",
    "timelines": [
     {
@@ -14794,6 +14970,11 @@
    "image": "https://image.gcores.com/aff844079c2e5b481fba89fb7f160435-1600-900.jpg",
    "summary": "机核视频播客节目“核电波”音频版，主播Nadya、西蒙、Ryoma聊玩游戏前会做的“仪式感”行为，并提到可在B站账号观看录制状态。",
    "content_html": "<p>欢迎回到“核电波”！今天聊聊玩游戏之前我们会做的“仪式感”行为。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】      </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma </p>",
+   "participants": [
+    "Ryoma",
+    "西蒙",
+    "Nadya"
+   ],
    "media_id": "23026",
    "timelines": [],
    "length": 43620011,
@@ -14813,6 +14994,12 @@
    "image": "https://image.gcores.com/dce89bc4e8a39d2b30c85340ec748ab1-1600-900.jpg",
    "summary": "核市奇谭Vol.127中，主播们聊了近期看过并喜欢的作品，包括《绿灯军团》《暗影蜘蛛侠》《翠鸟谋杀案》《挑战者》《德雷尔一家》《王冠第三季》和《沉星之序》。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>本期想和大家聊聊我们最近看过并觉得非常喜欢的作品，包括：《绿灯军团》《暗影蜘蛛侠》《翠鸟谋杀案》(又名《大理石厅谋杀案》)《挑战者》《德雷尔一家》《王冠第三季》《沉星之序》。</p>",
+   "participants": [
+    "annann",
+    "困鼠",
+    "说书人Jerry",
+    "搞搞是凉爽的夏夜"
+   ],
    "media_id": "23013",
    "timelines": [
     {
@@ -15344,6 +15531,11 @@
    "image": "https://image.gcores.com/6437f3247006e89fdcb8deaed4b79b92-1600-900.png",
    "summary": "机核受邀参加《影之刃零》线下试玩会，本期播客从6小时实际游玩出发，聊游戏的战斗、武器、关卡与整体体验，分享对这款游戏目前完成度的感受。",
    "content_html": "<p>应灵游坊的邀请，我们参加了《影之刃零》线下试玩会。本期播客，我们就从实际游玩出发，聊聊游戏的战斗、武器、关卡以及整体体验，看看这款游戏目前究竟做得怎么样。</p>\n<p>*GadioWave是一档快速、自由的电台栏目，我们打算以尽量快的速度在节目里分享我们对于新鲜事物的感受。不管是玩的、看的、听的、读的，没有固定的更新时间，没有固定的主持人员，但是充满情感。  </p>",
+   "participants": [
+    "说书人Jerry",
+    "Ryoma",
+    "Nadya"
+   ],
    "media_id": "23014",
    "timelines": [],
    "length": 58806140,
@@ -15363,6 +15555,10 @@
    "image": "https://image.gcores.com/74a830383bffaa31f4a4f81b15f87b71-1600-900.jpg",
    "summary": "机核节目邀请狼叔讲述女儿今年上大学后，他回忆从小到大带女儿打游戏的经历，分享如何用游戏陪伴孩子成长，以及其中的陪伴、引导与遗憾。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>今年夏天，狼叔的女儿上了大学。回忆起女儿从小到大的故事，狼叔说：有许多值得纪念的时刻，也有很多人生路上的遗憾。但回忆起带女儿打游戏的时光，老父亲的脸上便容光焕发。那么，狼叔如何用游戏陪伴女儿长大呢？</p>",
+   "participants": [
+    "白广大",
+    "火狼"
+   ],
    "media_id": "22993",
    "timelines": [
     {
@@ -15880,6 +16076,11 @@
    "image": "https://image.gcores.com/bafc4a6c2580d8c1aa40ff392d88dba8-1600-900.jpg",
    "summary": "节目录制于深圳核聚变前，主播在广州与独立游戏界前辈“拼命玩三郎”及机核老听众盲灯对谈，回顾“万物破元”游戏博物馆的建立与告别，并探讨游戏人文与内容火种在不同年代玩家间的呈现与传递。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>这期节目录制于深圳核聚变之前。在广州，我见到老朋友也是中国独立游戏界的老前辈“拼命玩三郎”和机核老听众盲灯。我与两位老师坐在一起，说了一一些历史话题：曾经在国内闻名遐迩的&quot;万物破元&quot;游戏博物馆是怎样建立，又是如何告别的？游戏人文与内容的火种和精神在不同年代的玩家身上，会如何呈现和传递？</p>",
+   "participants": [
+    "白广大",
+    "盲灯",
+    "拼命玩三郎"
+   ],
    "media_id": "22971",
    "timelines": [
     {
@@ -16369,6 +16570,11 @@
    "image": "https://image.gcores.com/56778f8aed8978ffaa351991b75dd359-1600-900.jpg",
    "summary": "机核“核电波”播客本期讨论人们为什么总喜欢在游戏里花钱，由Nadya、西蒙、Ryoma三位主播参与，并说明这是视频播客的音频版。",
    "content_html": "<p>欢迎回到“核电波”！今天聊聊为什么我们总喜欢在游戏里花钱？ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】   </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma </p>",
+   "participants": [
+    "西蒙",
+    "Ryoma",
+    "Nadya"
+   ],
    "media_id": "22990",
    "timelines": [],
    "length": 57925918,
@@ -16388,6 +16594,12 @@
    "image": "https://image.gcores.com/3c11ad6f3603b6d9d7c9f84e0a6e1e3a-1600-900.png",
    "summary": "本期核周报汇总：Bungie宣布《命运2》被封存内容全部回归；微软Xbox再裁268人，《光环》交由动视开发，黑曜石划归Bethesda；《心之眼》开发商进入破产流程；TGS 2026因台风取消最后公众日；《宝可梦 Pokopia》获日本游戏大奖年度大奖。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>本周要闻：Bungie 宣布《命运 2》被封存内容将全部回归；微软Xbox再裁 268 人，《光环》交由动视开发，Rare 与 World&#x27;s Edge划归动视；黑曜石划归 Bethesda，Xbox Game Studios 仅存三家直属工作室，且《战争机器：事变日》发售前两周剧情总监 Juan Vaca 被裁，其未来将系于《事变日》的商业表现；《心之眼》开发商 Build A Rocket Boy 进入破产流程；TGS 2026 因台风取消最后一个公众日；《宝可梦 Pokopia》获日本游戏大奖 2026年度大奖，樱井政博宣布「游戏设计师奖」今年为最后一届等。</p>",
+   "participants": [
+    "Ryoma",
+    "萝萝又卜卜",
+    "雪豆",
+    "Nadya"
+   ],
    "media_id": "22956",
    "timelines": [
     {
@@ -16905,6 +17117,11 @@
    "image": "https://image.gcores.com/4b14ebb1f0726c7990351a4d935cd8ed-1600-900.jpg",
    "summary": "《漫威金刚狼》媒体均分77，为Insomniac本世代最低，但发售三天卖出190万份。节目探讨该项目困境与失眠组企业文化，分析口碑失利与商业成功为何是一体两面。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>作为今年饱受期待的索尼第一方大作，《漫威金刚狼》收获了媒体均分 77 的成绩。在这个世代里，这是 Insomniac（失眠组）开发作品中的最低分。但是在另一边，这个游戏在发售仅三天的时间里，卖出了 190 万份，取得了销量上的成功。这中间似乎存在着一个矛盾。</p>\n<p>本期节目我们将细数《漫威金刚狼》这个项目的重重困境，带大家一窥失眠组的企业文化。为什么说，这款游戏在口碑上的失利和商业上成功是一体两面的？</p>",
+   "participants": [
+    "说书人Jerry",
+    "萝萝又卜卜",
+    "Nadya"
+   ],
    "media_id": "22951",
    "timelines": [
     {
@@ -17359,6 +17576,11 @@
    "image": "https://image.gcores.com/059adc70af12d46888fea8605bb2d345-1600-900.jpg",
    "summary": "机核邀请《烟雨江湖》主策划“楚不敢狂”做客，作为武侠系列节目开篇，聊这款运营七年的武侠手游为何仍未“跑路”，并回顾跑路传闻、WIKI事件、聂风等七年间的风波与故事。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>一款运营了七年的武侠手游，为什么还没“跑路”？作为机核“武侠”系列节目的开篇，前不久，我们有幸邀请《烟雨江湖》主策划“楚不敢狂”老师做客机核，从跑路传闻到WIKI事件再到聂风，掏心窝子地聊了聊这七年间发生的各种的故事。</p>",
+   "participants": [
+    "雪豆",
+    "白广大",
+    "楚不敢狂"
+   ],
    "media_id": "22917",
    "timelines": [
     {
@@ -17820,6 +18042,12 @@
    "image": "https://image.gcores.com/599aec2dfe001bd39b26918f1bf95f4b-1600-900.jpg",
    "summary": "机核几位编辑借《理想的存档》聊起十年旧事：陈星汉在接机路上展示游戏原型，赴波兰拍摄CDPR的插曲，以及《黑神话》首次公开前的对接，从这些碎片回忆看游戏圈的变化。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>看完《<a href=\"https://www.bilibili.com/video/BV1k3hE6iEy6/?spm_id_from=333.337.search-card.all.click\">理想的存档</a>》，我们几个没忍住，顺着片里熟悉的面孔聊起了旧事。聊陈星汉在接机路上掏出手机展示游戏原型，聊去波兰拍 CDPR 时的一路小插曲，也聊《黑神话》首次公开前，我们那阵手忙脚乱的对接。游戏圈这十年的变化，落在我们的记忆里，常常是一碗面、一趟车，或者一句“这事你怎么也记得”。这期就一起翻翻这些小事，看看当年的朋友们，后来把游戏做成了什么样。《<a href=\"https://www.bilibili.com/video/BV1k3hE6iEy6/?spm_id_from=333.337.search-card.all.click\">理想的存档</a>》由 TapTap 出品、机核 GSENSE 即视制作。</p>\n<p><a href=\"https://www.bilibili.com/video/BV1k3hE6iEy6/?spm_id_from=333.337.search-card.all.click&amp;vd_source=c2eda871c2d97f5f2be4b2865d86debb\">《理想的存档》，中国游戏人亲述十年</a></p>",
+   "participants": [
+    "西蒙",
+    "xzzzzb",
+    "口哥",
+    "moby的奢华秋裤"
+   ],
    "media_id": "22876",
    "timelines": [
     {
@@ -18302,6 +18530,12 @@
    "image": "https://image.gcores.com/f9212be4c450e3304428ed58c0e980d2-1600-900.jpg",
    "summary": "核市奇谭Vol.126是节前录制的闲聊推荐节目，介绍了《杀死比尔：血色全传》《敦煌英雄》《火焰之纹章：万缕千丝》《寂静岭：小镇陷落》等假期可玩可看的作品，并祝大家节日快乐。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>大家好，本期节目是节前紧急录制的，闲聊加推荐了推进玩的和看的作品！包括：《杀死比尔：血色全传》《敦煌英雄》《火焰之纹章：万缕千丝》《欢迎来到古原镇》《木木屋》《维修物语》《装机模拟器》《EA Sports FC 27》《寂静岭：小镇陷落》《绿灯军团》《谜探路德维希》……祝大家节日快乐！</p>",
+   "participants": [
+    "annann",
+    "困鼠",
+    "说书人Jerry",
+    "搞搞是凉爽的夏夜"
+   ],
    "media_id": "22918",
    "timelines": [
     {
@@ -18721,6 +18955,10 @@
    "image": "https://image.gcores.com/02ba74449246da106fee1b7cbcf6dec0-1600-900.jpg",
    "summary": "《安利之王》本期由“安利灵魂导师组合”推荐游戏，标题提到疯狂推荐《战争狗》、感叹《金刚狼》太难安利，邀请听众看看这期能吃下几款安利。",
    "content_html": "<p>本期时间轴制作： 猪猪米</p>\n<p>安利灵魂导师组合来了，本期安利的游戏你会尝试哪一个？</p>",
+   "participants": [
+    "萝萝又卜卜",
+    "西蒙"
+   ],
    "media_id": "22885",
    "timelines": [
     {
@@ -19468,7 +19706,13 @@
    "page_url": "https://www.gcores.com/radios/220219",
    "image": "https://image.gcores.com/6825c04a354bd854aecfce406ce5431a-1600-900.jpg",
    "summary": "机核播客“核电波”邀请超英UP主BuriedAlien，与Nadya、西蒙、Ryoma一起聊超级英雄游戏，探讨想做怎样的超英游戏以及这类游戏的潜力。本期为视频播客的音频版。",
-   "content_html": "<p>欢迎回到“核电波”！今天我们邀请到了超英UP主BA，和他聊聊超英游戏！本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】   </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma \n本期嘉宾：BuriedAlien </p>",
+   "content_html": "<p>欢迎回到“核电波”！今天我们邀请到了超英UP主BA，和他聊聊超英游戏！本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】   </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma <br/>本期嘉宾：BuriedAlien </p>",
+   "participants": [
+    "BuriedAlien",
+    "Nadya",
+    "Ryoma",
+    "西蒙"
+   ],
    "media_id": "22916",
    "timelines": [],
    "length": 57361255,
@@ -19488,6 +19732,10 @@
    "image": "https://image.gcores.com/0348d4cbb8c5692aa3b2ff86431c5712-1600-900.png",
    "summary": "机核GadioWave节目介绍《全面战争：战锤3》最新大型资料片更新内容，包括5个派系与终焉之刻事件玩法，并称100回合之后也能好玩。",
    "content_html": "<p>本期时间轴由AI制作</p>\n<p>本期节目介绍了《全面战争：战锤3》的最新大型资料片所更新的内容，包括5个派系以及终焉之刻事件玩法。</p>\n<p>*GadioWave是一档快速、自由的电台栏目，我们打算以尽量快的速度在节目里分享我们对于新鲜事物的感受。不管是玩的、看的、听的、读的，没有固定的主持人员，但是充满情感。  </p>",
+   "participants": [
+    "萝萝又卜卜",
+    "肉肉引擎！"
+   ],
    "media_id": "22900",
    "timelines": [
     {
@@ -19809,6 +20057,13 @@
    "image": "https://image.gcores.com/7b7fa2b5094d24e32a8adab4984521f3-1601-901.jpg",
    "summary": "吉考斯与《影之刃零》联名官宣，首家线下店铺将于九月三十日在濮院时尚古镇开业。本期《吉时放送》介绍这两件事，并聊旅行箱里的哲学，还将抽六位朋友送古镇门票。",
    "content_html": "<p>本期时间轴制作：月泺  </p>\n<p>最近吉考斯动作不少，除了与《影之刃零》的联名外，九月三十日位于濮院时尚古镇的第一家线下店铺即将开业，我们在这期《吉时放送》中主要介绍下这两件事。</p>\n<p>十一临近，相信有不少人会选择出游，我们也为此聊一聊「旅行箱里的哲学」，不知道你出行是节俭派还是搬家派？  </p>\n<p>本期依然有转发抽奖福利，将抽六位朋友送出濮院时尚古镇的门票，期待在开业当天见到大家！</p>",
+   "participants": [
+    "yn27",
+    "LEOOOON",
+    "Jalang",
+    "2z秃子",
+    "吉考斯工业"
+   ],
    "media_id": "22866",
    "timelines": [
     {
@@ -20200,6 +20455,11 @@
    "image": "https://image.gcores.com/662073d4f50e73891048785436195cbf-1600-900.jpg",
    "summary": "《魔兽故事》卷三十讲述守护巨龙重获力量后，凡人种族成为黑暗之门开启后新世界的主角，聚焦洛丹伦王子阿尔萨斯、海军上将戴林之女吉安娜与被人类收养的霜狼氏族酋长遗孤萨尔三人刚刚开始的人生。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>守护巨龙虽然重获力量，但要等到他们完全恢复还需要很多年的时间，凡人种族称为了黑暗之门开启之后新世界的主角。洛丹伦的王子阿尔萨斯、海军上将戴林的女儿吉安娜、以及被人类收养的霜狼氏族酋长遗孤萨尔，未来将对艾泽拉斯世界产生重大影响的的三人，此时他们的人生才刚刚开始。</p>",
+   "participants": [
+    "Ryoma",
+    "萝萝又卜卜",
+    "Nadya"
+   ],
    "media_id": "22861",
    "timelines": [
     {
@@ -20682,6 +20942,10 @@
    "image": "https://image.gcores.com/c39f1cf352f480d4c82cd29ccb2bc7ab-1600-900.jpg",
    "summary": "机核节目从七万多年前伊述文明遭遇的大灾变讲起，梳理《刺客信条》第一文明如何影响戴斯蒙牺牲后的世界，探讨这条失落故事线的现代转生。",
    "content_html": "<p>本期时间轴制作：天行 </p>\n<p>早在七万多年前的过去，名为「伊述」的文明遇到了他们难以解决的灾难。文明最顶尖的精英想出了各种方案，却一一失败......</p>\n<p>本期节目，我们将从上古时代的大灾变讲起，看看这些过去的文明怎么影响到 Desmond 牺牲之后的世界。</p>\n<p><a href=\"https://www.gcores.com/radios/217785\">失落的故事线（上）：《刺客信条》本该只有三部</a></p>",
+   "participants": [
+    "说书人Jerry",
+    "困鼠"
+   ],
    "media_id": "22849",
    "timelines": [
     {
@@ -21100,7 +21364,12 @@
    "page_url": "https://www.gcores.com/radios/219595",
    "image": "https://image.gcores.com/ac19c5884a53caae835da8553fee2569-1600-900.png",
    "summary": "核周报9.19汇总：暴雪嘉年华公布《星际争霸》《暗黑破坏神5》《魔兽争霸3：重制版》单人战役及《魔兽世界 无限》等消息；东京电玩展2026开幕，小岛秀夫官宣《PHYSINT》，网飞与世嘉合作推出三部影视作品。",
-   "content_html": "<p>本期时间轴制作：西楼</p>\n<p>本期要闻：暴雪嘉年华开幕BlizzCon 2026公布《星际争霸》、《暗黑破坏神 5》、《魔兽争霸 3：重制版》单人战役「被遗忘的王国」以及《魔兽世界 无限》等多个重磅消息；东京电玩展2026 开幕；小岛秀夫亲自官宣 Bill Skarsgård 主演《PHYSINT》；网飞与世嘉达成合作，推出三部影视作品等。</p>\n<p><a href=\"https://teamninja-studio.com/wolong2/tch/?utm_source=gamecore&amp;utm_medium=display&amp;utm_campaign=demo\">《卧龙2 凤火连天》</a>将于2027年3月4日发售，α体验正在进行中！ \n PS5 / Steam / XBOX 平台预购现已开启，欢迎玩家购买！<a href=\"https://teamninja-studio.com/wolong2/tch/?utm_source=gamecore&amp;utm_medium=display&amp;utm_campaign=demo\">点击跳转游戏官网</a></p>",
+   "content_html": "<p>本期时间轴制作：西楼</p>\n<p>本期要闻：暴雪嘉年华开幕BlizzCon 2026公布《星际争霸》、《暗黑破坏神 5》、《魔兽争霸 3：重制版》单人战役「被遗忘的王国」以及《魔兽世界 无限》等多个重磅消息；东京电玩展2026 开幕；小岛秀夫亲自官宣 Bill Skarsgård 主演《PHYSINT》；网飞与世嘉达成合作，推出三部影视作品等。</p>\n<p><a href=\"https://teamninja-studio.com/wolong2/tch/?utm_source=gamecore&amp;utm_medium=display&amp;utm_campaign=demo\">《卧龙2 凤火连天》</a>将于2027年3月4日发售，α体验正在进行中！ <br/> PS5 / Steam / XBOX 平台预购现已开启，欢迎玩家购买！<a href=\"https://teamninja-studio.com/wolong2/tch/?utm_source=gamecore&amp;utm_medium=display&amp;utm_campaign=demo\">点击跳转游戏官网</a></p>",
+   "participants": [
+    "Ryoma",
+    "萝萝又卜卜",
+    "Nadya"
+   ],
    "media_id": "22853",
    "timelines": [
     {
@@ -21715,7 +21984,12 @@
    "page_url": "https://www.gcores.com/radios/219915",
    "image": "https://image.gcores.com/6ba51e6dfb4fe7ed89b70ab590dd0860-1600-900.jpg",
    "summary": "机核播客“核电波”邀请飞智科技联合创始人兼产品总监黄炜，与主播Nadya、西蒙、Ryoma探讨游戏手柄行业竞争加剧的现状，聊手柄厂商不为人知的秘密与产品设计思路。",
-   "content_html": "<p>欢迎回到“核电波”！今天我们邀请到了飞智科技联合创始人黄炜，跟他聊聊现在越来越卷的游戏手柄究竟有没有意义？ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】  </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma \n本期嘉宾：飞智科技联合创始人&amp;产品总监 黄炜 </p>",
+   "content_html": "<p>欢迎回到“核电波”！今天我们邀请到了飞智科技联合创始人黄炜，跟他聊聊现在越来越卷的游戏手柄究竟有没有意义？ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】  </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma <br/>本期嘉宾：飞智科技联合创始人&amp;产品总监 黄炜 </p>",
+   "participants": [
+    "Nadya",
+    "Ryoma",
+    "西蒙"
+   ],
    "media_id": "22854",
    "timelines": [],
    "length": 64885356,
@@ -21735,6 +22009,14 @@
    "image": "https://image.gcores.com/b54098c362a9069a00f1a58b7031d940-1600-900.jpg",
    "summary": "本期游戏茶话会聊“Friendslop”这一由friend与slop组合、指画面糙价格低但适合朋友同乐的联机游戏类型，谈及《PEAK》《大步走》《Boombanana》等作品的联机快乐与痛苦，以及联机游戏复兴对i人的社交焦虑。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>Friendslop这个词诞生于一年前，friend（朋友）+slop（泔水、粗制滥造的廉价内容），专指那些画面糙、价格低、但就是和朋友一起玩特别乐的联机游戏。听起来像骂人，但它恰恰描述了当下增长最快的游戏类型。从《PEAK》《大步走》再到俗称三猴拆炸弹的《Boombanana》， 联机有哪些快乐和痛苦？联机游戏复兴对i人来说是社交焦虑吗？你的游戏GameBTI又是什么？如果想看我们联机《大步走》和《Mimic Party》的游戏实况，欢迎关注b站账号“<a href=\"https://space.bilibili.com/3707047392577882?spm_id_from=333.788.upinfo.head.click\">玩的核Wondercores</a>”！</p>\n<p>相关链接：</p>\n<p><a href=\"https://www.bilibili.com/video/BV1gVtJ6VE1E/\">老鼠失踪悬案？！Big Walk联机实况</a></p>\n<p><a href=\"https://www.bilibili.com/video/BV1RCYD6DEp1/\">这是人类能发出的声音吗？Mimic Party爆笑音效模仿游戏</a></p>\n<p><a href=\"https://www.bilibili.com/video/BV1yStR6vEbN/\">两个睿智闯宇宙【轨道双子星 游戏实况】双人同屏NS2游戏</a></p>\n<p><a href=\"https://www.gcores.com/radios/219646\">这些音效竟然是人发出的声音？！对话 BigWalk 音效技术制作人 再荐茶社sp 05</a></p>",
+   "participants": [
+    "困鼠",
+    "annann",
+    "陶陶陶陶",
+    "bazingga二七",
+    "NoSleepLee",
+    "玩的核WonderCores"
+   ],
    "media_id": "22837",
    "timelines": [
     {
@@ -22140,6 +22422,11 @@
    "image": "https://image.gcores.com/7133cd6d2333b8055a5fc4109cb2ff02-1600-900.jpg",
    "summary": "Jerry 和柏亚舟再次前往德国科隆游戏展，分享在媒体区感受到的变化、这个全球最大游戏展的独特之处，以及德国铁路给行程带来的变数。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>今年再次出行德国科隆游戏展，Jerry 和 柏亚舟 都有了些新的体会。在科隆展的媒体区，他们都感受到了怎样的变化？在这个全球最大的游戏展上，又有哪些特立独行的部分？</p>\n<p>德国的铁路，又给这次出行带来了怎样的变数？</p>",
+   "participants": [
+    "雪豆",
+    "说书人Jerry",
+    "柏亚舟"
+   ],
    "media_id": "22839",
    "timelines": [
     {
@@ -22881,6 +23168,11 @@
    "image": "https://image.gcores.com/d1dc319603c04dffab1898921ce3ef9c-1600-900.jpg",
    "summary": "机核与8082创始人李佳骐聊GGG游戏节奏联欢夜：从当年憧憬VGL等游戏音乐会，谈到国产游戏与游戏音乐的变化，以及为何此时决定自己办一场，并介绍音乐会阵容、游戏IP和相关安排。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>游戏玩了这么多年，有些音乐一响，还是会让人特别激动。以前羡慕那些能把游戏音乐搬上舞台的人，现在，我们也想自己办一场！</p>\n<p>这期，我和8082创始人老李，从当年对游戏音乐会的憧憬聊起，聊VGL，聊国产游戏这些年的变化，也聊聊为什么在这个时候，我们想做GGG游戏节奏联欢夜。当喜欢的游戏和音乐逐渐积累起来，曾经向往的事情，也有了认真去实现的可能。</p>\n<p>当然，还会和大家分享这次音乐会的阵容、游戏IP和相关安排。这是一期音乐会的安利，也是一群玩家想跟大家分享的兴奋心情。</p>\n<p><a href=\"https://site.gcores.com/ggg/\">GGG游戏节奏联欢夜 官方网站</a></p>",
+   "participants": [
+    "西蒙",
+    "火色赤道",
+    "佟心竹"
+   ],
    "media_id": "22792",
    "timelines": [
     {
@@ -23160,6 +23452,12 @@
    "image": "https://image.gcores.com/9fa363994c25f1155d8afa61b23c2876-1600-900.jpg",
    "summary": "机核会员GPASS推出新一季「GPASS回归游戏季」，所有选题围绕游戏展开，并筹划录制多档全新系列播客。节目介绍了选题、嘉宾沟通与录制方式，并预告《游戏帝国》《玩家说法》等节目的内容方向。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>首先感谢各位朋友支持机核会员GPASS！新一季节目「GPASS回归游戏季」筹划录制了全新的几档系列播客节目，并且所有选题都会围绕游戏展开。这些节目是如何选题、怎样与嘉宾沟通以及如何录制的，新一季的《游戏帝国》《玩家说法》等等节目又会讲些什么？今天我们想和您提前聊聊！</p>\n<p>更多关于GPASS「回归游戏季」的详细内容，请前往GPASS全新网站：<a href=\"https://site.gcores.com/gpass/\">https://site.gcores.com/gpass/</a></p>",
+   "participants": [
+    "annann",
+    "西蒙",
+    "说书人Jerry",
+    "白广大"
+   ],
    "media_id": "22820",
    "timelines": [
     {
@@ -23537,6 +23835,12 @@
    "image": "https://image.gcores.com/7a0d96df9a4d215e5b660d8a8846726c-1600-900.png",
    "summary": "核周报9.12汇总本周要闻：塞尔达40周年直面会官宣《时之笛 重制版》11月5日发售，任天堂9月直面会公布《密特罗德 绝境嗜生》《星之卡比 跃然世界》等；跨平台成就站出现未发售游戏数据；PlayStation Studios终止与小岛工作室《PHYSINT》合作，改由Xbox发行；DLSS 5发布。",
    "content_html": "<p>本期时间轴制作： 佟和</p>\n<p>本期要闻：塞尔达 40 周年直面会官宣《塞尔达传说 时之笛 重制版》11月5日发售；任天堂9月直面会《密特罗德 绝境嗜生》、《星之卡比 跃然世界》等游戏公布；跨平台成就追踪站突然出现大量尚未发售游戏的成就数据；PlayStation Studios 终止与小岛工作室在《PHYSINT》项目上的合作，改由 Xbox 负责发行；DLSS 5 正式发布：3D 引导神经渲染登陆《NBA 2K27》等。</p>",
+   "participants": [
+    "Ryoma",
+    "Nadya",
+    "雪豆",
+    "萝萝又卜卜"
+   ],
    "media_id": "22796",
    "timelines": [
     {
@@ -24215,6 +24519,11 @@
    "image": "https://image.gcores.com/7db1a230b278196e6a900c17b6f60ea2-1600-900.jpg",
    "summary": "机核播客“核电波”本期由Nadya、西蒙、Ryoma聊那些令人期待却始终没有续作的游戏神作，节目为视频播客的音频版。",
    "content_html": "<p>欢迎回到“核电波”！今天我们聊聊特别想玩到哪些游戏的续作。 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】       </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma </p>",
+   "participants": [
+    "Ryoma",
+    "Nadya",
+    "西蒙"
+   ],
    "media_id": "22795",
    "timelines": [],
    "length": 46510199,
@@ -24234,6 +24543,12 @@
    "image": "https://image.gcores.com/62c61a4e42b30ccab33b95bb9dc917c9-1600-900.jpg",
    "summary": "本期节目聊生活中那些“巧了”的低概率事件，并推荐近期书影游作品，包括《世纪辐射》《最多三十天》《他们涉海而来》《足球教练》《翠鸟谋杀案》等。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>大家好！今天的话题是生活中那些“巧了”的低概率事件。同时也推荐了我们最近觉得不错的书影游作品，包括：《世纪辐射》《最多三十天》《他们涉海而来》《No Results Found》《Object Impermanence》《足球教练》《翠鸟谋杀案》等。</p>",
+   "participants": [
+    "annann",
+    "搞搞是凉爽的夏夜",
+    "困鼠",
+    "说书人Jerry"
+   ],
    "media_id": "22785",
    "timelines": [
     {
@@ -24569,6 +24884,10 @@
    "image": "https://image.gcores.com/d1c7a5b75d3c8ad81576b2ed63dea2ba-1600-900.jpg",
    "summary": "机核从经济角度分析GTA6发售前景：基础版80美元、豪华版100美元的定价叠加昂贵硬件，而80美元约合美国普通成年人一周食物开销，作者由此探讨家庭买不起游戏与主机时可能出现的变化。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>GTA6将于11月发售，这是历史上制作规模最大、制作周期最长的单机作品型游戏，也是让全世界玩家充满期待的一作。但笼罩在这部作品上的阴云，或许与游戏本体并无关系：基础版80美元，豪华版100美元的定价，加上高度昂贵的硬件/主机周期叠加，都让它的前景变得不确定。而80美元，是当前美国普通成年人的一周食物开销。那么，当一个家庭买不起GTA6与昂贵的主机时，事情和预期会发生怎样的变化？我们这一期从经济角度出发，来说说GTA6在发售前的一些判断与分析。</p>",
+   "participants": [
+    "白广大",
+    "肉肉引擎！"
+   ],
    "media_id": "22714",
    "timelines": [
     {
@@ -25114,6 +25433,10 @@
    "image": "https://image.gcores.com/2c7d3b1ace75fe9beb9195c5ec46eb42-1600-900.jpg",
    "summary": "机核电台邀请《33号远征队》《师父》发行商 Kepler Interactive 联合创始人 Richie，聊游戏发行中的“眼光”：个人品味与市场判断如何帮助有想法的作品被发现、被支持并最终与玩家见面。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>《33号远征队》《师父》……你可能玩过这些游戏，却未必熟悉它们背后的发行商 Kepler。这一期电台，我们请来了 Kepler Interactive 联合创始人 Richie，和我一起聊聊做游戏这件事里的“眼光”。</p>\n<p>当游戏越做越大，玩家却时常觉得它们越来越像，那些有自己想法的作品，究竟怎样才能被发现、被支持，最后来到我们面前？带着玩家的好奇，也带着参与游戏发行的切身体会，我们聊了聊个人品味、市场判断，以及一款好游戏从被看中到被玩到之间的那些事。</p>\n<p>Kepler 正在中国寻找优秀的游戏作品，如果你有兴趣合作可以给 Richie 发邮件：<a href=\"mailto:richie@kepler-interactive.com \">richie@kepler-interactive.com </a></p>",
+   "participants": [
+    "西蒙",
+    "Richiez"
+   ],
    "media_id": "22651",
    "timelines": [
     {
@@ -25442,6 +25765,10 @@
    "image": "https://image.gcores.com/360ad497bb5f6dee6af4e5756a621194-1600-900.jpg",
    "summary": "西蒙和萝卜在游戏茶话会中尝试新形式：本周互相安利游戏、下周交流结果，西亿欧被称作新的游戏安利灵魂导师，节目或改名为《安利之王》。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>西蒙和萝卜录制的新的游戏茶话会中，冒出了新点子，这种本周互相安利下周交流结果的方式似乎聊得很爽！尝试尝试新的节目形式</p>",
+   "participants": [
+    "萝萝又卜卜",
+    "西蒙"
+   ],
    "media_id": "22741",
    "timelines": [
     {
@@ -25966,6 +26293,11 @@
    "image": "https://image.gcores.com/33718774b045fb7e5ddf81f0c1c91fd0-1600-900.jpg",
    "summary": "本期节目以“浣熊市文旅”的视角，还原《生化危机》中这座著名虚构城市在毁灭之前的模样，探讨它为何长期只是灾难背景，以及人们对它的具体印象。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>浣熊市，作为电子游戏历史上最负盛名的虚构城市之一，即使是对从来没有玩过生化危机系列的玩家来说也耳熟能详。更兼生化IP下多媒介扩展内容极其丰富，使得即便是对很少接触电子游戏的人来说，这个名字也很可能并不陌生。但盛名之下有趣的是，在如此众多的作品中出现的这座小城，却一直只是“毁灭”与“灾难”的背景。人们对浣熊市本身，除了那间著名而奇特的警局，并无太多具体的认识和印象。本期节目中，就让我们化身“浣熊市文旅”，一起来还原一下这个小镇毁灭之前的模样。</p>",
+   "participants": [
+    "Ryoma",
+    "xzzzzb",
+    "Nadya"
+   ],
    "media_id": "22669",
    "timelines": [
     {
@@ -26497,6 +26829,11 @@
    "image": "https://image.gcores.com/a1cd7fe5e4e03498bf05bc6db1179fcc-1600-900.png",
    "summary": "本期核周报9.5汇总本周游戏要闻：索尼双场State of Play公布《最终幻想7 启示录》等消息，Valve遭遇史上最大规模游戏泄露，GTA 6在Netflix首播4天获3110万观看，Steam单周上架720款新游戏创纪录，中国游戏获科隆展两项大奖。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>本周要闻：《最终幻想7 启示录》领衔索尼双场 State of Play公布众多游戏消息；Valve 遭遇史上最大规模游戏泄露；GTA 6 Netflix 首播 4 天狂揽 3110 万观看；Steam 单周上架 720 款新游戏创历史纪录；中国游戏斩获科隆展两项大奖，《燕云十六声》全球玩家破亿；光线传媒确认首款 3A 游戏制作中等。</p>",
+   "participants": [
+    "Ryoma",
+    "雪豆",
+    "Nadya"
+   ],
    "media_id": "22723",
    "timelines": [
     {
@@ -26999,7 +27336,11 @@
    "page_url": "https://www.gcores.com/radios/219273",
    "image": "https://image.gcores.com/36c7b32995f5e6d7887ca347f71f43d0-1600-900.jpg",
    "summary": "机核播客“核电波”邀请《达巴：水痕之地》美术总监冯迅与制作人张昊，从玩法、文化背景到开发趣闻展开对谈，嘉宾表示不期望全网好评，只希望给玩家留下印象。",
-   "content_html": "<p>欢迎回到“核电波”！今天我们邀请到了《达巴：水痕之地》的美术总监和制作人，从玩法到文化背景再到开发趣闻，和他们一起聊聊这款游戏。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】    </p>\n<p>本期主播：Nadya / Ryoma \n本期嘉宾：暗星科技CEO，《达巴：水痕之地》美术总监 ：冯迅 / 《达巴：水痕之地》制作人 ：张昊 </p>",
+   "content_html": "<p>欢迎回到“核电波”！今天我们邀请到了《达巴：水痕之地》的美术总监和制作人，从玩法到文化背景再到开发趣闻，和他们一起聊聊这款游戏。本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】    </p>\n<p>本期主播：Nadya / Ryoma <br/>本期嘉宾：暗星科技CEO，《达巴：水痕之地》美术总监 ：冯迅 / 《达巴：水痕之地》制作人 ：张昊 </p>",
+   "participants": [
+    "Nadya",
+    "Ryoma"
+   ],
    "media_id": "22713",
    "timelines": [],
    "length": 66534205,
@@ -27019,6 +27360,10 @@
    "image": "https://image.gcores.com/8c5bd0736b9741a2f12bab936ee864b2-1600-900.jpg",
    "summary": "卡普空经典IP《鬼武者》系列新作《鬼武者：剑之道》发售，编辑龙马与雪豆在游戏茶话会Vol.131中分享提前试玩体验，围绕这款时隔二十年的新作是否好玩展开讨论。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>“动作天尊”卡普空开发的经典IP《鬼武者》系列最新作《鬼武者：剑之道》在今天发售了。龙马和雪豆两位编辑在提前玩过了本作之后，似乎各有想法，想通过这期“游戏茶话会”来好好地碰上一碰。本作究竟是好玩还是一般？听过电台之后，相信大家自有定论。</p>",
+   "participants": [
+    "雪豆",
+    "Ryoma"
+   ],
    "media_id": "22693",
    "timelines": [
     {
@@ -27424,6 +27769,10 @@
    "image": "https://image.gcores.com/7fc14a2e51aa6722a457f18f048507ea-1600-900.jpg",
    "summary": "机核节目围绕《Signalis》的故事展开，以“我还是我，你却不再是你”为引，探讨作品中的身份与地狱意象，并引用“地球的毛孔本应足够，却被秘密地挖开了许多大洞”等文本。",
    "content_html": "<p>本期时间轴制作： 天行</p>\n<p>“地球的毛孔本应足够，却被秘密地挖开了许多大洞；而本应爬行的生物学会了行走。”</p>",
+   "participants": [
+    "萝萝又卜卜",
+    "肉肉引擎！"
+   ],
    "media_id": "22650",
    "timelines": [
     {
@@ -28417,6 +28766,12 @@
    "image": "https://image.gcores.com/c172a8843febde3a78ac3fa82c2cfbf5-1600-900.png",
    "summary": "核周报8.29汇总本周要闻：《巫师3》免费重制、《FF7：启示》等亮相科隆开幕夜直播，《GTA 6》26分钟“An Extended Look”首播；科隆展主题涉及行业寒冬，2026年游戏业裁员预测上调至14666人，任天堂因关税退款留存被诉。",
    "content_html": "<p>本期时间轴制作： 佟和</p>\n<p>本期要闻：《巫师3》免费重制、《FF7：启示》领衔数十款作品科隆开幕夜直播；《GTA 6》26分钟&quot;An Extended Look&quot;正式首播，Netflix 独家6小时；“行业寒冬中的聚会”成为科隆游戏展主题之一，2026年游戏业裁员统计再度上调：全年预测14666人；美国最高法院裁定关税违法后，任天堂3亿美元退款留存被诉等。</p>",
+   "participants": [
+    "Ryoma",
+    "Nadya",
+    "萝萝又卜卜",
+    "白广大"
+   ],
    "media_id": "22649",
    "timelines": [
     {
@@ -29242,6 +29597,11 @@
    "image": "https://image.gcores.com/54c38a8b3156793ecfdd335ff0230e47-1600-900.jpg",
    "summary": "核市奇谭Vol.124闲聊话题：什么样的场景最能吓到人。节目从“四周无人却感觉被注视”“熟悉的家中午夜醒来却陌生”等体验切入，并分享近期阅读推荐。",
    "content_html": "<p>本期时间轴制作： 老斧子</p>\n<p>你有没有过这样的瞬间：明明四周空无一人，却感觉暗处有双眼睛在盯着你；明明是自己最熟悉的家，某个午夜醒来却觉得无比陌生。觉得害怕的场景每个人各有不同，什么是你觉得最恐怖的场景呢？今天的闲聊话题我们就想聊聊这个！最后也会分享一些近期的阅读推荐。</p>",
+   "participants": [
+    "annann",
+    "困鼠",
+    "搞搞是凉爽的夏夜"
+   ],
    "media_id": "22640",
    "timelines": [
     {
@@ -29612,6 +29972,11 @@
    "image": "https://image.gcores.com/25e86c30d08b5afe130b0cfad9a37a74-1600-900.jpg",
    "summary": "机核中元节特别节目，分享听众投稿的恐怖故事，本期时间轴由猪猪米制作，提醒听众别在睡前收听。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>又到中元节，分享一些听众投稿的恐怖故事，别在睡前听！</p>\n<p><a href=\"https://www.bilibili.com/video/BV1sK8d6rEXG/?spm_id_from=333.337.search-card.all.click\">墓碑前的扭曲白影，酒店里的错乱语音，讲几个鬼故事</a></p>",
+   "participants": [
+    "西蒙",
+    "Nadya",
+    "Ryoma"
+   ],
    "media_id": "22617",
    "timelines": [
     {
@@ -29975,6 +30340,11 @@
    "image": "https://image.gcores.com/cc703a16a71455c87c1aafbf20a8c005-1600-900.jpg",
    "summary": "PlayStation 宣布自2028年1月起新游戏不再生产实体光盘，8月23日将有“PSBlackout”抵制活动。本期节目在活动前聊聊与“取缔光盘”相关的各类人，并探讨主机玩家为何难以抵制主机。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>7 月 1 日，PlayStation 官方公告：从 2028 年 1 月起，所有新发售的 PlayStation 游戏，都将不再生产实体光盘。而在 8 月 23 号，一场名为“PSBlackout”的抵制活动即将上演。</p>\n<p>本期节目，我们就在一切开始之前，聊聊和“取缔光盘”相关的各种人。为什么主机玩家很难抵制主机？</p>",
+   "participants": [
+    "说书人Jerry",
+    "annann",
+    "西蒙"
+   ],
    "media_id": "22576",
    "timelines": [
     {
@@ -30408,6 +30778,11 @@
    "image": "https://image.gcores.com/65f7a82fbbc383b455114cb271722207-1600-900.jpg",
    "summary": "机核“核电波”播客中，Nadya、西蒙、Ryoma 以个人观点从夯到拉锐评1至8月玩过的单机游戏，本期为视频播客的音频版。",
    "content_html": "<p>欢迎回到“核电波”！今天我们尝试从夯到拉“锐评”1-8月玩过的单机游戏，仅个人观点！ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】   </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma </p>",
+   "participants": [
+    "Ryoma",
+    "西蒙",
+    "Nadya"
+   ],
    "media_id": "22580",
    "timelines": [],
    "length": 78805487,
@@ -30427,6 +30802,12 @@
    "image": "https://image.gcores.com/10e5455e1c15c155b09934137fb0efb2-1600-900.png",
    "summary": "核周报8.22汇总本周游戏要闻：《黑神话：钟馗》公布15分钟实机演示，《影之刃零》索尼专场SOP详解玩法与故事，《湮灭之潮》发布最新实机演示，《昭和米国物语》揭晓科隆试玩详情，另含《GTA6》泄露、科隆展数据及《王国之心4》发售信息。",
    "content_html": "<p>本期时间轴制作： 西楼</p>\n<p>本周要闻：《黑神话：钟馗》公布15分钟实机演示；《影之刃零》索尼专场SOP详解玩法及故事；《湮灭之潮》公布最新实机演示；《昭和米国物语》揭晓科隆游戏展试玩详情；《GTA6》实机视频再遭黑客泄露；科隆游戏展公布2026年参展数据；2K Games成立全新体育游戏工作室Small Axe Studio；迪士尼D23 2026大会上公布《王国之心4》将于2027年末发售等。</p>",
+   "participants": [
+    "Ryoma",
+    "Nadya",
+    "雪豆",
+    "萝萝又卜卜"
+   ],
    "media_id": "22581",
    "timelines": [
     {
@@ -31056,6 +31437,13 @@
    "image": "https://image.gcores.com/bd4587389ab1d5073dffd91149068d7e-1600-900.jpg",
    "summary": "机核播客“机洞”第33期，主播们聊骨折后接骨不正需掰断重接的经历、在电子游戏中体验现实中难以经历的事，以及给母亲玩《动森》后她真的投入其中，还有母亲与广场舞伙伴互相攀比的故事。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>本期聊到的话题：</p>\n<ol>\n<li>骨折之后接骨头没接准还得掰断了重新接……</li>\n<li>在电子游戏里体验人生里体验不到的事。</li>\n<li>给我的母亲玩动森，她真的玩进去了。</li>\n<li>关于我妈这个嫉妒魔女和她的广场舞老年集美们互相攀比的故事。</li>\n</ol>\n<p>本节目“机洞”取自“机核树洞”之意，你的一切生活中的烦恼，从情感工作到打电动打不过去全都可以投稿给“萝萝又卜卜”，我们会找办公室里有阅历的同事来一起阅读你的烦恼，讨论一下相关的话题，但想靠我们解决烦恼可能解决不了一点儿。 投稿方式可以是给萝卜发站内私信，也可以把你的投稿发送到萝卜的邮箱Carrotofrivia@gcores.com      </p>",
+   "participants": [
+    "萝萝又卜卜",
+    "困鼠",
+    "搞搞是凉爽的夏夜",
+    "肉肉引擎！",
+    "Akihabar"
+   ],
    "media_id": "22554",
    "timelines": [
     {
@@ -31566,6 +31954,10 @@
    "image": "https://image.gcores.com/a7a78d78ad2f41d372c4ce99b1a07ee6-1600-900.jpg",
    "summary": "本期游戏茶话会由西蒙与萝卜聊“封闭空间工作模拟”题材：西蒙试玩《纵横秘湾》《铁巢重炮》后分享体验，并延伸讨论《目标深度》《严阵以待》《猎杀潜航》及老《幽灵行动》，后半段还谈到《大走》和《巫火》。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>本期茶话会由西蒙与萝卜二人录制，起因是西蒙最近在百忙之中终于有空打打游戏了，萝卜给他安利了《纵横秘湾》和《铁巢重炮》，西蒙玩完之后前来分享自己的游玩体验，也以“工作模拟”这一题材衍生出许多想法，聊到了《目标深度》，《严阵以待》，《猎杀潜航》，还有老《幽灵行动》。</p>\n<p>在后半段，也聊了聊《大走》和《巫火》。</p>",
+   "participants": [
+    "萝萝又卜卜",
+    "西蒙"
+   ],
    "media_id": "22543",
    "timelines": [
     {
@@ -31964,6 +32356,10 @@
    "image": "https://image.gcores.com/2f4a4ff09afbc67d5b3c5ad04ddbdcf9-1600-900.jpg",
    "summary": "机核作者根据《黑神话：钟馗》最新演示PV展开猜想，讨论钟馗冒险前的身份、大蚌真君与老鬼等角色，以及他所用的剑与符，并称演示观感强而有力。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>强而有力，简称强力，这是我们看完《黑神话：钟馗》最新演示PV之后的一致想法。那么在这段演示之中，钟馗的身份到底是怎么样的？他在开始冒险之前是一个什么样的人？演示之中的大蚌真君以及老鬼又是什么人？钟馗使用的剑是什么剑？符又是什么符？二班赵夏抓住老白进行了一个光速的猜想，多有疏漏，权当为各位解馋。</p>",
+   "participants": [
+    "白广大",
+    "西蒙"
+   ],
    "media_id": "22562",
    "timelines": [
     {
@@ -32334,6 +32730,13 @@
    "image": "https://image.gcores.com/e1f2f1829e0b451b3a9f7d1ea4d042b1-1600-900.jpg",
    "summary": "《我将为你摘下星辰》完结后，几位玩家代听众向DM猫牧师提问，从背景设定到带团心得回顾故事来龙去脉；节目还预告机核会员跑团新篇章《机核探灵实录》即将上线。",
    "content_html": "<p>本期时间轴制作：Tcho_tcho</p>\n<p>《我将为你摘下星辰》的大冒险已经堂堂完结！几位前任巫王的代行者们也再度跨越时空汇聚一堂。虽然云雾散去，但星空之下依然满是疑问。</p>\n<p>今天，几位玩家也代听众们向 DM 猫牧师提出了一些问题。从背景设定到带团心得，相信听完本期节目，大家会对故事的来龙去脉有更深的了解。</p>\n<p>最后，机核会员跑团新篇章——<a href=\"https://www.gcores.com/albums/294\">《机核探灵实录》</a>即将上线，敬请期待！</p>\n<p><a href=\"https://www.gcores.com/albums/294\">机核跑团丨探灵实录：机核拯救者</a></p>",
+   "participants": [
+    "蛙子蛙子蛙",
+    "困鼠",
+    "说书人Jerry",
+    "萝萝又卜卜",
+    "猫牧师"
+   ],
    "media_id": "22534",
    "timelines": [
     {
@@ -32669,6 +33072,10 @@
    "image": "https://image.gcores.com/af1a117ace114523d870e1742fa98f36-1600-900.jpg",
    "summary": "借《抵抗者》实机演示与试玩，节目围绕东北抗联在雪原作战时使用的轻武器展开，梳理当年东北平原上抗联广泛使用的枪械种类、来源，以及收集、缴获、修理和制造轻兵器的相关故事。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>前一段时间，《抵抗者》放出了实机演示与线下试玩，内容主题是东北抗联在雪原中与日本侵略军的鏖战。这恰好进入了最近正在研读抗联史的老白头的舒适区：在当年的东北平原上，有哪些武器是被抗联广泛使用的？它们的来源都是哪里？收集、缴获、修理、制造轻兵器，都有哪些故事值得挖掘？请听本期节目</p>",
+   "participants": [
+    "白广大",
+    "萝萝又卜卜"
+   ],
    "media_id": "22514",
    "timelines": [
     {
@@ -33137,6 +33544,12 @@
    "image": "https://image.gcores.com/3143665156ac14de3a8d305552e7ff3b-1600-900.png",
    "summary": "核周报8.15汇总本周游戏要闻：《影之刃零》公布11分钟新实机并开启预购，《战锤40K：战争黎明4》延期至12月3日，SQUARE ENIX公布最新财报，索尼推出《漫威金刚狼》限定版主机及手柄，另有《黑神话：悟空》七折、《空之轨迹 the 2nd》预告等消息。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>本期要闻：《影之刃零》公布11分钟新实机并开启预购；《战锤40K：战争黎明4》延期至12月3日发售；SQUARE ENIX公布最新财报；索尼宣布《漫威金刚狼》限定版主机及手柄；《黑神话：悟空》现已开启七折优惠；《空之轨迹 the 2nd》公布最新预告片；《绝地潜兵2》X《战锤40k》联动已于8月12日实装；《魔兽世界》12.1正式上线等。</p>",
+   "participants": [
+    "Ryoma",
+    "萝萝又卜卜",
+    "Nadya",
+    "雪豆"
+   ],
    "media_id": "22505",
    "timelines": [
     {
@@ -33667,7 +34080,12 @@
    "page_url": "https://www.gcores.com/radios/218365",
    "image": "https://image.gcores.com/1f439f7b63719ce7ad78f2f54ce55f1c-1600-900.jpg",
    "summary": "机核视频播客“核电波”邀请某幻君，与Nadya、西蒙、Ryoma聊他关于游戏的快乐回忆，以及如何从偷偷玩电脑到成为百大UP主。本期为节目音频版。",
-   "content_html": "<p>欢迎回到“核电波”！今天邀请到了某幻，和他聊聊关于游戏的快乐回忆！ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】  </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma \n本期嘉宾：某幻君 </p>",
+   "content_html": "<p>欢迎回到“核电波”！今天邀请到了某幻，和他聊聊关于游戏的快乐回忆！ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】  </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma <br/>本期嘉宾：某幻君 </p>",
+   "participants": [
+    "Ryoma",
+    "Nadya",
+    "西蒙"
+   ],
    "media_id": "22499",
    "timelines": [],
    "length": 52245017,
@@ -33687,6 +34105,12 @@
    "image": "https://image.gcores.com/d73bce776bef8d4a0d9b803e1259522b-1600-900.jpg",
    "summary": "本期节目围绕成年人日均屏幕使用7.2小时这一现象，聊日常刷手机都在看什么，并推荐几位主播喜欢的博主和网络内容创作者，分享各自的手机使用方式。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>2025年的调查显示，成年人日均屏幕使用时间已达7.2小时，全年有长达109天的清醒时间在注视屏幕。但是我们天天刷手机都在看什么？本期我们会推荐一些我们喜欢的博主/网络内容创作者，以及分享一下自己是怎么使用手机的。(最后七分钟是录后聊天彩蛋)</p>",
+   "participants": [
+    "annann",
+    "困鼠",
+    "搞搞是凉爽的夏夜",
+    "说书人Jerry"
+   ],
    "media_id": "22498",
    "timelines": [
     {
@@ -34176,6 +34600,11 @@
    "image": "https://image.gcores.com/2d34a35ce4e5ed2ea369da5cd3d5317e-1600-900.jpg",
    "summary": "机核作者记录本届China Joy期间与尼基塔、箭头工作室及夏思源线下交流的经历，分享其中有趣、感动与恼火的见闻，并感慨中国玩家的热情与对游戏的热爱。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>是谁在中国爱上了沙琪玛；是谁在东方明珠上纵情高呼；又是谁在酒店里缄口不言？</p>\n<p>本届China joy期间，我们几个肩负重任，分别与尼基塔、箭头工作室，以及夏思源来了一次面对面的线下交流。这期间有不少有趣的、感动的、恼火的事情发生。</p>\n<p>未来某天，一个俄罗斯人可能会把沙琪玛的香甜带进游戏，一群瑞典人在消极怠工时会记起中国玩家的高呼，一个失意之人会想起自己在屏幕前细究的每一个动作。</p>\n<p>总之，游戏真好，中国玩家真热情，要多玩游戏！</p>",
+   "participants": [
+    "肉肉引擎！",
+    "Akihabar",
+    "萝萝又卜卜"
+   ],
    "media_id": "22447",
    "timelines": [
     {
@@ -34636,7 +35065,11 @@
    "page_url": "https://www.gcores.com/radios/218208",
    "image": "https://image.gcores.com/98ba6d3afd383de2f8696e0003c78364-1600-900.jpg",
    "summary": "机核播客“核电波”对话《穿越火线：潜伏》首席创意官Taylor，聊这款CF世界观下的第三人称潜行射击3A单机新作究竟是什么样的游戏，节目为视频播客音频版。",
-   "content_html": "<p>欢迎回到“核电波”！今年6月《穿越火线：潜伏》首爆，面对这款CF世界观下的第三人称潜行射击大作，我们和很多玩家一样第一反应是“啊”？上周我们找到了游戏的首席创意官 Taylor，想和他聊聊这到底是一款什么样的游戏？本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】           </p>\n<p>本期主播：Nadya / Ryoma \n本期嘉宾：智能路障 /《穿越火线：潜伏》首席创意官 Taylor </p>",
+   "content_html": "<p>欢迎回到“核电波”！今年6月《穿越火线：潜伏》首爆，面对这款CF世界观下的第三人称潜行射击大作，我们和很多玩家一样第一反应是“啊”？上周我们找到了游戏的首席创意官 Taylor，想和他聊聊这到底是一款什么样的游戏？本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】           </p>\n<p>本期主播：Nadya / Ryoma <br/>本期嘉宾：智能路障 /《穿越火线：潜伏》首席创意官 Taylor </p>",
+   "participants": [
+    "Ryoma",
+    "Nadya"
+   ],
    "media_id": "22476",
    "timelines": [],
    "length": 64334068,
@@ -34656,6 +35089,10 @@
    "image": "https://image.gcores.com/5634577646433007bc9b86520289a98c-1600-900.jpg",
    "summary": "机核故事节目从《刺客信条》前几部现代剧情入手，探讨系列为何逐渐弱化现代线，并分析《黑旗：记忆重制》删除全部现代剧情一事，追问“《刺客信条》本该只有三部”的说法。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>作为一个重置作品，《刺客信条 黑旗：记忆重制》删除了原版游戏的全部现代剧情。这背后的一个现象是，这个系列其实一直在逐渐弱化现代线剧情的比重。但是对于这个系列而言，这实在是一个值得惋惜的事情，为什么我们说，《刺客信条》本该只有三部？</p>\n<p>本期故事节目我们将从《刺客信条》前几部的现代故事入手，聊聊老《刺客》现代剧情的精彩之处，也分析一下这个系列是怎么逐渐调整方向的。</p>",
+   "participants": [
+    "说书人Jerry",
+    "困鼠"
+   ],
    "media_id": "22455",
    "timelines": [
     {
@@ -35186,7 +35623,13 @@
    "page_url": "https://www.gcores.com/radios/217789",
    "image": "https://image.gcores.com/75b52129df28658b212815f99a43cce2-1600-900.png",
    "summary": "核周报8.8汇总本周要闻：《GTA6》新预告8月28日推出，《影之刃零》8月12日开启预售，《火焰之纹章 万缕千丝》举行直面会，《幻兽帕鲁》手游公布，EA完成550亿美元收购交易，索尼公布2026财年Q1财报等。",
-   "content_html": "<p>本期时间轴制作：西楼</p>\n<p>本期要闻：《GTA6》“分量十足的一瞥”预告将于8月28日推出；《影之刃零》8月12日开启预售；《火焰之纹章 万缕千丝》举行直面会；《幻兽帕鲁》新作手游《Palworld Online》正式公布；《控制：共振》公布中国独家预告片及专属服装；EA 正式完成 550 亿美元收购交易；索尼公布2026财年Q1财报等。</p>\n<p>「摊开玩」独立游戏市集，现已开票！8月15-16日，来畅玩70+款精品独立游戏吧~ \n购票链接：<a href=\"https://www.gcores.com/products/1400 \">https://www.gcores.com/products/1400 </a></p>",
+   "content_html": "<p>本期时间轴制作：西楼</p>\n<p>本期要闻：《GTA6》“分量十足的一瞥”预告将于8月28日推出；《影之刃零》8月12日开启预售；《火焰之纹章 万缕千丝》举行直面会；《幻兽帕鲁》新作手游《Palworld Online》正式公布；《控制：共振》公布中国独家预告片及专属服装；EA 正式完成 550 亿美元收购交易；索尼公布2026财年Q1财报等。</p>\n<p>「摊开玩」独立游戏市集，现已开票！8月15-16日，来畅玩70+款精品独立游戏吧~ <br/>购票链接：<a href=\"https://www.gcores.com/products/1400 \">https://www.gcores.com/products/1400 </a></p>",
+   "participants": [
+    "Ryoma",
+    "白广大",
+    "雪豆",
+    "Nadya"
+   ],
    "media_id": "22456",
    "timelines": [
     {
@@ -35669,6 +36112,13 @@
    "image": "https://image.gcores.com/132686f7988497a70a304c364b1ab1e0-1600-900.jpg",
    "summary": "机核树洞节目“机洞”第32期，由办公室同事阅读听众投稿的生活烦恼，本期话题包括打盐枪用法、摔骨折经历、是否该离开父母独立居住以及想录播客等，并说明投稿可发站内私信或邮箱。",
    "content_html": "<p>本期时间轴制作：雏雏</p>\n<p>可能聊到的话题： </p>\n<ol>\n<li>前情提要大合集</li>\n<li>广东老兵给你们北方新兵蛋子介绍一下上期提到的打盐枪的正确用法。</li>\n<li>蹦蹦跳跳上楼梯，滑了个跟头摔骨折。</li>\n<li>挺大岁数了是不是该离开父母自己住了？</li>\n<li>老师我也想录播客</li>\n</ol>\n<p>本节目“机洞”取自“机核树洞”之意，你的一切生活中的烦恼，从情感工作到打电动打不过去全都可以投稿给“萝萝又卜卜”，我们会找办公室里有阅历的同事来一起阅读你的烦恼，讨论一下相关的话题，但想靠我们解决烦恼可能解决不了一点儿。 投稿方式可以是给萝卜发站内私信，也可以把你的投稿发送到萝卜的邮箱Carrotofrivia@gcores.com     </p>",
+   "participants": [
+    "萝萝又卜卜",
+    "Akihabar",
+    "肉肉引擎！",
+    "雪豆",
+    "困鼠"
+   ],
    "media_id": "22437",
    "timelines": [
     {
@@ -36361,6 +36811,11 @@
    "image": "https://image.gcores.com/e0bee4847766df5218d00469f8ea603c-1600-900.jpg",
    "summary": "雪豆和老白在7月末参加ChinaJoy后，于游戏茶话会分享现场见闻，重点谈到试玩《沉星之序》《古神风里希》与《抵抗者》等新游戏的体验，以及看到的新项目。",
    "content_html": "<p>本期时间轴制作：猪猪米 </p>\n<p>7月末，雪豆和老白都去了ChinaJoy现场，玩到了许多有趣的新游戏，也看到了一些蓬勃发展的新项目。这次茶话会主要由两位出差搭子来共同说说，在ChinaJoy上的见闻与经历。</p>",
+   "participants": [
+    "白广大",
+    "雪豆",
+    "说书人Jerry"
+   ],
    "media_id": "22431",
    "timelines": [
     {
@@ -36982,7 +37437,11 @@
    "page_url": "https://www.gcores.com/radios/217991",
    "image": "https://image.gcores.com/0c12a541ad67331c448d8bc82fc97b4c-1600-900.jpg",
    "summary": "机核播客“核电波”邀请《虚环》开发组IP负责人老四与美术负责人老十，主播Nadya、Ryoma就这款游戏提出疑问和尖锐问题，回应外界对其能否真正做出来的关注。",
-   "content_html": "<p>欢迎回到“核电波”！今天我邀请到了《虚环》开发组的朋友，让他们帮我解答对于这款游戏的疑问，同时请他们回答一些尖锐的问题。 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】          </p>\n<p>本期主播：Nadya / Ryoma \n本期嘉宾：《虚环》IP负责人-老四 / 《虚环》美术负责人-老十 </p>",
+   "content_html": "<p>欢迎回到“核电波”！今天我邀请到了《虚环》开发组的朋友，让他们帮我解答对于这款游戏的疑问，同时请他们回答一些尖锐的问题。 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】          </p>\n<p>本期主播：Nadya / Ryoma <br/>本期嘉宾：《虚环》IP负责人-老四 / 《虚环》美术负责人-老十 </p>",
+   "participants": [
+    "Ryoma",
+    "Nadya"
+   ],
    "media_id": "22432",
    "timelines": [],
    "length": 61372827,
@@ -37002,6 +37461,11 @@
    "image": "https://image.gcores.com/cc7140a78eb546bccf735b6a64b4cd0a-1600-900.jpg",
    "summary": "Game Freak开发的2A级ARPG《轮回之兽》作为8月游戏阵容先锋引发热议。三位编辑在体验数十小时后，围绕这款非宝可梦作品的独特之处与遗憾展开讨论，并回顾Game Freak的过往。",
    "content_html": "<p>本期时间轴制作：佟和</p>\n<p>作为8月游戏阵容的先锋，由Game Freak开发的《轮回之兽》自公布之初便成为众多玩家热议的焦点。这款非“宝可梦”系列的2A级ARPG，究竟有哪些独特之处，又有哪些令人遗憾的地方？在体验了数十个小时之后，三位编辑凑到一起，聊了聊游戏本身，也顺带回顾了Game Freak的那些过往故事。</p>",
+   "participants": [
+    "雪豆",
+    "Ryoma",
+    "萝萝又卜卜"
+   ],
    "media_id": "22400",
    "timelines": [
     {
@@ -37463,6 +37927,13 @@
    "image": "https://image.gcores.com/2789cd7000100617343bbb02cc4748ec-1600-900.jpg",
    "summary": "本期节目大家从自身经历出发，聊各自为美食和馋嘴付出过哪些“代价”，以及从吃里能获得什么快乐、值不值得，并分享遭遇过的乐事。时间轴由天行制作。",
    "content_html": "<p>本期时间轴制作：天行</p>\n<p>本期节目，大家从自身经历出发，聊了各自都为美食、为馋嘴付出过哪些“代价”：从吃里能获得什么快乐？能获得多少？值不值得这样付出？请忽略这些问题，来听听大家都遭遇过哪些乐事！</p>",
+   "participants": [
+    "搞搞是凉爽的夏夜",
+    "说书人Jerry",
+    "困鼠",
+    "柏亚舟",
+    "雪豆"
+   ],
    "media_id": "22357",
    "timelines": [
     {
@@ -37930,7 +38401,12 @@
    "page_url": "https://www.gcores.com/radios/217527",
    "image": "https://image.gcores.com/000120f30a75cae84e2286a045e53e30-1600-900.png",
    "summary": "本期核周报介绍了《龙与地下城》与《魔兽世界》、《绝地遣兵2》与《战锤40k》的联动消息，以及505 Games携手原主创夏思源官宣《无常》续作计划，并提到暴造“摊开玩”独立游戏市集正在售票。",
-   "content_html": "<p>本期时间轴制作：佟和</p>\n<p>本周DND公布了和《魔兽世界》联动的新消息；《绝地遣兵2》公布了与《战锤40k》联动的新消息；505 games 携手原主创夏思源官宣《无常》续作计划…​</p>\n<p>*Booom 暴造“摊开玩”游戏市集正在火热售票中*​\n「摊开玩」独立游戏市集，现已开票！8月15-16日，来畅玩70+款精品独立游戏吧~ ​</p>\n<p>购票链接：<a href=\"https://www.gcores.com/articles/217359\">https://www.gcores.com/articles/217359</a></p>",
+   "content_html": "<p>本期时间轴制作：佟和</p>\n<p>本周DND公布了和《魔兽世界》联动的新消息；《绝地遣兵2》公布了与《战锤40k》联动的新消息；505 games 携手原主创夏思源官宣《无常》续作计划…​</p>\n<p>*Booom 暴造“摊开玩”游戏市集正在火热售票中*​<br/>「摊开玩」独立游戏市集，现已开票！8月15-16日，来畅玩70+款精品独立游戏吧~ ​</p>\n<p>购票链接：<a href=\"https://www.gcores.com/articles/217359\">https://www.gcores.com/articles/217359</a></p>",
+   "participants": [
+    "说书人Jerry",
+    "柏亚舟",
+    "搞搞是凉爽的夏夜"
+   ],
    "media_id": "22394",
    "timelines": [
     {
@@ -38293,7 +38769,12 @@
    "page_url": "https://www.gcores.com/radios/217825",
    "image": "https://image.gcores.com/01c3229e789baf5981f4c6dc3ee45eff-1600-900.jpg",
    "summary": "机核播客“核电波”邀请动作游戏《古神：风里希》制作人刘大锤，聊首曝后的玩家反馈，以及这款被称作“中式神仙打架”的游戏究竟是什么样的作品。",
-   "content_html": "<p>欢迎回到“核电波”！年初公开的动作游戏《古神: 风里希》让不少人感到好奇，今天我们请来了游戏的制作人刘大锤，跟他聊聊首曝后的玩家反馈，再聊聊这究竟是一款什么样的游戏。 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】         </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma \n本期嘉宾：《古神：风里希》制作人 盘古刘大锤 </p>",
+   "content_html": "<p>欢迎回到“核电波”！年初公开的动作游戏《古神: 风里希》让不少人感到好奇，今天我们请来了游戏的制作人刘大锤，跟他聊聊首曝后的玩家反馈，再聊聊这究竟是一款什么样的游戏。 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】         </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma <br/>本期嘉宾：《古神：风里希》制作人 盘古刘大锤 </p>",
+   "participants": [
+    "Nadya",
+    "Ryoma",
+    "西蒙"
+   ],
    "media_id": "22391",
    "timelines": [],
    "length": 66071106,
@@ -38313,6 +38794,12 @@
    "image": "https://image.gcores.com/cfe60ab904956470f51c1eaf4ecfc3ea-1600-900.jpg",
    "summary": "核市奇谭Vol.122探讨嗑CP这一全民娱乐现象，追问人们到底在嗑什么：真实存在的人、脑补的理想关系、情感代餐，还是集体脑补游戏，并分析为何明知可能是假仍投入真情实感。",
    "content_html": "<p>本期时间轴制作：老斧子</p>\n<p>嗑CP早就从小众爱好变成了一种全民皆知的新型娱乐，有人熬夜写同人文，有人花大钱买周边，但冷静下来想一想：我们到底在嗑什么？是一对真实存在的人？是我们脑补出来的某种理想关系？是情感上的代餐？还是一场大型的集体脑补游戏？为什么明明知道可能是假的还是忍不住投入真情实感呢？</p>",
+   "participants": [
+    "annann",
+    "搞搞是凉爽的夏夜",
+    "说书人Jerry",
+    "困鼠"
+   ],
    "media_id": "22386",
    "timelines": [
     {
@@ -38844,6 +39331,11 @@
    "image": "https://image.gcores.com/3f42bf99313d5953de9231ed30183dac-1600-900.jpg",
    "summary": "机核播客“核电波”分享国产FPS《抵抗者》线下试玩感受，主播Nadya、白广大、西蒙参与，并称其有《使命召唤》的味道，本期为视频播客音频版。",
    "content_html": "<p>欢迎回到“核电波”！前段时间参与了国产FPS《抵抗者》的线下试玩，今天我们来分享试玩感受，本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】          </p>\n<p>本期主播：Nadya / 白广大 / 西蒙 </p>",
+   "participants": [
+    "Nadya",
+    "西蒙",
+    "Ryoma"
+   ],
    "media_id": "22385",
    "timelines": [],
    "length": 34783936,
@@ -38863,6 +39355,12 @@
    "image": "https://image.gcores.com/512f0188ebf069b6bb678462e41c85ea-1600-900.jpg",
    "summary": "久违的《松弛聊手游》更新，主播们聊了《绝区零》3.0、《鸣潮》新版本预热、《赛博朋克2077：边缘行者》联动和《明日方舟》最新活动，并讨论老牌MMO《洛奇》推出手游版后如何适配手游节奏。",
    "content_html": "<p>本期时间轴制作：西楼</p>\n<p>久违的《松弛聊手游》再更新，大家都在玩些什么？</p>\n<p>我们从《绝区零》3.0 的新版本聊到《鸣潮》即将到来的大版本预热；从《赛博朋克2077：边缘行者》的高质量联动聊到《明日方舟》的最新活动。</p>\n<p>最令人意外的还有当年的MMO《洛奇》，发布了全新的手游版本，这款“原汁原味”新游戏又是怎么适配手游节奏的呢？</p>",
+   "participants": [
+    "贝壳哈姆",
+    "蛙子蛙子蛙",
+    "雪豆",
+    "说书人Jerry"
+   ],
    "media_id": "22375",
    "timelines": [
     {
@@ -39450,6 +39948,12 @@
    "image": "https://image.gcores.com/fcd7fb1d75e09b622cb9e30cc90b7529-1920-1080.jpg",
    "summary": "机核《这里集合》Vol.2 汇总6月20日至7月20日站内动态，涵盖核聚变志愿者体验、世界杯舆论引发的“登味焦虑”、年轻人年龄焦虑、注意力与记忆力下降、中元夜话、机友评《后室》、闲鱼捡漏与梦见入职机核等话题，并预告机核FM功能。",
    "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>欢迎来到7月的《这里集合》！每个月，机核站内会产生一万多条动态。编辑团队在日常运营中不断地浏览这些内容，并从中选取一些帖子进行分享和讨论。这些帖子可能是热门的，也可能是被忽略的，但它们都引发了我们的某些停顿和联想。「这里集合」并非有明确主题的精选榜单，而是尝试观察和参与机组大家所分享的生活，由机核运营团队主持，（计划）每月更新。本期涵盖了6月20日到7月20日的机组内容，我们从机组得到的话题有：</p>\n<ul>\n<li>来核聚变当志愿者是什么体验？</li>\n<li>世界杯舆论场引发的登味焦虑</li>\n<li>20岁的年轻人也有年龄焦虑？</li>\n<li>感觉注意力和记忆力下降了，该怎么办？</li>\n<li>最恐怖的中元夜话，可能来自生活</li>\n<li>机友锐评《后室》</li>\n<li>混迹闲鱼，捡到的不止是便宜</li>\n<li>在梦里入职机核</li>\n</ul>\n<p>最后，我们介绍了即将上线的机核FM功能，希望大家多多期待！ </p>",
+   "participants": [
+    "Samiii",
+    "柏亚舟",
+    "白广大",
+    "雪豆"
+   ],
    "media_id": "22349",
    "timelines": [
     {
@@ -40282,6 +40786,11 @@
    "image": "https://image.gcores.com/2e96e5c4a2e5952f94055777d6a3be3f-1600-900.jpg",
    "summary": "本期节目中，螳螂老师结合自身经验介绍平时接触到的“特别”宠物类型，指出这些动物虽习性外貌奇特，但存在一定宠物市场与爱好者。节目强调不构成饲养建议，饲养前需考虑当地法律法规和自身健康情况。",
    "content_html": "<p>本期时间轴制作： 佟和</p>\n<p>本期节目里，螳螂老师从自身经验出发，为大家介绍他平时接触到的那些有些“特别”的宠物类型。不要诧异，这些动物虽然各个身怀绝技，但是的确存在一定的宠物市场和爱好者可以包容它们或是外貌或是习性方面的奇特。</p>\n<p>注意，本期节目不构成饲养建议，在决定饲养前首先请考虑当地法律法规的要求以及自身健康情况。</p>",
+   "participants": [
+    "萝萝又卜卜",
+    "螳螂在后",
+    "肉肉引擎！"
+   ],
    "media_id": "22345",
    "timelines": [
     {

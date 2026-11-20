@@ -54,7 +54,7 @@ CACHE_DIR = ROOT / "cache"
 CHAPTER_DIR = ROOT / "chapters"
 
 # 渲染逻辑的版本号：改了 Shownotes / XML 结构就 +1，强制重写已生成的 feed
-RENDER_VERSION = 3
+RENDER_VERSION = 5
 
 WEEKDAYS = ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
 MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -77,8 +77,23 @@ DEFAULT_CONFIG = {
             "file": "gcores.xml",
             "title": "机核 GCORES · 机核出品",
             "link": "https://www.gcores.com/radios?filter=gcores",
-            "description": "机核出品的播客节目，按发布时间降序排列，每集附时间轴。",
+            "description": "机核出品的播客节目，按发布时间降序排列，每集附时间轴与参与者。",
             "filter": "gcores",
+            "icon": "https://www.gcores.com/android-chrome-256x256.png",
+            "participants": True,
+            "detail": True,
+            "ignore": ["SPEC", "录音笔"],
+        },
+        "gcores-not-detail": {
+            "file": "gcores-not-detail.xml",
+            "title": "机核 GCORES · 机核出品（纯时间轴）",
+            "link": "https://www.gcores.com/radios?filter=gcores",
+            "description": "机核出品播客的精简版：只有标题和时间轴，不含每集正文与时间点描述。",
+            "filter": "gcores",
+            "icon": "https://www.gcores.com/android-chrome-256x256.png",
+            "participants": False,
+            "detail": False,
+            "state_from": "gcores",
             "ignore": ["SPEC", "录音笔"],
         },
         "join": {
@@ -87,11 +102,14 @@ DEFAULT_CONFIG = {
             "link": "https://www.gcores.com/radios?filter=join",
             "description": "机核「入驻播客」节目，按发布时间降序排列，每集附时间轴。",
             "filter": "join_podcast",
+            "icon": "https://image.gcores.com/72c564186057a94288949bffc6865811-2048-2048.png",
+            "participants": False,
+            "detail": True,
             "ignore": ["诗梳风"],
         },
     },
     "max_items": 100,
-    "pages": 2,
+    "pages": 3,
     "page_size": 100,
     "workers": 8,
     "user_agent": (
@@ -212,6 +230,8 @@ def draft_to_html(raw: str | None) -> str:
         btype = block.get("type") or "unstyled"
         text = block.get("text") or ""
         inner = _render_inline(text, block.get("entityRanges") or [], entity_map)
+        # Draft.js 用 \n 表示段内换行，不转成 <br/> 的话客户端会把整段挤成一行
+        inner = inner.replace("\n", "<br/>")
 
         if btype in ("unordered-list-item", "ordered-list-item"):
             tag = "ul" if btype == "unordered-list-item" else "ol"
@@ -320,7 +340,7 @@ def fetch_list(feed_cfg: dict, cfg: dict, headers: dict) -> list[dict]:
             "page[offset]": page * page_size,
             "sort": "-published-at",
             "filter[owner-type]": feed_cfg["filter"],
-            "include": "category,media,albums",
+            "include": "category,media,albums,djs",
         }
         try:
             payload = api_get("radios", params, headers=headers)
@@ -338,9 +358,11 @@ def fetch_list(feed_cfg: dict, cfg: dict, headers: dict) -> list[dict]:
                      for i in payload.get("included", []) if i.get("type") == "albums"}
         media_map = {i["id"]: (i.get("attributes") or {})
                      for i in payload.get("included", []) if i.get("type") == "medias"}
+        user_map = {i["id"]: (i.get("attributes") or {}).get("nickname", "")
+                    for i in payload.get("included", []) if i.get("type") == "users"}
 
         for item in data:
-            norm = normalize(item, cat_map, album_map, media_map,
+            norm = normalize(item, cat_map, album_map, media_map, user_map,
                              bool(cfg.get("normalize_title_bar", True)))
             if norm and norm["id"] not in collected:
                 collected[norm["id"]] = norm
@@ -352,7 +374,7 @@ def fetch_list(feed_cfg: dict, cfg: dict, headers: dict) -> list[dict]:
 
 
 def normalize(item: dict, cat_map: dict, album_map: dict, media_map: dict,
-              clean_bar: bool = True) -> dict | None:
+              user_map: dict | None = None, clean_bar: bool = True) -> dict | None:
     attrs = item.get("attributes") or {}
     rid = str(item.get("id") or "")
     if not rid or not attrs.get("is-published", 1):
@@ -370,6 +392,13 @@ def normalize(item: dict, cat_map: dict, album_map: dict, media_map: dict,
     audio = audio_url(media)
     if not audio:
         return None
+
+    user_map = user_map or {}
+    participants = [
+        user_map.get(ref.get("id"), "")
+        for ref in ((rels.get("djs") or {}).get("data") or [])
+    ]
+    participants = [n for n in participants if n]
 
     cat_ref = (rels.get("category") or {}).get("data") or {}
     cat_name = cat_map.get(cat_ref.get("id"), "") if cat_ref else ""
@@ -404,6 +433,7 @@ def normalize(item: dict, cat_map: dict, album_map: dict, media_map: dict,
         "image": image_url(attrs.get("thumb") or attrs.get("cover")),
         "summary": summary,
         "content_html": content_html,
+        "participants": participants,
         "media_id": str(media_ref.get("id") or ""),
     }
 
@@ -475,21 +505,34 @@ def cdata(text: str) -> str:
     return "<![CDATA[" + text.replace("]]>", "]]]]><![CDATA[>") + "]]>"
 
 
-def build_shownotes(item: dict) -> str:
-    """Shownotes：简介 + 原始页面链接 + 可点击时间轴。"""
+def build_shownotes(item: dict, feed_cfg: dict | None = None) -> str:
+    """Shownotes：简介 + 参与者 + 正文 + 时间轴 + 原始页面链接。
+
+    feed_cfg["detail"] = False 时只输出「标题 + 时间轴」，
+    feed_cfg["participants"] = True 时额外列出本期参与者（纯文本，不带头像）。
+    """
+    feed_cfg = feed_cfg or {}
+    detail = feed_cfg.get("detail", True)
+    show_people = feed_cfg.get("participants", False)
+
     parts: list[str] = []
     summary = item.get("summary") or ""
     content_html = item.get("content_html") or ""
+    page_url = item["page_url"]
+
     # 机核的 summary 往往就是正文首段，重复展示没意义
-    if summary and summary[:40] not in plain_text(content_html, 2000):
+    if detail and summary and summary[:40] not in plain_text(content_html, 2000):
         parts.append(f"<p>{escape(summary)}</p>")
 
-    page_url = item["page_url"]
     parts.append(
         f'<p><a href="{escape(page_url, quote=True)}">🔗 在机核查看本集原始页面</a></p>'
     )
 
-    if content_html:
+    people = item.get("participants") or []
+    if show_people and people:
+        parts.append(f"<p>本期参与：{escape('、'.join(people))}</p>")
+
+    if detail and content_html:
         parts.append("<hr/>")
         parts.append(content_html)
 
@@ -499,23 +542,21 @@ def build_shownotes(item: dict) -> str:
         parts.append("<h3>时间轴</h3>")
         parts.append("<ul>")
         for chap in timelines:
+            # 时间戳保持纯文本且位于行首，客户端（Apple Podcasts 等）才能自动识别成可跳转锚点
             stamp = fmt_ts(chap["at"])
             title = escape(chap.get("title") or "")
-            # 时间戳保持纯文本且位于行首，客户端（Apple Podcasts 等）才能自动识别成可跳转锚点
             line = f"<li>{stamp} {title}"
-            body = chap.get("content") or ""
-            if body:
-                line += f"<br/>{escape(body)}"
-            if chap.get("href"):
-                line += (f'<br/><a href="{escape(chap["href"], quote=True)}">'
-                         f'相关链接</a>')
+            if detail:
+                body = chap.get("content") or ""
+                if body:
+                    line += f"<br/>{escape(body).replace(chr(10), '<br/>')}"
+                if chap.get("href"):
+                    line += (f'<br/><a href="{escape(chap["href"], quote=True)}">'
+                             f'相关链接</a>')
             line += "</li>"
             parts.append(line)
         parts.append("</ul>")
 
-    parts.append(
-        f'<p><a href="{escape(page_url, quote=True)}">🔗 在机核查看本集原始页面</a></p>'
-    )
     return "\n".join(parts)
 
 
@@ -558,7 +599,7 @@ def signature(items: list[dict]) -> list[tuple]:
     return sorted(
         (i.get("id"), i.get("title"), i.get("published_at"), i.get("audio"),
          i.get("category"), len(i.get("timelines") or []), i.get("length"),
-         i.get("chapters_url") or "")
+         i.get("chapters_url") or "", tuple(i.get("participants") or ()))
         for i in items
     )
 
@@ -583,7 +624,8 @@ def enrich(items: list[dict], state: dict, headers: dict, workers: int,
             item["timelines"] = old.get("timelines") or []
             item["length"] = old.get("length") or 0
             item["tl_checked"] = old.get("tl_checked", 1)
-            if old.get("content_html"):
+            # 正文 HTML 以本次实时渲染为准，缓存里的只作为兜底（渲染逻辑可能已升级）
+            if not item.get("content_html") and old.get("content_html"):
                 item["content_html"] = old["content_html"]
         else:
             todo.append(item)
@@ -660,7 +702,7 @@ def write_feed(path: Path, feed_cfg: dict, items: list[dict], cfg: dict,
     title = feed_cfg["title"]
     desc = feed_cfg.get("description", "")
     link = feed_cfg.get("link", SITE_BASE)
-    cover = next((i["image"] for i in items if i.get("image")), "")
+    cover = feed_cfg.get("icon") or next((i["image"] for i in items if i.get("image")), "")
 
     out: list[str] = []
     out.append('<?xml version="1.0" encoding="UTF-8"?>')
@@ -697,7 +739,7 @@ def write_feed(path: Path, feed_cfg: dict, items: list[dict], cfg: dict,
                    f"<link>{escape(link)}</link></image>")
 
     for item in items:
-        out.extend(build_item_xml(item))
+        out.extend(build_item_xml(item, feed_cfg))
 
     out.append("</channel>")
     out.append("</rss>")
@@ -705,7 +747,7 @@ def write_feed(path: Path, feed_cfg: dict, items: list[dict], cfg: dict,
     path.write_text("\n".join(out) + "\n", encoding="utf-8")
 
 
-def build_item_xml(item: dict) -> list[str]:
+def build_item_xml(item: dict, feed_cfg: dict | None = None) -> list[str]:
     lines = ["<item>"]
     lines.append(f"<title>{escape(item_title(item))}</title>")
     lines.append(f"<link>{escape(item['page_url'])}</link>")
@@ -713,7 +755,7 @@ def build_item_xml(item: dict) -> list[str]:
     lines.append(f"<pubDate>{rfc822(datetime.fromisoformat(item['published_at']))}</pubDate>")
     if item.get("summary"):
         lines.append(f"<description>{escape(item['summary'])}</description>")
-    lines.append(f"<content:encoded>{cdata(build_shownotes(item))}</content:encoded>")
+    lines.append(f"<content:encoded>{cdata(build_shownotes(item, feed_cfg))}</content:encoded>")
     lines.append("<author>机核 GCORES</author>")
     lines.append("<itunes:author>机核 GCORES</itunes:author>")
     if item.get("category"):
@@ -752,8 +794,11 @@ def process_feed(name: str, feed_cfg: dict, cfg: dict, headers: dict,
     candidates = fetch_list(feed_cfg, cfg, headers)
     log(f"[{name}] 列表拿到 {len(candidates)} 集")
 
-    state_path = CACHE_DIR / f"{name}.json"
+    state_from = feed_cfg.get("state_from") or name
+    state_path = CACHE_DIR / f"{state_from}.json"
     state = load_state(state_path)
+    # 每个 feed 单独记录渲染参数，避免共用缓存时互相干扰
+    meta_path = CACHE_DIR / f"{name}.meta.json"
 
     ignore = feed_cfg.get("ignore") or []
     filtered: list[dict] = []
@@ -807,7 +852,7 @@ def process_feed(name: str, feed_cfg: dict, cfg: dict, headers: dict,
                 "max_items": max_items, "render": RENDER_VERSION}
     if (feed_path.exists()
             and signature(items) == signature(list(state.values()))
-            and load_meta(state_path) == meta_now):
+            and load_meta(meta_path) == meta_now):
         # 内容没变就不重写，避免 Actions 每小时产生一个几乎相同的提交
         log(f"[{name}] 内容无变化，跳过写入 {feed_cfg['file']}")
         return keep
@@ -815,8 +860,9 @@ def process_feed(name: str, feed_cfg: dict, cfg: dict, headers: dict,
     self_url = f"{feed_base}/{feed_cfg['file']}" if feed_base else ""
     write_feed(feed_path, feed_cfg, items, cfg, self_url)
 
-    save_json(state_path, {"meta": meta_now,
-                           "items": {i["id"]: i for i in items}})
+    save_json(meta_path, {"meta": meta_now})
+    if state_from == name:
+        save_json(state_path, {"items": {i["id"]: i for i in items}})
     with_tl = sum(1 for i in items if i.get("timelines"))
     log(f"[{name}] 写出 {feed_cfg['file']}：{len(items)} 集，其中 {with_tl} 集带时间轴")
     return keep
