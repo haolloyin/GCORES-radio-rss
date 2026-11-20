@@ -54,7 +54,7 @@ CACHE_DIR = ROOT / "cache"
 CHAPTER_DIR = ROOT / "chapters"
 
 # 渲染逻辑的版本号：改了 Shownotes / XML 结构就 +1，强制重写已生成的 feed
-RENDER_VERSION = 5
+RENDER_VERSION = 6
 
 WEEKDAYS = ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
 MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -81,18 +81,18 @@ DEFAULT_CONFIG = {
             "filter": "gcores",
             "icon": "https://www.gcores.com/android-chrome-256x256.png",
             "participants": True,
-            "detail": True,
+            "chapter_detail": True,
             "ignore": ["SPEC", "录音笔"],
         },
         "gcores-not-detail": {
             "file": "gcores-not-detail.xml",
-            "title": "机核 GCORES · 机核出品（纯时间轴）",
+            "title": "机核 GCORES · 机核出品（时间轴精简）",
             "link": "https://www.gcores.com/radios?filter=gcores",
-            "description": "机核出品播客的精简版：只有标题和时间轴，不含每集正文与时间点描述。",
+            "description": "机核出品的播客节目：简介与正文完整，时间轴只保留时间点与标题，不含每个时间点的描述文字。",
             "filter": "gcores",
             "icon": "https://www.gcores.com/android-chrome-256x256.png",
-            "participants": False,
-            "detail": False,
+            "participants": True,
+            "chapter_detail": False,
             "state_from": "gcores",
             "ignore": ["SPEC", "录音笔"],
         },
@@ -104,7 +104,7 @@ DEFAULT_CONFIG = {
             "filter": "join_podcast",
             "icon": "https://image.gcores.com/72c564186057a94288949bffc6865811-2048-2048.png",
             "participants": False,
-            "detail": True,
+            "chapter_detail": True,
             "ignore": ["诗梳风"],
         },
     },
@@ -508,11 +508,12 @@ def cdata(text: str) -> str:
 def build_shownotes(item: dict, feed_cfg: dict | None = None) -> str:
     """Shownotes：简介 + 参与者 + 正文 + 时间轴 + 原始页面链接。
 
-    feed_cfg["detail"] = False 时只输出「标题 + 时间轴」，
+    feed_cfg["chapter_detail"] = False 时，时间轴只保留「时间点 + 标题」，
+    不再输出每个时间点后面的描述文字（简介、正文、参与者照常保留）；
     feed_cfg["participants"] = True 时额外列出本期参与者（纯文本，不带头像）。
     """
     feed_cfg = feed_cfg or {}
-    detail = feed_cfg.get("detail", True)
+    chapter_detail = feed_cfg.get("chapter_detail", True)
     show_people = feed_cfg.get("participants", False)
 
     parts: list[str] = []
@@ -521,7 +522,7 @@ def build_shownotes(item: dict, feed_cfg: dict | None = None) -> str:
     page_url = item["page_url"]
 
     # 机核的 summary 往往就是正文首段，重复展示没意义
-    if detail and summary and summary[:40] not in plain_text(content_html, 2000):
+    if summary and summary[:40] not in plain_text(content_html, 2000):
         parts.append(f"<p>{escape(summary)}</p>")
 
     parts.append(
@@ -532,7 +533,7 @@ def build_shownotes(item: dict, feed_cfg: dict | None = None) -> str:
     if show_people and people:
         parts.append(f"<p>本期参与：{escape('、'.join(people))}</p>")
 
-    if detail and content_html:
+    if content_html:
         parts.append("<hr/>")
         parts.append(content_html)
 
@@ -546,13 +547,13 @@ def build_shownotes(item: dict, feed_cfg: dict | None = None) -> str:
             stamp = fmt_ts(chap["at"])
             title = escape(chap.get("title") or "")
             line = f"<li>{stamp} {title}"
-            if detail:
+            if chapter_detail:
                 body = chap.get("content") or ""
                 if body:
                     line += f"<br/>{escape(body).replace(chr(10), '<br/>')}"
-                if chap.get("href"):
-                    line += (f'<br/><a href="{escape(chap["href"], quote=True)}">'
-                             f'相关链接</a>')
+            if chap.get("href"):
+                line += (f'<br/><a href="{escape(chap["href"], quote=True)}">'
+                         f'相关链接</a>')
             line += "</li>"
             parts.append(line)
         parts.append("</ul>")

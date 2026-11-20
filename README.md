@@ -5,7 +5,7 @@
 | 文件 | 内容 | 来源 |
 | --- | --- | --- |
 | `gcores.xml` | 机核出品（完整版：简介 + 参与者 + 正文 + 时间轴） | https://www.gcores.com/radios?filter=gcores |
-| `gcores-not-detail.xml` | 机核出品（精简版：只有标题 + 时间轴） | 同上 |
+| `gcores-not-detail.xml` | 机核出品（简介与正文完整，时间轴不含每个时间点的描述） | 同上 |
 | `join.xml` | 入驻播客 | https://www.gcores.com/radios?filter=join |
 
 ## 订阅地址
@@ -28,7 +28,7 @@ https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/join.xml
   - 标题里自带的竖线会被替换成「·」，保证「标题 | 分类」只有一个分隔符（可用 `normalize_title_bar: false` 关闭）。
 - **频道图标**：由 `config.json` 里每个 feed 的 `icon` 指定（机核用站点图标，入驻用指定图片），不会再随某一集的封面变化。
 - **Shownotes**：简介 + 本期参与者（`participants: true` 时，纯文本、不带头像）+ 正文 + 时间轴 + 跳回机核原始节目页的链接（如 https://www.gcores.com/radios/222328 ）。
-- **精简版**（`gcores-not-detail.xml`）：`detail: false`，Shownotes 只有「原始页面链接 + 时间轴（时间点 + 标题）」，不含正文和每个时间点的描述文字。
+- **精简版**（`gcores-not-detail.xml`）：`chapter_detail: false`，简介、参与者、正文都保留，只是时间轴里每条只显示「时间点 + 标题」，去掉每个时间点后面那段描述文字。
 - **时间轴**：两种形式同时提供，保证「时间点可点击跳转」。
   1. Shownotes 里的纯文本时间戳（`00:12`、`1:02:03`），Apple Podcasts、Pocket Casts、AntennaPod 等会自动识别为可点击的跳转锚点；
   2. Podcasting 2.0 的 `<podcast:chapters>`，指向仓库里的 `chapters/<单集ID>.json`，支持章节的客户端（AntennaPod、Pocket Casts、Fountain 等）会直接显示章节列表并可跳转。
@@ -50,14 +50,15 @@ https://raw.githubusercontent.com/<你的用户名>/<仓库名>/main/join.xml
       "filter": "gcores",                  // 机核出品
       "icon": "https://…/icon.png",        // 频道固定图标
       "participants": true,                // Shownotes 里列参与者
-      "detail": true,                      // 输出简介 / 正文 / 时间点描述
+      "chapter_detail": true,              // 时间轴里是否输出每个时间点的描述文字
       "ignore": ["SPEC", "录音笔"],        // 忽略的关键字
       ...
     },
     "gcores-not-detail": {
       "file": "gcores-not-detail.xml",
       "filter": "gcores",
-      "detail": false,                     // 只保留标题 + 时间轴
+      "chapter_detail": false,             // 时间轴只要时间点 + 标题
+      "participants": true,
       "state_from": "gcores",              // 复用 gcores 的缓存，不重复抓时间轴
       "ignore": ["SPEC", "录音笔"],
       ...

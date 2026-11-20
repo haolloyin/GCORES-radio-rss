@@ -13,26 +13,26 @@
       "filter": "gcores",
       "icon": "https://www.gcores.com/android-chrome-256x256.png",
       "participants": true,
-      "detail": true,
       "ignore": [
         "SPEC",
         "录音笔"
-      ]
+      ],
+      "chapter_detail": true
     },
     "gcores-not-detail": {
       "file": "gcores-not-detail.xml",
-      "title": "机核 GCORES · 机核出品（纯时间轴）",
+      "title": "机核 GCORES · 机核出品（时间轴精简）",
       "link": "https://www.gcores.com/radios?filter=gcores",
-      "description": "机核出品播客的精简版：只有标题和时间轴，不含每集正文与时间点描述。",
+      "description": "机核出品的播客节目：简介与正文完整，时间轴只保留时间点与标题，不含每个时间点的描述文字。",
       "filter": "gcores",
       "icon": "https://www.gcores.com/android-chrome-256x256.png",
-      "participants": false,
-      "detail": false,
+      "participants": true,
       "state_from": "gcores",
       "ignore": [
         "SPEC",
         "录音笔"
-      ]
+      ],
+      "chapter_detail": false
     },
     "join": {
       "file": "join.xml",
@@ -42,10 +42,10 @@
       "filter": "join_podcast",
       "icon": "https://image.gcores.com/72c564186057a94288949bffc6865811-2048-2048.png",
       "participants": false,
-      "detail": true,
       "ignore": [
         "诗梳风"
-      ]
+      ],
+      "chapter_detail": true
     }
   }
 }
