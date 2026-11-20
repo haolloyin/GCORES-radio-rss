@@ -1,7 +1,7 @@
 {
  "meta": {
-  "feed_base": "",
-  "chapters_base": "",
+  "feed_base": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main",
+  "chapters_base": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters",
   "max_items": 100,
   "render": 3
  },

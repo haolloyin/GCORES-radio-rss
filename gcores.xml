@@ -5,10 +5,11 @@
 <link>https://www.gcores.com/radios?filter=gcores</link>
 <description>机核出品的播客节目，按发布时间降序排列，每集附时间轴。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 20 Nov 2026 18:42:31 +0800</lastBuildDate>
-<pubDate>Fri, 20 Nov 2026 18:42:31 +0800</pubDate>
+<lastBuildDate>Fri, 20 Nov 2026 19:53:09 +0800</lastBuildDate>
+<pubDate>Fri, 20 Nov 2026 19:53:09 +0800</pubDate>
 <generator>gcores-rss</generator>
 <ttl>30</ttl>
+<atom:link href="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/gcores.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>机核 GCORES</itunes:author>
 <itunes:summary>机核出品的播客节目，按发布时间降序排列，每集附时间轴。</itunes:summary>
 <itunes:explicit>false</itunes:explicit>
@@ -115,6 +116,7 @@ Queen&#x27;s Domain.（女王魔域）</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/cb8076abb7868325f749ae80509e95d7-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/945fb91f-7e2b-45aa-a087-a7a9362a77c9.mp3" length="66399622" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222328.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>《GTA6》已通关，无剧透聊聊R星有多无敌【视频播客音频版】 | 核电波</title>
@@ -221,6 +223,7 @@ Queen&#x27;s Domain.（女王魔域）</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/835359d96bb8b91c83640511d00d5f0c-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/57f629ff-82f7-4ecd-a99f-682d8bea3d44.mp3" length="70642744" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222501.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>谁能告诉我，Roguelike到底是什么：详细介绍“柏林诠释” | Gadio Pro</title>
@@ -373,6 +376,7 @@ Hack 系：楼层永久留存、地牢内嵌商店，核心是五花八门的物
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/9274a0a4bc7fb165c007fcc478f78f03-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/5061e000-ed5c-459e-8750-42166588e8d8.mp3" length="108501069" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222327.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>我已经一分钟没有听到BLG一穿四夺冠的故事了……机浪 Vol.134 | Gadio Wave</title>
@@ -548,6 +552,7 @@ Hack 系：楼层永久留存、地牢内嵌商店，核心是五花八门的物
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/d7083134ef22e541c75523d5f4f1f654-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/396be78a-6fdb-408f-a12a-84ed3b31aea8.mp3" length="80346502" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222021.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>规则是流动的，核周报 11.14 | Gadio News</title>
@@ -709,6 +714,7 @@ Xbox Series X|S 与 Xbox One 玩家均可通过云游戏体验《GTA6》，云�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/26009150211771c412c7a079ec11bceb-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/779f1f19-ab28-4823-b986-e4a0827272db.mp3" length="83586104" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222022.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>等了13年，《GTA6》还能再次成为传奇吗？【视频播客音频版】 | 核电波</title>
@@ -961,6 +967,7 @@ Xbox Series X|S 与 Xbox One 玩家均可通过云游戏体验《GTA6》，云�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/7c29c3f5908ba8d3f5ebfe45978bbf43-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/d22a4227-f9a6-4898-8c3a-0f9e4d955a5a.mp3" length="109068239" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222023.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>黄朝落幕，机浪 Vol.133 | Gadio Wave</title>
@@ -1068,6 +1075,7 @@ Xbox Series X|S 与 Xbox One 玩家均可通过云游戏体验《GTA6》，云�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/856c31ca32f18483e7d6d673bd9729a7-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/7206063b-5cf5-46a1-b51a-1301c8e3dd08.mp3" length="80767805" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222295.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>盖棺论定说生软（下）：享年31岁，谁是凶手？ | Gadio Pro</title>
@@ -1211,6 +1219,7 @@ Visceral的《星战》走完了它的史诗；
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/6cdee97528596d306db8ecfc79a322d7-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/d56af99f-2357-4d92-b977-1a95438d7555.mp3" length="80067306" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222024.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>放下枷锁，《火焰纹章》就是现在最好的日式RPG，游戏茶话会 Vol.133 | 游戏茶话会</title>
@@ -1323,6 +1332,7 @@ Visceral的《星战》走完了它的史诗；
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/16d4e93a7bee500d3d5a4ae4e7f9ece5-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/ff842cf6-135a-4828-9fc4-57f97cafb461.mp3" length="88654277" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221706.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>一款游戏的好坏到底谁说了算？【视频播客音频版】 | 核电波</title>
@@ -1523,6 +1533,7 @@ PvP：适合喜欢危险与刺激、热衷野外冲突的玩家。每次踏入�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/b1057028e73d33549686f4d28650b393-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/47be36fd-d888-4580-bfae-d73cfd91eb53.mp3" length="102978156" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221705.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>前期越期待，看完越失望的作品是？核市奇谭Vol.129 | 核市奇谭</title>
@@ -1640,6 +1651,7 @@ PvP：适合喜欢危险与刺激、热衷野外冲突的玩家。每次踏入�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/448f55d71b1d1842e8bfa32597b7815e-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/eb7bab3b-5aa8-4101-a549-5b2e97045755.mp3" length="78079910" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221704.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>盖棺论定说生软（上）：三个医生的龙之狂想 | Gadio Pro</title>
@@ -1771,6 +1783,7 @@ Metacritic 均分 91 分，收获大量年度 RPG 奖项：E3 评论家大奖最
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/cc11a3bf286ffec93e78907cc4584de6-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a186c9a3-f1bb-47c1-b01b-a30891e313d6.mp3" length="68356089" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221703.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>两个菜鸟的《使命召唤：现代战争4》多人模式之旅，机浪 Vol.132 | Gadio Wave</title>
@@ -1845,6 +1858,7 @@ Metacritic 均分 91 分，收获大量年度 RPG 奖项：E3 评论家大奖最
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/f222eaeaa48347a770fd9e711580b3af-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/386854f2-f694-4156-84de-9fd8ed225c7a.mp3" length="43123057" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221934.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>《现代战争4》还真行，《魔兽争霸3》竟出新·《安利之王》 | 游戏茶话会</title>
@@ -1950,6 +1964,7 @@ Metacritic 均分 91 分，收获大量年度 RPG 奖项：E3 评论家大奖最
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/4e58f7cf77a0d7b575f0fa618cb1ec73-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/1e244581-b1b9-43bc-aa19-0f3e33129a6c.mp3" length="67706999" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221702.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>所有坏事，都有一个体面的开头·《特殊行动：一线生机》的故事 | Gadio Story</title>
@@ -2105,6 +2120,7 @@ Metacritic 均分 91 分，收获大量年度 RPG 奖项：E3 评论家大奖最
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/891fef58fbcc73149006d1f5650960ac-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/4e1538d2-255f-44e1-b5b0-6198236245f5.mp3" length="133570261" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221135.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>热火朝天，核周报 10.31 | Gadio News</title>
@@ -2290,6 +2306,7 @@ PS1 的官方半透明系列手柄和记忆卡主要是在 1990 年代末到 200
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/b9c64519e9015613d8545a42a1ed936b-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/b89ba895-0a33-4853-b4e1-5dd1d9db9669.mp3" length="87922012" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221134.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>请来鸡哥卡师傅，聊聊室友的游戏生活【视频播客音频版】 | 核电波</title>
@@ -2548,6 +2565,7 @@ But I want to say I&#x27;m fine in every morning</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/d45204b4d42de740d147e60d07d73a56-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/07c289bc-91f9-40bd-967d-2b174a5b024c.mp3" length="81326617" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221133.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>【抽奖】这就是今年最佳独立游戏，《银松镇》全剧情讲述+典故拆解·玩的核WonderCores | Gadio Wave</title>
@@ -2766,6 +2784,7 @@ But I want to say I&#x27;m fine in every morning</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/92d29830cb5988d84537c54260a0140b-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/403f9223-c5be-4dd6-a06a-5e449580ad0d.mp3" length="80525389" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221017.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>我们想做一个玩家能记住的女主！对话《湮灭之潮》开发组【视频播客音频版】 | 核电波</title>
@@ -2936,6 +2955,7 @@ But I want to say I&#x27;m fine in every morning</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/d95f7fb32147ccaef24597610249c4d0-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a116915a-18e4-441a-ae65-ed883eaa8254.mp3" length="97634130" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221016.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>有什么因为影视剧意外种草的东西？核市奇谭Vol.128 | 核市奇谭</title>
@@ -3067,6 +3087,7 @@ Nintendo Switch 2、PlayStation 5 售价：港币148元（港区）/新台币561
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/0c78726148912126c8524d7956cef077-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/030fb452-518b-46d3-83ce-ec160c3f7a7c.mp3" length="87736021" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221015.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>从鬼武者系列看CAPCOM·说来话长 Vol.8 | Gadio Early Access</title>
@@ -3204,6 +3225,7 @@ Enix从创立之初就定位为发行商，不组建自有开发团队。精明�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/0d8d4a45e28f93780f28a1a30ef0bcc1-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/bdf95310-b688-43a4-b066-48117e07b5dd.mp3" length="101883521" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221014.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>贝塞斯达与黑曜石还有未来吗？11年后与G君再聊《辐射》与其他 | Gadio Pro</title>
@@ -3305,6 +3327,7 @@ id Software 在PC（运行MS-DOS和Windows 系统）视频游戏技术领域取�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/490139fafbacf3a1e703cb21d3462b58-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/4fd767d2-8312-419e-8f92-ff16dc9beb43.mp3" length="68934127" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/221013.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>《沉星之序》的血脉：谜题的构建者们 | Gadio Pro</title>
@@ -3443,6 +3466,7 @@ id Software 在PC（运行MS-DOS和Windows 系统）视频游戏技术领域取�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/0b3480e7f2196d890abde7cd92380e41-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/b830b81a-73c1-4f2d-b00c-9de1ee629eb6.mp3" length="83647962" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220705.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>新作井喷，核周报 10.17 | Gadio News</title>
@@ -3581,6 +3605,7 @@ XBOX Nano配备标准XBOX手柄全部常规按键，新增一枚可自定义动�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/ea6711113476f3a8531d1d2f4edfac7b-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/9f7eab3d-917e-482b-bf9c-541e2d2a65cf.mp3" length="63009973" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220703.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>只靠这一点，我就能说它是神作【视频播客音频版】 | 核电波</title>
@@ -3757,6 +3782,7 @@ Elizabeth（Lizzie）伊丽莎白・卡敏（L）
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/480073feb439e9ebd5d9b3e5f20102bf-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/e8793d8f-8666-4011-acc6-b72500aec4bf.mp3" length="90291841" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220704.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>万字拆解《寂静岭：小镇陷落》剧情及隐喻·玩的核WonderCores【视频节目音频版】 | Gadio Story</title>
@@ -3837,6 +3863,7 @@ Elizabeth（Lizzie）伊丽莎白・卡敏（L）
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/75aac5d1c8f5d85bb6a2b71415a36594-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a9fd55da-2bcf-4ec5-ab6d-e3cd27ad8b03.mp3" length="42402496" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220702.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>最尴尬的事儿  核聚变篇第二辑【赛博告解室】 | Gadio Life</title>
@@ -3934,6 +3961,7 @@ Elizabeth（Lizzie）伊丽莎白・卡敏（L）
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/78663f185fd5c0f9cd295956328a0e7d-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a5baa662-6950-42e5-ac95-fb792385498e.mp3" length="84322130" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220608.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>捷报频传，核周报10.10 | Gadio News</title>
@@ -4076,6 +4104,7 @@ DeepSeek的投前估值已达到5000亿元人民币左右。</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/e68bb6a1174b6247da5465829710b146-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/e624f640-81f4-4d33-b0a0-19a40830ebc9.mp3" length="99649947" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220607.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>玩个游戏而已，至于给自己找这么多事吗？【视频播客音频版】 | 核电波</title>
@@ -4220,6 +4249,7 @@ OOO的理论起点是对海德格尔“应手状态（Zuhandenheit）”概念�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/dce89bc4e8a39d2b30c85340ec748ab1-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/b6d101eb-4ecf-42b5-b8d3-4d4a998cf8bf.mp3" length="84162052" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220606.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>玩了6小时《影之刃零》，和我想的真不一样，机浪 Vol.130 | Gadio Wave</title>
@@ -4351,6 +4381,7 @@ OOO的理论起点是对海德格尔“应手状态（Zuhandenheit）”概念�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/74a830383bffaa31f4a4f81b15f87b71-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/2c6d6072-51af-4234-a3d1-cba565eef4d2.mp3" length="82104857" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220320.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>一家游戏博物馆的非意外死亡·在广州，说说“万物破元”的故事 | Gadio Early Access</title>
@@ -4454,6 +4485,7 @@ OOO的理论起点是对海德格尔“应手状态（Zuhandenheit）”概念�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/bafc4a6c2580d8c1aa40ff392d88dba8-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/c3fb9cbd-54c6-4a8d-b9d4-d84cf4657fb0.mp3" length="99041817" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220319.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>总想在游戏里花钱？我真没招了【视频播客音频版】 | 核电波</title>
@@ -4618,6 +4650,7 @@ Juan Vaca 于 2022 年加入 The Coalition 担任剧情总监，此前曾在 Tel
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/3c11ad6f3603b6d9d7c9f84e0a6e1e3a-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/0c7c42fc-ba6d-42bb-822e-daf32d81fff0.mp3" length="95617895" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219909.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>「失眠」的血脉：《漫威金刚狼》身上到底发生了什么？ | Gadio Pro</title>
@@ -4727,6 +4760,7 @@ Ratchet &amp; Clank 新作：约 2029 年。
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/4b14ebb1f0726c7990351a4d935cd8ed-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/136d9427-51c7-4985-9925-6639ffa5a85e.mp3" length="71825568" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220216.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>一款运营了七年的武侠手游，是怎么活下来的？跟《烟雨江湖》主策划聊聊心路历程 | Gadio Early Access</title>
@@ -4828,6 +4862,7 @@ Wiki 团队因此宣布暂停更新，引爆 TapTap、贴吧社区。</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/059adc70af12d46888fea8605bb2d345-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/17e4d163-25a1-44b6-9c07-6b91d5174576.mp3" length="81576138" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220217.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>雨中接机陈星汉，夜半停车找卡总·十年来我们的那些碎片佚事 | Gadio Life</title>
@@ -4960,6 +4995,7 @@ Wiki 团队因此宣布暂停更新，引爆 TapTap、贴吧社区。</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/599aec2dfe001bd39b26918f1bf95f4b-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/ecacfe3c-3c33-4c06-b52d-c4926cd217b9.mp3" length="69400987" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219908.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>长假要玩的和要看的，核市奇谭Vol.126 | 核市奇谭</title>
@@ -5051,6 +5087,7 @@ Wiki 团队因此宣布暂停更新，引爆 TapTap、贴吧社区。</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/f9212be4c450e3304428ed58c0e980d2-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/0601da66-039a-44a4-9f80-fdf0725d3707.mp3" length="66380396" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219910.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>疯狂推荐战争狗，太难安利金刚狼·《安利之王》 | 游戏茶话会</title>
@@ -5204,6 +5241,7 @@ Wiki 团队因此宣布暂停更新，引爆 TapTap、贴吧社区。</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/02ba74449246da106fee1b7cbcf6dec0-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/6d6aab4d-dad9-4cd5-a86f-2769a1472657.mp3" length="109199479" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219911.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>我想做这样的超英游戏，感觉能火！对话“超英”UP主BA【视频播客音频版】 | 核电波</title>
@@ -5299,6 +5337,7 @@ Wiki 团队因此宣布暂停更新，引爆 TapTap、贴吧社区。</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/0348d4cbb8c5692aa3b2ff86431c5712-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/6887ec12-3b2f-4889-b258-043d9491d3d8.mp3" length="52721908" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220202.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>吉时放送 vol.5·《影之刃零》联名官宣！ | Gadio Life</title>
@@ -5382,6 +5421,7 @@ Wiki 团队因此宣布暂停更新，引爆 TapTap、贴吧社区。</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/7b7fa2b5094d24e32a8adab4984521f3-1601-901.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/07475a73-a174-41f9-80c6-2bc49e5fd7ce.mp3" length="62188683" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/220093.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>《魔兽故事》卷三十-被遗忘的誓言与新的继承人 | Gadio Story</title>
@@ -5557,6 +5597,7 @@ Wiki 团队因此宣布暂停更新，引爆 TapTap、贴吧社区。</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/662073d4f50e73891048785436195cbf-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/d40d42b8-7f68-4ddb-8410-b5ce6e93cb18.mp3" length="77921921" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219912.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>《刺客信条》失落的故事线（下）：第一文明如何现代转生？ | Gadio Story</title>
@@ -5685,6 +5726,7 @@ Helix软件是Álvaro Gramática开发的Data Dump Scanner的延续，它允许�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/c39f1cf352f480d4c82cd29ccb2bc7ab-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/80861dab-de58-4ffa-bd38-58532d03fbe5.mp3" length="66247067" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219596.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>比永远更远，核周报 9.19 | Gadio News</title>
@@ -5830,6 +5872,7 @@ Eline，一位漂泊的灵魂低语者，正毫不留情地与那股将这片丰
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/ac19c5884a53caae835da8553fee2569-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/d01d310b-6b69-4487-9abd-8c76ae2f81af.mp3" length="83041921" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219595.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>拷打飞智联合创始人，聊聊手柄厂商不和你说的秘密【视频播客音频版】 | 核电波</title>
@@ -5948,6 +5991,7 @@ Eline，一位漂泊的灵魂低语者，正毫不留情地与那股将这片丰
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/b54098c362a9069a00f1a58b7031d940-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a2e42e32-ade0-4a5b-87b4-516d477cd9d4.mp3" length="91361817" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219594.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>猪肘子、咸面包还有玩不完的游戏：科隆 gamescom 游记 | Gadio Life</title>
@@ -6092,6 +6136,7 @@ steam现在也有试玩demo，感兴趣的听众朋友可以尝试一下。<br/>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/7133cd6d2333b8055a5fc4109cb2ff02-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/940dcede-47c1-4ab2-84d1-6bbca7ddc0f0.mp3" length="137188951" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219871.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>以前羡慕的游戏音乐会，现在我们想自己办一场 | Gadio Ad</title>
@@ -6163,6 +6208,7 @@ steam现在也有试玩demo，感兴趣的听众朋友可以尝试一下。<br/>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/d1dc319603c04dffab1898921ce3ef9c-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/36f9bee4-7f8d-45b1-89dd-415b6212d409.mp3" length="47481118" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219593.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>从游戏商业帝国到国产单机游戏史，「GPASS回归游戏季」都会聊些什么？ | Gadio Ad</title>
@@ -6256,6 +6302,7 @@ steam现在也有试玩demo，感兴趣的听众朋友可以尝试一下。<br/>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/9fa363994c25f1155d8afa61b23c2876-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/11058d72-595e-4d4d-bf17-6711278dd6e3.mp3" length="52489941" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219592.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>你怎么绿了？核周报 9.12 | Gadio News</title>
@@ -6415,6 +6462,7 @@ steam现在也有试玩demo，感兴趣的听众朋友可以尝试一下。<br/>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/7a0d96df9a4d215e5b660d8a8846726c-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/ee8b8a04-8687-44c0-88ef-987c33c07839.mp3" length="94305921" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219272.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>为什么这些神作，偏偏没有续作？【视频播客音频版】 | 核电波</title>
@@ -6516,6 +6564,7 @@ steam现在也有试玩demo，感兴趣的听众朋友可以尝试一下。<br/>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/62c61a4e42b30ccab33b95bb9dc917c9-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/7a49b5ce-e038-42d3-8176-c3da7264db7e.mp3" length="87322241" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219271.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>你会让你爸爸一周不吃饭，给你买一套GTA6吗？·GTA6与罪恶之城 Vol.01 | Gadio Pro</title>
@@ -6642,6 +6691,7 @@ Newzoo 分析显示，GTA 6 在 6 月最后一周在美国和欧洲五大市场�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/d1c7a5b75d3c8ad81576b2ed63dea2ba-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/4c1971f8-256c-4a99-bfe0-f488d9e38c32.mp3" length="102861963" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219270.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>这些好游戏怎么都让你给找到了？ | Gadio Pro</title>
@@ -6719,6 +6769,7 @@ Newzoo 分析显示，GTA 6 在 6 月最后一周在美国和欧洲五大市场�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/2c7d3b1ace75fe9beb9195c5ec46eb42-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/7081c404-45f6-4d8d-a2a3-c09319332bc9.mp3" length="68264138" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219269.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>西亿欧：我好像找到了新的游戏安利灵魂导师·《安利之王》 | 游戏茶话会</title>
@@ -6832,6 +6883,7 @@ Newzoo 分析显示，GTA 6 在 6 月最后一周在美国和欧洲五大市场�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/360ad497bb5f6dee6af4e5756a621194-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/d3ce3642-98dc-434d-9df6-3d7219b0091e.mp3" length="86636370" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219268.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>生化危机 - 浣熊市的挽歌 Vol.1 | Gadio Story</title>
@@ -6946,6 +6998,7 @@ STARS小队由Alpha和Bravo两个小队组成，另有一名直升机飞行员�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/33718774b045fb7e5ddf81f0c1c91fd0-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/143f49ef-08df-402d-a00c-282266194a63.mp3" length="78902453" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218980.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>无影无踪，核周报9.5 | Gadio News</title>
@@ -7064,6 +7117,7 @@ Thomas Bidaux 曾在一个月前就分享 Steam 单周上架的游戏数量已�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/a1cd7fe5e4e03498bf05bc6db1179fcc-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/d3c012e7-717a-43bd-b0bd-8cc54c21c705.mp3" length="72361392" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218978.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>“我不期望全网好评，只要给玩家留下印象”，对话《达巴：水痕之地》制作组【视频播客音频版】 | 核电波</title>
@@ -7182,6 +7236,7 @@ Thomas Bidaux 曾在一个月前就分享 Steam 单周上架的游戏数量已�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/8c5bd0736b9741a2f12bab936ee864b2-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/f82d1ee6-3193-4de6-a06b-e9ad9b2fb8c1.mp3" length="52720654" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218979.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>《Signalis》故事·黄历说26年七夕忌结婚，宜安葬 | Gadio Story</title>
@@ -7398,6 +7453,7 @@ REMEMBER OUR PROMISE.</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/7fc14a2e51aa6722a457f18f048507ea-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/17560f64-21d8-4d1e-9dfa-8a2ca4df9001.mp3" length="152966910" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218678.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>预告收费，重制免费，核周报 8.29 | Gadio News</title>
@@ -7576,6 +7632,7 @@ REMEMBER OUR PROMISE.</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/c172a8843febde3a78ac3fa82c2cfbf5-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/de554149-9d21-43bd-bda1-7c1f1e77be36.mp3" length="83858195" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218677.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>最能吓到我的恐怖场景，核市奇谭Vol.124 | 核市奇谭</title>
@@ -7664,6 +7721,7 @@ REMEMBER OUR PROMISE.</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/54c38a8b3156793ecfdd335ff0230e47-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/e1744dd7-e1e2-4acb-bae7-33f0b6f205ce.mp3" length="73867717" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218675.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>中元夜话 2026 | Gadio Life</title>
@@ -7975,6 +8033,7 @@ REMEMBER OUR PROMISE.</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/25e86c30d08b5afe130b0cfad9a37a74-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/1233c1ca-0666-4295-8c04-c83d7d739d6f.mp3" length="78077402" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218674.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>BLACKOUT：一场光盘战争的前夜 | Gadio Pro</title>
@@ -8094,6 +8153,7 @@ REMEMBER OUR PROMISE.</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/cc703a16a71455c87c1aafbf20a8c005-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/eeb602c8-e6f8-406c-8c46-9da49ebc71f5.mp3" length="81234666" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218374.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>从夯到拉锐评今年玩到的各种游戏【视频播客音频版】 | 核电波</title>
@@ -8270,6 +8330,7 @@ First‑Shard — Nameless Shadow｜初始残片——无名之影</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/10e5455e1c15c155b09934137fb0efb2-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a58c6b14-435d-45eb-a75b-48dbb7be57da.mp3" length="103916057" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218375.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>机洞Vol.33·该远征了 | Gadio Life</title>
@@ -8380,6 +8441,7 @@ First‑Shard — Nameless Shadow｜初始残片——无名之影</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/bd4587389ab1d5073dffd91149068d7e-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/e0c98fb6-61ce-4f55-82c6-871e128aea42.mp3" length="72644350" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218376.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>安利老板玩游戏之“封闭空间工作模拟”·游戏茶话会 V.130 | 游戏茶话会</title>
@@ -8476,6 +8538,7 @@ Nick 构思《铁巢重炮》 已超过十年。在一次开发者与发行商�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/a7a78d78ad2f41d372c4ce99b1a07ee6-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/7ef82d53-4325-430e-aedf-a7ae094677eb.mp3" length="60323332" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218377.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>青年小馗的奇幻漂流：《黑神话：钟馗》的最新先导片说了个什么样的故事？ | Gadio Pro</title>
@@ -8564,6 +8627,7 @@ Nick 构思《铁巢重炮》 已超过十年。在一次开发者与发行商�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/2f4a4ff09afbc67d5b3c5ad04ddbdcf9-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/68c2dff2-667b-497e-a033-540de416bf91.mp3" length="66305999" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218561.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>【解密回】我将为你摘下星辰 特别篇·星空下的疑问 | 会员专享</title>
@@ -8667,6 +8731,7 @@ Nick 构思《铁巢重炮》 已超过十年。在一次开发者与发行商�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/e1f2f1829e0b451b3a9f7d1ea4d042b1-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/653f2619-340d-42fd-a21c-40a1884f9751.mp3" length="60690718" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218493.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>在东北，我们用什么枪打鬼子？ | Gadio Pro</title>
@@ -8797,6 +8862,7 @@ ZH-29主要出口至中国，由张作霖的东北军使用，在1930年至1932�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/af1a117ace114523d870e1742fa98f36-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/6a779121-5d2b-462f-ab94-7434c15a3b74.mp3" length="87841764" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218101.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>刀光剑影，核周报 8.15 | Gadio News</title>
@@ -8912,6 +8978,7 @@ ZH-29主要出口至中国，由张作霖的东北军使用，在1930年至1932�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/3143665156ac14de3a8d305552e7ff3b-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/3bf82430-a92d-4cd1-a15a-da38f68e7c34.mp3" length="89854656" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218100.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>对话某幻君：如何从偷偷玩电脑到成为百大UP主？【视频播客音频版】 | 核电波</title>
@@ -9030,6 +9097,7 @@ ZH-29主要出口至中国，由张作霖的东北军使用，在1930年至1932�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/d73bce776bef8d4a0d9b803e1259522b-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/058d83a3-d676-4d38-a6c0-c8812e13e1fd.mp3" length="83566878" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218099.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>保卫洋泾浜，请客尼基塔，幽会夏思源·China Joy游记 | Gadio Life</title>
@@ -9149,6 +9217,7 @@ Craig Lee Thomas 是美国演员、编剧及配音员，其代表作品涵盖影
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/2d34a35ce4e5ed2ea369da5cd3d5317e-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/f8aa3b33-b134-4452-9012-1392b5b41259.mp3" length="72322522" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/218098.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>CF出新作，居然是3A单机？深度对话《穿越火线：潜伏》首席创意官【视频播客音频版】 | 核电波</title>
@@ -9486,6 +9555,7 @@ THQ于2012年12月在美国根据破产法第11章申请破产保护；2013年1�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/5634577646433007bc9b86520289a98c-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a8ba031a-74a3-4b38-83c7-7720e8d75998.mp3" length="82404951" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217785.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>应接不暇，核周报 8.8 | Gadio News</title>
@@ -9623,6 +9693,7 @@ Peter Serafinowicz</li>
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/75b52129df28658b212815f99a43cce2-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/987384b6-8ead-49ed-b47d-21e7994700bb.mp3" length="85377895" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217789.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>机洞Vol.32·攥着厕纸的手微微颤抖 | Gadio Life</title>
@@ -9768,6 +9839,7 @@ L4级是高度自动驾驶，它可以在特定区域或环境内实现完全的
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/132686f7988497a70a304c364b1ab1e0-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/9d711074-c792-4ff8-9716-dcfb588f569c.mp3" length="99048086" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217788.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>在蒸笼一样的上海，玩《沉星之序》《古神风里希》与《抵抗者》·游戏茶话会 V.129 | 游戏茶话会</title>
@@ -9889,6 +9961,7 @@ L4级是高度自动驾驶，它可以在特定区域或环境内实现完全的
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/e0bee4847766df5218d00469f8ea603c-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/0ac470e1-4d4f-4716-9fe4-d9f78a7a22d8.mp3" length="99762796" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217787.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>这游戏真的要做出来了？拷打《虚环》神人开发组【视频播客音频版】 | 核电波</title>
@@ -10041,6 +10114,7 @@ L4级是高度自动驾驶，它可以在特定区域或环境内实现完全的
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/cc7140a78eb546bccf735b6a64b4cd0a-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/ce8e6d70-91ec-431c-ab2d-e00391fc4bd3.mp3" length="77120693" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217786.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>为了吃，你付出过什么？ | Gadio Life</title>
@@ -10132,6 +10206,7 @@ L4级是高度自动驾驶，它可以在特定区域或环境内实现完全的
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/2789cd7000100617343bbb02cc4748ec-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/19556457-270f-4c24-a209-c836b56edc42.mp3" length="83201999" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217528.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>金蝉脱壳！核周报 8.1 | Gadio News</title>
@@ -10277,6 +10352,7 @@ ROG玩家国度近期已正式官宣，成为索尼影业《蜘蛛侠：崭新�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/000120f30a75cae84e2286a045e53e30-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a0c6530b-b744-4928-a223-1681129822e1.mp3" length="54437630" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217527.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>什么叫中式神仙打架游戏？深度对话《古神: 风里希》制作人【视频播客音频版】 | 核电波</title>
@@ -10412,6 +10488,7 @@ ROG玩家国度近期已正式官宣，成为索尼影业《蜘蛛侠：崭新�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/cfe60ab904956470f51c1eaf4ecfc3ea-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/38124df6-9fde-437f-b8ac-212e13d46db1.mp3" length="80897790" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217526.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>真有COD那味儿？《抵抗者》是我一直在等的国产FPS【视频播客音频版】 | 核电波</title>
@@ -10565,6 +10642,7 @@ ROG玩家国度近期已正式官宣，成为索尼影业《蜘蛛侠：崭新�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/512f0188ebf069b6bb678462e41c85ea-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/f57f6194-ebac-4deb-9908-4e319193ac75.mp3" length="99201059" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217525.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>“老登焦虑”是什么？这里集合 Vol.2 | Gadio Life</title>
@@ -10738,6 +10816,7 @@ ROG玩家国度近期已正式官宣，成为索尼影业《蜘蛛侠：崭新�
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/fcd7fb1d75e09b622cb9e30cc90b7529-1920-1080.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/d74fc327-c969-4f97-86b6-57ce243efb58.mp3" length="119656399" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217524.json" type="application/json+chapters"/>
 </item>
 <item>
 <title>【重口预警】 异宠专题：不想养小狗小猫可以来试试本期节目里介绍的动物哦 | Gadio Pro</title>
@@ -10961,6 +11040,7 @@ PS：萝卜看到的视频其实是三只树蛙。<br/><a href="https://www.bili
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/2e96e5c4a2e5952f94055777d6a3be3f-1600-900.jpg"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/c4a9f3e8-0774-4c13-9273-a8122c336007.mp3" length="134548703" type="audio/mpeg"/>
+<podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217290.json" type="application/json+chapters"/>
 </item>
 </channel>
 </rss>
