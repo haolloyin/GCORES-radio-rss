@@ -54,7 +54,7 @@ CACHE_DIR = ROOT / "cache"
 CHAPTER_DIR = ROOT / "chapters"
 
 # 渲染逻辑的版本号：改了 Shownotes / XML 结构就 +1，强制重写已生成的 feed
-RENDER_VERSION = 2
+RENDER_VERSION = 3
 
 WEEKDAYS = ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
 MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun",
@@ -501,7 +501,8 @@ def build_shownotes(item: dict) -> str:
         for chap in timelines:
             stamp = fmt_ts(chap["at"])
             title = escape(chap.get("title") or "")
-            line = f"<li><strong>{stamp}</strong> {title}"
+            # 时间戳保持纯文本且位于行首，客户端（Apple Podcasts 等）才能自动识别成可跳转锚点
+            line = f"<li>{stamp} {title}"
             body = chap.get("content") or ""
             if body:
                 line += f"<br/>{escape(body)}"
