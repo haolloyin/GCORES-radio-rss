@@ -1,0 +1,263 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 22,
+   "title": "TGA最佳独立游戏提名",
+   "img": "https://image.gcores.com/e3dc974f1f03a9be863cf6ce24111134-1920-1080.png",
+   "url": "https://www.gcores.com/articles/222464"
+  },
+  {
+   "startTime": 50,
+   "title": "最佳首秀游戏提名",
+   "img": "https://image.gcores.com/07cee1aab21371badde0ac41add7e595-1920-1080.png"
+  },
+  {
+   "startTime": 98,
+   "title": "对不起",
+   "img": "https://image.gcores.com/dd020dafef27b2c6cb19cc823863c35d-1062-332.png"
+  },
+  {
+   "startTime": 203,
+   "title": "新一代詹姆斯·邦德",
+   "img": "https://image.gcores.com/7ea1166dbe117481eaba6bd2b5c36c3c-690-852.jpg"
+  },
+  {
+   "startTime": 247,
+   "title": "尼古拉斯·霍尔特",
+   "img": "https://image.gcores.com/8327fa9074df12409f3a50e593d1833c-536-805.webp"
+  },
+  {
+   "startTime": 341,
+   "title": "演艺经历",
+   "img": "https://image.gcores.com/5db923c6b3d30bfbc42b12e885db93a6-1800-1012.jpg"
+  },
+  {
+   "startTime": 387,
+   "title": "Q",
+   "img": "https://image.gcores.com/3606944f503f7cc834e861a2f41746c3-194-259.webp"
+  },
+  {
+   "startTime": 396,
+   "title": "丹尼斯·维伦纽瓦",
+   "img": "https://image.gcores.com/869ca551ddf8025cdb47c5988a674137-536-806.webp"
+  },
+  {
+   "startTime": 542,
+   "title": "肖恩·康纳利",
+   "img": "https://image.gcores.com/f707cfc2541ba7a04e291ba1462e2baf-860-1200.jpg"
+  },
+  {
+   "startTime": 554,
+   "title": "丹尼尔·克雷格",
+   "img": "https://image.gcores.com/d5f02d9049e38f23084dfaa38f53d822-620-413.png"
+  },
+  {
+   "startTime": 710,
+   "title": "德克兰·赖斯",
+   "img": "https://image.gcores.com/7ca443a1a1e79f073189766ba0ff920f-536-763.webp"
+  },
+  {
+   "startTime": 721,
+   "title": "Puck News的报道",
+   "img": "https://image.gcores.com/e24f38a79fc3682df14f77ec44ed0dae-399-501.jpg"
+  },
+  {
+   "startTime": 794,
+   "title": "杰克·劳登",
+   "img": "https://image.gcores.com/f20559646bb9454c633efd844a537491-536-779.webp"
+  },
+  {
+   "startTime": 858,
+   "title": "乔什·奥康纳",
+   "img": "https://image.gcores.com/190b9f86938cd573c6aa3b3fc099ad92-536-730.webp"
+  },
+  {
+   "startTime": 903,
+   "title": "《后会友期》",
+   "img": "https://image.gcores.com/91acafc5a10a74554dd4e89d18c85c2f-536-301.webp"
+  },
+  {
+   "startTime": 936,
+   "title": "《再见爱人》",
+   "img": "https://image.gcores.com/6f2c469aa883b94744534d1b33bfd5ee-536-886.webp"
+  },
+  {
+   "startTime": 955,
+   "title": "市场反响"
+  },
+  {
+   "startTime": 997,
+   "title": "张萌与马天宇",
+   "img": "https://image.gcores.com/39ed185f959b41e8fe0455df4719df4a-690-1227.jpg"
+  },
+  {
+   "startTime": 1080,
+   "title": "彻底断联",
+   "img": "https://image.gcores.com/9275e93676838fa45fde5003c8ac1aad-700-1050.jpg"
+  },
+  {
+   "startTime": 1327,
+   "title": "买杯子",
+   "img": "https://image.gcores.com/6bb1eba0da9442730e95cefca795fd27-1104-1272.webp"
+  },
+  {
+   "startTime": 1426,
+   "title": "画地为牢",
+   "img": "https://image.gcores.com/2f88e695436edd77aa51730aa608bc48-536-301.webp"
+  },
+  {
+   "startTime": 1433,
+   "title": "厉娜体",
+   "img": "https://image.gcores.com/1200002ddc47d903de2214933575684f-536-341.webp"
+  },
+  {
+   "startTime": 1518,
+   "title": "告密罗生门",
+   "img": "https://image.gcores.com/a9e4f9a7ffd58d2bb2f14c60d2304773-565-493.webp"
+  },
+  {
+   "startTime": 1699,
+   "title": "许飞",
+   "img": "https://image.gcores.com/427cc73ed063b6ae384effb0c15c4985-360-280.webp"
+  },
+  {
+   "startTime": 1762,
+   "title": "意外翻红",
+   "img": "https://image.gcores.com/82b67767995e973d1e3f169a9a9f02be-750-1034.png"
+  },
+  {
+   "startTime": 1940,
+   "title": "拍照",
+   "img": "https://image.gcores.com/3632809d8f9ed5b777e180f03ccef237-480-360.jpg"
+  },
+  {
+   "startTime": 2118,
+   "title": "三万元旧账",
+   "img": "https://image.gcores.com/c8876ed9a2220ce7c549cd0f9ce997cc-388-690.jpg"
+  },
+  {
+   "startTime": 2346,
+   "title": "《头脑特工队》",
+   "img": "https://image.gcores.com/bb6b529e2d533e063d42d55a45de08f9-220-326.jpg"
+  },
+  {
+   "startTime": 2789,
+   "title": "箱根驿传",
+   "img": "https://image.gcores.com/ed9cc0456123a20b71920f9d21c23d3c-536-306.webp"
+  },
+  {
+   "startTime": 2838,
+   "title": "沐小葵",
+   "img": "https://image.gcores.com/998d7a1e473d991af3e55b9551536fc5-413-600.webp"
+  },
+  {
+   "startTime": 3017,
+   "title": "淡人和浓人"
+  },
+  {
+   "startTime": 3355,
+   "title": "降温",
+   "img": "https://image.gcores.com/9b3ffa53ec59490d918fc9c9c60e86a7-1080-1080.webp"
+  },
+  {
+   "startTime": 3403,
+   "title": "《爆漫王。》",
+   "img": "https://image.gcores.com/9cfd546db1c87d57428ab5d539c5740f-536-392.webp"
+  },
+  {
+   "startTime": 3432,
+   "title": "剧情简介",
+   "img": "https://image.gcores.com/ea91d077ae9243546227d4f510a72d1a-685-975.jpg"
+  },
+  {
+   "startTime": 3599,
+   "title": "《爆漫王》电影",
+   "img": "https://image.gcores.com/06bd6aa14acc570ccf1271161bd0bd06-230-326.jpg"
+  },
+  {
+   "startTime": 3654,
+   "title": "亚豆美保",
+   "img": "https://image.gcores.com/775885eaa2239671874e1e62c6f2882b-351-346.webp"
+  },
+  {
+   "startTime": 3719,
+   "title": "《挑战者》",
+   "img": "https://image.gcores.com/dbe0edda96f4f4508a79f3f38107e428-536-794.webp"
+  },
+  {
+   "startTime": 3749,
+   "title": "《绝望写手》",
+   "img": "https://image.gcores.com/fcf6a89ec00b6b794dffd108dee9ddaf-536-794.webp"
+  },
+  {
+   "startTime": 3776,
+   "title": "《住宅区的两人》",
+   "img": "https://image.gcores.com/3c31ffad795944f61b6d39f40b7890ba-536-953.webp"
+  },
+  {
+   "startTime": 3816,
+   "title": "《重启人生》",
+   "img": "https://image.gcores.com/148b714b5271bc26f998e4ddb6d49dcb-480-640.webp"
+  },
+  {
+   "startTime": 3887,
+   "title": "卢卡·瓜达尼诺",
+   "img": "https://image.gcores.com/499e1d3e420cb75d23591496c228a9d5-536-715.webp"
+  },
+  {
+   "startTime": 3898,
+   "title": "剧情简介",
+   "img": "https://image.gcores.com/84733037be82e88c0e7aefd6bf8521f0-1200-675.webp"
+  },
+  {
+   "startTime": 3986,
+   "title": "《朋友游戏》",
+   "img": "https://image.gcores.com/97b7b57547ae213aede00bb2c1fbd6c6-512-768.webp"
+  },
+  {
+   "startTime": 4162,
+   "title": "《伦敦生活》",
+   "img": "https://image.gcores.com/018b9135c7aeedf64f2fd7dec166fe12-536-794.webp"
+  },
+  {
+   "startTime": 4203,
+   "title": "录音笔VOL.827",
+   "img": "https://image.gcores.com/4356dd03dc6ef2792406ddee3a539c7f-1000-1000.jpg",
+   "url": "https://www.gcores.com/radios/222448"
+  },
+  {
+   "startTime": 4278,
+   "title": "广受好评",
+   "img": "https://image.gcores.com/932d1589eb02d57865a9f778732da912-455-674.jpg"
+  },
+  {
+   "startTime": 4335,
+   "title": "剧情简介",
+   "img": "https://image.gcores.com/28df967a691e2e05fb1479d6400e28c8-1920-1080.webp"
+  },
+  {
+   "startTime": 4538,
+   "title": "《流人》",
+   "img": "https://image.gcores.com/3cd9c193c7d3a3e4b44950c9fe60f454-536-804.webp"
+  },
+  {
+   "startTime": 4640,
+   "title": "《魔法坏女巫》",
+   "img": "https://image.gcores.com/a4bf7a610e795622561c1f2b18668c37-259-385.png"
+  },
+  {
+   "startTime": 4843,
+   "title": "《哈利·波特与魔法石》",
+   "img": "https://image.gcores.com/649de192f90a15cd346dfabc90a6743e-1280-720.jpg"
+  },
+  {
+   "startTime": 4869,
+   "title": "感谢收听"
+  }
+ ]
+}
