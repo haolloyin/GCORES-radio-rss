@@ -53,6 +53,9 @@ CONFIG_PATH = ROOT / "config.json"
 CACHE_DIR = ROOT / "cache"
 CHAPTER_DIR = ROOT / "chapters"
 
+# 渲染逻辑的版本号：改了 Shownotes / XML 结构就 +1，强制重写已生成的 feed
+RENDER_VERSION = 2
+
 WEEKDAYS = ("Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun")
 MONTHS = ("Jan", "Feb", "Mar", "Apr", "May", "Jun",
           "Jul", "Aug", "Sep", "Oct", "Nov", "Dec")
@@ -476,7 +479,9 @@ def build_shownotes(item: dict) -> str:
     """Shownotes：简介 + 原始页面链接 + 可点击时间轴。"""
     parts: list[str] = []
     summary = item.get("summary") or ""
-    if summary:
+    content_html = item.get("content_html") or ""
+    # 机核的 summary 往往就是正文首段，重复展示没意义
+    if summary and summary[:40] not in plain_text(content_html, 2000):
         parts.append(f"<p>{escape(summary)}</p>")
 
     page_url = item["page_url"]
@@ -484,7 +489,6 @@ def build_shownotes(item: dict) -> str:
         f'<p><a href="{escape(page_url, quote=True)}">🔗 在机核查看本集原始页面</a></p>'
     )
 
-    content_html = item.get("content_html") or ""
     if content_html:
         parts.append("<hr/>")
         parts.append(content_html)
@@ -799,7 +803,7 @@ def process_feed(name: str, feed_cfg: dict, cfg: dict, headers: dict,
 
     feed_path = ROOT / feed_cfg["file"]
     meta_now = {"feed_base": feed_base, "chapters_base": chapters_base,
-                "max_items": max_items}
+                "max_items": max_items, "render": RENDER_VERSION}
     if (feed_path.exists()
             and signature(items) == signature(list(state.values()))
             and load_meta(state_path) == meta_now):

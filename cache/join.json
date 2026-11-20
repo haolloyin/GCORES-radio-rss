@@ -2,7 +2,8 @@
  "meta": {
   "feed_base": "",
   "chapters_base": "",
-  "max_items": 100
+  "max_items": 100,
+  "render": 2
  },
  "items": {
   "222575": {
