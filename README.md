@@ -84,6 +84,8 @@ python3 gcores_rss.py --feed join  # 只生成入驻播客
 
 首次运行会为最近 100 集抓时间轴（约 1 分钟）；之后靠 `cache/*.json` 增量更新，只抓新单集，通常十几秒。
 
+如果这一轮抓到的内容和上一轮完全一致，脚本会跳过写文件（日志里显示「内容无变化」），所以 Actions 每小时跑一次也不会产生一堆空提交。
+
 ## GitHub Actions
 
 `.github/workflows/rss.yml` 已配置好：
