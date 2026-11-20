@@ -1,0 +1,308 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/ea2cabbdbdcf107b43f5f2a047195ca4-3000-3000.jpg",
+   "url": "https://music.163.com/song?id=3383729597&uct2=U2FsdGVkX1+FMcRwg26gdxyDAD5fm0STH8EcLfREZg8="
+  },
+  {
+   "startTime": 32,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 83,
+   "title": "《汤姆·克兰西的鹰击长空》",
+   "img": "https://image.gcores.com/43c0f6b2a7719fb79397eb16c115cb83-1200-675.jpg"
+  },
+  {
+   "startTime": 157,
+   "title": "《皇牌空战8》",
+   "img": "https://image.gcores.com/598423d0671db8a5bcd0e50a00e99294-2560-1440.jpg"
+  },
+  {
+   "startTime": 195,
+   "title": "看似很复杂",
+   "img": "https://image.gcores.com/58f141d3a124615675a259e922b1b69f-1918-1080.jpg"
+  },
+  {
+   "startTime": 251,
+   "title": "热血十足",
+   "img": "https://image.gcores.com/acc672e6b182d5e6ac9bd5cfdb168acf-3840-2130.jpg"
+  },
+  {
+   "startTime": 360,
+   "title": "“无线电”叙事",
+   "img": "https://image.gcores.com/a22cefbd908c2d33803d8f313eca6feb-1080-1614.jpg",
+   "url": "https://www.bilibili.com/video/BV1j8ns6HEqF/?spm_id_from=333.1391.0.0&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 471,
+   "title": "任务简报",
+   "img": "https://image.gcores.com/ff0d1ea1f999407e13a5f2e247e0c72e-1137-571.png"
+  },
+  {
+   "startTime": 526,
+   "title": "共用频道",
+   "img": "https://image.gcores.com/bce85a63a86f8a7ebaeab4545f9a6ea0-480-300.gif"
+  },
+  {
+   "startTime": 555,
+   "title": "高调出场",
+   "img": "https://image.gcores.com/2241e42d997c3941e04ac970db1a6f9e-1129-575.png"
+  },
+  {
+   "startTime": 645,
+   "title": "AWACS",
+   "img": "https://image.gcores.com/36cdc2aa46936b94a2a99757808d6810-203-64.png"
+  },
+  {
+   "startTime": 698,
+   "title": "孤胆英雄",
+   "img": "https://image.gcores.com/5a278faecd4511e4d026c66421d4d0e8-286-232.png"
+  },
+  {
+   "startTime": 799,
+   "title": "Kate",
+   "img": "https://image.gcores.com/98a721d8fd1ff918d2081e26d789a145-312-714.png"
+  },
+  {
+   "startTime": 850,
+   "title": "Tasha",
+   "img": "https://image.gcores.com/a278623005b4beb6a14c171cea1ae785-544-330.png"
+  },
+  {
+   "startTime": 893,
+   "title": "Noise",
+   "img": "https://image.gcores.com/9dff287f9700117f64a0bd791617f1ac-1061-594.png"
+  },
+  {
+   "startTime": 979,
+   "title": "剧透警告",
+   "img": "https://image.gcores.com/fe128955f5671f71970c850075c9f435-806-910.png"
+  },
+  {
+   "startTime": 1005,
+   "title": "安全着陆",
+   "img": "https://image.gcores.com/3ce39a754177f3007ece79db965968d7-493-248.png"
+  },
+  {
+   "startTime": 1075,
+   "title": "第一人称",
+   "img": "https://image.gcores.com/6e5b17ef91bc64584cad8bbd6f99b5e2-1141-638.png"
+  },
+  {
+   "startTime": 1124,
+   "title": "希孚之翼",
+   "img": "https://image.gcores.com/4e2492d88d094a5b02a1a3c5fefc9ec3-204-254.png"
+  },
+  {
+   "startTime": 1166,
+   "title": "Cope",
+   "img": "https://image.gcores.com/f1e8a172869d9f97bc4bff4f206ad604-828-558.png"
+  },
+  {
+   "startTime": 1307,
+   "title": "昔日战友",
+   "img": "https://image.gcores.com/8438352647c56d639f2460a1c418c063-1138-580.png"
+  },
+  {
+   "startTime": 1373,
+   "title": "可爱塔莎",
+   "img": "https://image.gcores.com/8976ef348b9e177f3801ec249f330f7c-1280-720.jpg"
+  },
+  {
+   "startTime": 1486,
+   "title": "拆迁关",
+   "img": "https://image.gcores.com/f982c171948bf51eace6e871a512ea76-201-82.png"
+  },
+  {
+   "startTime": 1553,
+   "title": "翼之歌",
+   "img": "https://image.gcores.com/2dd4755612407e85e0d21679834468e0-701-306.png"
+  },
+  {
+   "startTime": 1622,
+   "title": "老被炸",
+   "img": "https://image.gcores.com/8def6cc98659ececf0ce793ad5270f49-2400-1500.jpg"
+  },
+  {
+   "startTime": 1740,
+   "title": "没有竞品",
+   "img": "https://image.gcores.com/7dc86ffceedcc5d6e4b95ddbf0f0f98d-1199-674.png"
+  },
+  {
+   "startTime": 1822,
+   "title": "Moon 11 Tewy",
+   "img": "https://image.gcores.com/02dca3dbfc4cf6895b7dd24c095d729a-328-104.png"
+  },
+  {
+   "startTime": 1918,
+   "title": "必须日配"
+  },
+  {
+   "startTime": 1965,
+   "title": "千颗亮点",
+   "img": "https://image.gcores.com/763a980e999551545dfdf10bf02be1e1-944-326.png"
+  },
+  {
+   "startTime": 2011,
+   "title": "影之刃零",
+   "img": "https://image.gcores.com/e61bba56c8070261d1a8f00d6fd7d4bd-2551-1434.jpg"
+  },
+  {
+   "startTime": 2095,
+   "title": "高镇赫",
+   "img": "https://image.gcores.com/01dd6e62466226be7be8416c442ef26d-839-438.gif",
+   "url": "https://www.bilibili.com/video/BV1GTxz6wEdE/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 2192,
+   "title": "Kyle Garrick",
+   "img": "https://image.gcores.com/96a7bdc870f55a3b932e0a9a706787ff-262-342.png"
+  },
+  {
+   "startTime": 2264,
+   "title": "双线并行",
+   "img": "https://image.gcores.com/49d60bf8f902d952c77d7a8a059ab939-545-668.png"
+  },
+  {
+   "startTime": 2319,
+   "title": "逛夜店",
+   "img": "https://image.gcores.com/68b5a6dd986b38857f57a3934fa070cf-1143-480.png"
+  },
+  {
+   "startTime": 2392,
+   "title": "刻板印象",
+   "img": "https://image.gcores.com/cbbd78a6f563d9deefa9f9f0f6ddb004-408-360.png"
+  },
+  {
+   "startTime": 2447,
+   "title": "最用心的一关",
+   "img": "https://image.gcores.com/d65dc7d6e1cf2a039e24b8b32f9cd176-1140-638.png"
+  },
+  {
+   "startTime": 2480,
+   "title": "疑似叛国",
+   "img": "https://image.gcores.com/edfca6adceda219a52daa0528d0b4d68-1135-638.png"
+  },
+  {
+   "startTime": 2532,
+   "title": "多种选择",
+   "img": "https://image.gcores.com/85fa6791e6b148ab40b16d31d214a7e5-615-629.png"
+  },
+  {
+   "startTime": 2589,
+   "title": "求生&绝境",
+   "img": "https://image.gcores.com/8ae4b4b468ad1b3b37c99f1b14983458-1129-577.png"
+  },
+  {
+   "startTime": 2636,
+   "title": "长系列",
+   "img": "https://image.gcores.com/b0ab2be222ffa9cc1de5e8e220a85a4b-1031-644.png"
+  },
+  {
+   "startTime": 2690,
+   "title": "自我安利",
+   "img": "https://image.gcores.com/6b942bdc872fd699650cf469e78e19ac-721-467.png"
+  },
+  {
+   "startTime": 2770,
+   "title": "前作故事",
+   "img": "https://image.gcores.com/4f2eebe192d6f256412be70c394528de-1063-336.png"
+  },
+  {
+   "startTime": 2833,
+   "title": "经典关卡",
+   "img": "https://image.gcores.com/32c47865bc14c7de6db4f2f03062e4df-1123-570.png"
+  },
+  {
+   "startTime": 2943,
+   "title": "《被遗忘者王国》",
+   "img": "https://image.gcores.com/fb0a35b50306e02d8db342af79dce0cd-902-459.png"
+  },
+  {
+   "startTime": 3006,
+   "title": "克里斯·梅森",
+   "img": "https://image.gcores.com/b2ff70258ad0bb04f4ed433ac3c42c10-450-456.png"
+  },
+  {
+   "startTime": 3088,
+   "title": "故事摘要",
+   "img": "https://image.gcores.com/11ccd669a010f3d39eb1c0a70687412e-1242-878.webp"
+  },
+  {
+   "startTime": 3123,
+   "title": "新主角加瑞克",
+   "img": "https://image.gcores.com/1a5542b6b05ce05480b794c90aa9f36f-1060-478.png"
+  },
+  {
+   "startTime": 3208,
+   "title": "Ghoul",
+   "img": "https://image.gcores.com/10d94fec76f3e09265ddecdfa178c344-649-664.png"
+  },
+  {
+   "startTime": 3284,
+   "title": "《魔兽世界无限》",
+   "img": "https://image.gcores.com/931c27f1e969e89367c2907ca207b281-1080-810.webp"
+  },
+  {
+   "startTime": 3340,
+   "title": "降低门槛",
+   "img": "https://image.gcores.com/799651668837170f4b04ef3830f23a20-1066-598.png"
+  },
+  {
+   "startTime": 3398,
+   "title": "阴郁老男孩儿",
+   "img": "https://image.gcores.com/39982777f1d31c83e632166a519b251a-324-279.png"
+  },
+  {
+   "startTime": 3531,
+   "title": "《质量效应：仙女座》",
+   "img": "https://image.gcores.com/7bf6184dd76c78ed56b5c25d05ec7dad-3840-2160.jpg"
+  },
+  {
+   "startTime": 3634,
+   "title": "莫丁之死",
+   "img": "https://image.gcores.com/01e2378db42455f91287d66858e524e9-3840-2160.jpg"
+  },
+  {
+   "startTime": 3712,
+   "title": "童年回忆",
+   "img": "https://image.gcores.com/ec84e3a4c3f3e163de5b03cd868c7aa1-2560-1440.jpg"
+  },
+  {
+   "startTime": 3785,
+   "title": "故事议题",
+   "img": "https://image.gcores.com/7d141233113b1663b784b649deb69d2c-1920-1080.webp"
+  },
+  {
+   "startTime": 3864,
+   "title": "问题所在",
+   "img": "https://image.gcores.com/92534d2f2cbacb41ec7661463f2128dd-1728-1080.png"
+  },
+  {
+   "startTime": 3950,
+   "title": "生软关闭",
+   "img": "https://image.gcores.com/740cc6d351eb86c9243cfc3327d155ec-1400-788.gif"
+  },
+  {
+   "startTime": 4028,
+   "title": "《无冬之夜》",
+   "img": "https://image.gcores.com/e98aaeab89b6c270caa96d747c8f9711-1920-1080.jpg"
+  },
+  {
+   "startTime": 4125,
+   "title": "《苍穹浩瀚：奥西里斯重生》",
+   "img": "https://image.gcores.com/33a89f311e73ae2f0253942e8e07332e-716-403.webp",
+   "url": "https://osirisreborn.owlcat.games/"
+  },
+  {
+   "startTime": 4212,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/f716165c44bcd90b909d27540423161e-3000-3000.jpg",
+   "url": "https://music.163.com/song?id=3407476380&uct2=U2FsdGVkX19/Hr4l1yT1rEW2hnWxVlyMRrvdJjEKMhE="
+  }
+ ]
+}

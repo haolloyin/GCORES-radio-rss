@@ -1,0 +1,526 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "00:00"
+  },
+  {
+   "startTime": 30,
+   "title": "核周报"
+  },
+  {
+   "startTime": 76,
+   "title": "GPASS优惠活动",
+   "img": "https://image.gcores.com/cf19ee3403e839cad93409214a550617-861-482.webp"
+  },
+  {
+   "startTime": 97,
+   "title": "《双点医院》",
+   "img": "https://image.gcores.com/88b9f725c2fbe53d6526be4f50911c69-1000-573.webp",
+   "url": "https://www.gcores.com/articles/217430"
+  },
+  {
+   "startTime": 130,
+   "title": "古怪疾病",
+   "img": "https://image.gcores.com/146089d740649e1c78afede9f7c8a556-875-492.webp",
+   "url": "https://www.gcores.com/articles/217430"
+  },
+  {
+   "startTime": 187,
+   "title": "《时之笛》重制版",
+   "img": "https://image.gcores.com/d7f6a2eec3d9988822cf742c79fda633-1000-562.webp",
+   "url": "https://www.gcores.com/articles/219435"
+  },
+  {
+   "startTime": 238,
+   "title": "现代化",
+   "img": "https://image.gcores.com/275e177b7b6d40140fbb88aa0c59503a-868-490.webp"
+  },
+  {
+   "startTime": 334,
+   "title": "风格化",
+   "img": "https://image.gcores.com/c1fcb72f957896336f598126da70a714-875-492.webp"
+  },
+  {
+   "startTime": 386,
+   "title": "性能表现",
+   "img": "https://image.gcores.com/34918974fe189b39ed3258bd1822fa47-1280-720.webp"
+  },
+  {
+   "startTime": 522,
+   "title": "本作售价",
+   "img": "https://image.gcores.com/d1f7f60b371beed5cf93abf806806942-694-391.jpg"
+  },
+  {
+   "startTime": 536,
+   "title": "吹笛",
+   "img": "https://image.gcores.com/6082078e52eba2d41cf8f63a34d79a45-302-167.jpg"
+  },
+  {
+   "startTime": 552,
+   "title": "时之轨迹",
+   "img": "https://image.gcores.com/10ba22817918c5b48e5da3db99316049-596-335.jpg"
+  },
+  {
+   "startTime": 571,
+   "title": "音乐会",
+   "img": "https://image.gcores.com/154c612b641ff55c3a39bb846014004b-690-388.webp",
+   "url": "https://www.gcores.com/articles/219435"
+  },
+  {
+   "startTime": 605,
+   "title": "周边",
+   "img": "https://image.gcores.com/05614ba007300894e2f58f088a30c56f-690-388.webp"
+  },
+  {
+   "startTime": 624,
+   "title": "限定机",
+   "img": "https://image.gcores.com/178afa6f2d2d43459df52bb789cb714a-690-388.webp",
+   "url": "https://www.gcores.com/articles/219435"
+  },
+  {
+   "startTime": 678,
+   "title": "真人电影",
+   "img": "https://image.gcores.com/107a8aa72f07a89b62e86c7ede4c617a-875-493.webp",
+   "url": "https://www.gcores.com/articles/219435"
+  },
+  {
+   "startTime": 718,
+   "title": "博物馆",
+   "img": "https://image.gcores.com/19abb0705f7442bb8fb9098b9740d8ef-875-492.webp",
+   "url": "https://www.gcores.com/articles/219435"
+  },
+  {
+   "startTime": 747,
+   "title": "实体版",
+   "img": "https://image.gcores.com/6d286ff5f6d1e3223695f682060d8b4a-690-388.webp",
+   "url": "https://www.gcores.com/articles/219435"
+  },
+  {
+   "startTime": 769,
+   "title": "amiibo",
+   "img": "https://image.gcores.com/9c767b2f2438ee6587daf35c33e75b1f-690-388.webp",
+   "url": "https://www.gcores.com/articles/219435"
+  },
+  {
+   "startTime": 791,
+   "title": "发售时间",
+   "img": "https://image.gcores.com/181b0e8d4f5b1defec176cc5aec36879-330-151.jpg"
+  },
+  {
+   "startTime": 861,
+   "title": "历史地位",
+   "img": "https://image.gcores.com/9b9c3907b74d941e1f2fac0f6bc366e2-1200-720.webp"
+  },
+  {
+   "startTime": 979,
+   "title": "《怪猎 荒野》",
+   "img": "https://image.gcores.com/e449352cca6d439fbaa9fe42c352ac02-875-492.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 995,
+   "title": "《FF7 核心危机 重聚》",
+   "img": "https://image.gcores.com/d10c969796517e228e14dcc802073fa8-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1065,
+   "title": "《灾厄启示录 终极版》",
+   "img": "https://image.gcores.com/0386972908db0d87e5bd310243c970d0-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1102,
+   "title": "《超级变色龙》",
+   "img": "https://image.gcores.com/54eb5c2ac0903bad73d6c7bc9a183193-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1138,
+   "title": "《Pokopia》",
+   "img": "https://image.gcores.com/3414334ce49c57edd3880b0d3d6507b5-690-388.webp"
+  },
+  {
+   "startTime": 1161,
+   "title": "浅浅丘",
+   "img": "https://image.gcores.com/12a69be26fceea57b89895e6de640a29-250-250.webp"
+  },
+  {
+   "startTime": 1248,
+   "title": "《星际火狐》",
+   "img": "https://image.gcores.com/0c2de0223ae784ee7acab80d1ca5f32c-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1303,
+   "title": "《巫师3 重制版》",
+   "img": "https://image.gcores.com/88019ed9dc28da95215b62c2ce3ee632-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1312,
+   "title": "《天国 拯救2 皇家版》",
+   "img": "https://image.gcores.com/7b378ab0ebb93c125812389a9c1b4f41-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1341,
+   "title": "《火纹 万紫千红》",
+   "img": "https://image.gcores.com/c7dfcc4dcc31e4278b600d689c328382-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1356,
+   "title": "《雷顿教授》新作",
+   "img": "https://image.gcores.com/1315052ce003242f93ee389aabd89494-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1428,
+   "title": "《妖怪手表2 霸道》",
+   "img": "https://image.gcores.com/4717c11e2fb03b36e7d5c3e77462e906-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1502,
+   "title": "《皮克敏4》",
+   "img": "https://image.gcores.com/6c97d13654d16c196180b248afaff764-480-270.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1546,
+   "title": "《Onyx The Dark Grip》",
+   "img": "https://image.gcores.com/4aea7a11279873ba56807d7d28187da7-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1680,
+   "title": "《异度之刃3》",
+   "img": "https://image.gcores.com/87ba39b5540d04f91280cfb1ce0a98d2-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1784,
+   "title": "《舞台惊魂》",
+   "img": "https://image.gcores.com/258d12201b01535a795fc909b2f7ac63-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1790,
+   "title": "《迪士尼梦幻星谷》",
+   "img": "https://image.gcores.com/ab42d9ff021a2a2ff79f0a6fcd0e832e-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1800,
+   "title": "《美味物语》",
+   "img": "https://image.gcores.com/43e9372890be49a4b7041ce5c8cf4045-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1853,
+   "title": "《黑暗骑士之遗》",
+   "img": "https://image.gcores.com/d76a0710f67f8fc8f808b3bafa3cecd0-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1862,
+   "title": "《Cairn》",
+   "img": "https://image.gcores.com/c2c02f0cd79e143e601441f1437e3621-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1872,
+   "title": "《生化危机》",
+   "img": "https://image.gcores.com/c47823e39927338d3156a5479842905c-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1880,
+   "title": "《古墓丽影》",
+   "img": "https://image.gcores.com/2f64c001ad562cac6f1adcf29fba5ceb-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1891,
+   "title": "《NS运动度假胜地》",
+   "img": "https://image.gcores.com/35b1a05b8047cd8ffdc887d7fa75acc1-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 1987,
+   "title": "《密特罗德》新作",
+   "img": "https://image.gcores.com/c0ff1e2ce28c672f0212f43bca826a2d-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2090,
+   "title": "我一定要活下去",
+   "img": "https://image.gcores.com/d33960bafb09c74ed3482eabb93ec0da-690-388.webp"
+  },
+  {
+   "startTime": 2182,
+   "title": "类银河城游戏",
+   "img": "https://image.gcores.com/73474e7caac893f6b077213e9dcc55d5-420-236.jpg"
+  },
+  {
+   "startTime": 2292,
+   "title": "《马里奥赛车世界》",
+   "img": "https://image.gcores.com/804c1d5e61326d0d0ea5a0943355d9f2-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2313,
+   "title": "《洛克人双重超载》",
+   "img": "https://image.gcores.com/216b68da9faed8727be7700e4fdcb28c-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2324,
+   "title": "《Eternal Anima》",
+   "img": "https://image.gcores.com/7351d0b27ee80a5b7b6e96733454fdc4-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2395,
+   "title": "《弹丸论破 2x2》",
+   "img": "https://image.gcores.com/a453048ba0678ff5b0d4adc9c198baf7-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2419,
+   "title": "《饿狼传说》新作",
+   "img": "https://image.gcores.com/010cac9e7e7fafe496178dd64ed39be3-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2443,
+   "title": "《合金弹头》",
+   "img": "https://image.gcores.com/7674291e8f64ced6ee7a7043c4b20a80-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2483,
+   "title": "《游戏王GX》游戏",
+   "img": "https://image.gcores.com/fbbd3921caa19b8236b0b30e5253fb98-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2496,
+   "title": "《浪漫沙加3》重制版",
+   "img": "https://image.gcores.com/cbead350c2708524e3a212153dde4d97-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2542,
+   "title": "游戏串烧",
+   "img": "https://image.gcores.com/c378eb799853b3224da07ef6b9c5f6ec-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2572,
+   "title": "《女神异闻录4R》",
+   "img": "https://image.gcores.com/da63eb7b04a8fb497cc21df23a255b8b-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2613,
+   "title": "《女神异闻录6》",
+   "img": "https://image.gcores.com/e3d209ebf45a50c40cc12c917e4331c9-690-388.webp",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 2787,
+   "title": "成就泄露",
+   "img": "https://image.gcores.com/8d7af277ce3d3a5dfa5abf78e70ec204-1080-4430.jpg"
+  },
+  {
+   "startTime": 2818,
+   "title": "横滨",
+   "img": "https://image.gcores.com/c4ce0db9814d95ee9a83dbde545b2694-800-530.avif"
+  },
+  {
+   "startTime": 2938,
+   "title": "《星之卡比》新作",
+   "img": "https://image.gcores.com/a375f4da936cc1764f8abd3f9b172bb4-744-412.jpg",
+   "url": "https://www.gcores.com/articles/219485"
+  },
+  {
+   "startTime": 3108,
+   "title": "成就泄露",
+   "img": "https://image.gcores.com/a3c3bd584e939f77037f29524dcde165-768-432.webp"
+  },
+  {
+   "startTime": 3214,
+   "title": "《漫威金刚狼》",
+   "img": "https://image.gcores.com/4fec0addc1dfe029c3f17ddd963856c3-875-492.webp",
+   "url": "https://www.gcores.com/articles/219582"
+  },
+  {
+   "startTime": 3268,
+   "title": "《鬼武者》销量",
+   "img": "https://image.gcores.com/b8d120dc597126fa01be8f8a3e8378bf-960-531.webp"
+  },
+  {
+   "startTime": 3278,
+   "title": "《黎明行者之血》",
+   "img": "https://image.gcores.com/b016d5cbb8a8f782d93286a6dcbfbad4-920-430.webp"
+  },
+  {
+   "startTime": 3393,
+   "title": "战斗玩法",
+   "img": "https://image.gcores.com/1da73028c804fdb1b336c32225cca0c9-875-492.webp"
+  },
+  {
+   "startTime": 3513,
+   "title": "取其精华",
+   "img": "https://image.gcores.com/de6592a75bb4be179405bc192884b0dc-739-415.jpg"
+  },
+  {
+   "startTime": 3569,
+   "title": "时间管理",
+   "img": "https://image.gcores.com/94ea038480c15e6d01d32bdf9d6e8155-550-309.jpg"
+  },
+  {
+   "startTime": 3774,
+   "title": "DLSS5",
+   "img": "https://image.gcores.com/6a569aea985b40ce45f1def9a0ef40a4-1920-1080.gif",
+   "url": "https://www.gcores.com/articles/219131"
+  },
+  {
+   "startTime": 3900,
+   "title": "支持40系列",
+   "img": "https://image.gcores.com/5a9b6f30202ea496de1d2e62bb18dc3b-768-399.jpg"
+  },
+  {
+   "startTime": 3974,
+   "title": "开发者选项",
+   "img": "https://image.gcores.com/437e39cc8530b954cf0dec8877651d49-600-337.jpg"
+  },
+  {
+   "startTime": 4130,
+   "title": "小岛工作室",
+   "img": "https://image.gcores.com/4ae9e8e3f95758c2ce2388249e629453-661-345.webp",
+   "url": "https://www.gcores.com/articles/219505"
+  },
+  {
+   "startTime": 4251,
+   "title": "《死亡搁浅2》销量",
+   "img": "https://image.gcores.com/69be5cbbf69ab2e21fe55cd15070bb33-550-309.jpg"
+  },
+  {
+   "startTime": 4345,
+   "title": "《合金装备3》重制版销量",
+   "img": "https://image.gcores.com/b207fc5b14ddf33bd067cfd995244084-550-309.jpg"
+  },
+  {
+   "startTime": 4357,
+   "title": "核电波",
+   "img": "https://image.gcores.com/25f9439a6ed0ba82e627e8de77cb2f29-1600-900.jpg",
+   "url": "https://www.bilibili.com/video/BV1W8Yu6JEQ9"
+  },
+  {
+   "startTime": 4476,
+   "title": "品牌影响",
+   "img": "https://image.gcores.com/1ed5ca5dd664b9db47b7fd59e2f24810-550-309.jpg"
+  },
+  {
+   "startTime": 4594,
+   "title": "微软回应",
+   "img": "https://image.gcores.com/2d6504064c06aca845dddb11f65e4c14-875-492.webp",
+   "url": "https://www.gcores.com/articles/219505"
+  },
+  {
+   "startTime": 4622,
+   "title": "苹果发布会",
+   "img": "https://image.gcores.com/208caa8392763205e5c05ace5e411d6c-840-568.gif",
+   "url": "https://www.gcores.com/articles/219507"
+  },
+  {
+   "startTime": 4698,
+   "title": "约翰·特努斯",
+   "img": "https://image.gcores.com/e28f0767ba7c2f1d76a460879fede285-1200-1200.webp"
+  },
+  {
+   "startTime": 4767,
+   "title": "折叠屏",
+   "img": "https://image.gcores.com/e72919857aa4600e0ffdaf6e50b07325-875-492.webp"
+  },
+  {
+   "startTime": 4906,
+   "title": "本地AI",
+   "img": "https://image.gcores.com/e341ee4abc9f887acae508a440ddca50-1242-699.jpg"
+  },
+  {
+   "startTime": 4958,
+   "title": "Face ID",
+   "img": "https://image.gcores.com/b523509a247d404ca698466dc3e6ec21-1600-899.jpg"
+  },
+  {
+   "startTime": 5011,
+   "title": "突然兴奋",
+   "img": "https://image.gcores.com/83e8ec1bec335bf872a5ba92141c1d08-652-488.png"
+  },
+  {
+   "startTime": 5111,
+   "title": "拉了夯了"
+  },
+  {
+   "startTime": 5235,
+   "title": "白宫新活",
+   "img": "https://image.gcores.com/2a5aefef4fda52483f0328f3ce5fcaee-1600-900.webp",
+   "url": "https://www.gcores.com/articles/219251"
+  },
+  {
+   "startTime": 5346,
+   "title": "退税后续",
+   "img": "https://image.gcores.com/62020951d4533d015d80b8b40ba27487-550-310.png"
+  },
+  {
+   "startTime": 5417,
+   "title": "301调查",
+   "img": "https://image.gcores.com/9799781cd879bf7231ad85fb1f7d20b2-649-473.jpg"
+  },
+  {
+   "startTime": 5477,
+   "title": "五款游戏",
+   "img": "https://image.gcores.com/33153612bb5f97cd8272ca78c408a923-875-419.webp"
+  },
+  {
+   "startTime": 5554,
+   "title": "王者无敌",
+   "img": "https://image.gcores.com/0132e91f3632c8e962f8df5e64254e21-547-365.jpg"
+  },
+  {
+   "startTime": 5590,
+   "title": "从夯到拉",
+   "img": "https://image.gcores.com/5339a531f322dce769e3e4576bd6c7e1-456-708.jpg"
+  },
+  {
+   "startTime": 5630,
+   "title": "《东方红魔乡》重制版",
+   "img": "https://image.gcores.com/6cd95ed94f6a33dcf79488ec87214538-1236-693.webp",
+   "url": "https://www.gcores.com/articles/215682"
+  },
+  {
+   "startTime": 5645,
+   "title": "《WARDOGS》",
+   "img": "https://image.gcores.com/9baf36ab9661e52e33148c8eb7fcd125-460-215.webp",
+   "url": "https://www.gcores.com/articles/219584"
+  },
+  {
+   "startTime": 5665,
+   "title": "《大海捞针模拟器》",
+   "img": "https://image.gcores.com/94b980ce8883c564bb5618a9577be172-875-492.webp",
+   "url": "https://www.gcores.com/articles/219232"
+  },
+  {
+   "startTime": 5773,
+   "title": "下周再见",
+   "img": "https://image.gcores.com/ee89968a2569363cf93e88fffee223e3-554-554.jpg",
+   "url": "https://music.163.com/#/song?id=3345671504"
+  }
+ ]
+}

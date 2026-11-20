@@ -1,0 +1,304 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 52,
+   "title": "武侠节目",
+   "img": "https://image.gcores.com/6c96dd116739f25bc2560d5643e1d888-983-871.png",
+   "url": "https://www.gcores.com/radios/215157"
+  },
+  {
+   "startTime": 92,
+   "title": "欢迎策划老师"
+  },
+  {
+   "startTime": 104,
+   "title": "《烟雨江湖》",
+   "img": "https://image.gcores.com/9052a94be3f61febb9cec7a2778600d0-1080-608.webp"
+  },
+  {
+   "startTime": 143,
+   "title": "偏单机体验",
+   "img": "https://image.gcores.com/12ae076b4df785ddfffe86f706234b91-1080-608.webp"
+  },
+  {
+   "startTime": 188,
+   "title": "烟雨江湖WIKI",
+   "img": "https://image.gcores.com/7fc8cc7f1883042153f315a370b38932-1519-1198.png",
+   "url": "https://wiki.biligame.com/yanyu/%E9%A6%96%E9%A1%B5"
+  },
+  {
+   "startTime": 248,
+   "title": "MUD 游戏",
+   "img": "https://image.gcores.com/0dfbee04aff7fb20d6f435071788e605-1920-1056.jpg"
+  },
+  {
+   "startTime": 264,
+   "title": "《北大侠客行》",
+   "img": "https://image.gcores.com/8bdb1d71f962f138b804645dd475c836-536-476.webp"
+  },
+  {
+   "startTime": 309,
+   "title": "《六扇门风云》",
+   "img": "https://image.gcores.com/ca2bd8544452e23c529b5cda95f5048a-213-284.webp"
+  },
+  {
+   "startTime": 361,
+   "title": "竖屏游戏",
+   "img": "https://image.gcores.com/e1b90fc22ea87c25fa4cd510a6aa7041-506-900.jpg"
+  },
+  {
+   "startTime": 430,
+   "title": "七周年",
+   "img": "https://image.gcores.com/e7a1b98c243842c9cccd827acf9048ba-1080-608.webp"
+  },
+  {
+   "startTime": 467,
+   "title": "太乙教",
+   "img": "https://image.gcores.com/e8308b1ffd7dd18500cc05c29e41e85a-1770-996.jpg"
+  },
+  {
+   "startTime": 518,
+   "title": "参考金庸武侠世界",
+   "img": "https://image.gcores.com/44f3f27ba2960d90e7156f618edffad8-265-284.webp"
+  },
+  {
+   "startTime": 536,
+   "title": "经典武侠故事开局",
+   "img": "https://image.gcores.com/7346c371837f22133795fd779c9b61eb-1080-608.webp"
+  },
+  {
+   "startTime": 705,
+   "title": "《博德之门：剑湾传奇》",
+   "img": "https://image.gcores.com/1a0e452b2ed8827c79bdf1fbd9238b96-402-500.webp"
+  },
+  {
+   "startTime": 715,
+   "title": "伊尔明斯特",
+   "img": "https://image.gcores.com/4bc69ba55d4c2d8c1d742868bc0a1d92-384-618.jpg"
+  },
+  {
+   "startTime": 760,
+   "title": "不做扫荡和寻路",
+   "img": "https://image.gcores.com/649cc326241aedae56e97c9053e55aa3-2340-1080.jpg"
+  },
+  {
+   "startTime": 880,
+   "title": "前期玩家反馈"
+  },
+  {
+   "startTime": 933,
+   "title": "假如老滚5有自动寻路",
+   "img": "https://image.gcores.com/1688fbaa772a7f01dc330bc93bd573f9-480-270.jpg"
+  },
+  {
+   "startTime": 1029,
+   "title": "假如老头环有自动跑图",
+   "img": "https://image.gcores.com/1f598339357032cdbe3bf7d22610c362-600-400.jpg"
+  },
+  {
+   "startTime": 1049,
+   "title": "适合舔图",
+   "img": "https://image.gcores.com/220afa1595a44a851344e82f15608ddf-1076-606.png"
+  },
+  {
+   "startTime": 1183,
+   "title": "轻功系统",
+   "img": "https://image.gcores.com/b971950b650631f1d934f493a8f6e5c5-592-140.png"
+  },
+  {
+   "startTime": 1282,
+   "title": "得到更多"
+  },
+  {
+   "startTime": 1332,
+   "title": "联动《风云》",
+   "img": "https://image.gcores.com/5622d25629431ccf16969ac768c2cd60-1557-865.png"
+  },
+  {
+   "startTime": 1446,
+   "title": "马荣成",
+   "img": "https://image.gcores.com/1e94af2631b92385dc043172770d480d-412-550.webp"
+  },
+  {
+   "startTime": 1472,
+   "title": "《浪客剑心 -明治剑客浪漫谭-》",
+   "img": "https://image.gcores.com/2519bbd70f29fb6c8f1ca80bccb0373d-536-836.webp"
+  },
+  {
+   "startTime": 1497,
+   "title": "星战等于美国武侠",
+   "img": "https://image.gcores.com/1ed8e5e8192d36cb51dd33c1b92e6c0f-1280-720.jpg"
+  },
+  {
+   "startTime": 1553,
+   "title": "新武侠"
+  },
+  {
+   "startTime": 1604,
+   "title": "武学系统",
+   "img": "https://image.gcores.com/afefa9769a829c75864a5c78c9b99c56-772-504.png"
+  },
+  {
+   "startTime": 1710,
+   "title": "角色等级不代表强度",
+   "img": "https://image.gcores.com/a85d64b8a5da868c059d134229aad7ae-1006-561.png"
+  },
+  {
+   "startTime": 1805,
+   "title": "佩服游戏高玩",
+   "img": "https://image.gcores.com/0cbecb68c853d775293c0e9cb79e09aa-229-230.png"
+  },
+  {
+   "startTime": 1974,
+   "title": "枯骨门的画风",
+   "img": "https://image.gcores.com/330d356660b0995407be45e3cea6ae5e-528-508.png"
+  },
+  {
+   "startTime": 2049,
+   "title": "策划是玩家的对立面"
+  },
+  {
+   "startTime": 2118,
+   "title": "众口难调"
+  },
+  {
+   "startTime": 2256,
+   "title": "挣的钱有挨骂的部分",
+   "img": "https://image.gcores.com/77369d969d11ef3964c24bfd790dd65d-1000-1000.jpg"
+  },
+  {
+   "startTime": 2352,
+   "title": "玩家反馈很诚恳"
+  },
+  {
+   "startTime": 2438,
+   "title": "经典评价"
+  },
+  {
+   "startTime": 2450,
+   "title": "天刀门",
+   "img": "https://image.gcores.com/cc8e5a1a0cff1d283bddd7e2b96e5c31-1770-996.jpg"
+  },
+  {
+   "startTime": 2495,
+   "title": "无双城",
+   "img": "https://image.gcores.com/bbdda3f81337b10a6c408210c5b95768-1556-864.png",
+   "url": "https://www.bilibili.com/video/BV1F4326hESX/?spm_id_from=333.1387.upload.video_card.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 2556,
+   "title": "暗改数据",
+   "img": "https://image.gcores.com/05647e3f2741d80a81268ed7ffd1626f-1242-1627.webp"
+  },
+  {
+   "startTime": 2839,
+   "title": "不像手游"
+  },
+  {
+   "startTime": 2932,
+   "title": "不用配表处理剧情或战斗",
+   "img": "https://image.gcores.com/7db8b60f2a180d3bf7f6c8bf114a4509-1920-739.png"
+  },
+  {
+   "startTime": 3084,
+   "title": "霸者斗宴",
+   "img": "https://image.gcores.com/2cf0f6b955687a3069641668e78d9f19-1139-513.png"
+  },
+  {
+   "startTime": 3142,
+   "title": "脚本触发的优劣"
+  },
+  {
+   "startTime": 3316,
+   "title": "WIKI立大功",
+   "img": "https://image.gcores.com/a40025cb9e5897e7fde22d9caa4fd3e4-689-486.png"
+  },
+  {
+   "startTime": 3366,
+   "title": "剧情是玩家的冒险",
+   "img": "https://image.gcores.com/4b36c1decbf02d5b92979bad3e2d1e0a-1080-608.webp"
+  },
+  {
+   "startTime": 3439,
+   "title": "开发一个月游玩5分钟",
+   "img": "https://image.gcores.com/00415445fe54b4ae265a459219dd153e-1559-870.png"
+  },
+  {
+   "startTime": 3481,
+   "title": "采访吹哥",
+   "img": "https://image.gcores.com/2988f682d42642f2f950fb7fe2f67a26-875-583.webp",
+   "url": "https://www.gcores.com/articles/217866"
+  },
+  {
+   "startTime": 3548,
+   "title": "积累了庞大的文本量"
+  },
+  {
+   "startTime": 3659,
+   "title": "为了玩家去创作"
+  },
+  {
+   "startTime": 3703,
+   "title": "Wiki 攻略搬运事件"
+  },
+  {
+   "startTime": 3879,
+   "title": "后续持续开发",
+   "img": "https://image.gcores.com/8ddffdb2cce2a48a8985c78f04b09aeb-1560-863.png"
+  },
+  {
+   "startTime": 3973,
+   "title": "玩家能平等玩到所有内容",
+   "img": "https://image.gcores.com/349dd8cd1b164e0cd0df5bb17256e636-1080-608.webp"
+  },
+  {
+   "startTime": 4105,
+   "title": "破解版对游戏的伤害"
+  },
+  {
+   "startTime": 4260,
+   "title": "没跑路"
+  },
+  {
+   "startTime": 4342,
+   "title": "新版本上线前的压力",
+   "img": "https://image.gcores.com/2b0c6ac88b47457947f3473f24ec6e54-512-512.webp"
+  },
+  {
+   "startTime": 4436,
+   "title": "先从小目标开始",
+   "img": "https://image.gcores.com/aa48976e078d21f775e3d63f769653ed-720-406.webp"
+  },
+  {
+   "startTime": 4476,
+   "title": "随时能回坑",
+   "img": "https://image.gcores.com/4ad61de7ad8df5f7536a174231287603-1052-1870.webp"
+  },
+  {
+   "startTime": 4591,
+   "title": "基于原有系统进行升级"
+  },
+  {
+   "startTime": 4705,
+   "title": "挨打得记打"
+  },
+  {
+   "startTime": 4940,
+   "title": "多来聊天",
+   "img": "https://image.gcores.com/2cabc71c84f7e4ed4fb7ead8737c3ced-1052-591.webp"
+  },
+  {
+   "startTime": 4991,
+   "title": "欢迎在评论区互动"
+  },
+  {
+   "startTime": 5017,
+   "title": "感谢收听"
+  }
+ ]
+}

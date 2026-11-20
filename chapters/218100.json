@@ -1,0 +1,389 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/39b38b730ffb2852279ad73c752e2f3a-300-300.jpg",
+   "url": "https://music.163.com/song?id=431795042&uct2=U2FsdGVkX1+erI+lqnpvOQnMr9DZA0VNXtKQSEQLENg="
+  },
+  {
+   "startTime": 37,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 47,
+   "title": "机核FM",
+   "img": "https://image.gcores.com/aa1fe3cd90aae4a00a9ead30a72b2606-1791-1007.webp",
+   "url": "https://www.gcores.com/articles/218165"
+  },
+  {
+   "startTime": 122,
+   "title": "《影之刃零》预购开启",
+   "img": "https://image.gcores.com/f0a86a194df2b2aff9472fc79cc1d2d7-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1Hmuv68EWW/?spm_id_from=888.80997.embed_other.whitelist&t=6.73352&bvid=BV1Hmuv68EWW"
+  },
+  {
+   "startTime": 161,
+   "title": "《影之刃零》实体典藏",
+   "img": "https://image.gcores.com/ff2ee477459dc703e82ff265c6e2808f-1125-1197.webp",
+   "url": "https://www.gcores.com/articles/218342"
+  },
+  {
+   "startTime": 252,
+   "title": "分批预购",
+   "img": "https://image.gcores.com/e65d879fb97de7939c1de51e4adfb621-1045-573.webp"
+  },
+  {
+   "startTime": 305,
+   "title": "雕像和手办",
+   "img": "https://image.gcores.com/439512d670bdd4e3ada7a21550b2fcb3-464-631.png"
+  },
+  {
+   "startTime": 411,
+   "title": "核电波节目",
+   "img": "https://image.gcores.com/bbb83ffdf14accc18e05e90e510accf5-450-563.png",
+   "url": "https://www.bilibili.com/video/BV1i8gV64E8M/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 523,
+   "title": "实机演示",
+   "img": "https://image.gcores.com/e3388d6ad21d381cb13aa1c7d0a8a876-918-632.png"
+  },
+  {
+   "startTime": 586,
+   "title": "明星共创",
+   "img": "https://image.gcores.com/3f31d58710c42e372891d81ebe68f825-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1e2gH62EKS?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2479604-tn27s.1786781017569.348&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 671,
+   "title": "马车追逐战",
+   "img": "https://image.gcores.com/dd6e1b96d598c3f59d8b1e0f8791778f-1002-547.png"
+  },
+  {
+   "startTime": 767,
+   "title": "编排的合理性",
+   "img": "https://image.gcores.com/7f32bfd94bf766fcc624b090f58fa9d7-914-501.png"
+  },
+  {
+   "startTime": 840,
+   "title": "这马梆硬",
+   "img": "https://image.gcores.com/8bb3d3e02d66ebeff010647472420803-1075-579.gif"
+  },
+  {
+   "startTime": 909,
+   "title": "降低预期",
+   "img": "https://image.gcores.com/271bf63d4ce7a08352151603ac0c05d7-1092-568.png"
+  },
+  {
+   "startTime": 1001,
+   "title": "绝对不存在的游戏",
+   "img": "https://image.gcores.com/15d95124f2a0960fa7a41511806dfa18-271-379.png",
+   "url": "https://www.gcores.com/videos/199465"
+  },
+  {
+   "startTime": 1047,
+   "title": "生化9骑摩托",
+   "img": "https://image.gcores.com/f3fe705abcb4ac18c5c6db102e306d28-1110-560.png"
+  },
+  {
+   "startTime": 1130,
+   "title": "和电影比"
+  },
+  {
+   "startTime": 1240,
+   "title": "甄子丹",
+   "img": "https://image.gcores.com/f2dd770aacd02869a28e9e812be7b7fb-1039-588.png"
+  },
+  {
+   "startTime": 1344,
+   "title": "放平心态",
+   "img": "https://image.gcores.com/55f4c887bcd5303d458c69ecc43038c3-1186-677.png"
+  },
+  {
+   "startTime": 1424,
+   "title": "海外宣发",
+   "img": "https://image.gcores.com/2cf0eee4ec4e96ae399d72ebdd4d6081-856-246.png"
+  },
+  {
+   "startTime": 1510,
+   "title": "全是黑幕",
+   "img": "https://image.gcores.com/d8f8d9a758fd3e9cfd50034ddcbf3459-729-355.png"
+  },
+  {
+   "startTime": 1549,
+   "title": "机核是传统媒体",
+   "img": "https://image.gcores.com/d9767d175d7ef5fef0696df7be4b616e-240-322.gif"
+  },
+  {
+   "startTime": 1631,
+   "title": "预售价格",
+   "img": "https://image.gcores.com/22e9418d0b8056c05b67faa21dff9a24-854-477.png"
+  },
+  {
+   "startTime": 1697,
+   "title": "Lapis x Labyrinth",
+   "img": "https://image.gcores.com/03c3a3e2e6a7c0f1dcc8a21b6ad466c7-1258-500.webp"
+  },
+  {
+   "startTime": 1820,
+   "title": "卡普空",
+   "img": "https://image.gcores.com/bf8bde07858e2d14ff790aee584d5791-852-476.png"
+  },
+  {
+   "startTime": 1882,
+   "title": "优化问题",
+   "img": "https://image.gcores.com/d8509d2dc67d91a6e35813919d9e343a-730-301.png"
+  },
+  {
+   "startTime": 2003,
+   "title": "State of Play",
+   "img": "https://image.gcores.com/3fd659d0c3eb520b272a475d24db4dc9-1023-574.png"
+  },
+  {
+   "startTime": 2025,
+   "title": "《战锤40K：战争黎明4》延期",
+   "img": "https://image.gcores.com/54299be043cbdd6f49b3815ffbe2dcba-716-403.webp",
+   "url": "https://www.gcores.com/articles/218285"
+  },
+  {
+   "startTime": 2114,
+   "title": "SQUARE ENIX公布财报",
+   "img": "https://image.gcores.com/1b7b89c831d17bfc983916c8fbcf3356-716-403.webp",
+   "url": "https://www.gcores.com/articles/218222"
+  },
+  {
+   "startTime": 2245,
+   "title": "8.0开发者座谈会",
+   "img": "https://image.gcores.com/0e2629a31dcc646b41c21c871b3eb7ef-471-298.png",
+   "url": "https://www.bilibili.com/video/BV19koUBTEcj/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 2333,
+   "title": "吉田直树",
+   "img": "https://image.gcores.com/ee205c9fd79e21446ebf7fd5d7860ab0-537-296.png"
+  },
+  {
+   "startTime": 2443,
+   "title": "手游和主机",
+   "img": "https://image.gcores.com/376c792483a170631ab169e7467c74de-505-598.png"
+  },
+  {
+   "startTime": 2531,
+   "title": "？",
+   "img": "https://image.gcores.com/681ffb177780414b2ee43ef7098786c8-1180-1308.jpg"
+  },
+  {
+   "startTime": 2575,
+   "title": "为什么当T",
+   "img": "https://image.gcores.com/7798438d26cb152e33a64c802a91d1a4-1102-563.png"
+  },
+  {
+   "startTime": 2642,
+   "title": "《冒险家艾略特的千年奇谭》",
+   "img": "https://image.gcores.com/c561c92fc873a22be323150278a4c8a9-1920-1080.jpg"
+  },
+  {
+   "startTime": 2785,
+   "title": "《最终幻想 7 Revelation》",
+   "img": "https://image.gcores.com/06ca366f39e7ac8c4893ed93ff971d68-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1qK7U65Ea4/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 2847,
+   "title": "《最终幻想9》重制版",
+   "img": "https://image.gcores.com/960c4c2048c93c6746e835f3bd5840b7-1242-518.webp"
+  },
+  {
+   "startTime": 2946,
+   "title": "神罗战士",
+   "img": "https://image.gcores.com/e5bedc22b902e40bb02ba6c76bfeb2fa-1672-941.png"
+  },
+  {
+   "startTime": 3037,
+   "title": "注水严重",
+   "img": "https://image.gcores.com/1f54f23f351c4a493b8084e2c22b7c06-2255-1691.jpg"
+  },
+  {
+   "startTime": 3123,
+   "title": "《漫威金刚狼》限定版主机",
+   "img": "https://image.gcores.com/9af439374e685157367808c07667b21f-716-403.webp",
+   "url": "https://www.gcores.com/articles/218217"
+  },
+  {
+   "startTime": 3184,
+   "title": "《黑神话》七折优惠",
+   "img": "https://image.gcores.com/5a9e7dc2c7eac5774473f5aeaaac0e8e-716-403.webp",
+   "url": "https://www.gcores.com/articles/218221"
+  },
+  {
+   "startTime": 3226,
+   "title": "《空之轨迹 the 2nd》新预告",
+   "img": "https://image.gcores.com/67077d15e150dcf90fc04ba3f92f5d1a-716-403.webp",
+   "url": "https://www.gcores.com/articles/218093"
+  },
+  {
+   "startTime": 3247,
+   "title": "类33高手",
+   "img": "https://image.gcores.com/0f6919cbc13405eb3e6af52a473b5ac0-262-199.png",
+   "url": "https://www.bilibili.com/video/BV1wBuQ6rE3b/?spm_id_from=333.1387.search.video_card.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 3325,
+   "title": "3代主角",
+   "img": "https://image.gcores.com/37ee8a5c40afbb422a5b29b73e922107-2304-1296.jpg"
+  },
+  {
+   "startTime": 3416,
+   "title": "法老控"
+  },
+  {
+   "startTime": 3490,
+   "title": "《守望先锋》新英雄",
+   "img": "https://image.gcores.com/9680615adb8f86afb9aaa4283d7faa65-716-403.webp",
+   "url": "https://www.gcores.com/articles/218113"
+  },
+  {
+   "startTime": 3598,
+   "title": "大锤",
+   "img": "https://image.gcores.com/ed7eb0f51c3ad858d6d1a1016d8f74fd-566-578.png"
+  },
+  {
+   "startTime": 3680,
+   "title": "仓鼠球",
+   "img": "https://image.gcores.com/29150dc545076486f71f764d5d634972-2073-1296.jpg"
+  },
+  {
+   "startTime": 3723,
+   "title": "寻人启事",
+   "img": "https://image.gcores.com/367530bd9e90152560c3479f0bc12908-339-301.png"
+  },
+  {
+   "startTime": 3793,
+   "title": "轻松的射击游戏",
+   "img": "https://image.gcores.com/a8654b841658a741b0a9e9f2a8fd93e4-645-639.png"
+  },
+  {
+   "startTime": 3824,
+   "title": "《人间炼狱：越南》",
+   "img": "https://image.gcores.com/d87b1840eff69e5da6bb0ee131a471df-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1vRuH67EdR/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 3921,
+   "title": "TGA定档",
+   "img": "https://image.gcores.com/d283669792eb3d6280c08c8cb337361d-2160-2700.webp",
+   "url": "https://www.gcores.com/articles/218205"
+  },
+  {
+   "startTime": 3991,
+   "title": "《巅峰守卫》",
+   "img": "https://image.gcores.com/a03ca2295f70f7c283e9923c8572bee5-760-428.webp"
+  },
+  {
+   "startTime": 4068,
+   "title": "今年的压轴"
+  },
+  {
+   "startTime": 4147,
+   "title": "魔爪",
+   "img": "https://image.gcores.com/7b2d3a9001d8c6fc0345c3800885698f-481-594.png"
+  },
+  {
+   "startTime": 4265,
+   "title": "《刺客信条》游玩人数暴涨",
+   "img": "https://image.gcores.com/c80ab9e8c0b417097c4772173371d7e2-716-456.webp",
+   "url": "https://www.gcores.com/articles/218147"
+  },
+  {
+   "startTime": 4372,
+   "title": "《奥德赛》",
+   "img": "https://image.gcores.com/01eca90d17e7f0568a5e06f3cbad8fa5-972-1440.jpg",
+   "url": "https://www.gcores.com/videos/218321"
+  },
+  {
+   "startTime": 4436,
+   "title": "仲树对话诺兰",
+   "img": "https://image.gcores.com/790335788b74fee5ea3be1bba1867d07-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1vdGK6GEQE/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4460,
+   "title": "《欢迎来龙餐馆》",
+   "img": "https://image.gcores.com/8722fa3d5ce2d692e5a09160bbf4b995-1080-1542.jpg"
+  },
+  {
+   "startTime": 4499,
+   "title": "《肖申克的救赎》",
+   "img": "https://image.gcores.com/d079eb93d1e35de51648e634eaa50ad6-1080-1600.jpg"
+  },
+  {
+   "startTime": 4566,
+   "title": "《真实的谎言》",
+   "img": "https://image.gcores.com/3f9e30baaa10fe23227f46a030f424f2-600-888.jpg"
+  },
+  {
+   "startTime": 4625,
+   "title": "《黑客帝国》",
+   "img": "https://image.gcores.com/af2bfe796517907154325bef5bbe7ffb-1080-1602.jpg"
+  },
+  {
+   "startTime": 4687,
+   "title": "《追捕》",
+   "img": "https://image.gcores.com/33e8992f522723831f9171228af5b9d6-500-700.jpg"
+  },
+  {
+   "startTime": 4811,
+   "title": "Bethesda 40 周年",
+   "img": "https://image.gcores.com/7c88bad09110dfb1a66aea781d3a9fdc-1849-522.png"
+  },
+  {
+   "startTime": 4907,
+   "title": "《绝地潜兵2》联动《战锤40k》",
+   "img": "https://image.gcores.com/000286cd02552fe431201ed3f12ae93b-635-342.webp",
+   "url": "https://www.gcores.com/articles/217798"
+  },
+  {
+   "startTime": 4993,
+   "title": "热熔地雷",
+   "img": "https://image.gcores.com/113a4a88783b38545a98e4f138cb7e32-1164-632.png"
+  },
+  {
+   "startTime": 5056,
+   "title": "SEAF",
+   "img": "https://image.gcores.com/7dc2a450a21ea5ab24012dc42ed5e672-872-485.png"
+  },
+  {
+   "startTime": 5130,
+   "title": "Wretch",
+   "img": "https://image.gcores.com/37210c13d104c3b42ea8210d6e1a7218-868-461.png"
+  },
+  {
+   "startTime": 5162,
+   "title": "Crusher",
+   "img": "https://image.gcores.com/9b7866a28a6cd7e8aa18ea717f832a04-861-468.png"
+  },
+  {
+   "startTime": 5243,
+   "title": "魔兽世界12.1",
+   "img": "https://image.gcores.com/3d9c8d1074dc5cbc9854c5f3fda3e937-1023-522.png"
+  },
+  {
+   "startTime": 5351,
+   "title": "乌拉泰克",
+   "img": "https://image.gcores.com/593ed91367b039a59717ffb662f1f730-952-536.png"
+  },
+  {
+   "startTime": 5485,
+   "title": "邓艾是哪国的？",
+   "img": "https://image.gcores.com/7d967bec36c4b42eeda19f8b002aa875-1039-646.png"
+  },
+  {
+   "startTime": 5589,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/59eebaa4833f64d6c4bbb627816ab2a8-900-900.jpg",
+   "url": "https://music.163.com/song?id=27562504&uct2=U2FsdGVkX18Q2duJ71Ql9EWJ3j4hujulve8SxUWMgI8="
+  }
+ ]
+}

@@ -1,0 +1,453 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/767b33f5dae420edbfe9a64a3c5dcc26-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1kS8H6VERt/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 32,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 52,
+   "title": "《黑神话：钟馗》实机演示",
+   "img": "https://image.gcores.com/faf54a7ec77305d89a25a3c4eede6df3-1920-1080.jpg"
+  },
+  {
+   "startTime": 72,
+   "title": "《影之刃零》专场",
+   "img": "https://image.gcores.com/def3525ef95f57cee61d4132c147cf4d-1916-1077.jpg",
+   "url": "https://www.bilibili.com/video/BV1Zdbi6rER9/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 89,
+   "title": "甄子丹",
+   "img": "https://image.gcores.com/a042828bc9e3c2eea3296f67d5e1aa93-1144-640.png"
+  },
+  {
+   "startTime": 152,
+   "title": "地图大",
+   "img": "https://image.gcores.com/477a1e8b1403d6d198f865cab0630689-1148-638.png"
+  },
+  {
+   "startTime": 171,
+   "title": "战斗爽",
+   "img": "https://image.gcores.com/8f1689d7267f0aa55dbedf05536e6b5c-1143-634.png"
+  },
+  {
+   "startTime": 269,
+   "title": "铜人",
+   "img": "https://image.gcores.com/2558845cc211b526316bfa519759e6fd-553-539.png"
+  },
+  {
+   "startTime": 302,
+   "title": "敌人AI",
+   "img": "https://image.gcores.com/37bdaf8d5b6eab7d14d993600dd7e050-1141-642.png"
+  },
+  {
+   "startTime": 379,
+   "title": "读指令",
+   "img": "https://image.gcores.com/2e71aaf1cfe7294b810bb06410e0099f-214-160.png"
+  },
+  {
+   "startTime": 429,
+   "title": "66天",
+   "img": "https://image.gcores.com/134e7e07c767cbcb66c21337e11f28c8-1149-637.png"
+  },
+  {
+   "startTime": 490,
+   "title": "往期节目",
+   "img": "https://image.gcores.com/2dbc1aa7efbb90c544629c75f9c9e542-1570-883.jpg",
+   "url": "https://www.bilibili.com/video/BV1wUveBHE7b/?spm_id_from=333.1387.search.video_card.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 514,
+   "title": "舞狮",
+   "img": "https://image.gcores.com/799b784c548e74381119f649ed5d82ab-1135-636.png"
+  },
+  {
+   "startTime": 644,
+   "title": "神兽舞狮",
+   "img": "https://image.gcores.com/d3718d8f94c6e117d07bfa93b999cb27-1040-598.png"
+  },
+  {
+   "startTime": 718,
+   "title": "邵氏武侠",
+   "img": "https://image.gcores.com/e8349d0d9ae10de7894a13d015aec8a8-603-252.png"
+  },
+  {
+   "startTime": 817,
+   "title": "《湮灭之潮》线下试玩",
+   "img": "https://image.gcores.com/c351b9e889151efb910b80e95215dcdf-1080-607.jpg",
+   "url": "https://www.bilibili.com/video/BV131b26FEUQ/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 868,
+   "title": "《混沌军团》",
+   "img": "https://image.gcores.com/d8b3d07cac61544a1e3275b5c5589ea9-860-643.png"
+  },
+  {
+   "startTime": 959,
+   "title": "阿努比斯",
+   "img": "https://image.gcores.com/b83d8efcf903f8a9299d372198fad4a5-1141-642.png"
+  },
+  {
+   "startTime": 1033,
+   "title": "重演出",
+   "img": "https://image.gcores.com/5a23f2c177b47537477c9db7dfa4eaa2-1062-598.png",
+   "url": "https://www.bilibili.com/video/BV1sLysBsEQq/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1135,
+   "title": "合理搭配",
+   "img": "https://image.gcores.com/1414b15c8b274f990b9f10285de6e031-354-290.png"
+  },
+  {
+   "startTime": 1199,
+   "title": "凯尔特人",
+   "img": "https://image.gcores.com/b0ab4641df8f7ed75efab9e030a0c94d-596-335.png"
+  },
+  {
+   "startTime": 1265,
+   "title": "颜值削弱",
+   "img": "https://image.gcores.com/9c5dd80dff274cfeca8ce726f8c169e8-1146-741.png"
+  },
+  {
+   "startTime": 1317,
+   "title": "角色识别度",
+   "img": "https://image.gcores.com/b10603ac03629b4d7edcddcbf2219169-711-647.png"
+  },
+  {
+   "startTime": 1404,
+   "title": "那咋了？",
+   "img": "https://image.gcores.com/009cb26d01ed380262d1221c383bc28d-298-292.png"
+  },
+  {
+   "startTime": 1440,
+   "title": "纳豆龙"
+  },
+  {
+   "startTime": 1488,
+   "title": "《昭和米国物语》预告",
+   "img": "https://image.gcores.com/adf7ab74cc8e510ed803115205f7ecd6-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1nAba6aE5x/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1528,
+   "title": "相关节目",
+   "img": "https://image.gcores.com/c1cf47f6d5fc5278fb6977b63a639a0c-1600-900.jpg",
+   "url": "https://www.bilibili.com/video/BV1Uf8F6oEXc/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1577,
+   "title": "钟馗现身",
+   "img": "https://image.gcores.com/04ae776a897e1514a82a2a74e0b254e7-671-461.png"
+  },
+  {
+   "startTime": 1681,
+   "title": "老演员客串",
+   "img": "https://image.gcores.com/e9e932502eb517b516c0156bf452c2aa-731-471.png"
+  },
+  {
+   "startTime": 1763,
+   "title": "长坏了",
+   "img": "https://image.gcores.com/c551f49860922d5e394ef651791e3f47-1001-459.png"
+  },
+  {
+   "startTime": 1777,
+   "title": "双人成行",
+   "img": "https://image.gcores.com/416972d343d437044219a1f163fd7ecf-1118-475.png"
+  },
+  {
+   "startTime": 1805,
+   "title": "蚌精",
+   "img": "https://image.gcores.com/bf7e692f16f2c26049ce62bd9a4cf279-1117-464.png"
+  },
+  {
+   "startTime": 1897,
+   "title": "像科比",
+   "img": "https://image.gcores.com/3f7856d9832db2b67875f6f11a8bdf88-543-517.png"
+  },
+  {
+   "startTime": 1958,
+   "title": "钟馗的性格",
+   "img": "https://image.gcores.com/88c6a2b196045acc7d65a3fb722c0541-482-642.png"
+  },
+  {
+   "startTime": 2068,
+   "title": "学徒钟馗",
+   "img": "https://image.gcores.com/3b0393b0d0d4c62332ff03e269d18a85-954-476.png"
+  },
+  {
+   "startTime": 2126,
+   "title": "Big钟馗",
+   "img": "https://image.gcores.com/73317555a4a8f8b93e96bbaf5cd30b66-922-579.png"
+  },
+  {
+   "startTime": 2262,
+   "title": "赞不绝口"
+  },
+  {
+   "startTime": 2401,
+   "title": "克制",
+   "img": "https://image.gcores.com/03f5c66aa7dee65b45fbd65c227d67df-1141-473.png"
+  },
+  {
+   "startTime": 2530,
+   "title": "交互丰富",
+   "img": "https://image.gcores.com/8dfa22871d9a9c0bcf786b6b6b3d73b0-940-472.png"
+  },
+  {
+   "startTime": 2631,
+   "title": "多玩多比较",
+   "img": "https://image.gcores.com/6affa5668e8c7221812896afb519565a-1065-597.png"
+  },
+  {
+   "startTime": 2681,
+   "title": "可玩的电影",
+   "img": "https://image.gcores.com/8a82fc6473039cd17ee5e7b992c0e9d6-1138-470.png"
+  },
+  {
+   "startTime": 2834,
+   "title": "难以置信",
+   "img": "https://image.gcores.com/d47d56abf79661b5a708b6b535ed8013-1145-473.png"
+  },
+  {
+   "startTime": 2926,
+   "title": "水火无情",
+   "img": "https://image.gcores.com/4ae1f0e52ee193d43a732a726443a1e1-1133-475.png"
+  },
+  {
+   "startTime": 2996,
+   "title": "真实演算",
+   "img": "https://image.gcores.com/c4e7182cbd29d2f3c6116140a4576baa-1109-465.gif"
+  },
+  {
+   "startTime": 3087,
+   "title": "物理反馈",
+   "img": "https://image.gcores.com/526bc18648cf8204edb28a8c9f7e3735-1109-465.gif"
+  },
+  {
+   "startTime": 3140,
+   "title": "刀光剑影",
+   "img": "https://image.gcores.com/72b3c90cf23069558c70c28c3e8b4126-1109-465.gif"
+  },
+  {
+   "startTime": 3236,
+   "title": "技术实现"
+  },
+  {
+   "startTime": 3327,
+   "title": "面部表情",
+   "img": "https://image.gcores.com/968685ddc5c433fecf7f1bf227731ff4-469-621.png"
+  },
+  {
+   "startTime": 3447,
+   "title": "新战神的战斗节奏",
+   "img": "https://image.gcores.com/3b4af2d951f552a1474cb581849cf420-1027-640.png"
+  },
+  {
+   "startTime": 3488,
+   "title": "黑神话的战斗节奏",
+   "img": "https://image.gcores.com/ac3c19b1d77b2c52917b879faae1d9f3-1062-597.png"
+  },
+  {
+   "startTime": 3648,
+   "title": "捉鬼",
+   "img": "https://image.gcores.com/63c4883fa2aa7af2c68788b1d8021528-1128-470.png"
+  },
+  {
+   "startTime": 3711,
+   "title": "亚萨西",
+   "img": "https://image.gcores.com/fb64f8e1e39a0bfc240db02c88273934-1143-473.png"
+  },
+  {
+   "startTime": 3754,
+   "title": "慢工出细活",
+   "img": "https://image.gcores.com/ecfde4a3ce68bc6224fa1978245c14d6-1120-465.png"
+  },
+  {
+   "startTime": 3823,
+   "title": "《GTA6》实机泄露",
+   "img": "https://image.gcores.com/46d28ea47fb5d7ab45c3f26cb0901a28-320-260.png",
+   "url": "https://www.gcores.com/articles/218546"
+  },
+  {
+   "startTime": 3864,
+   "title": "Cyberleek的诉求",
+   "img": "https://image.gcores.com/9cd5d13039282031ff81095dede57b53-627-785.webp"
+  },
+  {
+   "startTime": 3971,
+   "title": "商业策略",
+   "img": "https://image.gcores.com/8962ece246aff542b18e6a5660c04ca0-889-500.webp"
+  },
+  {
+   "startTime": 4077,
+   "title": "难以突破",
+   "img": "https://image.gcores.com/94d38e08c243d35f1a527087d59e7b2e-682-385.png"
+  },
+  {
+   "startTime": 4144,
+   "title": "《黎明行者之血》开启预购",
+   "img": "https://image.gcores.com/2c506077e09a555353108ce68aabca8f-716-402.webp",
+   "url": "https://www.gcores.com/articles/218424"
+  },
+  {
+   "startTime": 4168,
+   "title": "2K成立工作室",
+   "img": "https://image.gcores.com/8114633b0f482be959134d55c7371d67-1063-600.webp"
+  },
+  {
+   "startTime": 4331,
+   "title": "龙说领导",
+   "img": "https://image.gcores.com/a6adb9c9325282119aef8759ce8ee299-800-313.png"
+  },
+  {
+   "startTime": 4361,
+   "title": "腾讯26年财报",
+   "img": "https://image.gcores.com/45299ee8367f1e80a696519a0bac2430-973-549.webp",
+   "url": "https://www.gcores.com/articles/218310"
+  },
+  {
+   "startTime": 4437,
+   "title": "《皇室战争》",
+   "img": "https://image.gcores.com/00cf1be7700941194a2e4fd26ed7c995-1080-2340.jpg"
+  },
+  {
+   "startTime": 4515,
+   "title": "《王国之心4》预告",
+   "img": "https://image.gcores.com/b46e2004ee232b1559e8f3fb62511898-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1Aug36AEPn/?spm_id_from=888.80997.embed_other.whitelist&bvid=BV1Aug36AEPn&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4631,
+   "title": "利库",
+   "img": "https://image.gcores.com/428effe9001f9bf34d85c00a06b62345-536-301.webp"
+  },
+  {
+   "startTime": 4696,
+   "title": "玲娜贝儿",
+   "img": "https://image.gcores.com/8d3e6c04b385eb954c93eb6502c3edf7-473-609.png"
+  },
+  {
+   "startTime": 4753,
+   "title": "《王国之心》动画",
+   "img": "https://image.gcores.com/29594e499ce0ce59130c4a83f938eea9-1414-637.png",
+   "url": "https://thewaltdisneycompany.com/news/kingdom-hearts-tv-series/"
+  },
+  {
+   "startTime": 4844,
+   "title": "《尼尔：人工生命 ver.1.22474487139...》",
+   "img": "https://image.gcores.com/e529c910ec3f61769618ed94bf535cfa-640-427.jpeg"
+  },
+  {
+   "startTime": 4912,
+   "title": "科隆游戏展再创新高",
+   "img": "https://image.gcores.com/76880f3ea4d795b3411d8d86d974d684-716-376.webp",
+   "url": "https://www.gcores.com/articles/218533"
+  },
+  {
+   "startTime": 4974,
+   "title": "Xbox FanFest",
+   "img": "https://image.gcores.com/311c04337ae45db4427519efdbae7aa4-1798-769.png",
+   "url": "https://www.xbox.com/en-US/community/fanfest?utm_source=chatgpt.com&wfExp=382CT"
+  },
+  {
+   "startTime": 5114,
+   "title": "《The Dusk Bloods》测试开启",
+   "img": "https://image.gcores.com/0fdd43badb1ba94a973cdb7b01c2c1f0-648-394.png",
+   "url": "https://www.bilibili.com/video/BV1tC8A6vE33/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 5144,
+   "title": "游戏玩法",
+   "img": "https://image.gcores.com/689535f6224aa9d3ab9fce15cfcf2b36-1800-1013.avif"
+  },
+  {
+   "startTime": 5311,
+   "title": "游戏角色",
+   "img": "https://image.gcores.com/ec9814758489f8035735ca1d9588d316-1800-1013.avif"
+  },
+  {
+   "startTime": 5415,
+   "title": "不爱联机"
+  },
+  {
+   "startTime": 5449,
+   "title": "《GunZ: The Duel》",
+   "img": "https://image.gcores.com/d7982afd436cad9e867227c2994ef2af-1280-720.webp"
+  },
+  {
+   "startTime": 5532,
+   "title": "问题多多",
+   "img": "https://image.gcores.com/292e3d2a1bbfd506a60cf703d2c90811-853-464.png"
+  },
+  {
+   "startTime": 5613,
+   "title": "《COD23》多人测试开启",
+   "img": "https://image.gcores.com/ad0f0fae18c28c4a1a1830962a01cd60-1920-1080.jpg"
+  },
+  {
+   "startTime": 5628,
+   "title": "《寂静岭：Townfall》实机演示",
+   "img": "https://image.gcores.com/8b98736565c9aa3c34a6b19080ca5f9c-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1drbZ6hEjw/?spm_id_from=888.80997.embed_other.whitelist&t=2.907233&bvid=BV1drbZ6hEjw&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 5719,
+   "title": "实机画面",
+   "img": "https://image.gcores.com/f3d9a1405e4bd0265b1ada78eea5d1c1-1134-483.png"
+  },
+  {
+   "startTime": 5792,
+   "title": "《女巫布莱尔》",
+   "img": "https://image.gcores.com/288db126ec189d750db2ea319aa49d18-616-347.gif"
+  },
+  {
+   "startTime": 5875,
+   "title": "todolist任务",
+   "img": "https://image.gcores.com/e904aceb13bb15ecd414bcc3ea9e9d53-1135-481.png"
+  },
+  {
+   "startTime": 5991,
+   "title": "《寂静岭：记忆之书》",
+   "img": "https://image.gcores.com/caba49e437309b241ade546e5c0e7c7c-1280-720.jpg"
+  },
+  {
+   "startTime": 6081,
+   "title": "重归于好",
+   "img": "https://image.gcores.com/daeded9862b930817bea5fe5b599590f-660-372.jpg"
+  },
+  {
+   "startTime": 6199,
+   "title": "《沉没之城2》",
+   "img": "https://image.gcores.com/2be9bdbd8a71a303abd932f0c32245f2-870-599.png",
+   "url": "https://store.steampowered.com/app/2825860/The_Sinking_City_2/"
+  },
+  {
+   "startTime": 6208,
+   "title": "《Big Walk》",
+   "img": "https://image.gcores.com/d09d26a5a777d8b7e22444bff7222e6d-1920-1080.jpg",
+   "url": "https://store.steampowered.com/app/1478500/Big_Walk/"
+  },
+  {
+   "startTime": 6284,
+   "title": "光环新作外包",
+   "img": "https://image.gcores.com/30818f5168114c04de73740eb1d3c85f-690-388.jpg"
+  },
+  {
+   "startTime": 6433,
+   "title": "《叛击士：杀手》",
+   "img": "https://image.gcores.com/0eb2bbb12cef309365538c82e724e678-1388-867.jpeg",
+   "url": "https://store.steampowered.com/app/903930/Brigador_Killers/"
+  },
+  {
+   "startTime": 6473,
+   "title": "感谢收听"
+  }
+ ]
+}

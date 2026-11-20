@@ -1,0 +1,320 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 20,
+   "title": "本期话题",
+   "img": "https://image.gcores.com/d44d29e8e679b10d40c4c671e38d28be-500-250.webp"
+  },
+  {
+   "startTime": 108,
+   "title": "2025 春节档",
+   "img": "https://image.gcores.com/409e46760486053e7e3c57ec95a5f343-1055-1055.png"
+  },
+  {
+   "startTime": 262,
+   "title": "2026 春节档",
+   "img": "https://image.gcores.com/bb129b20f29d2c7a99fa4a466e19857d-1536-1536.jpeg"
+  },
+  {
+   "startTime": 358,
+   "title": "《生化危机：爆发夜》",
+   "img": "https://image.gcores.com/efccbcaab542923c9483a4d89fce2b4a-536-670.webp"
+  },
+  {
+   "startTime": 421,
+   "title": "《黑球》",
+   "img": "https://image.gcores.com/07513105bd7ba534fe925148bc9b82a8-536-746.webp"
+  },
+  {
+   "startTime": 446,
+   "title": "《你能看到一切》",
+   "img": "https://image.gcores.com/3dfbb7f36b97c1a82b9e04f66bfd79ab-536-794.webp"
+  },
+  {
+   "startTime": 485,
+   "title": "《某种物质》",
+   "img": "https://image.gcores.com/377b1e3e58f8a178b73e9a3be2334c8c-450-600.jpg"
+  },
+  {
+   "startTime": 568,
+   "title": "洛伦佐·祖佐洛",
+   "img": "https://image.gcores.com/3af2f21181982d6b966c0f564745edb0-536-670.webp"
+  },
+  {
+   "startTime": 582,
+   "title": "《痴迷》",
+   "img": "https://image.gcores.com/86394760d73f54de1004189704facc86-536-794.webp"
+  },
+  {
+   "startTime": 690,
+   "title": "核市奇谭 Vol.101"
+  },
+  {
+   "startTime": 728,
+   "title": "《怪物：杰夫瑞·达莫的故事》",
+   "img": "https://image.gcores.com/1381513cdb435a98fa2ce04932f89be5-536-792.webp"
+  },
+  {
+   "startTime": 745,
+   "title": "《怪物：丽兹·波顿的故事》",
+   "img": "https://image.gcores.com/3f0ee37391f6dc1ace336fd13588047e-536-818.webp"
+  },
+  {
+   "startTime": 795,
+   "title": "《致命女人》",
+   "img": "https://image.gcores.com/c95eba22febdcfbded09e683818133da-536-707.webp"
+  },
+  {
+   "startTime": 812,
+   "title": "《珀尔》",
+   "img": "https://image.gcores.com/706a8953eb8c3545e481fb59651dd3a3-456-673.jpg"
+  },
+  {
+   "startTime": 904,
+   "title": "布里奇特·沙利文",
+   "img": "https://image.gcores.com/9769fe45b6205051a686a230e6184367-270-360.webp"
+  },
+  {
+   "startTime": 966,
+   "title": "丽兹·波顿",
+   "img": "https://image.gcores.com/022fa40581f39990e64350c98d857872-270-360.webp"
+  },
+  {
+   "startTime": 1038,
+   "title": "登场形象",
+   "img": "https://image.gcores.com/70c00257dc635433fdbb21f8f16aaf82-614-607.png"
+  },
+  {
+   "startTime": 1217,
+   "title": "辛德瑞拉",
+   "img": "https://image.gcores.com/ed87ebd1f507459f497da776bf63d351-536-692.webp"
+  },
+  {
+   "startTime": 1256,
+   "title": "仙女教母",
+   "img": "https://image.gcores.com/6ab1348d836182e14ad02ac65feb2942-1200-1175.webp"
+  },
+  {
+   "startTime": 1321,
+   "title": "《小姐》",
+   "img": "https://image.gcores.com/111e56d7250ba6822def60f5c23ab471-452-678.jpg"
+  },
+  {
+   "startTime": 1336,
+   "title": "南淑姬",
+   "img": "https://image.gcores.com/4582ea5115972f76dedc998d8a5f0458-536-666.webp"
+  },
+  {
+   "startTime": 1425,
+   "title": "《杀死比尔：血色全传》",
+   "img": "https://image.gcores.com/e5bb6d5e07dea231b5046fab36aacf5b-536-757.webp"
+  },
+  {
+   "startTime": 1501,
+   "title": "老动画片段",
+   "img": "https://image.gcores.com/52c34f39a27f38d1d16b24966bf72a89-1280-720.jpg"
+  },
+  {
+   "startTime": 1520,
+   "title": "新动画片段",
+   "img": "https://image.gcores.com/6756a99c56ca6a84a20b5a7c8b4a0bd6-480-360.jpg"
+  },
+  {
+   "startTime": 1622,
+   "title": "挺棒吧？",
+   "img": "https://image.gcores.com/7019215faf1bd8e73eda8eba0507a909-1280-720.jpg"
+  },
+  {
+   "startTime": 1739,
+   "title": "《敦煌英雄》",
+   "img": "https://image.gcores.com/16197e6492ddc5e13f0456ccd42959fa-536-766.webp"
+  },
+  {
+   "startTime": 1879,
+   "title": "《神探之痕迹》",
+   "img": "https://image.gcores.com/64efc311ad516a2b2bbe41ddd1628b2a-536-766.webp"
+  },
+  {
+   "startTime": 2156,
+   "title": "《神探之弹道》",
+   "img": "https://image.gcores.com/716039687f62a74aaf5efc5e727d53f5-536-390.webp"
+  },
+  {
+   "startTime": 2194,
+   "title": "《致命女人 第二季》",
+   "img": "https://image.gcores.com/8aa4dff6938e96c667bbe9dcb8240a6c-536-793.webp"
+  },
+  {
+   "startTime": 2238,
+   "title": "《真探》第二季",
+   "img": "https://image.gcores.com/bc67de77bc7b6a4a163341c6ed88f320-536-752.webp"
+  },
+  {
+   "startTime": 2440,
+   "title": "《权力的游戏》第八季",
+   "img": "https://image.gcores.com/7deddeac604278cfea4c0af637b7e847-536-775.webp"
+  },
+  {
+   "startTime": 2483,
+   "title": "《迷失》",
+   "img": "https://image.gcores.com/074693932b408d99f041b55bf309a217-536-715.webp"
+  },
+  {
+   "startTime": 2527,
+   "title": "达蒙·林德洛夫",
+   "img": "https://image.gcores.com/f91d52a3d293a7051563d51b3a0e7992-536-804.webp"
+  },
+  {
+   "startTime": 2706,
+   "title": "《轮到你了》",
+   "img": "https://image.gcores.com/a23765cc95f0c5e4b35375f8e473e756-400-600.webp",
+   "url": "https://www.gcores.com/radios/114003"
+  },
+  {
+   "startTime": 2815,
+   "title": "秋元康",
+   "img": "https://image.gcores.com/c548d4626563d6fb66df6d2b2ca0ffc0-332-449.webp"
+  },
+  {
+   "startTime": 2937,
+   "title": "《伴人而生》",
+   "img": "https://image.gcores.com/dd6094a56ec44e1bd1c393ec5d4cb051-536-758.webp"
+  },
+  {
+   "startTime": 2943,
+   "title": "此元和津也",
+   "img": "https://image.gcores.com/0e1959bf7c9ca59fa3e4e236244ca643-1950-1300.webp"
+  },
+  {
+   "startTime": 3001,
+   "title": "《哈利·波特与死亡圣器》",
+   "img": "https://image.gcores.com/56c53eb28d0af85c991e5c8ba1b2cb66-536-783.webp"
+  },
+  {
+   "startTime": 3147,
+   "title": "《社交网络：清算时刻》",
+   "img": "https://image.gcores.com/5e27bfd392651495b7182ee55a5a77ff-536-715.webp"
+  },
+  {
+   "startTime": 3171,
+   "title": "米奇·麦迪森",
+   "img": "https://image.gcores.com/c472748555b0d242d314fe331da25e45-452-678.jpg"
+  },
+  {
+   "startTime": 3220,
+   "title": "艾伦·索金",
+   "img": "https://image.gcores.com/67213afd9fc7266f948c120ebf1d940d-406-611.webp"
+  },
+  {
+   "startTime": 3233,
+   "title": "大卫·芬奇",
+   "img": "https://image.gcores.com/187860ee51c6154e02d8b4d46be27bc6-536-738.webp"
+  },
+  {
+   "startTime": 3241,
+   "title": "扎克·布朗",
+   "img": "https://image.gcores.com/795bbb0a892c789da821f3fd7dd32629-536-357.webp"
+  },
+  {
+   "startTime": 3391,
+   "title": "《寒战1994》",
+   "img": "https://image.gcores.com/fdd5d59a205446393b86d78e0e57e66a-536-750.webp"
+  },
+  {
+   "startTime": 3402,
+   "title": "《赤道》",
+   "img": "https://image.gcores.com/8869165324f7884e282a433ee9ea998b-266-374.jpg"
+  },
+  {
+   "startTime": 3419,
+   "title": "《寒战》",
+   "img": "https://image.gcores.com/309736bd5df753cfbb13b3803f4fbc01-263-380.jpg"
+  },
+  {
+   "startTime": 3667,
+   "title": "不如前作",
+   "img": "https://image.gcores.com/9a7afd32989217c92683a0d12039149f-507-856.jpg",
+   "url": "https://sjb.qlwb.com.cn/qlwb/content/20260508/ArticelA09002FM.htm"
+  },
+  {
+   "startTime": 3704,
+   "title": "谢君豪",
+   "img": "https://image.gcores.com/39e4499d231b85a92e94a855d1352922-500-749.webp"
+  },
+  {
+   "startTime": 3791,
+   "title": "《寒战1995》",
+   "img": "https://image.gcores.com/efa8dad0d0c6a523c1a7cbb072b1fa79-536-750.webp"
+  },
+  {
+   "startTime": 3816,
+   "title": "好莱坞团队拍摄"
+  },
+  {
+   "startTime": 3895,
+   "title": "《风林火山》",
+   "img": "https://image.gcores.com/c426e77183f99748429be21430bc4626-536-804.webp"
+  },
+  {
+   "startTime": 3927,
+   "title": "A24 Films",
+   "img": "https://image.gcores.com/645265db7d80ea03fea120feaa42e531-536-536.webp"
+  },
+  {
+   "startTime": 3935,
+   "title": "高概念"
+  },
+  {
+   "startTime": 4010,
+   "title": "《艾尔登法环》"
+  },
+  {
+   "startTime": 4035,
+   "title": "《永恒站》",
+   "img": "https://image.gcores.com/30ce1f2ba677ee3c7810f5ea0892e8ca-252-395.jpg"
+  },
+  {
+   "startTime": 4059,
+   "title": "下一任詹姆斯·邦德？"
+  },
+  {
+   "startTime": 4155,
+   "title": "剧情简介",
+   "img": "https://image.gcores.com/0e0521eabce104da321e5ecee992e693-599-399.jpg"
+  },
+  {
+   "startTime": 4406,
+   "title": "玛莉卡教堂场景",
+   "img": "https://image.gcores.com/5ebb7981c413a33f265aa4c52df501b4-335-597.jpg"
+  },
+  {
+   "startTime": 4464,
+   "title": "《流人》",
+   "img": "https://image.gcores.com/0723e1cf9b053d7a8005e077031389e0-536-804.webp"
+  },
+  {
+   "startTime": 4569,
+   "title": "伊丽莎白·霍姆斯",
+   "img": "https://image.gcores.com/e9420719d1ace9333ac19c73b90d90bd-536-794.webp"
+  },
+  {
+   "startTime": 4617,
+   "title": "情景再现",
+   "img": "https://image.gcores.com/1fe360590e492bdb60cc9308b61cd0bb-465-372.avif"
+  },
+  {
+   "startTime": 4808,
+   "title": "可颂",
+   "img": "https://image.gcores.com/7acfadd47a4fb308e8e5623184b99500-536-427.webp"
+  },
+  {
+   "startTime": 4863,
+   "title": "感谢收听"
+  }
+ ]
+}

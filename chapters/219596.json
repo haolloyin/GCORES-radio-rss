@@ -1,0 +1,286 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/c396290b4aa6a05071e8c667099593ac-317-315.jpg"
+  },
+  {
+   "startTime": 36,
+   "title": "刺客信条故事",
+   "img": "https://image.gcores.com/c68c51fa8eb463f1b3ab1bdebb93f885-560-560.jpg",
+   "url": "https://www.gcores.com/radios/217785"
+  },
+  {
+   "startTime": 69,
+   "title": "朱诺出逃",
+   "img": "https://image.gcores.com/8e2db9f9e59c05ff3b00b94d04103a7d-554-554.jpg"
+  },
+  {
+   "startTime": 138,
+   "title": "基因结构之争",
+   "img": "https://image.gcores.com/27ef85700ab329fdd35f3105738005cd-750-475.jpg"
+  },
+  {
+   "startTime": 160,
+   "title": "罗莎琳德·富兰克林",
+   "img": "https://image.gcores.com/72064cebefed5f05f999d477c55acae3-488-592.jpg"
+  },
+  {
+   "startTime": 178,
+   "title": "三链DNA",
+   "img": "https://image.gcores.com/b04499feded92c4da00c5be29baf4eb1-500-949.webp"
+  },
+  {
+   "startTime": 237,
+   "title": "三链人",
+   "img": "https://image.gcores.com/d606d44b2da3a03837c8ebb7c81c0589-594-585.webp"
+  },
+  {
+   "startTime": 289,
+   "title": "Abstergo",
+   "img": "https://image.gcores.com/e36a6d5ceeca7221058cb8ee900408e5-1080-1080.jpg"
+  },
+  {
+   "startTime": 337,
+   "title": "第六感",
+   "img": "https://image.gcores.com/8e9e5c05ed578c8989748a7673163bf2-1000-563.webp"
+  },
+  {
+   "startTime": 405,
+   "title": "创造仆从",
+   "img": "https://image.gcores.com/8a30d02c825048ca6eaeec5f3702c245-400-601.jpg"
+  },
+  {
+   "startTime": 447,
+   "title": "大灾变",
+   "img": "https://image.gcores.com/325229563048a8c844461d15bbeac940-798-336.png"
+  },
+  {
+   "startTime": 469,
+   "title": "多峇巨灾",
+   "img": "https://image.gcores.com/1d5d9c98badfb92044897e83f693d504-1019-768.jpg"
+  },
+  {
+   "startTime": 496,
+   "title": "6套方案",
+   "img": "https://image.gcores.com/c538e22baca09d21f1b8009db387c924-1000-563.webp"
+  },
+  {
+   "startTime": 509,
+   "title": "避雷针计划"
+  },
+  {
+   "startTime": 527,
+   "title": "伊甸之环计划"
+  },
+  {
+   "startTime": 541,
+   "title": "显化计划"
+  },
+  {
+   "startTime": 574,
+   "title": "其他计划"
+  },
+  {
+   "startTime": 588,
+   "title": "内乱",
+   "img": "https://image.gcores.com/927d2e3e86657d4a18e3469defb53618-1000-563.png"
+  },
+  {
+   "startTime": 697,
+   "title": "卡皮托利三神",
+   "img": "https://image.gcores.com/8a1c45d4a0c25157a1058915c597bd2d-1000-563.webp"
+  },
+  {
+   "startTime": 772,
+   "title": "朱诺和艾塔",
+   "img": "https://image.gcores.com/ad4a2145e4e698c0a2263d65850ad3ad-1920-1080.png"
+  },
+  {
+   "startTime": 799,
+   "title": "康苏斯",
+   "img": "https://image.gcores.com/7445b3640359978f3054b2b8480aa130-525-1147.webp"
+  },
+  {
+   "startTime": 855,
+   "title": "自愿受试",
+   "img": "https://image.gcores.com/a50083f372adb285f0179d3b305cd04e-1920-1080.png"
+  },
+  {
+   "startTime": 928,
+   "title": "基因碎片",
+   "img": "https://image.gcores.com/e5f048ed7de34ab4750b154c1d3a28f3-1920-1080.png"
+  },
+  {
+   "startTime": 1027,
+   "title": "圣者",
+   "img": "https://image.gcores.com/41f7ee2a48e2bb96b7505e1a5911a6f2-534-717.png"
+  },
+  {
+   "startTime": 1155,
+   "title": "三个阶段",
+   "img": "https://image.gcores.com/2aac3ab90a9967471ef720ead9418410-1080-1350.webp"
+  },
+  {
+   "startTime": 1226,
+   "title": "塞壬计划",
+   "img": "https://image.gcores.com/366b3ac4e4ffe422b1f8cec0c670abb7-250-250.webp"
+  },
+  {
+   "startTime": 1293,
+   "title": "娱乐企划",
+   "img": "https://image.gcores.com/2c765f13d7259b6534ef8e638faa8099-1000-330.png"
+  },
+  {
+   "startTime": 1345,
+   "title": "Helix",
+   "img": "https://image.gcores.com/eadf0421d6aecb156a4d977f12407f03-1000-560.webp"
+  },
+  {
+   "startTime": 1448,
+   "title": "约翰·斯坦迪什",
+   "img": "https://image.gcores.com/23b7959ffa8bd769c7d4eb11ebe9c3e6-1000-563.webp"
+  },
+  {
+   "startTime": 1513,
+   "title": "巨大的阴谋",
+   "img": "https://image.gcores.com/8713ba2bdc2c0b471408dab639873324-1920-1080.png"
+  },
+  {
+   "startTime": 1569,
+   "title": "凤凰计划",
+   "img": "https://image.gcores.com/9a4c0b455db15ca3b3c4b2c5205168a9-538-306.webp"
+  },
+  {
+   "startTime": 1694,
+   "title": "奥措·贝格",
+   "img": "https://image.gcores.com/83d72d86feaaceae96ef2569af072eb2-1000-563.webp"
+  },
+  {
+   "startTime": 1734,
+   "title": "数字生命",
+   "img": "https://image.gcores.com/c7a9bd60a1367a66748f955b0e2ba862-1920-1080.png"
+  },
+  {
+   "startTime": 1837,
+   "title": "裹尸布争夺战",
+   "img": "https://image.gcores.com/a7c560f2021d63af9277291e54786a03-449-552.webp"
+  },
+  {
+   "startTime": 1936,
+   "title": "二番战",
+   "img": "https://image.gcores.com/4e3c81a9ff14c178a08ceaff38156cb7-1000-563.webp"
+  },
+  {
+   "startTime": 2150,
+   "title": "《刺客信条：起义》",
+   "img": "https://image.gcores.com/4d9d716195838706f29c061cf482e6f9-297-450.jpg"
+  },
+  {
+   "startTime": 2186,
+   "title": "夏洛特·德·拉·克鲁兹",
+   "img": "https://image.gcores.com/573ecfd37b445c87df485429bef008da-800-1560.webp"
+  },
+  {
+   "startTime": 2329,
+   "title": "奥措·贝格",
+   "img": "https://image.gcores.com/2d07a391be2cb92726c7362ed197eb4a-535-724.webp"
+  },
+  {
+   "startTime": 2402,
+   "title": "黑色十字",
+   "img": "https://image.gcores.com/53396e4522c077c3afb0ee9c9491eb5c-250-313.webp"
+  },
+  {
+   "startTime": 2464,
+   "title": "给客服打电话",
+   "img": "https://image.gcores.com/5b6e959e11e674f1bfdb4379de2b31e7-1119-562.png"
+  },
+  {
+   "startTime": 2525,
+   "title": "年轻的圣者",
+   "img": "https://image.gcores.com/4a31dbea6a9da4c3b7446cdd825804ac-279-737.webp"
+  },
+  {
+   "startTime": 2689,
+   "title": "等待复仇",
+   "img": "https://image.gcores.com/27cdde93514d4605dbb412ede42b36a1-200-200.jpg"
+  },
+  {
+   "startTime": 2763,
+   "title": "朱诺重生",
+   "img": "https://image.gcores.com/a35b9bf95634dbc737cbe4e60fd4ba9c-2016-1839.png"
+  },
+  {
+   "startTime": 2797,
+   "title": "光之山",
+   "img": "https://image.gcores.com/5bc2fa3e25863acf8669bb04044c6c63-235-359.jpg"
+  },
+  {
+   "startTime": 2848,
+   "title": "转瞬即逝",
+   "img": "https://image.gcores.com/e0265bb5a085edb75504a07ad1acc185-1147-1851.png"
+  },
+  {
+   "startTime": 2988,
+   "title": "先知伊利亚",
+   "img": "https://image.gcores.com/a3f8868b704ad277fbe909d7589af3a0-404-750.jpg"
+  },
+  {
+   "startTime": 3093,
+   "title": "北方伊述人",
+   "img": "https://image.gcores.com/5e5dd317ab5e49f3f58c98e0b41dd2e3-1000-563.webp"
+  },
+  {
+   "startTime": 3212,
+   "title": "蜜酒"
+  },
+  {
+   "startTime": 3268,
+   "title": "谁没被邀请？",
+   "img": "https://image.gcores.com/6eb562835d832492b7e7cf0805bfe49e-640-574.gif"
+  },
+  {
+   "startTime": 3379,
+   "title": "《刺客信条：英灵殿》",
+   "img": "https://image.gcores.com/352d7681b8c8fc24fc59e8136e76d319-3840-2160.jpg"
+  },
+  {
+   "startTime": 3533,
+   "title": "阅读者",
+   "img": "https://image.gcores.com/61e51d10f661cc43181a6663171edd44-320-180.jpg"
+  },
+  {
+   "startTime": 3602,
+   "title": "主创纷纷出走",
+   "img": "https://image.gcores.com/8ad7e2e9f6e739baf7870e77924ee92b-1920-1280.avif"
+  },
+  {
+   "startTime": 3652,
+   "title": "《刺客信条：起源》",
+   "img": "https://image.gcores.com/16a6feecdc23de0b64f006d3add373b4-1280-720.jpg"
+  },
+  {
+   "startTime": 3706,
+   "title": "蕾拉·哈桑",
+   "img": "https://image.gcores.com/5430355fe1bb9f710a3a3bd33e65b872-230-500.webp"
+  },
+  {
+   "startTime": 3821,
+   "title": "被遗忘的现代线",
+   "img": "https://image.gcores.com/6e7c0c1ec046aa039557ba0da4fa349c-1400-700.avif"
+  },
+  {
+   "startTime": 4032,
+   "title": "漫画不错",
+   "img": "https://image.gcores.com/4ff541e34f32a8e86ebe5209a788f77f-1700-717.png"
+  },
+  {
+   "startTime": 4092,
+   "title": "结尾",
+   "img": "https://image.gcores.com/c1113beb0ed93c3bc9bf371d184b7fcb-276-361.jpg"
+  }
+ ]
+}

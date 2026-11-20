@@ -1,0 +1,450 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/105a42da041a466006507e6d867d36e5-1417-1417.jpg",
+   "url": "https://music.163.com/#/song?id=3447739179"
+  },
+  {
+   "startTime": 39,
+   "title": "Gadio News"
+  },
+  {
+   "startTime": 80,
+   "title": "《愚者不灭》",
+   "img": "https://image.gcores.com/1fad1f2e3ec570486372a4ffe8630424-769-433.webp",
+   "url": "https://www.gcores.com/articles/221298"
+  },
+  {
+   "startTime": 95,
+   "title": "小林裕幸",
+   "img": "https://image.gcores.com/3cff4d4ac3dee56b005684602d96a954-417-417.png"
+  },
+  {
+   "startTime": 130,
+   "title": "戴维与朱莉娅",
+   "img": "https://image.gcores.com/cb5a1dafa6c12c310069f4ad59496c99-875-680.webp"
+  },
+  {
+   "startTime": 229,
+   "title": "实机品鉴",
+   "img": "https://image.gcores.com/7b7e5a7dd9143c2955db93dbc42eb867-1920-1080.webp",
+   "url": "https://www.bilibili.com/video/BV18mni6zEeW"
+  },
+  {
+   "startTime": 250,
+   "title": "制作人专访",
+   "img": "https://image.gcores.com/2bfff86c083f8c1be2cf8dee2c3648d2-875-618.webp",
+   "url": "https://www.gcores.com/articles/219943"
+  },
+  {
+   "startTime": 363,
+   "title": "《现代战争4》",
+   "img": "https://image.gcores.com/19384c795bea5570313a4f1589d993e3-1536-864.webp"
+  },
+  {
+   "startTime": 455,
+   "title": "DMZ模式",
+   "img": "https://image.gcores.com/80f2aa58479d030461ad9d8687f180fa-1920-1080.webp"
+  },
+  {
+   "startTime": 523,
+   "title": "系列终章",
+   "img": "https://image.gcores.com/053bba653f2935d22583018a32f424fa-875-492.webp",
+   "url": "https://www.gcores.com/articles/221077"
+  },
+  {
+   "startTime": 603,
+   "title": "游戏背景",
+   "img": "https://image.gcores.com/b8ad136fc7a518e0204627dd0064346c-1600-900.jpg"
+  },
+  {
+   "startTime": 642,
+   "title": "系列变化",
+   "img": "https://image.gcores.com/1ea4d629468c9e3966245e54a13a3d1a-550-308.jpg"
+  },
+  {
+   "startTime": 679,
+   "title": "画面表现",
+   "img": "https://image.gcores.com/157e631b3209bc0bde9f36d291861f92-1279-720.jpg"
+  },
+  {
+   "startTime": 770,
+   "title": "《生化危机》",
+   "img": "https://image.gcores.com/aa9b1c061cee1820245e69a3ccf00a2a-600-338.webp"
+  },
+  {
+   "startTime": 876,
+   "title": "《最终幻想 共鸣》",
+   "img": "https://image.gcores.com/6e7b2c726a45357250cfb34d0ec72ff5-875-492.webp",
+   "url": "https://www.gcores.com/articles/221012"
+  },
+  {
+   "startTime": 970,
+   "title": "《NS运动》",
+   "img": "https://image.gcores.com/d4033699ba2e6bd4edf4e0cca2a4a9ef-1400-788.webp"
+  },
+  {
+   "startTime": 1008,
+   "title": "《GTA6》",
+   "img": "https://image.gcores.com/89fa59d8f86a6bd3cf0e277d85b116b1-1000-563.webp",
+   "url": "https://www.gcores.com/articles/220957"
+  },
+  {
+   "startTime": 1054,
+   "title": "游戏剧情",
+   "img": "https://image.gcores.com/621a3926e027dd6310e7971e5619cba8-738-414.jpg"
+  },
+  {
+   "startTime": 1113,
+   "title": "新曲",
+   "img": "https://image.gcores.com/d03eb56cdcefc70400be4dcb09f6925b-739-415.jpg"
+  },
+  {
+   "startTime": 1163,
+   "title": "TGA 2026",
+   "img": "https://image.gcores.com/4bfc90c853073f1dd074e9453d77b918-640-360.webp"
+  },
+  {
+   "startTime": 1205,
+   "title": "联动造势",
+   "img": "https://image.gcores.com/d2cb385cc656d5f06418f92155fa6595-960-960.jpg"
+  },
+  {
+   "startTime": 1266,
+   "title": "《异于天堂》",
+   "img": "https://image.gcores.com/6bcd144731631c0f954dcfd867572caa-1109-624.webp",
+   "url": "https://www.gcores.com/articles/221143"
+  },
+  {
+   "startTime": 1279,
+   "title": "预购收入",
+   "img": "https://image.gcores.com/74b357c94e3ff4119f52d4067ac4671b-640-480.jpg"
+  },
+  {
+   "startTime": 1329,
+   "title": "BioWare",
+   "img": "https://image.gcores.com/724519c6637d60e88ff86fd9dd7b088b-1400-788.gif",
+   "url": "https://www.gcores.com/articles/221281"
+  },
+  {
+   "startTime": 1428,
+   "title": "负债",
+   "img": "https://image.gcores.com/1e9e3970d9192ebd7d6169163ad2bea4-875-583.webp"
+  },
+  {
+   "startTime": 1462,
+   "title": "未来项目",
+   "img": "https://image.gcores.com/f92b748d3fedb11bb5db8a505ade73a2-590-338.jpg"
+  },
+  {
+   "startTime": 1497,
+   "title": "《钢铁侠》",
+   "img": "https://image.gcores.com/b70b57cedd52d50824945340cecd70c6-550-309.jpg"
+  },
+  {
+   "startTime": 1582,
+   "title": "用户投票",
+   "img": "https://image.gcores.com/800d8031bb8ed1ae0bb09f2a7a87d6b4-240-180.jpg"
+  },
+  {
+   "startTime": 1647,
+   "title": "RedLynx",
+   "img": "https://image.gcores.com/f2a795849aaa469fa3f27d29d985c15f-739-415.jpg"
+  },
+  {
+   "startTime": 1730,
+   "title": "育碧新加坡",
+   "img": "https://image.gcores.com/e7976bdd7cde595c8953a737ef42a52c-341-450.jpg"
+  },
+  {
+   "startTime": 1810,
+   "title": "育碧",
+   "img": "https://image.gcores.com/3b5205c39a374d99fd5c683f29758ed4-738-411.jpg"
+  },
+  {
+   "startTime": 1868,
+   "title": "裁员",
+   "img": "https://image.gcores.com/ea5994e476169a2a9cf90a7b13ad0862-664-497.jpg"
+  },
+  {
+   "startTime": 1891,
+   "title": "AI逆向工程",
+   "img": "https://image.gcores.com/2bc912bbbe0806ec93412ff98a760f65-1200-669.jpg"
+  },
+  {
+   "startTime": 1974,
+   "title": "破解PS5",
+   "img": "https://image.gcores.com/f9d2ab4ae07ecf613d663194e8d177a8-960-540.webp"
+  },
+  {
+   "startTime": 2045,
+   "title": "久多良木健",
+   "img": "https://image.gcores.com/bba6c3bc9a44d35be822ff1ae0dec0f0-360-360.jpg"
+  },
+  {
+   "startTime": 2096,
+   "title": "Epic启动器",
+   "img": "https://image.gcores.com/08fed0f7efd5a558fe32d0831087dc27-550-309.jpg"
+  },
+  {
+   "startTime": 2186,
+   "title": "《黎明行者之血》",
+   "img": "https://image.gcores.com/b2f3760e5624dc93755fed6b14c27655-920-430.webp"
+  },
+  {
+   "startTime": 2247,
+   "title": "游戏难度",
+   "img": "https://image.gcores.com/6679e7ada31e245cddbcda6d68f9fffa-739-415.jpg"
+  },
+  {
+   "startTime": 2335,
+   "title": "《龙之信条2》",
+   "img": "https://image.gcores.com/788f26dfe42b8adad81576c230a51ba4-554-554.jpg"
+  },
+  {
+   "startTime": 2427,
+   "title": "更换制作人",
+   "img": "https://image.gcores.com/1f76d31cf154c58d95ff19d4c892413d-739-415.jpg"
+  },
+  {
+   "startTime": 2524,
+   "title": "核聚变"
+  },
+  {
+   "startTime": 2548,
+   "title": "有一说一",
+   "img": "https://image.gcores.com/70cd034e29702bec617b58f2e56ed8ce-550-343.jpg"
+  },
+  {
+   "startTime": 2608,
+   "title": "《龙信》MMO",
+   "img": "https://image.gcores.com/42a67847a3f4c04f6a2b96670a2886a8-596-335.jpg"
+  },
+  {
+   "startTime": 2712,
+   "title": "多人合作",
+   "img": "https://image.gcores.com/556ba81e6bb6af93e36378d8136c426c-550-303.png"
+  },
+  {
+   "startTime": 2769,
+   "title": "战斗玩法",
+   "img": "https://image.gcores.com/2dabf7ecc73ad9ba1738ec86acba85b5-739-415.jpg"
+  },
+  {
+   "startTime": 2897,
+   "title": "战遗物",
+   "img": "https://image.gcores.com/a977a643115f2cadb4457955cf02e786-1080-607.webp"
+  },
+  {
+   "startTime": 3008,
+   "title": "《怪猎 荒野》DLC",
+   "img": "https://image.gcores.com/6ec1625dfb4465d9d9a4bf7ba85ab392-727-401.webp"
+  },
+  {
+   "startTime": 3031,
+   "title": "独占游戏",
+   "img": "https://image.gcores.com/91efe89e9a88be983fa885e684ac467c-491-407.jpg"
+  },
+  {
+   "startTime": 3085,
+   "title": "服务型游戏",
+   "img": "https://image.gcores.com/27932214715138ae9261c0f9458097be-3840-2160.png"
+  },
+  {
+   "startTime": 3128,
+   "title": "独占游戏",
+   "img": "https://image.gcores.com/693ca3260d7a10cefe1235f3e1ad1fc0-2609-1449.webp"
+  },
+  {
+   "startTime": 3233,
+   "title": "独占大厂",
+   "img": "https://image.gcores.com/a170bd6cc140b97913b94daeb17788b4-1728-972.webp"
+  },
+  {
+   "startTime": 3301,
+   "title": "开发成本",
+   "img": "https://image.gcores.com/b3ba07617c4fe135f2b9c41425ea04db-447-447.jpg"
+  },
+  {
+   "startTime": 3365,
+   "title": "开发周期",
+   "img": "https://image.gcores.com/88b116f431c5393bfbcc11b636d9ad48-550-308.jpg"
+  },
+  {
+   "startTime": 3459,
+   "title": "佳作频出",
+   "img": "https://image.gcores.com/66bbe1135e26009acbf96ef33ab66760-550-309.jpg"
+  },
+  {
+   "startTime": 3524,
+   "title": "《沙罗周期》",
+   "img": "https://image.gcores.com/aeb52364e3c7d5cf583fec18fba8ac20-739-415.jpg"
+  },
+  {
+   "startTime": 3566,
+   "title": "Evil Geniuses",
+   "img": "https://image.gcores.com/221dac42cc210d6b4eabbc5befa3cf12-495-619.webp",
+   "url": "https://www.gcores.com/articles/221257"
+  },
+  {
+   "startTime": 3613,
+   "title": "老牌战队",
+   "img": "https://image.gcores.com/c7bde9fdb6da65c6bb875005a960ce67-640-427.webp"
+  },
+  {
+   "startTime": 3668,
+   "title": "收入来源",
+   "img": "https://image.gcores.com/33fe8c972cda2b1f5c88e765d5940bed-550-289.jpg"
+  },
+  {
+   "startTime": 3771,
+   "title": "系统制裁",
+   "img": "https://image.gcores.com/309260706a01ff2ad552febd987bd1db-1280-852.jpg"
+  },
+  {
+   "startTime": 3829,
+   "title": "运动伤病",
+   "img": "https://image.gcores.com/97d038da2de6443169a9a7d74e33ea5d-600-423.jpg"
+  },
+  {
+   "startTime": 3893,
+   "title": "潮流服饰",
+   "img": "https://image.gcores.com/1708e19b6c23840f04bb3e2a11b55041-479-514.jpg"
+  },
+  {
+   "startTime": 3907,
+   "title": "多线发展",
+   "img": "https://image.gcores.com/39edcf57c1ff66ea0549a376eee68b4c-400-400.jpg"
+  },
+  {
+   "startTime": 3987,
+   "title": "2023年",
+   "img": "https://image.gcores.com/51c24e52a4254a6596750ba6a348f047-596-335.jpg"
+  },
+  {
+   "startTime": 4074,
+   "title": "2015年",
+   "img": "https://image.gcores.com/250cb219a95a85da68a5d2b62add0502-493-324.jpg"
+  },
+  {
+   "startTime": 4130,
+   "title": "2021年",
+   "img": "https://image.gcores.com/68ca045c7972dbf08e43ccc1374fcd5a-1000-549.webp"
+  },
+  {
+   "startTime": 4262,
+   "title": "说再见",
+   "img": "https://image.gcores.com/ec4d562b542ddd57d180bd51431a27f6-596-335.webp"
+  },
+  {
+   "startTime": 4307,
+   "title": "还我电竞",
+   "img": "https://image.gcores.com/efbf3c8be0e49132334a274a32ed7558-632-316.jpg"
+  },
+  {
+   "startTime": 4372,
+   "title": "《赛博朋克2077》",
+   "img": "https://image.gcores.com/485b936b3b5067156251cdc1c426b9d8-1280-719.png"
+  },
+  {
+   "startTime": 4395,
+   "title": "《边缘行者2》",
+   "img": "https://image.gcores.com/564cf2f88759af52974cb6c3ce5d9028-3277-4096.jpg",
+   "url": "https://bgm.tv/subject/513878"
+  },
+  {
+   "startTime": 4461,
+   "title": "篇幅限制",
+   "img": "https://image.gcores.com/3efedd84a03c3d71a5108e6e3827a96f-739-415.jpg"
+  },
+  {
+   "startTime": 4605,
+   "title": "OK家人们",
+   "img": "https://image.gcores.com/e5ba3697e2594828c8bd838ddc6fd417-1920-1080.jpg"
+  },
+  {
+   "startTime": 4669,
+   "title": "创伤小组",
+   "img": "https://image.gcores.com/c7fce566f2230217db4c61e4eda81e67-596-335.jpg"
+  },
+  {
+   "startTime": 4763,
+   "title": "故事设定",
+   "img": "https://image.gcores.com/b36acf5ff807a7303b530d94296e802a-495-619.jpg"
+  },
+  {
+   "startTime": 4901,
+   "title": "制作名单",
+   "img": "https://image.gcores.com/1109ed9f472902e830d0db8439483a3a-1920-1080.jpg"
+  },
+  {
+   "startTime": 5019,
+   "title": "战力表现",
+   "img": "https://image.gcores.com/c35cd71feafc7b5622a0405228bd7ce4-739-415.jpg"
+  },
+  {
+   "startTime": 5114,
+   "title": "群像塑造",
+   "img": "https://image.gcores.com/0ac79c7d824565621489c0e51fa2504b-550-307.jpg"
+  },
+  {
+   "startTime": 5185,
+   "title": "《边缘行者1》",
+   "img": "https://image.gcores.com/345df8eaaa8b6f70012cfcb14bf4e843-259-384.jpg"
+  },
+  {
+   "startTime": 5310,
+   "title": "夜城之恋",
+   "img": "https://image.gcores.com/d509fbc484ad01d72229fe75947bfd6b-596-335.jpg"
+  },
+  {
+   "startTime": 5386,
+   "title": "曼恩与朵莉欧",
+   "img": "https://image.gcores.com/3f062d608e4a42e3aeed49504e937e08-1080-607.webp"
+  },
+  {
+   "startTime": 5522,
+   "title": "震撼首发",
+   "img": "https://image.gcores.com/7a1ba46431d18876c7f171a008b61000-739-415.jpg"
+  },
+  {
+   "startTime": 5569,
+   "title": "预期管理",
+   "img": "https://image.gcores.com/e4157d2ab722bc5dbd21972152c7e189-596-335.jpg"
+  },
+  {
+   "startTime": 5674,
+   "title": "PHP漏洞",
+   "img": "https://image.gcores.com/7e9fa1257fed86faaba4ca631eda3335-471-249.jpg"
+  },
+  {
+   "startTime": 5699,
+   "title": "数字证书漏洞",
+   "img": "https://image.gcores.com/2bdc2c226c334387f1e4f1066b6c7e38-600-313.png"
+  },
+  {
+   "startTime": 5821,
+   "title": "长期风险",
+   "img": "https://image.gcores.com/55b8fa951c0601002c706f58a2749d70-588-340.jpg"
+  },
+  {
+   "startTime": 5892,
+   "title": "扫描证书",
+   "img": "https://image.gcores.com/95335b1d019d8947f22cb20aefadbabb-640-359.jpg"
+  },
+  {
+   "startTime": 6000,
+   "title": "日本反应",
+   "img": "https://image.gcores.com/7ef7e50a22f5d5d8d2b1c7d4f40cf47a-642-478.jpg"
+  },
+  {
+   "startTime": 6019,
+   "title": "下周再见",
+   "img": "https://image.gcores.com/9724cc235b75a949f7084694258f644b-1417-1417.jpg",
+   "url": "https://music.163.com/#/song?id=3447738456"
+  }
+ ]
+}

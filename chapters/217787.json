@@ -1,0 +1,443 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/4f82b08dd4babafd8e7ad23ef9abf310-180-179.png"
+  },
+  {
+   "startTime": 30,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 63,
+   "title": "吹哥见面会",
+   "img": "https://image.gcores.com/6643e47ec100d87c6f9a8c9652ed5541-875-583.webp",
+   "url": "https://www.gcores.com/articles/217866"
+  },
+  {
+   "startTime": 135,
+   "title": "新开放的地图",
+   "img": "https://image.gcores.com/0520414fe61007f26ddf226d2b9dd392-803-449.png"
+  },
+  {
+   "startTime": 154,
+   "title": "南方有点难",
+   "img": "https://image.gcores.com/ce976dd315e01d3a579e7cc112574002-803-453.png"
+  },
+  {
+   "startTime": 172,
+   "title": "怪兽远征",
+   "img": "https://image.gcores.com/a4925b6711993bd0141f14464a5f4655-535-259.gif"
+  },
+  {
+   "startTime": 201,
+   "title": "西方的关卡",
+   "img": "https://image.gcores.com/109c93b4fc2a3591c15f79d5a70c7b4c-799-457.png"
+  },
+  {
+   "startTime": 360,
+   "title": "开放世界解谜游戏",
+   "img": "https://image.gcores.com/1657a3e3d750fc6a98acc53fdb4e7202-875-492.webp"
+  },
+  {
+   "startTime": 479,
+   "title": "有点像华容道",
+   "img": "https://image.gcores.com/9e5c5d534d56fdef260bf39c410fc4a2-536-535.webp"
+  },
+  {
+   "startTime": 522,
+   "title": "两两相合",
+   "img": "https://image.gcores.com/b5dc1fa34982dc0c81bfaafb49b5681b-875-492.webp"
+  },
+  {
+   "startTime": 647,
+   "title": "谜题好坏的判断标准",
+   "img": "https://image.gcores.com/d2d731c727d2ef4fe82e78cc2a62511f-875-583.webp"
+  },
+  {
+   "startTime": 690,
+   "title": "如何考虑商业因素",
+   "img": "https://image.gcores.com/985f6c0c3abcb1f1946cc7efec59cced-875-583.webp"
+  },
+  {
+   "startTime": 754,
+   "title": "小岛秀夫为例",
+   "img": "https://image.gcores.com/b6a4d201083e182d2624b318248c184c-875-493.webp"
+  },
+  {
+   "startTime": 887,
+   "title": "热爱分享",
+   "img": "https://image.gcores.com/8a7d3561e4aafb9f1a24c55c8336ed12-875-583.webp"
+  },
+  {
+   "startTime": 1014,
+   "title": "非常落地",
+   "img": "https://image.gcores.com/1f4f9d6f27bebb6544ab889f6e3eab09-875-492.webp"
+  },
+  {
+   "startTime": 1082,
+   "title": "《古神：风里希》",
+   "img": "https://image.gcores.com/f634f59aedf50fca0b053ce21b9b5f29-460-215.webp",
+   "url": "https://www.gcores.com/radios/217825"
+  },
+  {
+   "startTime": 1180,
+   "title": "从女娲到“Nezha”：《古神：风里希》在讲一个什么样的故事？",
+   "img": "https://image.gcores.com/8a82eee6af5c762dd50c887a9d3f2529-875-656.webp",
+   "url": "https://www.gcores.com/articles/217946"
+  },
+  {
+   "startTime": 1333,
+   "title": "中国创世神话题材的ARPG",
+   "img": "https://image.gcores.com/32e1107e0b46a1bed99d9223b901b282-875-492.webp"
+  },
+  {
+   "startTime": 1418,
+   "title": "国外对中国创世神话没认知",
+   "img": "https://image.gcores.com/c599eeec40be40c95daf94b49023c83c-875-492.webp"
+  },
+  {
+   "startTime": 1581,
+   "title": "《哪吒闹海》",
+   "img": "https://image.gcores.com/5e93fc3e9b9f729b6f80d000cdeb0b6a-536-725.webp"
+  },
+  {
+   "startTime": 1623,
+   "title": "《上帝也疯狂》",
+   "img": "https://image.gcores.com/f7cee008ac3af9db3769b54731914658-800-451.png"
+  },
+  {
+   "startTime": 1674,
+   "title": "神仙打架",
+   "img": "https://image.gcores.com/f0a3c40565b66a92a73792250c226b8e-800-446.png"
+  },
+  {
+   "startTime": 1803,
+   "title": "了解较少",
+   "img": "https://image.gcores.com/119d0a636d599a18b9e5c4cdc0b4fdb9-801-452.png"
+  },
+  {
+   "startTime": 1867,
+   "title": "技术团队",
+   "img": "https://image.gcores.com/15ed0139255272642bbae9302f70726c-875-492.webp"
+  },
+  {
+   "startTime": 1900,
+   "title": "女主不好看",
+   "img": "https://image.gcores.com/fa71066251c8a1acb885fe97605f0b55-460-215.webp"
+  },
+  {
+   "startTime": 2008,
+   "title": "重玩《见证者》",
+   "img": "https://image.gcores.com/317d263916894dd975565e84c1e7d5cf-796-451.png"
+  },
+  {
+   "startTime": 2131,
+   "title": "不断迭代",
+   "img": "https://image.gcores.com/b30c2605f688d4e552eeb21672df780b-875-654.webp"
+  },
+  {
+   "startTime": 2189,
+   "title": "苏绣",
+   "img": "https://image.gcores.com/d6041df39876346ccd164a35f09ee566-500-500.jpg"
+  },
+  {
+   "startTime": 2284,
+   "title": "《北京欢迎你》",
+   "img": "https://image.gcores.com/a7868390a601c3799bf0196f71bb44e9-536-250.webp"
+  },
+  {
+   "startTime": 2343,
+   "title": "乐观热情",
+   "img": "https://image.gcores.com/60128c7cc2f1d7c165abbdb82c6e2e8b-875-602.webp"
+  },
+  {
+   "startTime": 2431,
+   "title": "FF16",
+   "img": "https://image.gcores.com/ee2396726ac87aea3f4fe3989e7d1ae4-337-439.webp"
+  },
+  {
+   "startTime": 2489,
+   "title": "《抵抗者》",
+   "img": "https://image.gcores.com/8f3dc5ab312e11b8db4290e4d16d661e-381-446.png",
+   "url": "https://www.gcores.com/radios/217819"
+  },
+  {
+   "startTime": 2614,
+   "title": "角色质感大幅提升",
+   "img": "https://image.gcores.com/c6b2154453f6520d2641e5e7511061b0-1000-428.webp",
+   "url": "https://www.gcores.com/articles/213110"
+  },
+  {
+   "startTime": 2661,
+   "title": "耐心等待",
+   "img": "https://image.gcores.com/254536d6a86d10ffcc4f54a572b60619-799-447.png"
+  },
+  {
+   "startTime": 2792,
+   "title": "2026ChinaJoy",
+   "img": "https://image.gcores.com/af4c50ddd8a68b4594fa2ff796686133-875-492.webp",
+   "url": "https://www.gcores.com/articles/217914"
+  },
+  {
+   "startTime": 2960,
+   "title": "去年公布的几款抗战FPS",
+   "img": "https://image.gcores.com/52ba7c8ec68d5b77d83345eb527b829c-1000-563.webp"
+  },
+  {
+   "startTime": 3098,
+   "title": "TapTap\"侠心论道\"武侠圆桌活动",
+   "img": "https://image.gcores.com/9f197782115a0f6647f2620dd2c38093-2500-1666.webp",
+   "url": "https://www.gcores.com/articles/218013"
+  },
+  {
+   "startTime": 3241,
+   "title": "北京核聚变",
+   "img": "https://image.gcores.com/e365cc56acf29d714ed881f573128b0d-2500-1406.webp",
+   "url": "https://www.gcores.com/articles/210194"
+  },
+  {
+   "startTime": 3305,
+   "title": "《斯普拉遁：涂击队》",
+   "img": "https://image.gcores.com/3895ad0695bfc889013956cf792589cf-480-270.webp"
+  },
+  {
+   "startTime": 3321,
+   "title": "《斯普拉遁3》DLC「秩序篇」",
+   "img": "https://image.gcores.com/c95ebb7c38b541293da89917f15a2026-960-540.webp"
+  },
+  {
+   "startTime": 3419,
+   "title": "关卡机制",
+   "img": "https://image.gcores.com/5a6dc5c56232f6aaf23104272b114d3d-1279-754.png"
+  },
+  {
+   "startTime": 3525,
+   "title": "手把手教学",
+   "img": "https://image.gcores.com/c4b93399804bb68f579907258d9877e9-1498-719.png"
+  },
+  {
+   "startTime": 3649,
+   "title": "采矿关卡",
+   "img": "https://image.gcores.com/02323137a9b849a6944a9c46544799a2-947-748.png"
+  },
+  {
+   "startTime": 3699,
+   "title": "进度锁",
+   "img": "https://image.gcores.com/67360f171846d5ac1326846bd8b8b1c7-618-104.png"
+  },
+  {
+   "startTime": 3781,
+   "title": "以为是为多人模式服务",
+   "img": "https://image.gcores.com/270b6ccbc5c33319c9b71c301cdffbe5-767-431.webp"
+  },
+  {
+   "startTime": 3810,
+   "title": "强度验证关卡",
+   "img": "https://image.gcores.com/d10eca4b578801fd5f9d4b3821dfef7b-1484-822.png"
+  },
+  {
+   "startTime": 3873,
+   "title": "释放道具",
+   "img": "https://image.gcores.com/722c347709d0fdb501706e8717ea86d5-1075-607.png"
+  },
+  {
+   "startTime": 3912,
+   "title": "中规中矩",
+   "img": "https://image.gcores.com/31539dd4d2d506093731cd07cb8cdcf6-853-480.webp"
+  },
+  {
+   "startTime": 4061,
+   "title": "地下遗迹关卡",
+   "img": "https://image.gcores.com/fca0890183a339cda45cdb395797a010-1148-797.png"
+  },
+  {
+   "startTime": 4159,
+   "title": "查看武器属性不方便",
+   "img": "https://image.gcores.com/eab4ae9a36b2131d760229eee161bd2a-631-453.png"
+  },
+  {
+   "startTime": 4196,
+   "title": "BOSS战的设计好",
+   "img": "https://image.gcores.com/6be4bf49ebb1b9ece73d447d82bd3533-1238-826.png"
+  },
+  {
+   "startTime": 4241,
+   "title": "剧情一般",
+   "img": "https://image.gcores.com/8931cb6cb02f77d1aef1cb100f7312af-1482-834.png"
+  },
+  {
+   "startTime": 4281,
+   "title": "豪华打工玩法",
+   "img": "https://image.gcores.com/c1e4bf73bc5cbda01c88f83e099b63b5-1487-829.png"
+  },
+  {
+   "startTime": 4371,
+   "title": "没有三角雷",
+   "img": "https://image.gcores.com/0acd5957326975cd305607a0bff77887-731-714.png"
+  },
+  {
+   "startTime": 4407,
+   "title": "推荐入坑",
+   "img": "https://image.gcores.com/a9c90677b72a805d72c360d71224ea50-853-480.webp"
+  },
+  {
+   "startTime": 4457,
+   "title": "《光环：战役进化》",
+   "img": "https://image.gcores.com/9d664786b986feada02a8df841f15e3f-536-301.webp"
+  },
+  {
+   "startTime": 4592,
+   "title": "载具驾驶",
+   "img": "https://image.gcores.com/e9046de2aa3586b5d0f4664f7d75aad7-802-445.png"
+  },
+  {
+   "startTime": 4626,
+   "title": "战斗底子在线",
+   "img": "https://image.gcores.com/14ae5c6467f479ada4ecdaae8e923e83-805-452.png"
+  },
+  {
+   "startTime": 4663,
+   "title": "重制过场动画",
+   "img": "https://image.gcores.com/be52ab10455f5b26f5e0d5aec64eacd0-770-434.png"
+  },
+  {
+   "startTime": 4731,
+   "title": "期待之后的重制",
+   "img": "https://image.gcores.com/d4e8d0468f1f627cff7f3704d07a5563-805-427.png"
+  },
+  {
+   "startTime": 4763,
+   "title": "调整预期",
+   "img": "https://image.gcores.com/4924bc46245a30f19f8070b8882a8574-805-446.png"
+  },
+  {
+   "startTime": 4883,
+   "title": "原汁原味",
+   "img": "https://image.gcores.com/6a07393fe816570c4d7394c7ae2daca7-801-450.png"
+  },
+  {
+   "startTime": 4931,
+   "title": "如何重制老游戏",
+   "img": "https://image.gcores.com/e075766c87df2b210aa8d74315086aab-640-360.webp"
+  },
+  {
+   "startTime": 5049,
+   "title": "游戏时长",
+   "img": "https://image.gcores.com/cb2bc8266731fc67f19e4a1d7b9fc304-616-194.png"
+  },
+  {
+   "startTime": 5068,
+   "title": "多人联机",
+   "img": "https://image.gcores.com/249c17c46dac7ca38a69eff19a616a66-771-436.png"
+  },
+  {
+   "startTime": 5116,
+   "title": "《静谧田园》",
+   "img": "https://image.gcores.com/8cd4fb655a22424488b2db396718dc27-650-365.webp"
+  },
+  {
+   "startTime": 5144,
+   "title": "真种田吗",
+   "img": "https://image.gcores.com/cf9eebea7c50586c711da522e7bf20f6-650-365.webp"
+  },
+  {
+   "startTime": 5220,
+   "title": "有恐怖元素",
+   "img": "https://image.gcores.com/3fd33f4aaadc2a604c1eb1dac5259135-1331-716.png"
+  },
+  {
+   "startTime": 5254,
+   "title": "诡异开头",
+   "img": "https://image.gcores.com/96fffb979886f4fc149811e234c6014d-1180-684.png"
+  },
+  {
+   "startTime": 5295,
+   "title": "成了陌生人",
+   "img": "https://image.gcores.com/0f0a2237fed694e5437c4cb62d40b5c7-1190-716.png"
+  },
+  {
+   "startTime": 5334,
+   "title": "重新开始种田",
+   "img": "https://image.gcores.com/16e638191f15d41e21f00028836e9aae-1257-691.png"
+  },
+  {
+   "startTime": 5386,
+   "title": "村子规矩",
+   "img": "https://image.gcores.com/c748b4f45b19334a10a84e0d162a0211-1167-688.png"
+  },
+  {
+   "startTime": 5422,
+   "title": "半夜敲门",
+   "img": "https://image.gcores.com/ddc9e5e859c6d4342389fdf17b8aba9c-943-527.png"
+  },
+  {
+   "startTime": 5526,
+   "title": "献上祭品",
+   "img": "https://image.gcores.com/38823fb0e9245e4088edf659670c265b-1107-679.png"
+  },
+  {
+   "startTime": 5607,
+   "title": "留个悬念",
+   "img": "https://image.gcores.com/431b78c863c8fc38094521c283a860e9-1075-699.png"
+  },
+  {
+   "startTime": 5686,
+   "title": "探索村子",
+   "img": "https://image.gcores.com/1ca3ee03f41d43482d2e0438862f3900-1167-713.png"
+  },
+  {
+   "startTime": 5753,
+   "title": "正经种田游戏",
+   "img": "https://image.gcores.com/9d8c26596d5f04c1fefe318a920f19a0-650-365.webp"
+  },
+  {
+   "startTime": 5784,
+   "title": "美术很好",
+   "img": "https://image.gcores.com/65a1394f2e3f597d39162c2faf4ad995-650-365.webp"
+  },
+  {
+   "startTime": 5805,
+   "title": "恐怖占三成",
+   "img": "https://image.gcores.com/efc9def7f3360ef0827adbadb6a6422a-650-365.webp"
+  },
+  {
+   "startTime": 5864,
+   "title": "玩法挺丰富",
+   "img": "https://image.gcores.com/63eba2cb85ed9e0fc116bc6ff074b35b-1381-721.png"
+  },
+  {
+   "startTime": 5946,
+   "title": "杀时间",
+   "img": "https://image.gcores.com/8810a963aaf3914616470e3333a854dd-637-201.png"
+  },
+  {
+   "startTime": 5993,
+   "title": "破戒",
+   "img": "https://image.gcores.com/87a8d242f3217d19eeb07a66c8f61f3d-918-628.png"
+  },
+  {
+   "startTime": 6109,
+   "title": "经典日厂定价",
+   "img": "https://image.gcores.com/9e15f0b28af6cd09c9512c60444e6daa-812-100.png"
+  },
+  {
+   "startTime": 6124,
+   "title": "日本本土销量突破10 万套",
+   "img": "https://image.gcores.com/124e8f1ddac3906bccc7c65f10eed161-1000-563.webp",
+   "url": "https://www.gcores.com/articles/217909"
+  },
+  {
+   "startTime": 6169,
+   "title": "有实体卡",
+   "img": "https://image.gcores.com/ee0ec79697634dc97108d85627731c7a-289-364.png"
+  },
+  {
+   "startTime": 6188,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/30c4046baf4f441e953c77708c3644bc-536-455.webp"
+  }
+ ]
+}

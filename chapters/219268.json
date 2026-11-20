@@ -1,0 +1,365 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/14ad92db943c30d7150bd0c97971a43b-474-266.webp"
+  },
+  {
+   "startTime": 18,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 43,
+   "title": "按头安利",
+   "img": "https://image.gcores.com/38465a880fddf5bb88d2a09b60a99366-207-198.png"
+  },
+  {
+   "startTime": 130,
+   "title": "《僵尸毁灭工程》",
+   "img": "https://image.gcores.com/955439c7a1d416393efdb487cf5f620c-512-512.webp"
+  },
+  {
+   "startTime": 136,
+   "title": "《阴暗森林》",
+   "img": "https://image.gcores.com/2e274be5170acf2fd0d903bd28ce8b67-536-568.webp"
+  },
+  {
+   "startTime": 140,
+   "title": "《Kenshi》",
+   "img": "https://image.gcores.com/f8ff47fc68ec69a698103697bb13468f-536-302.webp"
+  },
+  {
+   "startTime": 211,
+   "title": "《Ready or Not》",
+   "img": "https://image.gcores.com/f699963814a4b898e31fecc4b399c074-1920-1080.webp"
+  },
+  {
+   "startTime": 322,
+   "title": "场景叙事好",
+   "img": "https://image.gcores.com/06b3541988c1de6088ad2cd724cab7d5-1920-1062.webp"
+  },
+  {
+   "startTime": 437,
+   "title": "《熵：零2（Entropy : Zero 2）》",
+   "img": "https://image.gcores.com/4342aa72c3acc53bba6c8a8fc0afda12-184-224.jpg"
+  },
+  {
+   "startTime": 467,
+   "title": "《半条命：蓝色行动》",
+   "img": "https://image.gcores.com/3ae93968283b6d207f2dbb55a34c35b7-536-804.webp"
+  },
+  {
+   "startTime": 506,
+   "title": "《半条命：爱莉克斯》",
+   "img": "https://image.gcores.com/72d218a7354ca38ec26cbff0856ddd04-536-737.webp"
+  },
+  {
+   "startTime": 525,
+   "title": "联合军",
+   "img": "https://image.gcores.com/5779a87dce851cd1cb4818f5d9674766-284-448.jpeg"
+  },
+  {
+   "startTime": 601,
+   "title": "游戏画面",
+   "img": "https://image.gcores.com/39b2edafced8532502510b5cb9e51c0a-803-449.png"
+  },
+  {
+   "startTime": 713,
+   "title": "游戏画面",
+   "img": "https://image.gcores.com/c41e91f78141013f8902b6e94d34c6af-803-447.png"
+  },
+  {
+   "startTime": 773,
+   "title": "扮演反派",
+   "img": "https://image.gcores.com/611b821b61cea45d0227913865918d88-797-452.png"
+  },
+  {
+   "startTime": 878,
+   "title": "联合军士兵",
+   "img": "https://image.gcores.com/217f7e549b84634d194fdf513e73a3d9-351-425.jpeg"
+  },
+  {
+   "startTime": 974,
+   "title": "《月球》",
+   "img": "https://image.gcores.com/95646af230efc545da69e169e5c9cc31-474-613.webp"
+  },
+  {
+   "startTime": 1008,
+   "title": "小型炮塔 Wilson",
+   "img": "https://image.gcores.com/97f87e456e49c54e953dba1e663a7979-803-444.png"
+  },
+  {
+   "startTime": 1080,
+   "title": "《传送门》",
+   "img": "https://image.gcores.com/7bb42b04de6620f0f35feffcd02002dd-536-334.webp"
+  },
+  {
+   "startTime": 1193,
+   "title": "《辐射：伦敦》",
+   "img": "https://image.gcores.com/3329a21fa933b2e4247e4c98569cb809-640-349.png"
+  },
+  {
+   "startTime": 1242,
+   "title": "商店能搜到",
+   "img": "https://image.gcores.com/4926376ead5e237441a70e7ceee265c6-1224-700.png",
+   "url": "https://store.steampowered.com/app/1583720/Entropy__Zero_2/"
+  },
+  {
+   "startTime": 1443,
+   "title": "《Black Mesa》",
+   "img": "https://image.gcores.com/99626c4d9899c832cc6d1cc598c5ec35-504-362.webp"
+  },
+  {
+   "startTime": 1584,
+   "title": "《黎明行者之血》",
+   "img": "https://image.gcores.com/7d438e6f4680d86a14fb9aa9ad40892e-920-430.webp",
+   "url": "https://www.gcores.com/articles/213898"
+  },
+  {
+   "startTime": 1612,
+   "title": "《黄昏血族》",
+   "img": "https://image.gcores.com/92658f9eb3a077197744eb0a73acb824-1080-607.webp"
+  },
+  {
+   "startTime": 1656,
+   "title": "旧时曲",
+   "img": "https://image.gcores.com/29c11a3c3755be3419cf9a114fcb9ae2-1000-563.webp"
+  },
+  {
+   "startTime": 1710,
+   "title": "继续做《巫师》风格游戏",
+   "img": "https://image.gcores.com/e87ca0506a7800521c625a5a29012d35-800-453.png"
+  },
+  {
+   "startTime": 1765,
+   "title": "世界观",
+   "img": "https://image.gcores.com/f4402b907c066b7c32654cbcf2617af6-802-453.png"
+  },
+  {
+   "startTime": 1808,
+   "title": "《巫师》代餐",
+   "img": "https://image.gcores.com/715c0d9495d026ca527f043bbefb4d6f-1214-712.png"
+  },
+  {
+   "startTime": 1861,
+   "title": "文本质量顶中顶",
+   "img": "https://image.gcores.com/494960908076a2e14fe4dc6cfe0834fc-1212-728.png"
+  },
+  {
+   "startTime": 1904,
+   "title": "制作太穷",
+   "img": "https://image.gcores.com/ae2be4aa778f901e05f08eed9fe58cae-798-456.png"
+  },
+  {
+   "startTime": 1941,
+   "title": "故事背景",
+   "img": "https://image.gcores.com/82bd6314a81b7ce886dc3563faa100c8-799-415.png"
+  },
+  {
+   "startTime": 2089,
+   "title": "主角",
+   "img": "https://image.gcores.com/dc6b6c0fdc677a13e559ffcb573c5c0d-801-446.png"
+  },
+  {
+   "startTime": 2152,
+   "title": "真实时间系统",
+   "img": "https://image.gcores.com/ed1165447d95356747d7c247625e3c61-382-244.png"
+  },
+  {
+   "startTime": 2299,
+   "title": "昼夜两套玩法",
+   "img": "https://image.gcores.com/5488d5faa82190713464e5cb0311a32f-800-414.png"
+  },
+  {
+   "startTime": 2414,
+   "title": "心理压力大",
+   "img": "https://image.gcores.com/9e7a04926d02d922a5311950ff942e68-804-448.png"
+  },
+  {
+   "startTime": 2487,
+   "title": "小规模作品",
+   "img": "https://image.gcores.com/ef9dc54bf012ab7e5e2e6255c57e97cd-875-492.webp"
+  },
+  {
+   "startTime": 2516,
+   "title": "故事体验好",
+   "img": "https://image.gcores.com/5a67058f945f30be632e5f061e96ffed-1129-689.png"
+  },
+  {
+   "startTime": 2704,
+   "title": "《僵尸围城》",
+   "img": "https://image.gcores.com/611b2c0c79d69a7ab852f314930b15a8-536-762.webp"
+  },
+  {
+   "startTime": 2819,
+   "title": "吸血鬼怕银",
+   "img": "https://image.gcores.com/ad75a8826088da17bbbc6e13ee9e11b2-804-447.png"
+  },
+  {
+   "startTime": 2890,
+   "title": "质高量少",
+   "img": "https://image.gcores.com/16bab2fe68d90e7b11b800ccaa878ad7-799-447.png"
+  },
+  {
+   "startTime": 2997,
+   "title": "更有代入感",
+   "img": "https://image.gcores.com/39e4e6370920ecf55b87e92276d8be82-1201-738.png"
+  },
+  {
+   "startTime": 3091,
+   "title": "《星球大战 零号连队》",
+   "img": "https://image.gcores.com/0317b57f4b631e30832461044191d885-800-450.webp"
+  },
+  {
+   "startTime": 3142,
+   "title": "《Phantom Doctrine》",
+   "img": "https://image.gcores.com/4a260e4d7bc9f496cf6087d7846874dc-460-215.webp"
+  },
+  {
+   "startTime": 3168,
+   "title": "《XCOM® 2》",
+   "img": "https://image.gcores.com/a8f18b78f771c83afb5722c54153efad-460-215.webp"
+  },
+  {
+   "startTime": 3322,
+   "title": "Firaxis Games",
+   "img": "https://image.gcores.com/21e870e0b843b28246245da911bcfcef-183-177.png"
+  },
+  {
+   "startTime": 3350,
+   "title": "文斯·赞佩拉",
+   "img": "https://image.gcores.com/0f0900467b9df01277f89166f29a3bdf-345-283.webp"
+  },
+  {
+   "startTime": 3477,
+   "title": "克隆人战争",
+   "img": "https://image.gcores.com/916eddd60a13d263ae156da78a60268d-536-402.webp"
+  },
+  {
+   "startTime": 3561,
+   "title": "人类指挥官",
+   "img": "https://image.gcores.com/d2456ff3057349e9c8bb44943e8236b0-797-449.png"
+  },
+  {
+   "startTime": 3667,
+   "title": "第三人称视角",
+   "img": "https://image.gcores.com/b7cf2a87be1609e55d28fd86586ba7b7-1226-760.png"
+  },
+  {
+   "startTime": 3765,
+   "title": "66号指令"
+  },
+  {
+   "startTime": 3804,
+   "title": "阿纳金·天行者",
+   "img": "https://image.gcores.com/c03e417c40b102dd5ff772c6811b76f6-400-500.webp"
+  },
+  {
+   "startTime": 3854,
+   "title": "简化战斗系统",
+   "img": "https://image.gcores.com/d73d1bd47d6d1514d611c33f11fa3514-809-448.png"
+  },
+  {
+   "startTime": 3952,
+   "title": "兵种区别",
+   "img": "https://image.gcores.com/789113a4cd482b6bf8366c83cc207c28-1394-687.png"
+  },
+  {
+   "startTime": 4040,
+   "title": "战场氛围好",
+   "img": "https://image.gcores.com/3bfaf02d6a36486170b776de92f0c00c-805-450.png"
+  },
+  {
+   "startTime": 4061,
+   "title": "优化垃圾"
+  },
+  {
+   "startTime": 4092,
+   "title": "永久死亡",
+   "img": "https://image.gcores.com/dc819f2ec654e9a156bf0c132972755a-804-456.png"
+  },
+  {
+   "startTime": 4239,
+   "title": "关卡设计",
+   "img": "https://image.gcores.com/d8c362b7c0dbea883abd9fe66ef9f632-802-435.png"
+  },
+  {
+   "startTime": 4374,
+   "title": "战斗没难度",
+   "img": "https://image.gcores.com/1031ccab14952cdcd02709a67bd6c6e1-804-451.png"
+  },
+  {
+   "startTime": 4436,
+   "title": "《凤凰点》",
+   "img": "https://image.gcores.com/f1d28e8be1298a9f1262905b90717b89-800-450.webp"
+  },
+  {
+   "startTime": 4530,
+   "title": "玩法降级，叙事升级",
+   "img": "https://image.gcores.com/2b999f522146c8d4c333c025d75e34fe-795-447.png"
+  },
+  {
+   "startTime": 4683,
+   "title": "《潜龙谍影：大师合集 Vol.2》",
+   "img": "https://image.gcores.com/5cf1749ad536dafe80dfa66183398706-1000-563.webp"
+  },
+  {
+   "startTime": 4728,
+   "title": "《潜龙谍影Δ 食蛇者》",
+   "img": "https://image.gcores.com/a684c8b229f0a991f01cbe9d123a8861-1000-563.webp"
+  },
+  {
+   "startTime": 4862,
+   "title": "过场动画",
+   "img": "https://image.gcores.com/f50afc09d0728822a562a3af69b8cacb-800-448.png"
+  },
+  {
+   "startTime": 4888,
+   "title": "《荒野大镖客1》",
+   "img": "https://image.gcores.com/96cad3b9ab8bf4b8fe685566386fe20b-1280-720.webp"
+  },
+  {
+   "startTime": 4944,
+   "title": "按头安利GTA5",
+   "img": "https://image.gcores.com/9ed7814c3bd8f3f10fb1a0a997856cba-1099-932.png",
+   "url": "https://www.gcores.com/radios/203052"
+  },
+  {
+   "startTime": 4985,
+   "title": "丹·豪瑟",
+   "img": "https://image.gcores.com/b8d057bf3d37b45bb9b9157decca61cc-536-302.webp"
+  },
+  {
+   "startTime": 5031,
+   "title": "《GTA4》",
+   "img": "https://image.gcores.com/a27b216b6f0034669341f93b2f7d7434-536-662.webp"
+  },
+  {
+   "startTime": 5109,
+   "title": "《疤面煞星》",
+   "img": "https://image.gcores.com/7b4a5f7589fc172d656313aa7ad317c1-270-380.png"
+  },
+  {
+   "startTime": 5164,
+   "title": "GTA不需要玩法",
+   "img": "https://image.gcores.com/787fb54125111e142aeff1e24c47dc0e-685-621.gif"
+  },
+  {
+   "startTime": 5255,
+   "title": "《雌雄大盗》",
+   "img": "https://image.gcores.com/982affed58d179a29614f53f96bb07f3-474-373.webp"
+  },
+  {
+   "startTime": 5303,
+   "title": "爱上三个恶人",
+   "img": "https://image.gcores.com/f1a28ee87d0fcdaaeae45de0d0d09b38-1920-1080.jpg"
+  },
+  {
+   "startTime": 5348,
+   "title": "这期听感如何",
+   "img": "https://image.gcores.com/92f82c5ec02b76f0efbc88c755a76ea3-614-480.png"
+  }
+ ]
+}

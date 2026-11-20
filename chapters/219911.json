@@ -1,0 +1,522 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 39,
+   "title": "茶话会还在",
+   "img": "https://image.gcores.com/c90e3edb05c2e02585c21c22e7eb4fc9-334-246.jpg"
+  },
+  {
+   "startTime": 58,
+   "title": "交作业",
+   "img": "https://image.gcores.com/a9d7d0f3f4a2453249b0435ebfede58e-625-352.webp"
+  },
+  {
+   "startTime": 131,
+   "title": "剧本特别好",
+   "img": "https://image.gcores.com/afb365557b02ffac5b931771f18e5eb8-625-292.webp"
+  },
+  {
+   "startTime": 205,
+   "title": "同时玩金刚狼",
+   "img": "https://image.gcores.com/6892ab365a41fb3afe834cbafcd63d19-2500-1406.webp"
+  },
+  {
+   "startTime": 379,
+   "title": "金刚狼哭了",
+   "img": "https://image.gcores.com/e57ceecc712547ee047f05861adc2f29-1560-870.png"
+  },
+  {
+   "startTime": 415,
+   "title": "游戏流程不长",
+   "img": "https://image.gcores.com/1f9bc422792c28296e58b66f709bf50b-653-186.png"
+  },
+  {
+   "startTime": 575,
+   "title": "角色扮演大于动作",
+   "img": "https://image.gcores.com/2709814ee3183ef20c14200f1d811548-625-353.webp"
+  },
+  {
+   "startTime": 666,
+   "title": "剑是通用的",
+   "img": "https://image.gcores.com/08d782d5ef0978786b1bada9b4d006e1-625-350.webp"
+  },
+  {
+   "startTime": 738,
+   "title": "《控制：共振》",
+   "img": "https://image.gcores.com/7b88e3c765d1ce8425135a432d6d8036-875-492.webp",
+   "url": "https://www.gcores.com/articles/219913"
+  },
+  {
+   "startTime": 789,
+   "title": "《天国：拯救》青春版",
+   "img": "https://image.gcores.com/86113db66c5d1317e87de83b67b3c408-1920-1080.webp"
+  },
+  {
+   "startTime": 846,
+   "title": "游戏成本",
+   "img": "https://image.gcores.com/ce97e0e09560d3e8de043ffce305322c-801-446.png"
+  },
+  {
+   "startTime": 880,
+   "title": "野心非常大",
+   "img": "https://image.gcores.com/23d0261607af9a82f11e63084e153b7a-875-492.webp"
+  },
+  {
+   "startTime": 954,
+   "title": "高桌会",
+   "img": "https://image.gcores.com/c87593c47c036f01678796826607ff00-875-1172.webp",
+   "url": "https://www.gcores.com/articles/213001"
+  },
+  {
+   "startTime": 977,
+   "title": "蓝眼先生",
+   "img": "https://image.gcores.com/f27a633ba562ba4c3cca0d5cb66935e1-768-432.png"
+  },
+  {
+   "startTime": 1029,
+   "title": "主创的相关采访"
+  },
+  {
+   "startTime": 1148,
+   "title": "对评论区安利星战失败",
+   "img": "https://image.gcores.com/fd9b0f641e61b6639afa05920b3c423e-310-279.gif"
+  },
+  {
+   "startTime": 1172,
+   "title": "最早的星战电影",
+   "img": "https://image.gcores.com/757c687e04cda8002c360323fd2518c2-322-440.webp"
+  },
+  {
+   "startTime": 1201,
+   "title": "《曼达洛人》",
+   "img": "https://image.gcores.com/7226427a17958dddb2672b4c0eb8a41d-536-794.webp"
+  },
+  {
+   "startTime": 1262,
+   "title": "反派邪教",
+   "img": "https://image.gcores.com/7ce6b5f4664552e18f1eaef4908935ae-1000-563.webp"
+  },
+  {
+   "startTime": 1333,
+   "title": "盔甲非常讲究",
+   "img": "https://image.gcores.com/7250a062d9962fa31288d7a72120a80a-774-715.png"
+  },
+  {
+   "startTime": 1359,
+   "title": "克隆人士兵",
+   "img": "https://image.gcores.com/182ad3999615704bf0a3456707a3504f-2048-1152.png"
+  },
+  {
+   "startTime": 1427,
+   "title": "可以自由捏人",
+   "img": "https://image.gcores.com/74d251b2494583b6b5598a765f220b92-765-429.png"
+  },
+  {
+   "startTime": 1579,
+   "title": "开局教程玩出BUG",
+   "img": "https://image.gcores.com/5178e16aa3e143b8c4b26a5c9057c814-1271-725.png"
+  },
+  {
+   "startTime": 1636,
+   "title": "战场地图特别小",
+   "img": "https://image.gcores.com/0c3707ebfd1d5eace46b46cec59a5779-1523-847.png"
+  },
+  {
+   "startTime": 1660,
+   "title": "纯类XCOM",
+   "img": "https://image.gcores.com/56c187471601755dc5b4702d7ded3b7b-625-346.webp"
+  },
+  {
+   "startTime": 1722,
+   "title": "战斗系统延展性低",
+   "img": "https://image.gcores.com/f25538e8ad8c1aeac3b45cd7079dcb8f-803-444.png"
+  },
+  {
+   "startTime": 1852,
+   "title": "产品定位",
+   "img": "https://image.gcores.com/4a1471d3518c54b7e6f6e098226c1a06-798-450.png"
+  },
+  {
+   "startTime": 1930,
+   "title": "他还是那么喜欢看剧情",
+   "img": "https://image.gcores.com/9284a9cde82ece9230f6a846a4028eb2-585-547.jpg"
+  },
+  {
+   "startTime": 2015,
+   "title": "喜欢写家庭伦理戏",
+   "img": "https://image.gcores.com/0010c55c912dd4b1f0194ab2774f2606-800-450.webp"
+  },
+  {
+   "startTime": 2095,
+   "title": "《光与影：33号远征队》",
+   "img": "https://image.gcores.com/f426d353a621b2fdedf7d5c4044b5aed-536-804.webp"
+  },
+  {
+   "startTime": 2172,
+   "title": "不能舔图",
+   "img": "https://image.gcores.com/8dd6b38b7b0bcbcfa08b0f864e6e100b-753-645.jpg"
+  },
+  {
+   "startTime": 2303,
+   "title": "最放松的游戏",
+   "img": "https://image.gcores.com/20f9f0db8f650abbbfe5f41471807730-888-626.png"
+  },
+  {
+   "startTime": 2339,
+   "title": "安利西蒙《鬼武者》",
+   "img": "https://image.gcores.com/8953d7358d866722cbe90b4b80faa451-1120-630.webp"
+  },
+  {
+   "startTime": 2359,
+   "title": "《鬼武者3》",
+   "img": "https://image.gcores.com/bf1e21fd668bee4bdc65290fa5b05095-353-436.jpg"
+  },
+  {
+   "startTime": 2434,
+   "title": "《鬼武者》电影"
+  },
+  {
+   "startTime": 2503,
+   "title": "换主角了",
+   "img": "https://image.gcores.com/047a51db620db77bceb013e3f1300b2d-625-424.webp"
+  },
+  {
+   "startTime": 2542,
+   "title": "源义经",
+   "img": "https://image.gcores.com/65d25b82dbafcf90a5a9bddd3a8bcfa9-500-599.webp"
+  },
+  {
+   "startTime": 2616,
+   "title": "卡普空会讲故事了",
+   "img": "https://image.gcores.com/05cc1630d57023f2a145643069a647ca-805-444.png"
+  },
+  {
+   "startTime": 2633,
+   "title": "《鬼武者》茶话会节目",
+   "img": "https://image.gcores.com/602b2c4d05417a80aa083e1f9e76707b-1104-911.png",
+   "url": "https://www.gcores.com/radios/218979"
+  },
+  {
+   "startTime": 2655,
+   "title": "没有期望就不会失望",
+   "img": "https://image.gcores.com/d7aa9a1a1839edcb36a9894accc0c493-334-250.jpg"
+  },
+  {
+   "startTime": 2712,
+   "title": "巴甫洛夫效应",
+   "img": "https://image.gcores.com/54155c1895bde3c35262d5b870c71b82-536-604.webp"
+  },
+  {
+   "startTime": 2810,
+   "title": "和《新战神》坐一桌",
+   "img": "https://image.gcores.com/883756dd341999db59083036e966f19c-1200-630.webp"
+  },
+  {
+   "startTime": 2867,
+   "title": "这就吃安利了",
+   "img": "https://image.gcores.com/3713f8e0346be0aee7d0f39ab9acabb2-586-536.jpg"
+  },
+  {
+   "startTime": 2946,
+   "title": "还是日本人懂剑戟片",
+   "img": "https://image.gcores.com/7cbd7150798abf5c409ef0159e56fee0-1760-784.webp"
+  },
+  {
+   "startTime": 2995,
+   "title": "菊千代",
+   "img": "https://image.gcores.com/d30d4bb57685b0ca9e5a9ef2a6fb807f-536-352.webp"
+  },
+  {
+   "startTime": 3054,
+   "title": "人物表情肌肉做得好",
+   "img": "https://image.gcores.com/8484c7d674ac13b67d89c4fa32a64850-484-344.png"
+  },
+  {
+   "startTime": 3135,
+   "title": "别玩最高难度"
+  },
+  {
+   "startTime": 3189,
+   "title": "《浪客行》",
+   "img": "https://image.gcores.com/ce51999fff5371540465d6be5db895d7-536-764.webp"
+  },
+  {
+   "startTime": 3248,
+   "title": "演出非常好",
+   "img": "https://image.gcores.com/95bf5ecd3c2112e8029a1fae7cc48b36-1027-797.png"
+  },
+  {
+   "startTime": 3273,
+   "title": "中文本地化非常好",
+   "img": "https://image.gcores.com/21cbbd82d5f492081a784c1451529656-580-88.png"
+  },
+  {
+   "startTime": 3381,
+   "title": "蒋奇明",
+   "img": "https://image.gcores.com/46252349ccfac5d23977d715ed777da7-919-703.png"
+  },
+  {
+   "startTime": 3396,
+   "title": "木村拓哉演宫本武藏",
+   "img": "https://image.gcores.com/ac3839effe73399710978e468dc780f6-350-475.webp"
+  },
+  {
+   "startTime": 3420,
+   "title": "不想当动作天尊",
+   "img": "https://image.gcores.com/d54eca3d8bf19fd8d7eec98e6f43155f-3000-2250.jpg"
+  },
+  {
+   "startTime": 3487,
+   "title": "游戏销量",
+   "img": "https://image.gcores.com/d381c5e0b0ce76b4a4e5d8023770ab55-960-453.webp"
+  },
+  {
+   "startTime": 3564,
+   "title": "卡普空未来方向",
+   "img": "https://image.gcores.com/b8ed614ca9fa8cabe8ce60e78a44c705-536-536.webp"
+  },
+  {
+   "startTime": 3618,
+   "title": "讲述Just Cause演艺公司的节目",
+   "img": "https://image.gcores.com/3b7b9bfa7ebdbbde8601af891639d78d-1153-1015.png",
+   "url": "https://www.gcores.com/radios/196716"
+  },
+  {
+   "startTime": 3662,
+   "title": "安利萝卜《漫威金刚狼》",
+   "img": "https://image.gcores.com/98127819fede0f2dce83fdca42586119-2500-1406.webp"
+  },
+  {
+   "startTime": 3692,
+   "title": "没有达到预期"
+  },
+  {
+   "startTime": 3751,
+   "title": "消磨时间不二之选",
+   "img": "https://image.gcores.com/0d0ffdfe9d4995483bc8af19711f5cb7-685-621.gif"
+  },
+  {
+   "startTime": 3807,
+   "title": "原创故事",
+   "img": "https://image.gcores.com/a46a21028f7d76fcb8582db361309608-1000-668.webp"
+  },
+  {
+   "startTime": 3829,
+   "title": "特洛伊·贝克",
+   "img": "https://image.gcores.com/e33d1000538cfc4d438cf6ca7025606f-536-715.webp"
+  },
+  {
+   "startTime": 3837,
+   "title": "超英核电波节目",
+   "img": "https://image.gcores.com/be4ad61fa33b904dd2bd9fa03b7ab703-789-264.png",
+   "url": "https://www.bilibili.com/video/BV1WTht6cEUJ/?spm_id_from=333.1365.list.card_archive.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 3878,
+   "title": "连姆·麦肯泰尔",
+   "img": "https://image.gcores.com/aecad612f650d3abb01b79d19fc53d39-536-804.webp"
+  },
+  {
+   "startTime": 3938,
+   "title": "透露廉价的气息",
+   "img": "https://image.gcores.com/ce87a5c34124994d5b6c8004c0af40fd-1193-659.jpg"
+  },
+  {
+   "startTime": 3996,
+   "title": "没有x教授和万磁王",
+   "img": "https://image.gcores.com/f7374208b7889cce31e819ff8b049a20-584-328.jpg"
+  },
+  {
+   "startTime": 4006,
+   "title": "《X战警前传：金刚狼》",
+   "img": "https://image.gcores.com/39e77f0f1178d4846fc80aa02384de46-536-757.webp"
+  },
+  {
+   "startTime": 4074,
+   "title": "追车戏",
+   "img": "https://image.gcores.com/47ccf5b6ffe1ace8494152075dd9a573-888-626.png"
+  },
+  {
+   "startTime": 4188,
+   "title": "值不值得买"
+  },
+  {
+   "startTime": 4247,
+   "title": "再次安利《阿卡姆骑士》",
+   "img": "https://image.gcores.com/ca4ed034c656364818d34b094e068624-1920-890.jpg"
+  },
+  {
+   "startTime": 4338,
+   "title": "《蝙蝠侠：阿卡姆》系列三部曲",
+   "img": "https://image.gcores.com/c68c4c40fa33a48c0e154b80040c9c0a-536-699.webp"
+  },
+  {
+   "startTime": 4391,
+   "title": "战斗系统",
+   "img": "https://image.gcores.com/14d467559ba99206bd2c9d2c5b97e559-804-447.png"
+  },
+  {
+   "startTime": 4509,
+   "title": "故事全部发生在一个晚上",
+   "img": "https://image.gcores.com/0337fea87a5db55abe55f4798cac096c-1478-856.png"
+  },
+  {
+   "startTime": 4604,
+   "title": "不能杀人",
+   "img": "https://image.gcores.com/ac0da2d0f4557f5c54ea689e6be5cabc-1569-2218.jpg"
+  },
+  {
+   "startTime": 4718,
+   "title": "以为没有小丑戏份",
+   "img": "https://image.gcores.com/4b9c0ceef37ccb728c7dfc436683fcc0-1268-721.png"
+  },
+  {
+   "startTime": 4805,
+   "title": "急冻先生",
+   "img": "https://image.gcores.com/a220504a35673538cce6bd503df534bd-474-670.webp"
+  },
+  {
+   "startTime": 4903,
+   "title": "玩家能控制小丑",
+   "img": "https://image.gcores.com/1d689cb85cfb129351c987145378ed1a-334-318.png"
+  },
+  {
+   "startTime": 4997,
+   "title": "对话文本非常好",
+   "img": "https://image.gcores.com/a6220223fb0c1b890edb1c0329d347d6-912-485.png"
+  },
+  {
+   "startTime": 5087,
+   "title": "骑士陨落任务",
+   "img": "https://image.gcores.com/ef643f0cc392fce4dffb328c092fc93a-1920-1200.jpg"
+  },
+  {
+   "startTime": 5229,
+   "title": "入坑方式",
+   "img": "https://image.gcores.com/4043eaa6c1b11ed1dcfe55faa861a1ed-1527-861.png"
+  },
+  {
+   "startTime": 5317,
+   "title": "顶级作品",
+   "img": "https://image.gcores.com/d922ba7f0e68460f2d674edeae989d32-1398-870.png"
+  },
+  {
+   "startTime": 5403,
+   "title": "角色塑造不输电影",
+   "img": "https://image.gcores.com/8159a62ba2ce0d1e0c8c3f55aab39921-509-352.png"
+  },
+  {
+   "startTime": 5434,
+   "title": "谜语人滚出哥谭市",
+   "img": "https://image.gcores.com/ca7c3ff189c44db7cced446b6af4bf6d-700-394.jpg"
+  },
+  {
+   "startTime": 5519,
+   "title": "Rocksteady Studios",
+   "img": "https://image.gcores.com/c727d633bf3db9420c9f41acec0a31ed-800-444.png"
+  },
+  {
+   "startTime": 5537,
+   "title": "开放世界游戏的变化",
+   "img": "https://image.gcores.com/e5ee269d179f9f4d363d7ec64ab226ac-2575-1433.jpg"
+  },
+  {
+   "startTime": 5659,
+   "title": "安利西蒙《控制：共振》",
+   "img": "https://image.gcores.com/b92fa7d92a549923c8d79158d42106b9-460-215.webp"
+  },
+  {
+   "startTime": 5711,
+   "title": "以动作战斗为主",
+   "img": "https://image.gcores.com/88fa517218cfce3720e3cf695b6a375b-1920-1080.webp"
+  },
+  {
+   "startTime": 5801,
+   "title": "Remedy式奇观",
+   "img": "https://image.gcores.com/e61a9b336bdecdf42d3659cad8275d83-801-449.png"
+  },
+  {
+   "startTime": 5858,
+   "title": "迪伦·法登",
+   "img": "https://image.gcores.com/341286715636409e4f24e81c78867121-1080-608.png"
+  },
+  {
+   "startTime": 5898,
+   "title": "大巴车",
+   "img": "https://image.gcores.com/daa6201e417754c0cab3b5b69d6bd292-828-466.webp"
+  },
+  {
+   "startTime": 5936,
+   "title": "萝卜的曼哈顿工作经历",
+   "img": "https://image.gcores.com/0cfc10d384bdc3c6998c4fb256939337-1280-851.webp"
+  },
+  {
+   "startTime": 6034,
+   "title": "半开放世界",
+   "img": "https://image.gcores.com/0527504723362bcf663a72680e335100-799-444.png"
+  },
+  {
+   "startTime": 6067,
+   "title": "更大的世界观",
+   "img": "https://image.gcores.com/8206eaa8128e146b1d627482b36c6ed5-801-449.png"
+  },
+  {
+   "startTime": 6139,
+   "title": "FBC",
+   "img": "https://image.gcores.com/61427da77686f89593689eb967eeabbb-828-466.webp"
+  },
+  {
+   "startTime": 6211,
+   "title": "FBC打工人日常",
+   "img": "https://image.gcores.com/714ec29599ccaee8d4e11515cc1e48dd-828-466.webp"
+  },
+  {
+   "startTime": 6332,
+   "title": "知名度不够",
+   "img": "https://image.gcores.com/89488214cabec5f8a67faff19f951ff7-828-466.webp"
+  },
+  {
+   "startTime": 6411,
+   "title": "《战狗》",
+   "img": "https://image.gcores.com/ef0460bb82d7c407358a2dbaa0b75d37-460-215.webp"
+  },
+  {
+   "startTime": 6425,
+   "title": "大战场",
+   "img": "https://image.gcores.com/981cb6d552ecae9f32135964008c7b87-875-493.webp"
+  },
+  {
+   "startTime": 6486,
+   "title": "自由麦克风",
+   "img": "https://image.gcores.com/19c062e0052b3e8d4d0f53eae423551c-806-445.png"
+  },
+  {
+   "startTime": 6519,
+   "title": "为了赚钱",
+   "img": "https://image.gcores.com/671ce7995cb7d66cc73cff34d698f5de-875-493.webp"
+  },
+  {
+   "startTime": 6554,
+   "title": "怎么玩自己决定",
+   "img": "https://image.gcores.com/333d940f21dc062be9bb604d18615903-875-493.webp"
+  },
+  {
+   "startTime": 6741,
+   "title": "体验类似《死亡搁浅》",
+   "img": "https://image.gcores.com/0b585f1903021c1093d42a7336ff5759-806-450.png"
+  },
+  {
+   "startTime": 6754,
+   "title": "钱能带到下局"
+  },
+  {
+   "startTime": 6792,
+   "title": "感谢收听"
+  }
+ ]
+}

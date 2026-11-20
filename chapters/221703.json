@@ -1,0 +1,330 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/80072af589061779f0219a5bbdeece3c-440-623.webp"
+  },
+  {
+   "startTime": 25,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 53,
+   "title": "EA关闭生软（BioWare）",
+   "img": "https://image.gcores.com/566c5335700a9cfdde0e4cd0e3665d55-1400-788.gif",
+   "url": "https://www.gcores.com/articles/221281"
+  },
+  {
+   "startTime": 147,
+   "title": "《龙腾4》能玩",
+   "img": "https://image.gcores.com/5cecc17a7a153114481888312ea968e0-536-751.webp"
+  },
+  {
+   "startTime": 200,
+   "title": "G君聊生软",
+   "img": "https://image.gcores.com/1001db91955167f59ab74e689a85b415-407-446.png",
+   "url": "https://www.gcores.com/radios/190409"
+  },
+  {
+   "startTime": 214,
+   "title": "口述历史公开",
+   "img": "https://image.gcores.com/3392f0e8ee8f3897a891e4d1745cfa89-1563-972.png",
+   "url": "https://gameinformer.com/feature/2026/10/21/doctors-dragons"
+  },
+  {
+   "startTime": 275,
+   "title": "“生软魔法”"
+  },
+  {
+   "startTime": 291,
+   "title": "三位联合创始人",
+   "img": "https://image.gcores.com/c3b2103f2ca6d7343f1559863b850a2d-920-518.png"
+  },
+  {
+   "startTime": 337,
+   "title": "《狼穴》（Castle Wolfenstein）",
+   "img": "https://image.gcores.com/7ab3ad3084a2703561b93dc70fce9533-539-360.png"
+  },
+  {
+   "startTime": 375,
+   "title": "喜欢讲故事"
+  },
+  {
+   "startTime": 452,
+   "title": "创业初期"
+  },
+  {
+   "startTime": 495,
+   "title": "Interplay",
+   "img": "https://image.gcores.com/e48beb1c8803a25196f41dd4c7f5305e-536-536.webp"
+  },
+  {
+   "startTime": 516,
+   "title": "黑曜石嗝屁",
+   "img": "https://image.gcores.com/b1e3c78261e0bbda96799c4446f18671-738-411.webp"
+  },
+  {
+   "startTime": 565,
+   "title": "叶医生离开"
+  },
+  {
+   "startTime": 659,
+   "title": "类毁灭战士（Doom-like）",
+   "img": "https://image.gcores.com/8cc8a446cc8e9b6cf714ed2866ec7ad3-1280-720.png"
+  },
+  {
+   "startTime": 681,
+   "title": "《破碎钢铁》",
+   "img": "https://image.gcores.com/2fe3138691da9fdc4adf755f9d9ab7c0-802-450.png"
+  },
+  {
+   "startTime": 794,
+   "title": "布莱恩·法戈（Brian Fargo）",
+   "img": "https://image.gcores.com/c3947879f4da5ffaccdf7a08f2837280-640-426.png"
+  },
+  {
+   "startTime": 826,
+   "title": "《机甲战士》（MechWarrior）",
+   "img": "https://image.gcores.com/5d8be6e259b4295502481673a8f6d033-1728-1080.png"
+  },
+  {
+   "startTime": 839,
+   "title": "《圣歌》",
+   "img": "https://image.gcores.com/f50a5067915f2f5d5311cccb343eae7f-536-238.webp"
+  },
+  {
+   "startTime": 947,
+   "title": "《无限战场》（Battleground Infinity）"
+  },
+  {
+   "startTime": 1044,
+   "title": "维珍互动",
+   "img": "https://image.gcores.com/26b3ff768379b7d5d3d34eae0c6aacd1-474-296.webp"
+  },
+  {
+   "startTime": 1049,
+   "title": "雪乐山",
+   "img": "https://image.gcores.com/7b2b6ab095773bd141bbe6eab189abea-536-459.webp"
+  },
+  {
+   "startTime": 1054,
+   "title": "《DOOM启世录》有声书",
+   "img": "https://image.gcores.com/65b8007ebceaab6267362e0051daeb99-625-352.webp",
+   "url": "https://www.gcores.com/radios/208481"
+  },
+  {
+   "startTime": 1141,
+   "title": "弗格斯·厄克哈特",
+   "img": "https://image.gcores.com/acbb5672bafbd37a215342b226671f0f-1920-1080.png"
+  },
+  {
+   "startTime": 1274,
+   "title": "审批闭环了"
+  },
+  {
+   "startTime": 1298,
+   "title": "即时战略游戏RTS（Real-Time Strategy）",
+   "img": "https://image.gcores.com/961f4d8c043acf14b8681d75ce77f842-1024-640.png"
+  },
+  {
+   "startTime": 1338,
+   "title": "《魔法门》",
+   "img": "https://image.gcores.com/2c9825847a4cf38aa03dcc25702400af-640-400.png"
+  },
+  {
+   "startTime": 1415,
+   "title": "《铁血联盟》（Jagged Alliance）",
+   "img": "https://image.gcores.com/b50a8dc0ea7fdabfa66244cd03d3e902-836-470.png"
+  },
+  {
+   "startTime": 1477,
+   "title": "凯文·马丁斯",
+   "img": "https://image.gcores.com/6e22ca9c3b7db902ac5b9a913f85aa6f-550-308.png"
+  },
+  {
+   "startTime": 1610,
+   "title": "《暗黑破坏神》",
+   "img": "https://image.gcores.com/618ebc44ed96a8197fa18914821e9a87-640-480.png"
+  },
+  {
+   "startTime": 1660,
+   "title": "游戏帝国Vol.3丨农业大亨 Ubisoft",
+   "img": "https://image.gcores.com/2c1adf90608567e1e53c5531f5bbc9c3-886-875.png",
+   "url": "https://www.gcores.com/radios/155805"
+  },
+  {
+   "startTime": 1721,
+   "title": "“生软魔法”开始生效",
+   "img": "https://image.gcores.com/de2058c33c4af8095b2bc2ef891b0349-640-480.png"
+  },
+  {
+   "startTime": 1887,
+   "title": "把《博德之门》作为压轴宣发",
+   "img": "https://image.gcores.com/cb2bb221b02707f9eabcf0ea07564905-800-984.png"
+  },
+  {
+   "startTime": 1940,
+   "title": "CompUSA",
+   "img": "https://image.gcores.com/6a960e3b0c929e453e8f867c1fd75e17-980-698.png"
+  },
+  {
+   "startTime": 1955,
+   "title": "《龙与地下城》没有公信力",
+   "img": "https://image.gcores.com/6b831e5bd31a1f96ef99acab80c7e7a0-536-714.webp"
+  },
+  {
+   "startTime": 2036,
+   "title": "《博德之门》发售后全美爆红",
+   "img": "https://image.gcores.com/015e918a5ed3ae76fc63939c50b9ca98-512-384.jpg"
+  },
+  {
+   "startTime": 2178,
+   "title": "成功后开始膨胀",
+   "img": "https://image.gcores.com/2e7222449b91a916d870f2ced3332ce5-800-984.png"
+  },
+  {
+   "startTime": 2289,
+   "title": "Aaryn Flynn加入并奠定项目管理"
+  },
+  {
+   "startTime": 2299,
+   "title": "阿林·弗林（Aaryn Flynn）",
+   "img": "https://image.gcores.com/f09a5daa7d5ec2cddc1c53eb5359ff65-768-432.png"
+  },
+  {
+   "startTime": 2334,
+   "title": "迪尔米德・克拉克（Diarmid Clarke）",
+   "img": "https://image.gcores.com/a1ccc48a7fc0fae2186a825c2122ae37-480-291.png"
+  },
+  {
+   "startTime": 2360,
+   "title": "《最终幻想7》被拿来对比",
+   "img": "https://image.gcores.com/1788db4c5f7143591bc352986583ce90-1080-608.jpg"
+  },
+  {
+   "startTime": 2407,
+   "title": "突破游戏叙事难题",
+   "img": "https://image.gcores.com/cf8bb6187d4df9f4c3b6a451b60b872e-536-758.webp"
+  },
+  {
+   "startTime": 2565,
+   "title": "《博德之门 2：安姆的阴影》",
+   "img": "https://image.gcores.com/2b69749f622e37be271bcca7b0967057-498-598.png"
+  },
+  {
+   "startTime": 2686,
+   "title": "第三波软件有限公司"
+  },
+  {
+   "startTime": 2701,
+   "title": "《异域镇魂曲》",
+   "img": "https://image.gcores.com/7db2825fe94f4524ccc84bcc1fa96805-1920-1080.png"
+  },
+  {
+   "startTime": 2815,
+   "title": "发行商Interplay倒闭",
+   "img": "https://image.gcores.com/c76a3ae9669aeff06b78ba52ca463fc8-536-536.webp",
+   "url": "https://www.gcores.com/radios/16391"
+  },
+  {
+   "startTime": 2954,
+   "title": "蒂姆・凯恩（Tim Cain）",
+   "img": "https://image.gcores.com/ddc20a8c798956e6648aeb69a98012a3-1920-1080.png"
+  },
+  {
+   "startTime": 3014,
+   "title": "被雅达利接盘",
+   "img": "https://image.gcores.com/93d835ab905ccfa3cead7551423b8680-536-590.webp"
+  },
+  {
+   "startTime": 3080,
+   "title": "需要资金支持《无冬之夜》开发",
+   "img": "https://image.gcores.com/6b30b24325727527ac847984aa823b6f-474-271.webp"
+  },
+  {
+   "startTime": 3139,
+   "title": "《范布伦》（Van Buren）",
+   "img": "https://image.gcores.com/bb8d073acc3f0c9384c08d050ba1615b-512-384.png"
+  },
+  {
+   "startTime": 3207,
+   "title": "《无冬之夜》与《旧共和国武士》双线推进",
+   "img": "https://image.gcores.com/fba50906fca77c58a2fc58a439fe7159-536-661.webp"
+  },
+  {
+   "startTime": 3291,
+   "title": "生软用自有资金扛起开发风险"
+  },
+  {
+   "startTime": 3400,
+   "title": "《无冬之夜》成了"
+  },
+  {
+   "startTime": 3442,
+   "title": "决心孵化自有IP"
+  },
+  {
+   "startTime": 3545,
+   "title": "《翡翠帝国》",
+   "img": "https://image.gcores.com/3d489db1969ab8486fb0419a3c9df3fb-600-900.jpg"
+  },
+  {
+   "startTime": 3634,
+   "title": "无死线文化暴露生软管理基因"
+  },
+  {
+   "startTime": 3675,
+   "title": "马克·达拉（Mark Darrah）",
+   "img": "https://image.gcores.com/8969ba82a0c8f24114aa4734ef030ad0-1080-611.png"
+  },
+  {
+   "startTime": 3740,
+   "title": "《翡翠帝国2》搁浅"
+  },
+  {
+   "startTime": 3825,
+   "title": "凯西・哈德森",
+   "img": "https://image.gcores.com/029d294291186cc16bf89dea9dea7a9d-620-348.png"
+  },
+  {
+   "startTime": 3892,
+   "title": "重轻老师聊凯西・哈德森",
+   "img": "https://image.gcores.com/dab4c8bb7fb28798fb97a5311420ec59-998-909.png",
+   "url": "https://www.gcores.com/radios/214233"
+  },
+  {
+   "startTime": 3904,
+   "title": "有点像《光环》",
+   "img": "https://image.gcores.com/dc94f357122123e3fcea1e3118e898b0-480-360.png"
+  },
+  {
+   "startTime": 3934,
+   "title": "薛帕德指挥官",
+   "img": "https://image.gcores.com/502566f4e19c6a7e0a25f0ae761fd4bf-1920-1080.png"
+  },
+  {
+   "startTime": 3973,
+   "title": "支线选择撑起叙事闭环"
+  },
+  {
+   "startTime": 4002,
+   "title": "恋爱系统",
+   "img": "https://image.gcores.com/576a5aa147b5788838986ce811dde950-1555-870.png"
+  },
+  {
+   "startTime": 4104,
+   "title": "EA来电收购",
+   "img": "https://image.gcores.com/c0334c40b0e207f9d4309bda3ceebc45-921-515.jpg"
+  },
+  {
+   "startTime": 4205,
+   "title": "“生软之生”的故事就到这"
+  },
+  {
+   "startTime": 4229,
+   "title": "感谢收听"
+  }
+ ]
+}

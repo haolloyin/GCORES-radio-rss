@@ -1,0 +1,460 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/7e0d8847ffe43d4487ee14431f3fa676-3000-3000.jpg",
+   "url": "https://music.163.com/song?id=2746905881&uct2=U2FsdGVkX1+nUQEG4zLnuOreEneze93HH6LTLzz2ges="
+  },
+  {
+   "startTime": 41,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 66,
+   "title": "吉考斯新品发售",
+   "img": "https://image.gcores.com/d490c8bd3f810722c78ef061daa09a32-1600-900.webp",
+   "url": "https://www.gcores.com/articles/219738"
+  },
+  {
+   "startTime": 132,
+   "title": "GPASS折扣开启",
+   "img": "https://image.gcores.com/7ebc0c65c74a22b9a6f8f71869a0b2b0-1600-900.webp",
+   "url": "https://site.gcores.com/gpass/"
+  },
+  {
+   "startTime": 186,
+   "title": "暴雪嘉年华",
+   "img": "https://image.gcores.com/5d6fbff8d9b4be3709cc276444dbe500-627-353.webp",
+   "url": "https://www.gcores.com/articles/219688"
+  },
+  {
+   "startTime": 214,
+   "title": "《守望》新英雄",
+   "img": "https://image.gcores.com/3c71bd5e63eb1713c518f727617d9294-2230-1254.webp"
+  },
+  {
+   "startTime": 306,
+   "title": "雷文德斯",
+   "img": "https://image.gcores.com/fcc94213c1071207f072eee37a7f71cb-1066-675.png"
+  },
+  {
+   "startTime": 346,
+   "title": "游戏剧情",
+   "img": "https://image.gcores.com/6014000490971cd420993624bf2fe810-1298-670.png",
+   "url": "https://www.bilibili.com/video/BV1NgMW6AEd9/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 403,
+   "title": "英雄重做",
+   "img": "https://image.gcores.com/fc57794dc4ddaa244e0b59c5fe3fc5cc-1192-671.webp"
+  },
+  {
+   "startTime": 473,
+   "title": "《炉石》新职业",
+   "img": "https://image.gcores.com/3792e7cb5b20aec6c247b6eef420b6a7-1920-1080.webp"
+  },
+  {
+   "startTime": 519,
+   "title": "《暗黑破坏神》系列新作",
+   "img": "https://image.gcores.com/67a54ea108caf185ee15e89ca4b0ff44-1520-540.webp"
+  },
+  {
+   "startTime": 636,
+   "title": "《暗黑破坏神》剧集",
+   "img": "https://image.gcores.com/0ffa7fc14f8f1576468b858c4e9ba7c1-683-403.webp"
+  },
+  {
+   "startTime": 661,
+   "title": "《星际争霸》系列新作",
+   "img": "https://image.gcores.com/e162b21862fdaa4481e65ec49af605f8-1334-555.png",
+   "url": "https://www.bilibili.com/video/BV1xQYZ6bETm/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 751,
+   "title": "风格大变",
+   "img": "https://image.gcores.com/fe8e35e8273580af1a1e2a45a3dafc84-1334-552.png"
+  },
+  {
+   "startTime": 795,
+   "title": "《星际》CG",
+   "img": "https://image.gcores.com/275c1bbe415511a096acca828ef0ab95-1026-502.png",
+   "url": "https://www.bilibili.com/video/BV1UfqSB2EsR/?spm_id_from=333.788.recommend_more_video.0&trackid=web_related_0.router-related-2479604-fjzqj.1789802317026.358&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 911,
+   "title": "展示玩法",
+   "img": "https://image.gcores.com/562bf32c7831e8ba4ae210a4c59c6413-1267-570.png"
+  },
+  {
+   "startTime": 942,
+   "title": "《虚空之遗》开场",
+   "img": "https://image.gcores.com/076ba120736d577cba954abea0b46d3e-1262-558.png"
+  },
+  {
+   "startTime": 1020,
+   "title": "2030年",
+   "img": "https://image.gcores.com/f1b1bf64f36e48b8e0dec64ce8242f09-1920-1080.webp"
+  },
+  {
+   "startTime": 1121,
+   "title": "《魔兽世界》新版本",
+   "img": "https://image.gcores.com/bbb57f862048a4745a82000a34184f28-1750-884.webp"
+  },
+  {
+   "startTime": 1153,
+   "title": "《一门之隔》",
+   "img": "https://image.gcores.com/de07b50e860793fda99c9bed5428ca32-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1PaYo6WEfo/?spm_id_from=333.1387.homepage.video_card.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1201,
+   "title": "《撼世之威》",
+   "img": "https://image.gcores.com/3e56ff7ae3c5fd37e684fbf6181fc193-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1rZYd62EAJ/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1281,
+   "title": "泰坦生气"
+  },
+  {
+   "startTime": 1291,
+   "title": "光铸萨格拉斯",
+   "img": "https://image.gcores.com/acfe7bb34d3358f0caa6be8904238f9a-2752-1504.jpg"
+  },
+  {
+   "startTime": 1366,
+   "title": "《魔兽世界：无限》",
+   "img": "https://image.gcores.com/73cf3eb0f2c809bd2db26ac2c2040bbf-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1WQYd6DEgs/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1437,
+   "title": "新种族天裔",
+   "img": "https://image.gcores.com/965627c52eb21405461074b4070403da-484-280.png"
+  },
+  {
+   "startTime": 1545,
+   "title": "一千个任务"
+  },
+  {
+   "startTime": 1598,
+   "title": "嘛呢伊利丹",
+   "img": "https://image.gcores.com/4e7b720e0bd5693ef81900b2dc31f569-847-650.png"
+  },
+  {
+   "startTime": 1672,
+   "title": "《塞尔达传说 时之笛》",
+   "img": "https://image.gcores.com/49414330dbb0c0543acdd2ecae3bf09a-716-402.webp",
+   "url": "https://www.gcores.com/articles/219436"
+  },
+  {
+   "startTime": 1760,
+   "title": "巅峰等级",
+   "img": "https://image.gcores.com/9a93b03462612888e623d982914d26a4-942-694.png"
+  },
+  {
+   "startTime": 1796,
+   "title": "强度焦虑",
+   "img": "https://image.gcores.com/85e53ef464e84d5e0fd351f606206855-1027-773.png"
+  },
+  {
+   "startTime": 1886,
+   "title": "玩猎人的",
+   "img": "https://image.gcores.com/dca73183a2484235d2a349eec41a7154-836-657.png"
+  },
+  {
+   "startTime": 1947,
+   "title": "相约11月",
+   "img": "https://image.gcores.com/2b984ea565aeca7c0ef1a0f2485bee8a-1920-1080.jpg"
+  },
+  {
+   "startTime": 1988,
+   "title": "《魔兽争霸》新英雄",
+   "img": "https://image.gcores.com/39fdab084d3c0c6f3958f51ad574ba57-711-390.png"
+  },
+  {
+   "startTime": 2031,
+   "title": "《魔兽争霸3》新DLC",
+   "img": "https://image.gcores.com/d382cdde1d0834249af893d4936862ad-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1hqYd6cE3r?share_source=copy_web"
+  },
+  {
+   "startTime": 2114,
+   "title": "老角色登场",
+   "img": "https://image.gcores.com/f3d4092f2c20406f2bef0fcfb744400e-382-447.png"
+  },
+  {
+   "startTime": 2167,
+   "title": "《冰封王座》剧情",
+   "img": "https://image.gcores.com/182af85e0c9448532f6e28c30d7c810e-1242-878.webp"
+  },
+  {
+   "startTime": 2223,
+   "title": "被遗忘者",
+   "img": "https://image.gcores.com/d3b441d37d7ae405dc5cbe4195823b0c-1059-590.png"
+  },
+  {
+   "startTime": 2251,
+   "title": "阿隆索斯·法奥",
+   "img": "https://image.gcores.com/78d956b3770270513df9de44beebc378-452-537.png"
+  },
+  {
+   "startTime": 2315,
+   "title": "六大宇宙原力",
+   "img": "https://image.gcores.com/6ee8d1e088abb82c59f14ac72e56d238-806-1078.png"
+  },
+  {
+   "startTime": 2362,
+   "title": "向往的生活"
+  },
+  {
+   "startTime": 2413,
+   "title": "加入黑社会",
+   "img": "https://image.gcores.com/50d0d04dc55b161cf0626dafa35a3daa-640-360.avif"
+  },
+  {
+   "startTime": 2471,
+   "title": "《风暴英雄》",
+   "img": "https://image.gcores.com/fd0fb7e668ddcba4e2506512044b262f-1920-1080.webp"
+  },
+  {
+   "startTime": 2620,
+   "title": "TGS30周年",
+   "img": "https://image.gcores.com/19e6c6b403fdf2349ec63538d7eefeaa-832-460.png"
+  },
+  {
+   "startTime": 2767,
+   "title": "《龙之信条2：黑暗觉者》",
+   "img": "https://image.gcores.com/bda1bc7ad21f0a4c9593d9868f82bce4-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV18seJ64EyZ?share_source=copy_web"
+  },
+  {
+   "startTime": 2880,
+   "title": "重玩一遍",
+   "img": "https://image.gcores.com/d4dc2e30a8375c3b100cac11601bd7bb-986-597.png"
+  },
+  {
+   "startTime": 2937,
+   "title": "《生化危机》礼包",
+   "img": "https://image.gcores.com/7aca14e214439dcc6ee5e6af1a3a08d9-853-243.png"
+  },
+  {
+   "startTime": 3046,
+   "title": "《怪物猎人荒野：凌越》",
+   "img": "https://image.gcores.com/c2fe123f86346c3f65605a7bb8f19fda-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1JyeJ6CE1K?share_source=copy_web"
+  },
+  {
+   "startTime": 3085,
+   "title": "增幅护腕",
+   "img": "https://image.gcores.com/fdeed9590bf7332d0609d4e25aa8334c-248-79.png"
+  },
+  {
+   "startTime": 3177,
+   "title": "流程怪",
+   "img": "https://image.gcores.com/db4247b00b76036d82b5382e50537b9d-2560-1440.jpg"
+  },
+  {
+   "startTime": 3250,
+   "title": "炎王龙登场",
+   "img": "https://image.gcores.com/1fd4904a5d851cbdf554a7887be265fc-1336-742.png"
+  },
+  {
+   "startTime": 3305,
+   "title": "最讨厌的龙",
+   "img": "https://image.gcores.com/43ffdffa8b814c561288f90016adebe6-2560-1440.jpg"
+  },
+  {
+   "startTime": 3356,
+   "title": "名人名言"
+  },
+  {
+   "startTime": 3434,
+   "title": "《GACHIAKUTA》",
+   "img": "https://image.gcores.com/86dc1140fb5eafe0c33da95728314cfb-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1Vier6bEaJ/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 3490,
+   "title": "《疯狂出租车：极速环游》",
+   "img": "https://image.gcores.com/84db4c3d2ebee9b4ecce450eee5528a0-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1MUeu6cE4A?share_source=copy_web"
+  },
+  {
+   "startTime": 3494,
+   "title": "《使命召唤现代战争4》",
+   "img": "https://image.gcores.com/ecb8d616655cb849e4d8d03f46e23d48-1596-898.jpg",
+   "url": "https://www.bilibili.com/video/BV1u1eu6AEeW?share_source=copy_web"
+  },
+  {
+   "startTime": 3557,
+   "title": "同一世界观",
+   "img": "https://image.gcores.com/7b42469ef2520c05b139d22eac7454c2-720-1077.jpg"
+  },
+  {
+   "startTime": 3609,
+   "title": "《女神异闻录4 Revival》",
+   "img": "https://image.gcores.com/3282ef8d2d513312d48c03cf8da97429-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1VCe16gEMz/?share_source=copy_web&vd_source=70146abf83981bb086912b5791514b01"
+  },
+  {
+   "startTime": 3626,
+   "title": "《梦之形》",
+   "img": "https://image.gcores.com/6c6179dfdb7c56b56f225dea0c52deed-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1gDe36qEwF/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 3681,
+   "title": "《卧龙2 凤火连天》",
+   "img": "https://image.gcores.com/72cca8df4d40ea890e997f17d5ce29b1-627-293.webp",
+   "url": "https://www.bilibili.com/video/BV1UXes6kEDs/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 3771,
+   "title": "试玩通关奖励",
+   "img": "https://image.gcores.com/7b2a580e10a78e706980137b13b318fc-883-468.png",
+   "url": "https://store.steampowered.com/app/4507990/Wo_Long_2_Wings_of_Ember2/"
+  },
+  {
+   "startTime": 3883,
+   "title": "新机制",
+   "img": "https://image.gcores.com/2d138b9f22f4c659fd0938a08f22b0ce-1257-704.png"
+  },
+  {
+   "startTime": 3969,
+   "title": "主角是谁？",
+   "img": "https://image.gcores.com/265cb695c489098fc2db12c184b6b5ce-428-422.png"
+  },
+  {
+   "startTime": 4073,
+   "title": "《Bloomwalker》",
+   "img": "https://image.gcores.com/10f4cfe334d38f8edcd8baba58d6d014-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1SheG6uEvS/?share_source=copy_web&vd_source=70146abf83981bb086912b5791514b01"
+  },
+  {
+   "startTime": 4102,
+   "title": "《二之国》",
+   "img": "https://image.gcores.com/b35f2e297f720c0e7d1578bf883b3548-1099-484.png"
+  },
+  {
+   "startTime": 4115,
+   "title": "《Faraday Blues》",
+   "img": "https://image.gcores.com/825d6071d8293ee433dd810be4ee1ece-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1nbe36QEMQ/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4151,
+   "title": "《卡莉亚的炼金工房 夜之王国与追忆之道标》",
+   "img": "https://image.gcores.com/3bc9786c54686f5740e57fc2e73ab2de-627-293.webp",
+   "url": "https://www.bilibili.com/video/BV1J1YV6RE34/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4168,
+   "title": "《拉吉 暗黑纪元》",
+   "img": "https://image.gcores.com/f115802dec9405e403e1ac9a2a3dc5dc-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1xpem6aEyP/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4255,
+   "title": "《七日世界》",
+   "img": "https://image.gcores.com/408a88d162e4de77330e850591f6634f-627-329.webp",
+   "url": "https://www.bilibili.com/video/BV1rner6zEnA/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4260,
+   "title": "《记忆边缘》",
+   "img": "https://image.gcores.com/9763d7dc6b975552403e40567f7c6fdd-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1MDe36qEC7/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4276,
+   "title": "《古神: 风里希》",
+   "img": "https://image.gcores.com/ddf4cf72f21c1ead5fecff25106cf32f-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1WweG6FE4Q/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4306,
+   "title": "《辐射76》杀手更新",
+   "img": "https://image.gcores.com/1efaa31452569a185676b160cdc72f2d-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1NoeC6XEq8/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4315,
+   "title": "《赤痕 绯红誓约》",
+   "img": "https://image.gcores.com/86b9d7c2b8b85f0fd394223b91f39d0b-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1hme16qE3f/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4363,
+   "title": "《PHYSINT》",
+   "img": "https://image.gcores.com/2bbee103757d365e4eebe1344738aa74-627-784.webp",
+   "url": "https://www.bilibili.com/video/BV1QxeG6kEL9/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4445,
+   "title": "集大成之作",
+   "img": "https://image.gcores.com/5afc818da9a86f697ae85c84228d82da-1468-827.png"
+  },
+  {
+   "startTime": 4522,
+   "title": "超出预算"
+  },
+  {
+   "startTime": 4579,
+   "title": "小岛工作室成立十周年",
+   "img": "https://image.gcores.com/ca7ddc17faed289ed4dd3340a699e305-855-435.png"
+  },
+  {
+   "startTime": 4684,
+   "title": "演员阵容",
+   "img": "https://image.gcores.com/55167c5315711f0325552dd635a48bb2-417-716.png"
+  },
+  {
+   "startTime": 4722,
+   "title": "黑猫",
+   "img": "https://image.gcores.com/37c582df1ed9de4610ccb2f69af8d9eb-584-328.jpg"
+  },
+  {
+   "startTime": 4771,
+   "title": "网飞与世嘉合作",
+   "img": "https://image.gcores.com/db7670f5b3d0ff20315c23e853a95874-716-403.webp",
+   "url": "https://www.gcores.com/articles/219747"
+  },
+  {
+   "startTime": 4841,
+   "title": "《白头神探：智斗灭世狂人》",
+   "img": "https://image.gcores.com/2c9ffddac033cd6f34d1340d692d62bd-1080-1617.jpg"
+  },
+  {
+   "startTime": 4874,
+   "title": "《火焰之纹章：万缕千丝》",
+   "img": "https://image.gcores.com/db3a1eeeecc49625933558277074b95b-716-376.webp",
+   "url": "https://www.gcores.com/articles/219855"
+  },
+  {
+   "startTime": 4907,
+   "title": "满分大作",
+   "img": "https://image.gcores.com/45424997b4250224ccdd9dfad684dfa4-692-593.png"
+  },
+  {
+   "startTime": 4930,
+   "title": "《电锯甜心2 Back2Back》",
+   "img": "https://image.gcores.com/0f337a6ba39efd23186fc35d6240e128-716-403.webp",
+   "url": "https://www.gcores.com/articles/219882"
+  },
+  {
+   "startTime": 5011,
+   "title": "《全面战争：幕府将军2》",
+   "img": "https://image.gcores.com/5fcb1d8aa4e1f0091687cef956655512-716-335.webp",
+   "url": "https://www.bilibili.com/video/BV1tjYr6EEde?share_source=copy_web"
+  },
+  {
+   "startTime": 5148,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/97a1301afc4bbdb14f7545827299552c-3000-3000.jpg",
+   "url": "https://music.163.com/song?id=2746905881&uct2=U2FsdGVkX18aJSUPswmcaUk3E1beb6gAsbVnQlzA/1U="
+  }
+ ]
+}

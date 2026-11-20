@@ -1,0 +1,337 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/1b52bcd4cefa8f602e8230c838b89e51-640-640.jpg"
+  },
+  {
+   "startTime": 36,
+   "title": "已通关",
+   "img": "https://image.gcores.com/5d0009dcb515bf1023dc7e18c56fb3f5-1206-1058.jpg"
+  },
+  {
+   "startTime": 50,
+   "title": "世界观来源",
+   "img": "https://image.gcores.com/b4c43b025c75a79304b66bd109d33584-560-560.jpg",
+   "url": "https://www.gcores.com/radios/221017"
+  },
+  {
+   "startTime": 107,
+   "title": "剧透警告",
+   "img": "https://image.gcores.com/3d3d428f456531f3ef6f46ce1b1a6bd0-720-360.jpg"
+  },
+  {
+   "startTime": 148,
+   "title": "成局",
+   "img": "https://image.gcores.com/cd5d76003d0dd839ad4c849b8429418a-1920-1080.avif"
+  },
+  {
+   "startTime": 302,
+   "title": "沐天邈",
+   "img": "https://image.gcores.com/e4e669684b8e6dba2714ac72dde7ebbf-1181-658.png"
+  },
+  {
+   "startTime": 326,
+   "title": "游戏中的形象",
+   "img": "https://image.gcores.com/756bc88631674eb8dde6ba45e8f02b9b-1000-563.webp"
+  },
+  {
+   "startTime": 454,
+   "title": "天书残册",
+   "img": "https://image.gcores.com/45369ac9d18eaca6fbfd1fa2493c90e5-750-422.webp"
+  },
+  {
+   "startTime": 491,
+   "title": "断魂崖",
+   "img": "https://image.gcores.com/af02c2149707e6f70129e00d02676802-1184-663.png"
+  },
+  {
+   "startTime": 599,
+   "title": "杀气暴动",
+   "img": "https://image.gcores.com/780ff02907228259bf08f26b247b3e3a-224-225.jpg"
+  },
+  {
+   "startTime": 770,
+   "title": "“十一人阁”",
+   "img": "https://image.gcores.com/7bdfabbba5ccd84545c9ca14872f4998-1000-652.png"
+  },
+  {
+   "startTime": 796,
+   "title": "杀气改造塔",
+   "img": "https://image.gcores.com/7f69d26d81d64732cca8cd61e899f234-1182-632.png"
+  },
+  {
+   "startTime": 926,
+   "title": "“天岭峰惨案”",
+   "img": "https://image.gcores.com/9ea8cc054658fb24fd1d0cd565af6e62-1920-1080.webp"
+  },
+  {
+   "startTime": 1040,
+   "title": "第十一人",
+   "img": "https://image.gcores.com/afb03c61fbb34dde12886346eb89c65a-300-404.png"
+  },
+  {
+   "startTime": 1192,
+   "title": "无限煌心",
+   "img": "https://image.gcores.com/c4e080012ab503b583e64019ed6bf0a1-1189-703.png"
+  },
+  {
+   "startTime": 1226,
+   "title": "邪后梦华",
+   "img": "https://image.gcores.com/906d932f8464c849c0382f000412e008-300-301.png"
+  },
+  {
+   "startTime": 1263,
+   "title": "亚空间本质",
+   "img": "https://image.gcores.com/4d79f5e5adeea50fb0a3a2475a52f021-1920-1079.png"
+  },
+  {
+   "startTime": 1336,
+   "title": "“浊”",
+   "img": "https://image.gcores.com/0aaafb5f0aa934251f5fdbd3fc9c330c-1167-815.png"
+  },
+  {
+   "startTime": 1391,
+   "title": "虚空大人",
+   "img": "https://image.gcores.com/124527af87f7b3541fa9f09ae13e7987-300-351.webp"
+  },
+  {
+   "startTime": 1435,
+   "title": "玉石俱焚",
+   "img": "https://image.gcores.com/8532c25b88b397468ac56bd29347606e-1644-894.png"
+  },
+  {
+   "startTime": 1512,
+   "title": "埋下伏笔",
+   "img": "https://image.gcores.com/85815d5f52a39c87ea3d0d2c321dacfc-1276-930.png"
+  },
+  {
+   "startTime": 1574,
+   "title": "怪面之乱",
+   "img": "https://image.gcores.com/d35ebbff847ee726fa21267f7160b517-1186-660.png"
+  },
+  {
+   "startTime": 1685,
+   "title": "中场休息",
+   "img": "https://image.gcores.com/a5c3c0534691f7c0ac1a1278d02ddafa-300-300.jpg"
+  },
+  {
+   "startTime": 1696,
+   "title": "正道联盟",
+   "img": "https://image.gcores.com/b5c96e189e619f9a096293ad21f036da-1184-662.png"
+  },
+  {
+   "startTime": 1769,
+   "title": "昆仑三杰",
+   "img": "https://image.gcores.com/515aa0dcea752b4124898a9d149ea0c7-1920-795.png"
+  },
+  {
+   "startTime": 1825,
+   "title": "抵御侵袭",
+   "img": "https://image.gcores.com/c623256dc7164e9449a50e7dbc33d203-1182-633.png"
+  },
+  {
+   "startTime": 1890,
+   "title": "荒行子",
+   "img": "https://image.gcores.com/3cd5a2518a0341aa1f3511033e02e5bb-1249-970.png"
+  },
+  {
+   "startTime": 1958,
+   "title": "殇变",
+   "img": "https://image.gcores.com/3cb0f606c373d83a8499e41f640475e9-739-415.jpg"
+  },
+  {
+   "startTime": 2026,
+   "title": "全忠",
+   "img": "https://image.gcores.com/b03aee2669f8334f76da5969c97ec09d-1200-675.webp"
+  },
+  {
+   "startTime": 2062,
+   "title": "两个孤儿",
+   "img": "https://image.gcores.com/1bea0e1d0188b8d39a12a1df18078527-1184-659.png"
+  },
+  {
+   "startTime": 2140,
+   "title": "死结",
+   "img": "https://image.gcores.com/f09cd5f5a77e9fc46ec53125f26bf374-1024-576.png"
+  },
+  {
+   "startTime": 2225,
+   "title": "梦差",
+   "img": "https://image.gcores.com/f57b088c2532624cb54538bd59e7ec53-596-335.jpg"
+  },
+  {
+   "startTime": 2319,
+   "title": "圣母娘娘",
+   "img": "https://image.gcores.com/63237f491fa6e630923e2e49de6f6ba9-1187-666.png"
+  },
+  {
+   "startTime": 2463,
+   "title": "人的异化",
+   "img": "https://image.gcores.com/55384213c4abe2b027e78af8878cd360-480-360.jpg"
+  },
+  {
+   "startTime": 2552,
+   "title": "梦差",
+   "img": "https://image.gcores.com/b77ae86e619a9c4334d2f85d929df785-1193-998.png"
+  },
+  {
+   "startTime": 2602,
+   "title": "移魂人偶",
+   "img": "https://image.gcores.com/a07cbb9b85ed9f89303e9c157afc0a7e-1241-769.png"
+  },
+  {
+   "startTime": 2656,
+   "title": "三样东西",
+   "img": "https://image.gcores.com/fe948280f32ac71593d02efe898eb77c-750-612.png"
+  },
+  {
+   "startTime": 2741,
+   "title": "“四大怪面”",
+   "img": "https://image.gcores.com/deea779b764b8a0bcf24c0023e5cb1ba-1247-727.png"
+  },
+  {
+   "startTime": 2781,
+   "title": "联合讨贼",
+   "img": "https://image.gcores.com/232a3710da072acf8796405a2f4ec53b-1151-716.png"
+  },
+  {
+   "startTime": 2816,
+   "title": "弦者",
+   "img": "https://image.gcores.com/c2d41e99adcb930105c5b72dea2d33fb-1717-821.png"
+  },
+  {
+   "startTime": 2905,
+   "title": "“交换杀人”",
+   "img": "https://image.gcores.com/ad14e904a5fe23acf7e96e8706186246-1546-932.png"
+  },
+  {
+   "startTime": 3086,
+   "title": "修行",
+   "img": "https://image.gcores.com/fad789657922bbc09534e2d28e78ac9e-300-168.jpg"
+  },
+  {
+   "startTime": 3138,
+   "title": "金面具",
+   "img": "https://image.gcores.com/6f897326389ba53bb471e366e1076990-500-500.webp"
+  },
+  {
+   "startTime": 3184,
+   "title": "大漠杀局",
+   "img": "https://image.gcores.com/8f98e935320cacd455a746de1ea1f221-1694-919.png"
+  },
+  {
+   "startTime": 3300,
+   "title": "一决高下",
+   "img": "https://image.gcores.com/6ba8664a21d8c4472336414f410a2249-1917-1078.png"
+  },
+  {
+   "startTime": 3362,
+   "title": "互相重创",
+   "img": "https://image.gcores.com/8f07012ed6b303117119af3bb8beab18-1571-858.png"
+  },
+  {
+   "startTime": 3386,
+   "title": "心外科神医鬼手",
+   "img": "https://image.gcores.com/8aacdd4ee68184984e6635c26eadad16-1917-1078.png"
+  },
+  {
+   "startTime": 3436,
+   "title": "组织巨变",
+   "img": "https://image.gcores.com/49edd8f943741e21362c17e5e1d3fead-1917-1078.png"
+  },
+  {
+   "startTime": 3593,
+   "title": "龙体改造",
+   "img": "https://image.gcores.com/6a08b6cebee2dcbfca19c7bc27673b40-1186-631.png"
+  },
+  {
+   "startTime": 3753,
+   "title": "各怀鬼胎",
+   "img": "https://image.gcores.com/6a03af20e519288b495b742bfc1c4de2-1200-837.png"
+  },
+  {
+   "startTime": 3778,
+   "title": "左殇圣躯",
+   "img": "https://image.gcores.com/479f32d6c8817641e591bbc872871786-1166-659.png"
+  },
+  {
+   "startTime": 3878,
+   "title": "庞镇",
+   "img": "https://image.gcores.com/651262479c5c4996cd34f94533cbbda3-2048-1128.webp"
+  },
+  {
+   "startTime": 3963,
+   "title": "水行帮",
+   "img": "https://image.gcores.com/a0e1b9a9de524a7353ab299e2dd3f687-2545-1757.webp"
+  },
+  {
+   "startTime": 4020,
+   "title": "出路",
+   "img": "https://image.gcores.com/4495e8871c84084f115684522632d663-1187-627.png"
+  },
+  {
+   "startTime": 4119,
+   "title": "谢回春",
+   "img": "https://image.gcores.com/cf1b7e4a10dc5e8d72b4424170daf11d-912-292.jpg"
+  },
+  {
+   "startTime": 4211,
+   "title": "玉儿",
+   "img": "https://image.gcores.com/d3ee1d70953f03199b4b8c758927780e-1920-1080.png"
+  },
+  {
+   "startTime": 4254,
+   "title": "故事的开端",
+   "img": "https://image.gcores.com/41a38ea767d9f75510c0a6232aa674ad-1871-1056.png"
+  },
+  {
+   "startTime": 4314,
+   "title": "真正活着",
+   "img": "https://image.gcores.com/c5c5266ebafbc0e71795f292fb6ac5b3-640-360.webp"
+  },
+  {
+   "startTime": 4427,
+   "title": "为战斗服务",
+   "img": "https://image.gcores.com/f95fec0ea80f0f04ff6a1dbe96684ee9-1600-900.avif"
+  },
+  {
+   "startTime": 4527,
+   "title": "皮影戏",
+   "img": "https://image.gcores.com/14a42a7a7d553684de82c4194ac43b3c-596-335.jpg"
+  },
+  {
+   "startTime": 4560,
+   "title": "梦差冷荼",
+   "img": "https://image.gcores.com/a01019dbd0839a1d7c8384763dc6ef7c-1193-998.png"
+  },
+  {
+   "startTime": 4736,
+   "title": "打出感情",
+   "img": "https://image.gcores.com/7d1237d0778863bc62abaa93434107ec-1280-720.jpg"
+  },
+  {
+   "startTime": 4791,
+   "title": "沐小葵之战",
+   "img": "https://image.gcores.com/f5309692ac49bf4d085f014ad3964351-1600-900.jpg"
+  },
+  {
+   "startTime": 4839,
+   "title": "薄彩生老师",
+   "img": "https://image.gcores.com/94a94be102c20c1f4a357b6b5ab7479d-640-640.jpg",
+   "url": "https://www.gcores.com/articles/220649"
+  },
+  {
+   "startTime": 4944,
+   "title": "下期预告",
+   "img": "https://image.gcores.com/8c83cf658295b31d71825cc521696440-600-337.jpg"
+  },
+  {
+   "startTime": 5001,
+   "title": "结尾BGM",
+   "img": "https://image.gcores.com/74ff5af883d5ce0ac6af3ca659e9cc43-300-300.jpg"
+  }
+ ]
+}

@@ -1,0 +1,324 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/eb8fde28ac670496a82890ec0ff81f03-1500-1500.jpg",
+   "url": "https://music.163.com/song?id=1597004&uct2=U2FsdGVkX19qXdjNZtTuB61lOPebucmnrCcVn2VGruA="
+  },
+  {
+   "startTime": 30,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 113,
+   "title": "生软之死",
+   "img": "https://image.gcores.com/6bec33d59751b88f2aa9fc3f2c266fbc-371-109.png"
+  },
+  {
+   "startTime": 162,
+   "title": "罪魁祸首？"
+  },
+  {
+   "startTime": 247,
+   "title": "七线并行",
+   "img": "https://image.gcores.com/723e55593bf6f1aed8e7cee277170624-635-355.png"
+  },
+  {
+   "startTime": 321,
+   "title": "难以拒绝",
+   "img": "https://image.gcores.com/ae72e933c18c68a323f9d6f8d1600cbf-640-359.png"
+  },
+  {
+   "startTime": 354,
+   "title": "John Riccitiello",
+   "img": "https://image.gcores.com/14bccf2213f95463330880d70b8f28ea-1451-968.png"
+  },
+  {
+   "startTime": 455,
+   "title": "臭名昭著",
+   "img": "https://image.gcores.com/54552cdd43c71577008d1a2b14020f65-403-257.png"
+  },
+  {
+   "startTime": 568,
+   "title": "《龙腾世纪：起源》",
+   "img": "https://image.gcores.com/685d6380230ddebc1de670e797d3c8d3-1920-1200.jpg"
+  },
+  {
+   "startTime": 633,
+   "title": "底层不同",
+   "img": "https://image.gcores.com/afbcc4fbf95c387e781df9d2601de7a8-1189-665.png"
+  },
+  {
+   "startTime": 650,
+   "title": "《上古卷轴4：湮灭》",
+   "img": "https://image.gcores.com/183708909728b11e6af048896a164a9b-1051-590.png"
+  },
+  {
+   "startTime": 745,
+   "title": "大获成功",
+   "img": "https://image.gcores.com/d78ac1488328471111454614175b047e-2560-1440.jpg"
+  },
+  {
+   "startTime": 864,
+   "title": "引擎转变",
+   "img": "https://image.gcores.com/fa27620c59359b6f3da75593317615b0-1054-549.png"
+  },
+  {
+   "startTime": 928,
+   "title": "魔法失效",
+   "img": "https://image.gcores.com/f44a9983f4aa9007cfaefb0e659f7e7d-1060-591.png"
+  },
+  {
+   "startTime": 980,
+   "title": "150定律",
+   "img": "https://image.gcores.com/6932c84f4ddf5a7b41a9fd11482f8d79-877-552.png"
+  },
+  {
+   "startTime": 1055,
+   "title": "《质量效应2》",
+   "img": "https://image.gcores.com/d4acf92e84e56f2ad7b0340b67eba1bc-1920-1080.jpg"
+  },
+  {
+   "startTime": 1103,
+   "title": "鄙视链产生"
+  },
+  {
+   "startTime": 1201,
+   "title": "给代入了",
+   "img": "https://image.gcores.com/c97324d3769545b0bd5913ca5e2b905e-740-377.png"
+  },
+  {
+   "startTime": 1305,
+   "title": "涌现式设计",
+   "img": "https://image.gcores.com/7757e7b31b2b9919def96d107c530e9b-634-609.png"
+  },
+  {
+   "startTime": 1339,
+   "title": "宣布退休",
+   "img": "https://image.gcores.com/9431cf67c66a96c4096204a61a6fa96d-444-593.png"
+  },
+  {
+   "startTime": 1374,
+   "title": "Aaryn Flynn",
+   "img": "https://image.gcores.com/c731d7a09562a4958c53566a38d0caaf-622-356.png"
+  },
+  {
+   "startTime": 1406,
+   "title": "热情不再",
+   "img": "https://image.gcores.com/9241c5ce36e300e50c674f78e1985110-367-383.png"
+  },
+  {
+   "startTime": 1456,
+   "title": "《龙腾世纪：审判》",
+   "img": "https://image.gcores.com/734ef413b522b08be588e534f1463f14-1777-2046.jpg"
+  },
+  {
+   "startTime": 1599,
+   "title": "《质量效应：仙女座》",
+   "img": "https://image.gcores.com/6092c525c96a14aee9f09d4e1bd099f0-1064-632.png"
+  },
+  {
+   "startTime": 1659,
+   "title": "历尽波折",
+   "img": "https://image.gcores.com/4cb3f185443eec3e5392824cba0a4d80-1920-1080.webp"
+  },
+  {
+   "startTime": 1733,
+   "title": "Casey Hudson",
+   "img": "https://image.gcores.com/f29cfe93c4c996b75e1c182fdf533de2-427-394.png"
+  },
+  {
+   "startTime": 1854,
+   "title": "《质量效应：渗透者》",
+   "img": "https://image.gcores.com/f388f1ec437f56ef1de649953dfb8118-257-348.png"
+  },
+  {
+   "startTime": 1938,
+   "title": "Jason Schreier"
+  },
+  {
+   "startTime": 2017,
+   "title": "Bob Dylan",
+   "img": "https://image.gcores.com/ff365290c62283683a38eaf02189e31d-445-500.jpg"
+  },
+  {
+   "startTime": 2133,
+   "title": "核心离去",
+   "img": "https://image.gcores.com/2993dfe942a059e306a9f60ddc680efa-1061-662.png"
+  },
+  {
+   "startTime": 2224,
+   "title": "问题显露",
+   "img": "https://image.gcores.com/ef653639eb1a4caef9db6456fd037924-1920-1080.jpg"
+  },
+  {
+   "startTime": 2308,
+   "title": "审美"
+  },
+  {
+   "startTime": 2404,
+   "title": "愿景模糊",
+   "img": "https://image.gcores.com/a5008eb37e96c5d0444fd4f2fe8af408-3456-2160.jpg"
+  },
+  {
+   "startTime": 2463,
+   "title": "帕特里克・索德伦德",
+   "img": "https://image.gcores.com/2b6ac32bab9ec94fb22d5feef70b64d4-694-464.png"
+  },
+  {
+   "startTime": 2547,
+   "title": "聪明贝赛",
+   "img": "https://image.gcores.com/53943acff90b515926a060624761aa9c-607-315.png"
+  },
+  {
+   "startTime": 2659,
+   "title": "为爱发电",
+   "img": "https://image.gcores.com/b0a95bfadc1c18dbfb04675c24a2fe64-1064-596.png"
+  },
+  {
+   "startTime": 2693,
+   "title": "演出僵硬",
+   "img": "https://image.gcores.com/d790fa09bc5ee8ddbaaf0d721a8937b6-1040-585.png"
+  },
+  {
+   "startTime": 2778,
+   "title": "及时止损",
+   "img": "https://image.gcores.com/bdc2a9c97393fc864b417d9a8d17c57c-1024-552.png"
+  },
+  {
+   "startTime": 2802,
+   "title": "《龙腾世纪4：影障守护者》",
+   "img": "https://image.gcores.com/677e681b961d33ed1b4d6c9b0a849f0e-1920-1050.png"
+  },
+  {
+   "startTime": 2834,
+   "title": "Janis Joplin",
+   "img": "https://image.gcores.com/2dd22d5c62354841dc25dbb55e055740-918-786.png"
+  },
+  {
+   "startTime": 2933,
+   "title": "中坚力量"
+  },
+  {
+   "startTime": 3014,
+   "title": "动荡的一年",
+   "img": "https://image.gcores.com/2ed54d1b190e3e615cdc8fb76e9a6f92-1920-1080.jpg"
+  },
+  {
+   "startTime": 3113,
+   "title": "对立形成"
+  },
+  {
+   "startTime": 3178,
+   "title": "同时离职"
+  },
+  {
+   "startTime": 3248,
+   "title": "含沙射影",
+   "img": "https://image.gcores.com/ccbbfbd06cde1e55ed31e078e57da3ae-371-494.png"
+  },
+  {
+   "startTime": 3271,
+   "title": "Gary McKay"
+  },
+  {
+   "startTime": 3360,
+   "title": "索德伦德",
+   "img": "https://image.gcores.com/e54d27fd10b73b80d259e61c62378f9c-694-464.png"
+  },
+  {
+   "startTime": 3468,
+   "title": "Dreadwolf",
+   "img": "https://image.gcores.com/17a893ff1213f666c91775ffa05a8423-1330-748.jpg"
+  },
+  {
+   "startTime": 3576,
+   "title": "最后的老人"
+  },
+  {
+   "startTime": 3642,
+   "title": "褒贬不一",
+   "img": "https://image.gcores.com/a8124c639cdbd0cfd81753eeefabdf47-2560-1440.jpg"
+  },
+  {
+   "startTime": 3748,
+   "title": "死因探究",
+   "img": "https://image.gcores.com/4f7a28bccbe855d1185442d38cf4e036-535-305.png",
+   "url": "https://www.gamersky.com/news/202506/1942297.shtml"
+  },
+  {
+   "startTime": 3830,
+   "title": "反复重启",
+   "img": "https://image.gcores.com/fe96daf36009992e8c2ec5c9020b8d21-540-303.png"
+  },
+  {
+   "startTime": 3968,
+   "title": "往期节目",
+   "img": "https://image.gcores.com/d5c1d922f1cc23365943f9e221a48a62-251-251.webp",
+   "url": "https://www.gcores.com/radios/221013"
+  },
+  {
+   "startTime": 4001,
+   "title": "N7 日",
+   "img": "https://image.gcores.com/986cb3921d1e9508df9e9a35aa77cf41-538-355.png"
+  },
+  {
+   "startTime": 4083,
+   "title": "《质量效应：湮灭》",
+   "img": "https://image.gcores.com/348c7a14698432a07d9abadf35f09f47-270-444.png"
+  },
+  {
+   "startTime": 4162,
+   "title": "Matt Bromberg",
+   "img": "https://image.gcores.com/04d0e7e15b9a438a4d70cec5fec8e42e-345-359.png"
+  },
+  {
+   "startTime": 4257,
+   "title": "EA",
+   "img": "https://image.gcores.com/66403a6ead055c567d90c76bbdbca451-500-500.jpg"
+  },
+  {
+   "startTime": 4353,
+   "title": "生软魔法"
+  },
+  {
+   "startTime": 4400,
+   "title": "我是薛帕德",
+   "img": "https://image.gcores.com/6d09acfd273722655a84c259aa2d11c2-476-338.png"
+  },
+  {
+   "startTime": 4482,
+   "title": "严格管理"
+  },
+  {
+   "startTime": 4570,
+   "title": "奥斯汀",
+   "img": "https://image.gcores.com/e4abca0c966738d1a34d3682adff06af-1065-590.png"
+  },
+  {
+   "startTime": 4636,
+   "title": "拯救质量效应",
+   "img": "https://image.gcores.com/d3592e31360b598c5d1da7c154123015-1242-699.webp"
+  },
+  {
+   "startTime": 4733,
+   "title": "回首往昔",
+   "img": "https://image.gcores.com/e6ef2772a8c4ad9b036ebdd0d9d6b9b8-564-350.png"
+  },
+  {
+   "startTime": 4797,
+   "title": "What if..."
+  },
+  {
+   "startTime": 4891,
+   "title": "“故事”回归",
+   "img": "https://image.gcores.com/5289626d5d793a740221c90eccab82b9-642-344.png"
+  },
+  {
+   "startTime": 4967,
+   "title": "感谢收听"
+  }
+ ]
+}

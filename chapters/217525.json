@@ -1,0 +1,422 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/5c56e7554aa9d2c26c800cb11bcacfbd-1024-768.jpg",
+   "url": "https://music.163.com/song?id=2069215164&uct2=U2FsdGVkX19J+9k0Risq+WMEEk0iWZqkvx9Gdzxp9+Q="
+  },
+  {
+   "startTime": 30,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 102,
+   "title": "搓玻璃",
+   "img": "https://image.gcores.com/39982b6eaa76f7de0338ff5a050b1f38-500-279.png"
+  },
+  {
+   "startTime": 140,
+   "title": "绝区零新版本",
+   "img": "https://image.gcores.com/e5003fc097f0ee1858ea21097a09e898-1920-1080.jpg"
+  },
+  {
+   "startTime": 193,
+   "title": "新虚狩",
+   "img": "https://image.gcores.com/b4835489663bf2c1ff4f0a2179ec1371-1128-894.png"
+  },
+  {
+   "startTime": 295,
+   "title": "二游里的粉毛儿",
+   "img": "https://image.gcores.com/f29159b000446d8c87a10903b8089c32-513-596.png"
+  },
+  {
+   "startTime": 360,
+   "title": "白色机械羽毛",
+   "img": "https://image.gcores.com/68b81bd5e15c6abab8db0b231613f7dc-1138-479.png"
+  },
+  {
+   "startTime": 441,
+   "title": "油腻师姐",
+   "img": "https://image.gcores.com/c1c308a06df2fea6479f071550273649-676-577.png"
+  },
+  {
+   "startTime": 561,
+   "title": "新版本体验",
+   "img": "https://image.gcores.com/a5137fa4d24250feb21512328a86d156-1054-421.png"
+  },
+  {
+   "startTime": 602,
+   "title": "主游副游",
+   "img": "https://image.gcores.com/81000fdab217790d70faa96a15210a52-1346-800.jpg"
+  },
+  {
+   "startTime": 636,
+   "title": "看看剧情",
+   "img": "https://image.gcores.com/e2759e9e5d9c9c205f7ea6584d696568-863-537.png"
+  },
+  {
+   "startTime": 711,
+   "title": "清图",
+   "img": "https://image.gcores.com/4fe9d0b554d3bc05463990f667de3d0d-1034-633.png"
+  },
+  {
+   "startTime": 795,
+   "title": "清日常",
+   "img": "https://image.gcores.com/e2379f1327338fff2e13c538f6e20371-730-434.png"
+  },
+  {
+   "startTime": 893,
+   "title": "心理负担",
+   "img": "https://image.gcores.com/37d8e20639c4c93eca2f465bafaeb233-337-395.png"
+  },
+  {
+   "startTime": 945,
+   "title": "感情淡了",
+   "img": "https://image.gcores.com/08b4becad3061afb4400390396ee86a4-913-780.png"
+  },
+  {
+   "startTime": 1025,
+   "title": "拖延",
+   "img": "https://image.gcores.com/a19fabf3cb19a75dbba0f6c75fab776a-1066-590.png"
+  },
+  {
+   "startTime": 1093,
+   "title": "长草期",
+   "img": "https://image.gcores.com/aed804095beeab8981c11b8aeffbf675-613-461.png"
+  },
+  {
+   "startTime": 1169,
+   "title": "没有负担"
+  },
+  {
+   "startTime": 1210,
+   "title": "剧情平淡",
+   "img": "https://image.gcores.com/e2adf60fb461ca5359eafacae87bf49b-1066-540.png"
+  },
+  {
+   "startTime": 1273,
+   "title": "长停顿"
+  },
+  {
+   "startTime": 1338,
+   "title": "倍速播放",
+   "img": "https://image.gcores.com/710db99fa9e437d19500cc6f68df65b0-64-170.png"
+  },
+  {
+   "startTime": 1420,
+   "title": "演出方式演变",
+   "img": "https://image.gcores.com/7e36063657f8f6e769a56105d090f275-700-393.gif"
+  },
+  {
+   "startTime": 1526,
+   "title": "全靠衬托",
+   "img": "https://image.gcores.com/126717da3b9256bfb0bf0ba7b704056a-1920-1080.jpg"
+  },
+  {
+   "startTime": 1612,
+   "title": "骑摩托",
+   "img": "https://image.gcores.com/7e68ad86f67422ab32d7da5d6abc550c-1920-1080.jpg"
+  },
+  {
+   "startTime": 1674,
+   "title": "佩洛伊斯",
+   "img": "https://image.gcores.com/5102df19bbe0d6182c1b9f8b9b45ce34-1200-2360.jpg"
+  },
+  {
+   "startTime": 1764,
+   "title": "战力不俗",
+   "img": "https://image.gcores.com/a59989543e9ff3a3c7c0e32ce0b6dc7f-355-531.png"
+  },
+  {
+   "startTime": 1793,
+   "title": "抽卡",
+   "img": "https://image.gcores.com/90f2d05a80341b02f391fe720590dba9-805-643.png"
+  },
+  {
+   "startTime": 1890,
+   "title": "如意值",
+   "img": "https://image.gcores.com/4bf5305d00e61b8693e4ba6bf6865e07-525-150.png"
+  },
+  {
+   "startTime": 1982,
+   "title": "连歪8次",
+   "img": "https://image.gcores.com/7c36b68c104cffa63b910d3af43d55df-279-256.gif"
+  },
+  {
+   "startTime": 2073,
+   "title": "老些年间",
+   "img": "https://image.gcores.com/9ef5f941b27d2c2c864956c2f8046489-1047-490.png"
+  },
+  {
+   "startTime": 2170,
+   "title": "满命角色",
+   "img": "https://image.gcores.com/109c42ba57c979a4722e12732da9d5b5-1066-653.png"
+  },
+  {
+   "startTime": 2263,
+   "title": "《异环》",
+   "img": "https://image.gcores.com/af6c2de630540ec3035167e5704a40a6-979-597.png"
+  },
+  {
+   "startTime": 2358,
+   "title": "没缘分",
+   "img": "https://image.gcores.com/780537a5d770c653be49d2772b1fe00b-1920-1080.jpg"
+  },
+  {
+   "startTime": 2425,
+   "title": "两口子抽卡",
+   "img": "https://image.gcores.com/772bc452702ee631af4fdcd6771b2aba-734-585.gif"
+  },
+  {
+   "startTime": 2485,
+   "title": "《Mabinogi》",
+   "img": "https://image.gcores.com/526f9f1bcedc0717abc3cc0803ec3a4f-1290-726.png"
+  },
+  {
+   "startTime": 2583,
+   "title": "休闲生活",
+   "img": "https://image.gcores.com/39c40b33afdd5dbcccd810171dd82e05-597-595.png"
+  },
+  {
+   "startTime": 2669,
+   "title": "多样玩法",
+   "img": "https://image.gcores.com/44f39628773830f116e47e3410eb26ad-543-689.png"
+  },
+  {
+   "startTime": 2773,
+   "title": "闪染",
+   "img": "https://image.gcores.com/ce5cbb934044f10a81888d093d9633d0-395-565.png"
+  },
+  {
+   "startTime": 2890,
+   "title": "实力的证明",
+   "img": "https://image.gcores.com/6779279b66389be083ccaf068a8e05b6-1266-573.png"
+  },
+  {
+   "startTime": 2937,
+   "title": "温暖氛围",
+   "img": "https://image.gcores.com/ff02e05f4525a3f400c851f81899bad9-1280-720.png"
+  },
+  {
+   "startTime": 3037,
+   "title": "味儿很正",
+   "img": "https://image.gcores.com/5a38ef6f72829a024dee2feff9fb876f-1280-720.png"
+  },
+  {
+   "startTime": 3131,
+   "title": "心动点赞",
+   "img": "https://image.gcores.com/f257bbbf2fd683c32449a9661dd2b2ff-230-237.png"
+  },
+  {
+   "startTime": 3224,
+   "title": "生动的世界",
+   "img": "https://image.gcores.com/4a5f2094de4b56a64bb4e99d22ab13ac-1280-720.png"
+  },
+  {
+   "startTime": 3428,
+   "title": "门槛低易理解",
+   "img": "https://image.gcores.com/9050acb9d28bf37d3edbebca6c208d2c-1280-720.png"
+  },
+  {
+   "startTime": 3495,
+   "title": "道具收费",
+   "img": "https://image.gcores.com/d42f6bac99b7b0264cac73f420ccbdc0-1275-960.jpg"
+  },
+  {
+   "startTime": 3617,
+   "title": "掉最大耐久"
+  },
+  {
+   "startTime": 3662,
+   "title": "强化失败",
+   "img": "https://image.gcores.com/0b932183d523938d2f825f2e57bf4d8b-266-229.png"
+  },
+  {
+   "startTime": 3763,
+   "title": "《最终幻想14》手游停运",
+   "img": "https://image.gcores.com/d91b3d4ed6809ed3a0386d420301d9fa-1080-586.webp"
+  },
+  {
+   "startTime": 3818,
+   "title": "摇人费劲",
+   "img": "https://image.gcores.com/99b33c0155e6cf67508264c42781348b-828-1046.png"
+  },
+  {
+   "startTime": 3903,
+   "title": "RO3公会战",
+   "img": "https://image.gcores.com/2f172b3aebe05b585853c556b6aee9dd-1920-1080.jpg"
+  },
+  {
+   "startTime": 3990,
+   "title": "世纪天成",
+   "img": "https://image.gcores.com/c871826d65e92c654c873245049ec83a-179-75.png"
+  },
+  {
+   "startTime": 4021,
+   "title": "沉沦者的黑流树海",
+   "img": "https://image.gcores.com/fae2d3ff4b71f1e475ac7de55bb9bb0f-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV19GNP6EE7e/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4054,
+   "title": "直到大地变成一颗酸橙",
+   "img": "https://image.gcores.com/a53742bc28f831d3cb4ebafb3123d5b1-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1KN3M6wEm9?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2479604-tn27s.1785409356394.924&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4088,
+   "title": "再旅者",
+   "img": "https://image.gcores.com/6efddf894bd126e8d5fbe23d2a938ac8-809-621.png"
+  },
+  {
+   "startTime": 4119,
+   "title": "酸橙色信笺",
+   "img": "https://image.gcores.com/15cf7e37e367a88a68a2199ebd8c448c-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1nB3u6tEHD/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4175,
+   "title": "博士的夏日回忆",
+   "img": "https://image.gcores.com/4a955cdaf3c122a773934deb7b209bee-1342-637.png",
+   "url": "https://www.bilibili.com/video/BV1nB3u6tEHD/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4274,
+   "title": "促融共竞",
+   "img": "https://image.gcores.com/ad25b7029bd2908e8de206164b3af781-1334-745.png"
+  },
+  {
+   "startTime": 4337,
+   "title": "奇象巡展",
+   "img": "https://image.gcores.com/166581264dc6c96e35ca98ed65327da4-1341-534.png",
+   "url": "https://www.bilibili.com/video/BV1cL3M6xEQf/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4405,
+   "title": "舟可梦",
+   "img": "https://image.gcores.com/1de5810136dd7f410eb301ed0125b7df-845-461.png"
+  },
+  {
+   "startTime": 4473,
+   "title": "明日方舟 x P3 Reload",
+   "img": "https://image.gcores.com/8a5f5bf6b35a9ee85e897b0d6fe06fa1-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1Ag3M6ZESL/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4521,
+   "title": "S.E.E.S.制式召喚器",
+   "img": "https://image.gcores.com/9ab0bb847f23bb1039eb2e300013abe7-1291-722.png",
+   "url": "https://www.youtube.com/watch?v=-H8znZTj6Y8"
+  },
+  {
+   "startTime": 4639,
+   "title": "卫戍协议",
+   "img": "https://image.gcores.com/c606e7a3e8800d7489b59d51c199f6b8-251-251.webp",
+   "url": "https://www.gcores.com/radios/212681"
+  },
+  {
+   "startTime": 4707,
+   "title": "共鸣者 秧秧·玄翎",
+   "img": "https://image.gcores.com/c3167d10727f739a900d4adb09afa463-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1ZKMe61Eth/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4789,
+   "title": "角色PV",
+   "img": "https://image.gcores.com/bca816e301468b545de5762b4a5a5d04-1338-614.png",
+   "url": "https://www.bilibili.com/video/BV1ZKMe61Eth/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 4886,
+   "title": "剧情相关",
+   "img": "https://image.gcores.com/f32139724f173fbfbe7baac5b6a75be3-1920-1080.jpg"
+  },
+  {
+   "startTime": 4945,
+   "title": "发刀子",
+   "img": "https://image.gcores.com/4bf4d4074bdad52fd226622aea3f56f3-1063-438.png"
+  },
+  {
+   "startTime": 5080,
+   "title": "好感度满了",
+   "img": "https://image.gcores.com/a7046488e9be31d4f5b7b45c090cd190-255-184.gif"
+  },
+  {
+   "startTime": 5166,
+   "title": "爱弥斯剧情",
+   "img": "https://image.gcores.com/5fff762a37aa757c2977175366af76de-919-507.png",
+   "url": "https://www.gcores.com/articles/210487"
+  },
+  {
+   "startTime": 5263,
+   "title": "心月狐",
+   "img": "https://image.gcores.com/a1da2c1986dd212c4911a54cddf6667b-464-756.png"
+  },
+  {
+   "startTime": 5341,
+   "title": "联动剧情",
+   "img": "https://image.gcores.com/373ef68b2058b2ffc05e02c473f79967-1158-641.webp"
+  },
+  {
+   "startTime": 5420,
+   "title": "鸣潮剧情",
+   "img": "https://image.gcores.com/15e2e334402a152b71f90770e1f7ce76-2560-1440.jpg"
+  },
+  {
+   "startTime": 5493,
+   "title": "《玄翎谣》",
+   "img": "https://image.gcores.com/4193dbc4a2fef1c161e90579c9a0b1d6-1000-1000.jpg",
+   "url": "https://music.163.com/song?id=3405072664&uct2=U2FsdGVkX1/XI7VdnMoVUNCtkNMaqYXO8BZpH5G9/yk="
+  },
+  {
+   "startTime": 5538,
+   "title": "《鸣潮》巡回演唱会",
+   "img": "https://image.gcores.com/a0aedc8d703966fb977bbdff85c435be-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1XhKr69EDd/?spm_id_from=333.337.search-card.all.click"
+  },
+  {
+   "startTime": 5637,
+   "title": "原神牛逼",
+   "img": "https://image.gcores.com/260e2e7cb81c3cd338aadc683e7a9f16-720-540.jpg"
+  },
+  {
+   "startTime": 5679,
+   "title": "猛男落泪",
+   "img": "https://image.gcores.com/37e4455d3caccba85a400549cdc0f7ec-296-247.png"
+  },
+  {
+   "startTime": 5743,
+   "title": "营地机组",
+   "img": "https://image.gcores.com/6a3b1a23ac3fa37f8e7e423c571e2b98-499-465.png"
+  },
+  {
+   "startTime": 5812,
+   "title": "来北京"
+  },
+  {
+   "startTime": 5896,
+   "title": "2026绝区零演唱会",
+   "img": "https://image.gcores.com/ffe6c23dedfe146d433295a3139177bc-1338-753.png",
+   "url": "https://www.bilibili.com/video/BV11TkbBbEzp?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2479604-5tzfh.1785417686400.356&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 5989,
+   "title": "歌曲串烧",
+   "img": "https://image.gcores.com/44247d9c7712064310407d1a7984df66-177-182.png"
+  },
+  {
+   "startTime": 6082,
+   "title": "2024星铁演唱会",
+   "img": "https://image.gcores.com/64199e876fa62945eb085b598ef0cf2b-1200-900.jpg",
+   "url": "https://www.bilibili.com/video/BV1ZH4y1V7AE/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 6176,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/91d58675a10024b4a09edcd024ff2112-1024-768.jpg",
+   "url": "https://music.163.com/song?id=2093486356&uct2=U2FsdGVkX1+VhQAtkglCZRfFykPBj3FOi6PdDXx6Mh4="
+  }
+ ]
+}

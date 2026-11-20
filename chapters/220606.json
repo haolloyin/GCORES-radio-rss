@@ -1,0 +1,363 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 159,
+   "title": "三无人员"
+  },
+  {
+   "startTime": 186,
+   "title": "《绿灯军团》",
+   "img": "https://image.gcores.com/1e7f08ce9f4a943a3bb8d61fbd739806-338-500.webp"
+  },
+  {
+   "startTime": 262,
+   "title": "死者苏生",
+   "img": "https://image.gcores.com/a2a01d2724f2b5626f9b384140bbbafb-381-558.webp"
+  },
+  {
+   "startTime": 293,
+   "title": "《至黑之夜》",
+   "img": "https://image.gcores.com/7ce4f8a47a4b788cca5999c932d6a6ec-536-805.webp"
+  },
+  {
+   "startTime": 439,
+   "title": "《复仇者联盟4：终局之战》",
+   "img": "https://image.gcores.com/f74dd00afbfaaccf9462ecb91e00a032-455-673.jpg"
+  },
+  {
+   "startTime": 599,
+   "title": "《洛基》",
+   "img": "https://image.gcores.com/42c75605b9e7c0c4998745cf77f11462-536-794.webp"
+  },
+  {
+   "startTime": 670,
+   "title": "《星球大战：最后的绝地武士》",
+   "img": "https://image.gcores.com/d3ec90ca8bd40057e1dfa02466861d7c-356-512.jpg"
+  },
+  {
+   "startTime": 774,
+   "title": "第二季？",
+   "img": "https://image.gcores.com/e12ee9e1cad2b3daafca67e04ceedb26-1536-806.webp"
+  },
+  {
+   "startTime": 833,
+   "title": "《真探：夜之国度》",
+   "img": "https://image.gcores.com/a7065ddecccf3cec89333a21d8978a54-536-794.webp"
+  },
+  {
+   "startTime": 855,
+   "title": "《雷神3：诸神黄昏》",
+   "img": "https://image.gcores.com/3311a7d9845327b00c17949448beb6e1-455-674.jpg"
+  },
+  {
+   "startTime": 861,
+   "title": "《雷神4：爱与雷霆》",
+   "img": "https://image.gcores.com/5e8f7e41fb626feb4bae61b7dd42e5de-536-794.webp"
+  },
+  {
+   "startTime": 905,
+   "title": "《寂静岭：小镇陷落》",
+   "img": "https://image.gcores.com/dc9b3594779124f6f5874426caa22a36-460-215.webp",
+   "url": "https://www.bilibili.com/video/BV1nShq6pEvM/"
+  },
+  {
+   "startTime": 957,
+   "title": "尼古拉斯凯奇房塌了",
+   "img": "https://image.gcores.com/182afd8f04fb142c4fe8e5126710ab96-865-487.webp"
+  },
+  {
+   "startTime": 972,
+   "title": "《暗影蜘蛛侠》",
+   "img": "https://image.gcores.com/1b33b53dc8b50b0460fc4767242cd5e6-2000-3000.jpg"
+  },
+  {
+   "startTime": 1149,
+   "title": "平行宇宙",
+   "img": "https://image.gcores.com/d78e4fa47dfc2afc76239e55dd3c57ab-1080-1350.webp"
+  },
+  {
+   "startTime": 1175,
+   "title": "巨额债务",
+   "img": "https://image.gcores.com/9a8d891b41c8039753e6625b6686c932-355-432.webp"
+  },
+  {
+   "startTime": 1198,
+   "title": "《国家宝藏》",
+   "img": "https://image.gcores.com/eeb997095ef84a73727f3b19c57ce02b-483-603.webp"
+  },
+  {
+   "startTime": 1215,
+   "title": "烂片之王",
+   "img": "https://image.gcores.com/7a4b0b552bc010a737a0d7b23c7519fc-761-403.jpg"
+  },
+  {
+   "startTime": 1268,
+   "title": "《翠鸟谋杀案》(又名《大理石厅谋杀案》)",
+   "img": "https://image.gcores.com/12ef6bd1a75d03dd3ed6ad9e9574994f-524-768.webp"
+  },
+  {
+   "startTime": 1434,
+   "title": "三部全有"
+  },
+  {
+   "startTime": 1589,
+   "title": "家装",
+   "img": "https://image.gcores.com/5aa6429da53c6df8ab7858c78c6cfa92-2376-1054.webp"
+  },
+  {
+   "startTime": 1737,
+   "title": "剧情简介"
+  },
+  {
+   "startTime": 1876,
+   "title": "三部曲"
+  },
+  {
+   "startTime": 2024,
+   "title": "安东尼·霍洛维茨",
+   "img": "https://image.gcores.com/e888582fd0013f84506edc009587e189-536-680.webp"
+  },
+  {
+   "startTime": 2077,
+   "title": "《周四推理俱乐部》",
+   "img": "https://image.gcores.com/1cacdfd556d1129bf2fc30e6921e9b62-500-500.webp"
+  },
+  {
+   "startTime": 2147,
+   "title": "莱丝利·曼维尔",
+   "img": "https://image.gcores.com/4caa9ada63517e1b98b4df19298769e7-536-715.webp"
+  },
+  {
+   "startTime": 2173,
+   "title": "加里·奥德曼",
+   "img": "https://image.gcores.com/2b659dad45d8320ce6082dcecb649432-536-764.webp"
+  },
+  {
+   "startTime": 2215,
+   "title": "乔什·奥康纳",
+   "img": "https://image.gcores.com/cbe152670814cf41158dfea7d0971b20-536-730.webp"
+  },
+  {
+   "startTime": 2310,
+   "title": "《上帝之国》",
+   "img": "https://image.gcores.com/74c7d0de356bd7f0e87f5713c8f25ea4-536-794.webp"
+  },
+  {
+   "startTime": 2353,
+   "title": "《挑战者》",
+   "img": "https://image.gcores.com/2efe2ec54ec3a2bdfd3dc5d05af0d35c-536-794.webp"
+  },
+  {
+   "startTime": 2363,
+   "title": "《德雷尔一家》",
+   "img": "https://image.gcores.com/572f2cca4423f8481068b35fd6e32230-536-757.webp"
+  },
+  {
+   "startTime": 2368,
+   "title": "《王冠第三季》",
+   "img": "https://image.gcores.com/19b916d34416ee5809d2dcf49497e645-536-670.webp"
+  },
+  {
+   "startTime": 2441,
+   "title": "卡勒姆·特纳",
+   "img": "https://image.gcores.com/ea09acea06ab2baccfb9f812f2a10890-536-804.webp"
+  },
+  {
+   "startTime": 2492,
+   "title": "《德雷尔一家》",
+   "img": "https://image.gcores.com/d4977fda34eb36bae841bd666ec38a1c-536-757.webp"
+  },
+  {
+   "startTime": 2595,
+   "title": "劳伦斯·德雷尔",
+   "img": "https://image.gcores.com/82acb83b98ce668266cfbd9bdde076ba-270-360.webp"
+  },
+  {
+   "startTime": 2651,
+   "title": "科孚岛情结",
+   "img": "https://image.gcores.com/2f98ac57b96953b0228a67c6d94e5c90-1920-1080.webp"
+  },
+  {
+   "startTime": 2683,
+   "title": "《沉星之序》",
+   "img": "https://image.gcores.com/65adfe28fdded83f918fc6a0a825cd19-536-297.webp"
+  },
+  {
+   "startTime": 2796,
+   "title": "2026北京亦庄GT世界挑战赛",
+   "img": "https://image.gcores.com/e4621c426d08e734eea4d00ddf05999a-500-319.webp"
+  },
+  {
+   "startTime": 2917,
+   "title": "街道赛",
+   "img": "https://image.gcores.com/d97b6a448fe7f9403ec3f74b689c4d26-900-600.jpg"
+  },
+  {
+   "startTime": 2942,
+   "title": "人山人海",
+   "img": "https://image.gcores.com/dacde61fc3e56a041b882bf7112155fe-676-457.png"
+  },
+  {
+   "startTime": 3074,
+   "title": "事故",
+   "img": "https://image.gcores.com/99c6e6125a3e3af301f8875a1298b213-1278-717.png"
+  },
+  {
+   "startTime": 3195,
+   "title": "巴林大奖赛",
+   "img": "https://image.gcores.com/2b897be0f24203db401435c2b611c3f7-536-651.webp"
+  },
+  {
+   "startTime": 3228,
+   "title": "软胎豪赌",
+   "img": "https://image.gcores.com/3f05b997b1117e3dba1e60c00af38811-768-512.jpg"
+  },
+  {
+   "startTime": 3258,
+   "title": "赛道变干",
+   "img": "https://image.gcores.com/da423f42106b98f3795a415311c4e25a-960-640.webp"
+  },
+  {
+   "startTime": 3298,
+   "title": "故障退赛",
+   "img": "https://image.gcores.com/fdbbc85e26e2944b310c876ecf516f9a-1140-760.webp"
+  },
+  {
+   "startTime": 3322,
+   "title": "新加坡大奖赛",
+   "img": "https://image.gcores.com/6016356bd2dec436fa607de3a84f71cd-1920-1080.avif"
+  },
+  {
+   "startTime": 3329,
+   "title": "被淘汰‌",
+   "img": "https://image.gcores.com/744f5035c00b8e7b3fe6477432409406-821-422.webp"
+  },
+  {
+   "startTime": 3355,
+   "title": "冲绳观鲸‌",
+   "img": "https://image.gcores.com/8c78b334bf0b9b22ac6d763c64f72917-1620-1080.webp"
+  },
+  {
+   "startTime": 3537,
+   "title": "幸福时刻"
+  },
+  {
+   "startTime": 3556,
+   "title": "Apocalypse DLC‌",
+   "img": "https://image.gcores.com/018aad28d5d969640d9eb2285b1f5712-460-215.jpg"
+  },
+  {
+   "startTime": 3584,
+   "title": "《谜题构筑法：学会拆解推理小说/游戏的谜题构造》",
+   "img": "https://image.gcores.com/2e16924086386aff353e4d3f5929b5db-1000-1000.jpg",
+   "url": "https://www.gcores.com/albums/343"
+  },
+  {
+   "startTime": 3663,
+   "title": "《控制：共振》",
+   "img": "https://image.gcores.com/69e96bd5981bebee921382a9e82dce25-460-215.jpg"
+  },
+  {
+   "startTime": 3728,
+   "title": "艺术家",
+   "img": "https://image.gcores.com/c4d969553818c50698245a32f42ede25-739-415.jpg"
+  },
+  {
+   "startTime": 3765,
+   "title": "玩的核WonderCores",
+   "img": "https://image.gcores.com/0af40903ea7c314b3bfe0b7619eea0e5-500-500.webp",
+   "url": "https://space.bilibili.com/3707047392577882"
+  },
+  {
+   "startTime": 3843,
+   "title": "太古屋",
+   "img": "https://image.gcores.com/07b483f390b6f18433dfcbb3561f42de-536-536.webp"
+  },
+  {
+   "startTime": 4006,
+   "title": "正六面体",
+   "img": "https://image.gcores.com/c5ba8145c2073d1292c0c472c04a2319-1600-900.webp"
+  },
+  {
+   "startTime": 4045,
+   "title": "《针影裁梦》",
+   "img": "https://image.gcores.com/cc924d821ca8accb9e3dc47f02a6cbe1-460-215.webp"
+  },
+  {
+   "startTime": 4104,
+   "title": "三里屯古着店",
+   "img": "https://image.gcores.com/f67627a0f3ce801fda42278c07101ec7-1280-1676.jpg"
+  },
+  {
+   "startTime": 4251,
+   "title": "天津巧克力市集",
+   "img": "https://image.gcores.com/b1583c823edd34e038ee4645d81395f4-800-450.webp"
+  },
+  {
+   "startTime": 4337,
+   "title": "‌Nibbo‌",
+   "img": "https://image.gcores.com/0d183417acdba5f9f67284aa095876ec-1440-1050.png"
+  },
+  {
+   "startTime": 4419,
+   "title": "《大地上我们转瞬即逝的绚烂》",
+   "img": "https://image.gcores.com/345fcc7fa139366af32076f94bc3c00a-536-763.webp"
+  },
+  {
+   "startTime": 4466,
+   "title": "《克苏鲁的呼唤》",
+   "img": "https://image.gcores.com/ad72ab7d03e03978d13e50bba4883c60-800-800.webp"
+  },
+  {
+   "startTime": 4522,
+   "title": "法源寺",
+   "img": "https://image.gcores.com/12ea5e5435486d3c967ef33d4f251c42-640-425.jpg"
+  },
+  {
+   "startTime": 4712,
+   "title": "《非物质主义：对象与社会理论》",
+   "img": "https://image.gcores.com/6a01d2d6806d13fa8d6aac14aaf29fdb-500-783.webp"
+  },
+  {
+   "startTime": 4757,
+   "title": "对象导向本体论",
+   "img": "https://image.gcores.com/38b79ba8ccb84d3c3680fdc14ebe6398-260-424.jpg"
+  },
+  {
+   "startTime": 4800,
+   "title": "‌行动者网络理论",
+   "img": "https://image.gcores.com/16b6e5d9a6e709f8aa85fc972602de5e-850-682.webp"
+  },
+  {
+   "startTime": 4822,
+   "title": "还原论"
+  },
+  {
+   "startTime": 4888,
+   "title": "万物皆为对象，本体论完全平等"
+  },
+  {
+   "startTime": 4922,
+   "title": "戈特弗里德·威廉·莱布尼茨",
+   "img": "https://image.gcores.com/c70d5e955375acc83c33eb65d966d4e3-536-662.webp"
+  },
+  {
+   "startTime": 5074,
+   "title": "案例演示"
+  },
+  {
+   "startTime": 5180,
+   "title": "《生化危机：爆发夜》",
+   "img": "https://image.gcores.com/0232a49d8386c76368f748ee2497811b-536-670.webp"
+  },
+  {
+   "startTime": 5233,
+   "title": "感谢收听"
+  }
+ ]
+}

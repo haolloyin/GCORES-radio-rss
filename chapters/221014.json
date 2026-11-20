@@ -1,0 +1,384 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/211ecdf9369be3e7e796bb150a733106-800-800.jpg",
+   "url": "https://music.163.com/song?id=1858859777&uct2=U2FsdGVkX1+9fvTIzT5qXHvlEh78UEQ+uP4vpE+VwgI="
+  },
+  {
+   "startTime": 30,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 63,
+   "title": "《鬼武者》",
+   "img": "https://image.gcores.com/8b8e022256529c0827e5ea570422dc17-1080-607.webp"
+  },
+  {
+   "startTime": 128,
+   "title": "西蒙的体验",
+   "img": "https://image.gcores.com/e23e1683b9a17561effd74f1ab2bd16f-251-251.webp",
+   "url": "https://www.gcores.com/radios/220704"
+  },
+  {
+   "startTime": 218,
+   "title": "源义经",
+   "img": "https://image.gcores.com/34312eb580d4da2d0eaf2de963f74023-545-314.png"
+  },
+  {
+   "startTime": 320,
+   "title": "追根溯源",
+   "img": "https://image.gcores.com/f3b68ebba34794b34b52ecf40b82636e-1058-591.png"
+  },
+  {
+   "startTime": 366,
+   "title": "卡普空的尝试"
+  },
+  {
+   "startTime": 429,
+   "title": "似乎本质相同",
+   "img": "https://image.gcores.com/f333b437d1de1a6ef280e636be2bdbd5-536-851.png"
+  },
+  {
+   "startTime": 527,
+   "title": "龙颜不悦",
+   "img": "https://image.gcores.com/48d0063ee3632b0ff5e4676c6d36637d-651-279.png"
+  },
+  {
+   "startTime": 563,
+   "title": "硬拉时长",
+   "img": "https://image.gcores.com/15d449a4ce8d0b8e5518c9a3672ec40d-538-108.png"
+  },
+  {
+   "startTime": 627,
+   "title": "费力不讨好",
+   "img": "https://image.gcores.com/9de9466df85e1cab8ccced6bef76c1a2-624-634.png"
+  },
+  {
+   "startTime": 743,
+   "title": "卡普空的抉择"
+  },
+  {
+   "startTime": 843,
+   "title": "早期经历",
+   "img": "https://image.gcores.com/ed3448c4f4f64d987a1c470154a87bbb-496-455.png"
+  },
+  {
+   "startTime": 924,
+   "title": "范式的转变"
+  },
+  {
+   "startTime": 968,
+   "title": "CP System III",
+   "img": "https://image.gcores.com/e9199205cebca1c14a22e8116878d6c1-300-268.png"
+  },
+  {
+   "startTime": 1097,
+   "title": "双线并行"
+  },
+  {
+   "startTime": 1198,
+   "title": "王牌IP",
+   "img": "https://image.gcores.com/ccdd33e5244273f1e4985546e2cdc429-684-384.png"
+  },
+  {
+   "startTime": 1291,
+   "title": "《街霸》",
+   "img": "https://image.gcores.com/37d790035f9519db7453a4996be59c47-1059-489.png"
+  },
+  {
+   "startTime": 1364,
+   "title": "Flagship"
+  },
+  {
+   "startTime": 1456,
+   "title": "杉村升",
+   "img": "https://image.gcores.com/ab79db3360efbaa3c2230ca913c389a3-1280-1920.jpg"
+  },
+  {
+   "startTime": 1554,
+   "title": "藤原得郎",
+   "img": "https://image.gcores.com/2d14d1cad631a1dadb7c868440e351ce-750-1094.avif"
+  },
+  {
+   "startTime": 1665,
+   "title": "《魔界村》",
+   "img": "https://image.gcores.com/e5b6f9e4fc3ad8035d54401330373c01-745-417.png"
+  },
+  {
+   "startTime": 1785,
+   "title": "极度尴尬"
+  },
+  {
+   "startTime": 1828,
+   "title": "合作分工",
+   "img": "https://image.gcores.com/7ff52f5ab9b96b1a3193595a23f9a51d-1058-484.png"
+  },
+  {
+   "startTime": 1930,
+   "title": "奠定基础",
+   "img": "https://image.gcores.com/050b32903936e4ce5193323d2190429e-927-602.png"
+  },
+  {
+   "startTime": 2000,
+   "title": "里程碑",
+   "img": "https://image.gcores.com/d7769d9de31ea4ce7181bf8aa5c6e726-1920-1080.webp"
+  },
+  {
+   "startTime": 2059,
+   "title": "执行役员制度"
+  },
+  {
+   "startTime": 2156,
+   "title": "生化危机1.5"
+  },
+  {
+   "startTime": 2197,
+   "title": "稻船敬二",
+   "img": "https://image.gcores.com/9e540a933d33f75175071b06668d02cd-1080-712.jpg"
+  },
+  {
+   "startTime": 2285,
+   "title": "Lightning Hawk",
+   "img": "https://image.gcores.com/f4e20a85efab5ce20c3303c32bd80782-746-328.png"
+  },
+  {
+   "startTime": 2402,
+   "title": "无人在意",
+   "img": "https://image.gcores.com/e9be77e9cb7a7b1dae93875d5ac789a3-301-296.png"
+  },
+  {
+   "startTime": 2501,
+   "title": "《恐龙危机》",
+   "img": "https://image.gcores.com/7d08508e65050f306e2974722d628ec8-1280-720.webp"
+  },
+  {
+   "startTime": 2591,
+   "title": "《鬼屋魔影》",
+   "img": "https://image.gcores.com/8c6278ce8a15242ea9fe5c6b4cb183f6-2192-1440.jpeg"
+  },
+  {
+   "startTime": 2668,
+   "title": "江城元秀",
+   "img": "https://image.gcores.com/a5502d3eb23281c4445b7d797c92aa79-1268-708.png"
+  },
+  {
+   "startTime": 2756,
+   "title": "一闪的由来",
+   "img": "https://image.gcores.com/e3c9214d3dfe52d363844e8b2148a329-785-731.gif"
+  },
+  {
+   "startTime": 2803,
+   "title": "发动人脉",
+   "img": "https://image.gcores.com/b8b5c23b7e63ff3110c56d8b58d3e838-303-382.png"
+  },
+  {
+   "startTime": 2900,
+   "title": "金城武",
+   "img": "https://image.gcores.com/ba0cd54b1ace40eb0dfe6a7edf646de4-1036-589.png"
+  },
+  {
+   "startTime": 3015,
+   "title": "并行开发"
+  },
+  {
+   "startTime": 3055,
+   "title": "佐藤嗣麻子",
+   "img": "https://image.gcores.com/58a92cf52c3ab74adc668ed184bb9a39-250-381.png"
+  },
+  {
+   "startTime": 3147,
+   "title": "SIGGRAPH"
+  },
+  {
+   "startTime": 3211,
+   "title": "竹内润",
+   "img": "https://image.gcores.com/04615917735b1e66512239a1ccd02019-782-951.png"
+  },
+  {
+   "startTime": 3291,
+   "title": "《鬼泣》",
+   "img": "https://image.gcores.com/1b3bccc7b570e84ddfa9b2a22a75a4c3-990-555.png"
+  },
+  {
+   "startTime": 3392,
+   "title": "初代销量"
+  },
+  {
+   "startTime": 3506,
+   "title": "高歌猛进"
+  },
+  {
+   "startTime": 3618,
+   "title": "松田优作",
+   "img": "https://image.gcores.com/961b562fd79519fd263d8e9eb88c80bb-567-758.png"
+  },
+  {
+   "startTime": 3643,
+   "title": "三船敏郎",
+   "img": "https://image.gcores.com/398133d04bba9535f26c118355380611-265-346.png"
+  },
+  {
+   "startTime": 3723,
+   "title": "2代CG",
+   "img": "https://image.gcores.com/907bcbaed5819b552b5ffceca3708be1-1728-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV15p4y187Mp/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 3784,
+   "title": "岩代太郎",
+   "img": "https://image.gcores.com/fd2e7c29551070270203ecea52b86a3a-262-344.png"
+  },
+  {
+   "startTime": 3810,
+   "title": "布袋寅泰",
+   "img": "https://image.gcores.com/89ec99eb1fc02d87f9aa23f38a709e8f-265-297.png"
+  },
+  {
+   "startTime": 3872,
+   "title": "《Eyes On Me》",
+   "img": "https://image.gcores.com/53ec87284694b4fed48a0b40de22543f-2811-2811.jpg",
+   "url": "https://music.163.com/song?id=27735158&uct2=U2FsdGVkX18v7VugN64uTgLPvoPlmkZkMah/4hjiNLc="
+  },
+  {
+   "startTime": 3963,
+   "title": "四亿妄为",
+   "img": "https://image.gcores.com/4604749e69417019ff09e9be56f75cc6-101-100.webp"
+  },
+  {
+   "startTime": 4057,
+   "title": "克里斯蒂安・斯文森"
+  },
+  {
+   "startTime": 4116,
+   "title": "合并"
+  },
+  {
+   "startTime": 4199,
+   "title": "Capcom Five",
+   "img": "https://image.gcores.com/ddeb6fd7990d21a089ffc0c2d66f014f-448-250.png"
+  },
+  {
+   "startTime": 4257,
+   "title": "每款游戏的结局",
+   "img": "https://image.gcores.com/6bbe98091af736b1af3fc7947bcbd6dd-850-655.png"
+  },
+  {
+   "startTime": 4328,
+   "title": "《Red Dead Revolver》",
+   "img": "https://image.gcores.com/783ceba04dcf66817dada343c528e202-591-333.png"
+  },
+  {
+   "startTime": 4387,
+   "title": "《混沌军团》",
+   "img": "https://image.gcores.com/176e0c19ca87ac27509778ea79040f81-695-510.png"
+  },
+  {
+   "startTime": 4484,
+   "title": "走向国际"
+  },
+  {
+   "startTime": 4528,
+   "title": "《回忆积木小屋》",
+   "img": "https://image.gcores.com/d6a881bd74eff4c138d2adec1212408b-591-788.png"
+  },
+  {
+   "startTime": 4617,
+   "title": "《鬼武者3》",
+   "img": "https://image.gcores.com/3a0f28fd8be67e58a0ddc73a07459baa-1804-1080.jpeg"
+  },
+  {
+   "startTime": 4722,
+   "title": "《生化危机》系列",
+   "img": "https://image.gcores.com/ac971be197b76f5554db97ebf2ab58cd-1068-600.png"
+  },
+  {
+   "startTime": 4791,
+   "title": "科学开发"
+  },
+  {
+   "startTime": 4881,
+   "title": "Clover Studio",
+   "img": "https://image.gcores.com/f0e678254ac15ac630290b2644494fca-262-166.png"
+  },
+  {
+   "startTime": 4938,
+   "title": "《源氏》",
+   "img": "https://image.gcores.com/d04369d6230a4cda733dcd10dd7eb820-1760-936.png"
+  },
+  {
+   "startTime": 5048,
+   "title": "《大神》",
+   "img": "https://image.gcores.com/9f5af00dc6b4bbbf5faf83c4ec2fecf0-550-346.png"
+  },
+  {
+   "startTime": 5106,
+   "title": "伤心西蒙"
+  },
+  {
+   "startTime": 5201,
+   "title": "MT"
+  },
+  {
+   "startTime": 5331,
+   "title": "《新鬼武者：幻梦之晓》",
+   "img": "https://image.gcores.com/25eb5199ee2289437061604519ab993c-1440-1080.jpg"
+  },
+  {
+   "startTime": 5472,
+   "title": "小野义德",
+   "img": "https://image.gcores.com/d357eb560c8667f2bf085ab3fab2bdba-264-266.png"
+  },
+  {
+   "startTime": 5521,
+   "title": "《铁骑》",
+   "img": "https://image.gcores.com/8cab6aec3c8694af6a670153e63a5e65-526-752.png"
+  },
+  {
+   "startTime": 5595,
+   "title": "成熟的模式"
+  },
+  {
+   "startTime": 5724,
+   "title": "外包风波",
+   "img": "https://image.gcores.com/43ed98a5d112c1c9cbc18491176d8652-797-498.png"
+  },
+  {
+   "startTime": 5835,
+   "title": "成功经历",
+   "img": "https://image.gcores.com/e2439a6bf391f573d76fbbb5b6ec182d-779-627.png"
+  },
+  {
+   "startTime": 5935,
+   "title": "《忍龙4》",
+   "img": "https://image.gcores.com/27ecb04178413777bf63106900a4ebe6-1920-1080.jpg"
+  },
+  {
+   "startTime": 5969,
+   "title": "回归正常",
+   "img": "https://image.gcores.com/3ef5280f251f87b77fb8b0bb4b193982-1120-630.jpg"
+  },
+  {
+   "startTime": 6049,
+   "title": "小岛和科乐美",
+   "img": "https://image.gcores.com/637ce4d479756a9d83ce39a2ac7da1d3-592-390.png"
+  },
+  {
+   "startTime": 6150,
+   "title": "《生化危机6》",
+   "img": "https://image.gcores.com/e414c99af517e0d5b369888c34998b99-785-754.png"
+  },
+  {
+   "startTime": 6249,
+   "title": "后继有人"
+  },
+  {
+   "startTime": 6338,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/397256ef1ac82b674cfed42204743892-800-800.jpg",
+   "url": "https://music.163.com/song?id=1858859777&uct2=U2FsdGVkX18LSqJEYQhKSDuPEq+eA8IiCxpU+PdyLRM="
+  }
+ ]
+}

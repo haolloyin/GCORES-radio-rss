@@ -1,0 +1,372 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/65b9a28140d9ec05194c1e4e34ac17db-553-555.jpg"
+  },
+  {
+   "startTime": 38,
+   "title": "生化危机故事",
+   "img": "https://image.gcores.com/4e0e05ceeb0150f18178cc4600a0ba77-560-560.jpg",
+   "url": "https://www.gcores.com/radios/211589"
+  },
+  {
+   "startTime": 59,
+   "title": "浣熊市",
+   "img": "https://image.gcores.com/df1569e4824f86148284bf7c5513f5c0-360-203.webp"
+  },
+  {
+   "startTime": 186,
+   "title": "《浣熊市行动》",
+   "img": "https://image.gcores.com/f0fefc4165af38c3bd20ae48fd1de64a-1000-1500.jpg"
+  },
+  {
+   "startTime": 208,
+   "title": "官方资料站",
+   "img": "https://image.gcores.com/617146ddd66c2e74d9d425326bf9ec29-1821-808.png",
+   "url": "https://game.capcom.com/residentevil/en/"
+  },
+  {
+   "startTime": 250,
+   "title": "官方小说",
+   "img": "https://image.gcores.com/c1ce97b41a162ece457e5ee4ec79b005-3875-2907.jpg"
+  },
+  {
+   "startTime": 304,
+   "title": "浣熊市地理101",
+   "img": "https://image.gcores.com/33a3111ed7a0f2b294d7c7757b1c712b-1962-4438.png"
+  },
+  {
+   "startTime": 423,
+   "title": "重置版地图",
+   "img": "https://image.gcores.com/f10095d26fe047851b56fb49ff30e7e4-834-1024.jpg"
+  },
+  {
+   "startTime": 480,
+   "title": "迈克尔·沃伦",
+   "img": "https://image.gcores.com/f001cc24080ddc64a8584d765462722e-569-800.webp"
+  },
+  {
+   "startTime": 511,
+   "title": "安布雷拉的历史",
+   "img": "https://image.gcores.com/213835a66022bb1f1b0f6a0ec0a45be4-960-960.webp",
+   "url": "https://www.gcores.com/radios/23125"
+  },
+  {
+   "startTime": 568,
+   "title": "R.P.D.",
+   "img": "https://image.gcores.com/ef7e5ae22cd241b786e2cfaf50dbe940-394-253.png"
+  },
+  {
+   "startTime": 695,
+   "title": "深深渗透",
+   "img": "https://image.gcores.com/d824d4e3b7df67319f91f281018a9ce9-960-960.webp"
+  },
+  {
+   "startTime": 727,
+   "title": "结局",
+   "img": "https://image.gcores.com/bc6eb7b530e17fa74fde83912d4665b2-1000-582.webp"
+  },
+  {
+   "startTime": 823,
+   "title": "S.T.A.R.S.",
+   "img": "https://image.gcores.com/09f48bc45c559bd5810d326b6eb79d1f-388-450.webp"
+  },
+  {
+   "startTime": 853,
+   "title": "奇怪的定位",
+   "img": "https://image.gcores.com/d17d319b8a37414a952911510b662570-640-480.webp"
+  },
+  {
+   "startTime": 964,
+   "title": "分工明确",
+   "img": "https://image.gcores.com/1f674b0ba083ae7fe5640a5cc1ca5213-279-136.png"
+  },
+  {
+   "startTime": 1025,
+   "title": "阿尔伯特·威斯克",
+   "img": "https://image.gcores.com/1fef14f115b71e72389accdd08785139-600-1339.webp"
+  },
+  {
+   "startTime": 1104,
+   "title": "克里斯·雷德菲尔德",
+   "img": "https://image.gcores.com/18d0ce8e122eba13fc6c1834f379fd89-289-630.webp"
+  },
+  {
+   "startTime": 1202,
+   "title": "巴瑞·伯顿",
+   "img": "https://image.gcores.com/c7d76b8c843252e04415897eec4d0ae9-1000-2000.webp"
+  },
+  {
+   "startTime": 1268,
+   "title": "约瑟夫·福斯特",
+   "img": "https://image.gcores.com/f33ab761ca63ef6b0da5bd644b500a28-284-476.jpg"
+  },
+  {
+   "startTime": 1329,
+   "title": "吉尔·瓦伦蒂安",
+   "img": "https://image.gcores.com/c3ee8a8b52e801ed0923b7e0d61aa1e5-600-1260.webp"
+  },
+  {
+   "startTime": 1379,
+   "title": "布拉德·维克斯",
+   "img": "https://image.gcores.com/016699c4fbd48b95c84472b39cb049cc-571-1068.webp"
+  },
+  {
+   "startTime": 1450,
+   "title": "恩里科·马里尼",
+   "img": "https://image.gcores.com/8d42d75060eaeb08b9d13d317c54f9eb-571-1068.webp"
+  },
+  {
+   "startTime": 1502,
+   "title": "肯尼斯·J·沙利文",
+   "img": "https://image.gcores.com/77d7dcd75a0221924d220ed74141c71a-250-468.webp"
+  },
+  {
+   "startTime": 1541,
+   "title": "理查德·艾肯",
+   "img": "https://image.gcores.com/6398c3432764c6c34d034b0da9f93e50-571-1068.webp"
+  },
+  {
+   "startTime": 1585,
+   "title": "弗利斯特·斯派亚",
+   "img": "https://image.gcores.com/69e2d40d71a75c24acf1ebfdb520233a-393-800.webp"
+  },
+  {
+   "startTime": 1631,
+   "title": "爱德华·杜威",
+   "img": "https://image.gcores.com/6f112d7cd5a0656792df86d1e78142fb-260-600.webp"
+  },
+  {
+   "startTime": 1660,
+   "title": "丽贝卡·钱伯斯",
+   "img": "https://image.gcores.com/e8fe5652d1a0219e5f13a98cb693687c-502-1946.webp"
+  },
+  {
+   "startTime": 1752,
+   "title": "主要产业",
+   "img": "https://image.gcores.com/70619b8ac28d052d15525c7bc9e7385d-386-518.jpg"
+  },
+  {
+   "startTime": 1829,
+   "title": "浣熊先生",
+   "img": "https://image.gcores.com/9ac752dc0680e428813d7e42f48bbe5a-532-1000.webp"
+  },
+  {
+   "startTime": 1854,
+   "title": "亮瀑镇",
+   "img": "https://image.gcores.com/47a9d42b2b62265c8eb156ab787f253f-1000-697.webp"
+  },
+  {
+   "startTime": 1868,
+   "title": "浣熊市观光指南",
+   "img": "https://image.gcores.com/33177c611b4dd6858f51c836c31d4033-732-1489.webp"
+  },
+  {
+   "startTime": 1889,
+   "title": "RPD",
+   "img": "https://image.gcores.com/7dbb75a4be92f3250b6719afa55d00cd-879-704.png"
+  },
+  {
+   "startTime": 1944,
+   "title": "下城区",
+   "img": "https://image.gcores.com/5694373c236717c85995dac2bd0f8246-1280-720.jpg"
+  },
+  {
+   "startTime": 2010,
+   "title": "市政厅",
+   "img": "https://image.gcores.com/08bdca4dd1f5b6ea69e0656229c4f614-960-447.webp"
+  },
+  {
+   "startTime": 2048,
+   "title": "一应俱全",
+   "img": "https://image.gcores.com/529f7d86676e51a3ae92a186a6492b03-884-479.png"
+  },
+  {
+   "startTime": 2250,
+   "title": "走街串巷",
+   "img": "https://image.gcores.com/0a341d3661dc2541bb6a06ba419adbad-739-415.jpg"
+  },
+  {
+   "startTime": 2273,
+   "title": "上城区",
+   "img": "https://image.gcores.com/4a873390227e067fb5a8c136128605c3-793-398.png"
+  },
+  {
+   "startTime": 2323,
+   "title": "杰克酒吧",
+   "img": "https://image.gcores.com/f17fc70afd549654959f9f1ecff6e80a-360-203.webp"
+  },
+  {
+   "startTime": 2448,
+   "title": "郊区",
+   "img": "https://image.gcores.com/df776a6384e64be65996474a7045f4ce-826-556.png"
+  },
+  {
+   "startTime": 2451,
+   "title": "浣熊市综合医院",
+   "img": "https://image.gcores.com/017c594c2ccf020bfde04d1712eadae6-637-358.jpg"
+  },
+  {
+   "startTime": 2504,
+   "title": "NEST 2",
+   "img": "https://image.gcores.com/12c5551bc0373c07162b70932df9a54c-1000-563.webp"
+  },
+  {
+   "startTime": 2522,
+   "title": "下一代步兵用铁磁轨道炮",
+   "img": "https://image.gcores.com/c4312cc28f0ecac237a7506925702ee3-1000-486.webp"
+  },
+  {
+   "startTime": 2549,
+   "title": "圣米歇尔钟楼",
+   "img": "https://image.gcores.com/07994448abd5b0f03e49ba5528090e27-250-275.webp"
+  },
+  {
+   "startTime": 2661,
+   "title": "废料处理中心",
+   "img": "https://image.gcores.com/8452b51e096bb0837d5d93a1601c7814-960-511.webp"
+  },
+  {
+   "startTime": 2740,
+   "title": "大象Oscar",
+   "img": "https://image.gcores.com/b3bc6ed6fc3a424302ecc51bee649e51-400-479.webp"
+  },
+  {
+   "startTime": 2814,
+   "title": "非法种植",
+   "img": "https://image.gcores.com/952931df117e67ebd580aebe022e96bb-617-324.jpg"
+  },
+  {
+   "startTime": 2843,
+   "title": "浣熊市城市大学",
+   "img": "https://image.gcores.com/c39e22307353d6e38562e218620d51b0-766-410.webp"
+  },
+  {
+   "startTime": 2932,
+   "title": "秘密研究",
+   "img": "https://image.gcores.com/1d73ef571dff7d1881aa78f873db1abb-1200-645.webp"
+  },
+  {
+   "startTime": 2994,
+   "title": "就要上学",
+   "img": "https://image.gcores.com/3c3d1cff5de9b65348d30084fe56d562-1024-576.webp"
+  },
+  {
+   "startTime": 3054,
+   "title": "爆发",
+   "img": "https://image.gcores.com/40f6730e5b2c1bcf9d510d009cece4e2-1080-486.webp"
+  },
+  {
+   "startTime": 3139,
+   "title": "都是同事",
+   "img": "https://image.gcores.com/4f0aa81cbaecbe3ceeb484ea930c5655-640-360.webp"
+  },
+  {
+   "startTime": 3160,
+   "title": "城市交通",
+   "img": "https://image.gcores.com/27db37aee7135b768830cb432688c2da-1920-1080.jpg"
+  },
+  {
+   "startTime": 3306,
+   "title": "秘密设施",
+   "img": "https://image.gcores.com/e1150e9f8d85fcc19365111717f6dd6f-250-141.webp"
+  },
+  {
+   "startTime": 3375,
+   "title": "在劫难逃",
+   "img": "https://image.gcores.com/ed1df2726adbb3b52fb97b91573bc4e6-554-554.jpg"
+  },
+  {
+   "startTime": 3495,
+   "title": "灾难伊始",
+   "img": "https://image.gcores.com/3cca86e0dcfb816a517ecd743a63d7ce-3840-2160.png"
+  },
+  {
+   "startTime": 3551,
+   "title": "媒体报道",
+   "img": "https://image.gcores.com/11f23a6828d2ccecb65af2ca8c58f8fc-507-604.jpg"
+  },
+  {
+   "startTime": 3654,
+   "title": "野狗",
+   "img": "https://image.gcores.com/93ca2d6f5eb93bbef5f765d871416a32-250-227.webp"
+  },
+  {
+   "startTime": 3740,
+   "title": "S.T.A.R.S.出动",
+   "img": "https://image.gcores.com/e0884cca5414526f86780046bdddd3d4-452-678.jpg"
+  },
+  {
+   "startTime": 3840,
+   "title": "临时小队",
+   "img": "https://image.gcores.com/f2bfa9850901156a41f9061bbf1ed7f9-783-391.jpg"
+  },
+  {
+   "startTime": 3958,
+   "title": "洋馆焚毁",
+   "img": "https://image.gcores.com/3beef45fd24c5955cd628b41bf5dc6e8-643-360.jpg"
+  },
+  {
+   "startTime": 4020,
+   "title": "公关水平很高"
+  },
+  {
+   "startTime": 4068,
+   "title": "解散S.T.A.R.S.",
+   "img": "https://image.gcores.com/a500ae19c32d78428a6287fb0d2702fd-640-382.webp"
+  },
+  {
+   "startTime": 4206,
+   "title": "起火原因",
+   "img": "https://image.gcores.com/4d47ab51db4c0a9fed81ae0be189326b-938-501.jpg"
+  },
+  {
+   "startTime": 4292,
+   "title": "纽约总部",
+   "img": "https://image.gcores.com/b4528e9b5a15c663e661dc5e4e22a417-388-450.webp"
+  },
+  {
+   "startTime": 4363,
+   "title": "新进警员",
+   "img": "https://image.gcores.com/c625d79a99fd77417ccf7129204573b6-1600-900.avif"
+  },
+  {
+   "startTime": 4493,
+   "title": "翻新",
+   "img": "https://image.gcores.com/43783315101477a27fc26fbf8dd1ac09-3840-2102.webp"
+  },
+  {
+   "startTime": 4648,
+   "title": "威廉·柏金",
+   "img": "https://image.gcores.com/4cdde9cc9b60fb09e3e0348179604c00-296-606.webp"
+  },
+  {
+   "startTime": 4679,
+   "title": "感染爆发",
+   "img": "https://image.gcores.com/8978120f9c5d3e179ae58aff421c5ed1-1200-675.webp"
+  },
+  {
+   "startTime": 4765,
+   "title": "主角登场",
+   "img": "https://image.gcores.com/a49596b32233f54dd8a3cea0ba4a202e-1200-800.webp"
+  },
+  {
+   "startTime": 4777,
+   "title": "灭菌作战",
+   "img": "https://image.gcores.com/ef836cae57bf8d6a16bb4bde6d37962b-750-422.jpg"
+  },
+  {
+   "startTime": 4797,
+   "title": "下期关注",
+   "img": "https://image.gcores.com/476e4321d17de34903f2bf3a70eaa303-1280-720.jpg"
+  },
+  {
+   "startTime": 4825,
+   "title": "结尾BGM",
+   "img": "https://image.gcores.com/5ac8a16ecc5c4e71499e6261a57ccd1d-553-555.jpg"
+  }
+ ]
+}

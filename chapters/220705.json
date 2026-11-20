@@ -1,0 +1,445 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/5884c9edbc63e700deee8b3a644ed23f-1920-1080.jpg"
+  },
+  {
+   "startTime": 23,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 33,
+   "title": "四十二回来了",
+   "img": "https://image.gcores.com/2d586ed721fdb02eb212aef37a4c2686-706-638.png"
+  },
+  {
+   "startTime": 47,
+   "title": "「失眠」的血脉",
+   "img": "https://image.gcores.com/f1b081f3f87018547c6b2888404f593e-977-953.png",
+   "url": "https://www.gcores.com/radios/220216"
+  },
+  {
+   "startTime": 83,
+   "title": "吹哥",
+   "img": "https://image.gcores.com/f84c86667a9db77fbc4f5c79a36ac0a7-875-583.webp"
+  },
+  {
+   "startTime": 136,
+   "title": "《见证者》",
+   "img": "https://image.gcores.com/52912e5f3d136aebd236fa4b5e91eefb-536-335.webp"
+  },
+  {
+   "startTime": 143,
+   "title": "《怪兽远征》",
+   "img": "https://image.gcores.com/c7be0f85b777cc5212156eea94b757cb-1919-1000.webp"
+  },
+  {
+   "startTime": 172,
+   "title": "分形",
+   "img": "https://image.gcores.com/b28263b9e9064d8863fcc379e3789b19-870-710.jpg"
+  },
+  {
+   "startTime": 212,
+   "title": "玩恐慌了",
+   "img": "https://image.gcores.com/27ed8bf06b9b7a5359b8f704498191d4-535-585.jpg"
+  },
+  {
+   "startTime": 290,
+   "title": "永远在教程",
+   "img": "https://image.gcores.com/a77172cddb35f0a23b8f06c303878706-806-450.png"
+  },
+  {
+   "startTime": 338,
+   "title": "小红",
+   "img": "https://image.gcores.com/e3110725736c85992a446abece59a419-409-297.png"
+  },
+  {
+   "startTime": 347,
+   "title": "小绿",
+   "img": "https://image.gcores.com/93fce33dd9b17a9f0c78227005a3fc97-508-431.png"
+  },
+  {
+   "startTime": 355,
+   "title": "老蓝",
+   "img": "https://image.gcores.com/c9c126e0b00ee3abf5c3b17f73dbdef5-540-433.png"
+  },
+  {
+   "startTime": 391,
+   "title": "经典推箱子谜题",
+   "img": "https://image.gcores.com/0c22c8fe37b981273c4e0b127360cba8-473-353.png"
+  },
+  {
+   "startTime": 412,
+   "title": "不能拉箱子到边缘",
+   "img": "https://image.gcores.com/0d4d8c484e8780a3ac61e5ae359db730-398-341.png"
+  },
+  {
+   "startTime": 446,
+   "title": "爷会飞",
+   "img": "https://image.gcores.com/f2ef81c73743b822ec02782569779b6a-614-522.gif"
+  },
+  {
+   "startTime": 512,
+   "title": "时空幻境",
+   "img": "https://image.gcores.com/c9e4e19bf8fbc4486aecfc7c08bb92a9-804-451.png"
+  },
+  {
+   "startTime": 571,
+   "title": "鱼炒饭老师",
+   "img": "https://image.gcores.com/f31d692a2b15b75516a99a0ba8f78c98-1156-324.png",
+   "url": "https://space.bilibili.com/25753/search?keyword=%E6%97%B6%E7%A9%BA"
+  },
+  {
+   "startTime": 642,
+   "title": "成熟作品",
+   "img": "https://image.gcores.com/d132a0239eebb1b408c19ccd2ff02ac6-805-447.png"
+  },
+  {
+   "startTime": 722,
+   "title": "不是一个人发明"
+  },
+  {
+   "startTime": 777,
+   "title": "麻省理工学院",
+   "img": "https://image.gcores.com/4aa433724a6ec962fda68735f5e14b15-474-474.webp"
+  },
+  {
+   "startTime": 815,
+   "title": "麻省理工谜题寻宝",
+   "img": "https://image.gcores.com/d95ecb09742da925b754b0f108f1e125-1567-911.png",
+   "url": "https://puzzles.mit.edu/"
+  },
+  {
+   "startTime": 902,
+   "title": "一张纸谜题",
+   "img": "https://image.gcores.com/45bc67b2f943c1d883eb212db2acc68c-1056-815.png"
+  },
+  {
+   "startTime": 1065,
+   "title": "2014年真题",
+   "img": "https://image.gcores.com/1b1e0c30435aa1f3d3e8c832b4d822f2-896-642.png",
+   "url": "https://puzzles.mit.edu/2014/round/mit/"
+  },
+  {
+   "startTime": 1109,
+   "title": "谜题一",
+   "img": "https://image.gcores.com/5e067c035b5d472ee9fe71e8390367ef-975-869.png",
+   "url": "https://puzzles.mit.edu/2014/puzzle/build_your_own_sudoku/"
+  },
+  {
+   "startTime": 1219,
+   "title": "这才是第一关",
+   "img": "https://image.gcores.com/ab83b7a806cbbac1b956fdead47074a0-1018-1175.png"
+  },
+  {
+   "startTime": 1276,
+   "title": "医疗箱",
+   "img": "https://image.gcores.com/1438cc686f5e2b07368376bc4955f82c-823-823.jpg"
+  },
+  {
+   "startTime": 1352,
+   "title": "解谜爱好者们乐此不疲",
+   "img": "https://image.gcores.com/c9866534efcc79c10eb6feaabac0766f-761-390.png"
+  },
+  {
+   "startTime": 1402,
+   "title": "Zach Polansky",
+   "img": "https://image.gcores.com/19ad4bd4b316af331484ed1222bbfcd9-829-592.png"
+  },
+  {
+   "startTime": 1493,
+   "title": "门萨俱乐部",
+   "img": "https://image.gcores.com/eea322eccaf5c106dc1807d28b98450d-536-519.webp"
+  },
+  {
+   "startTime": 1529,
+   "title": "个人网站",
+   "img": "https://image.gcores.com/4852fc1e8584434f179abbef4eefb994-1898-894.png",
+   "url": "https://jacklance.github.io/games.html"
+  },
+  {
+   "startTime": 1563,
+   "title": "Thekla",
+   "img": "https://image.gcores.com/35fb5a5cac0172e61aa185c6ddee4b2a-328-50.png",
+   "url": "https://thinkygames.com/studios/thekla/"
+  },
+  {
+   "startTime": 1599,
+   "title": "重轻老师制作的关于吹哥的节目",
+   "img": "https://image.gcores.com/c60cf17e6d113915d8b5c97119d27205-1035-869.png",
+   "url": "https://www.gcores.com/radios/95312"
+  },
+  {
+   "startTime": 1616,
+   "title": "无数人追捧的布道者",
+   "img": "https://image.gcores.com/5b4c0a93df3a88c68f6b35cd7867002d-627-470.png"
+  },
+  {
+   "startTime": 1652,
+   "title": "吹哥纪录片",
+   "img": "https://image.gcores.com/a44be51d85050f880165303833da5e5a-1603-900.png",
+   "url": "https://www.bilibili.com/video/BV1EvaY6gEbf/?spm_id_from=333.337.search-card.all.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 1694,
+   "title": "设计新的编程语言",
+   "img": "https://image.gcores.com/3d2b7b6842e8fc9514f2a193f9152088-701-372.png"
+  },
+  {
+   "startTime": 1765,
+   "title": "《看不见的城市》",
+   "img": "https://image.gcores.com/abfdfad77f733365eee3cfca0e2c3f2e-700-512.png"
+  },
+  {
+   "startTime": 1868,
+   "title": "《Braid 周年纪念版》",
+   "img": "https://image.gcores.com/68c94f56d6d074568f6869cd8bc269ad-372-172.png"
+  },
+  {
+   "startTime": 1933,
+   "title": "Gamirror",
+   "img": "https://image.gcores.com/c60426bf37f479fd7e7ec395825930c1-593-87.png",
+   "url": "https://www.gamirrorgames.com/"
+  },
+  {
+   "startTime": 1964,
+   "title": "吃吃喝喝",
+   "img": "https://image.gcores.com/a25302689880cb7db84c37bb6fc9b44d-1560-864.png"
+  },
+  {
+   "startTime": 1980,
+   "title": "合影签名",
+   "img": "https://image.gcores.com/1e736bb224c501508d91bb1f32808fdc-1559-868.png"
+  },
+  {
+   "startTime": 2000,
+   "title": "吹哥在核聚变录播",
+   "img": "https://image.gcores.com/1d1d47ccabeb58ef330a9a9bb9dbef53-902-566.png",
+   "url": "https://www.bilibili.com/video/BV1Gp411f7Az/?spm_id_from=333.337.search-card.all.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 2047,
+   "title": "吹哥过去的演讲",
+   "img": "https://image.gcores.com/64f7dff83e1ad56fbbb823534dc655cf-875-498.webp",
+   "url": "https://www.gcores.com/articles/151541"
+  },
+  {
+   "startTime": 2138,
+   "title": "钻木取火",
+   "img": "https://image.gcores.com/e4adf580b4c8c6c6301b559ba4df9c02-1630-834.png",
+   "url": "https://www.bilibili.com/video/BV1vm4y187r4/?spm_id_from=333.1387.search.video_card.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 2162,
+   "title": "符号语言",
+   "img": "https://image.gcores.com/c1c65d70a2dba64f50f8a5e81fa4a075-875-519.webp"
+  },
+  {
+   "startTime": 2250,
+   "title": "《雪崩》",
+   "img": "https://image.gcores.com/750fac68a7ceff279d9aef0cae92c671-160-226.jpg"
+  },
+  {
+   "startTime": 2298,
+   "title": "吃豆人",
+   "img": "https://image.gcores.com/abc93bc7eda10692494f06c4ea4d8098-700-618.png"
+  },
+  {
+   "startTime": 2395,
+   "title": "非语言交流",
+   "img": "https://image.gcores.com/b8919364711db15083bb43aaddfa7f6c-1923-1080.png"
+  },
+  {
+   "startTime": 2452,
+   "title": "《芬尼根的守灵夜》",
+   "img": "https://image.gcores.com/d13e734bd99f2975f0d3645709cdf983-270-290.jpg"
+  },
+  {
+   "startTime": 2516,
+   "title": "衔尾蛇",
+   "img": "https://image.gcores.com/38435a2d36fbff787baa7a8c76bd24bd-536-533.webp"
+  },
+  {
+   "startTime": 2559,
+   "title": "教育的游戏化",
+   "img": "https://image.gcores.com/0799fa65dd361455de5ecb7b096175fb-1170-689.png"
+  },
+  {
+   "startTime": 2632,
+   "title": "胡萝卜跟驴",
+   "img": "https://image.gcores.com/dfd521454fad5841f0be109f4e5b9af2-701-376.png"
+  },
+  {
+   "startTime": 2717,
+   "title": "《死亡诗社》",
+   "img": "https://image.gcores.com/2194571af2dba36b1697563cd819e879-270-398.webp"
+  },
+  {
+   "startTime": 2818,
+   "title": "指月之喻"
+  },
+  {
+   "startTime": 2903,
+   "title": "试错",
+   "img": "https://image.gcores.com/dd118bf0d8fdaee771e50ccff73d9b51-563-405.png"
+  },
+  {
+   "startTime": 2967,
+   "title": "碎星将军",
+   "img": "https://image.gcores.com/3bb3249f647b4839731d659fb2015a46-536-508.webp"
+  },
+  {
+   "startTime": 3047,
+   "title": "序章还是使用了语言",
+   "img": "https://image.gcores.com/e6641cd1c53f24eedbac9369e8f07b95-781-509.png"
+  },
+  {
+   "startTime": 3103,
+   "title": "不再用语言讲述规则",
+   "img": "https://image.gcores.com/f16b61dd38eac4d3038bc61f5f9a5857-1468-532.png"
+  },
+  {
+   "startTime": 3161,
+   "title": "镜之谜题",
+   "img": "https://image.gcores.com/708e9992a423675a62f5c83d20029190-857-1026.png"
+  },
+  {
+   "startTime": 3311,
+   "title": "学游泳",
+   "img": "https://image.gcores.com/11ca22988acd050fa8455715d4b0d60e-474-316.webp"
+  },
+  {
+   "startTime": 3398,
+   "title": "验证了吹哥的理论"
+  },
+  {
+   "startTime": 3472,
+   "title": "解谜圈子的拧巴天性",
+   "img": "https://image.gcores.com/efcb57d337ba38cbd046e178c325e29d-761-390.png"
+  },
+  {
+   "startTime": 3537,
+   "title": "吹哥的拧巴",
+   "img": "https://image.gcores.com/2e0e387d3ef8d964bee8c9403e7525f3-701-462.png"
+  },
+  {
+   "startTime": 3638,
+   "title": "四个世界",
+   "img": "https://image.gcores.com/7bd370c71080819ddad8ac50ae69b152-951-710.png"
+  },
+  {
+   "startTime": 3688,
+   "title": "《推箱子英雄》",
+   "img": "https://image.gcores.com/84034b2be93da0312e6c35f6cc9017b1-288-216.png"
+  },
+  {
+   "startTime": 3721,
+   "title": "《Promesst》",
+   "img": "https://image.gcores.com/27da6a1bcc9cfe94765405d94b4fdd7a-512-384.png"
+  },
+  {
+   "startTime": 3755,
+   "title": "《怪物远征》",
+   "img": "https://image.gcores.com/fd9850d0789096504427b97e7bffe5e7-1921-1079.png"
+  },
+  {
+   "startTime": 3815,
+   "title": "游戏设计的超级对撞机",
+   "img": "https://image.gcores.com/23c78e1bb4fc83822982fb79d836532d-1920-1078.png"
+  },
+  {
+   "startTime": 3880,
+   "title": "必须得试试",
+   "img": "https://image.gcores.com/5917e00b9aabb6363ffbd2174f92f8aa-1921-1079.png"
+  },
+  {
+   "startTime": 3907,
+   "title": "向吹哥开炮",
+   "img": "https://image.gcores.com/93b52073c777888dd98b8c84bd93a44e-1024-682.jpg"
+  },
+  {
+   "startTime": 4001,
+   "title": "游戏官网",
+   "img": "https://image.gcores.com/b81ce976c23574ed4235eb01efbd2622-981-430.png",
+   "url": "https://www.orderofthesinkingstar.com/zh/"
+  },
+  {
+   "startTime": 4079,
+   "title": "纪念 Jack Lance",
+   "img": "https://image.gcores.com/cab9fb05a1c2d41a8e576504dd7c1209-150-150.png"
+  },
+  {
+   "startTime": 4099,
+   "title": "《Enigmash 》",
+   "img": "https://image.gcores.com/fdac2342015e03b4a4c45e3a960fe6c7-768-481.png"
+  },
+  {
+   "startTime": 4199,
+   "title": "Jack母亲的话"
+  },
+  {
+   "startTime": 4327,
+   "title": "再次安利纪录片",
+   "img": "https://image.gcores.com/a86fa0bea715ce28427f65ce51da3ec2-1603-900.png",
+   "url": "https://www.bilibili.com/video/BV1EvaY6gEbf/?spm_id_from=333.337.search-card.all.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 4378,
+   "title": "展现世界的一角",
+   "img": "https://image.gcores.com/10159e32d481465fa580efe281afdd24-975-869.png",
+   "url": "https://puzzles.mit.edu/2014/round/mit/"
+  },
+  {
+   "startTime": 4483,
+   "title": "如何开始设计谜题",
+   "img": "https://image.gcores.com/1f26d9effb7f2857ca048ddce7eea6bd-1148-909.png"
+  },
+  {
+   "startTime": 4529,
+   "title": "一定要试试《沉星之序》",
+   "img": "https://image.gcores.com/52635e1445d4bb2e3f365acc94234720-460-215.webp"
+  },
+  {
+   "startTime": 4579,
+   "title": "卡尔维诺",
+   "img": "https://image.gcores.com/19fb48a9d8a9e84caf5bee41b3bcf0cd-495-656.webp"
+  },
+  {
+   "startTime": 4685,
+   "title": "马可·波罗",
+   "img": "https://image.gcores.com/8350f0da18ae15ab2acb6039aeddadee-536-673.webp"
+  },
+  {
+   "startTime": 4831,
+   "title": "读出了游戏感",
+   "img": "https://image.gcores.com/c81372e2a55c9248077c889ee5d516f4-378-532.webp"
+  },
+  {
+   "startTime": 4929,
+   "title": "《BABA Is You》",
+   "img": "https://image.gcores.com/b35d197f38f2b2060f54a98e7ccc7dc6-536-335.webp"
+  },
+  {
+   "startTime": 4941,
+   "title": "《巴别塔圣歌》",
+   "img": "https://image.gcores.com/65fe3a64c502a19b55e20f04cbd534be-536-317.webp"
+  },
+  {
+   "startTime": 4961,
+   "title": "海豹的梦想"
+  },
+  {
+   "startTime": 5094,
+   "title": "玩不完的游戏",
+   "img": "https://image.gcores.com/4e5606d58e7a57b2269c24a480f2433a-617-353.png"
+  },
+  {
+   "startTime": 5168,
+   "title": "感谢支持",
+   "img": "https://image.gcores.com/1d6b54f53dd7ee6d3b3f6242016e4b63-452-279.gif"
+  }
+ ]
+}

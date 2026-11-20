@@ -1,0 +1,345 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "欢迎收听",
+   "img": "https://image.gcores.com/80a0a5b450f5e5e2502481786785cd6c-330-330.png",
+   "url": "https://c6.y.qq.com/base/fcgi-bin/u?__=khwdVugzqw7z"
+  },
+  {
+   "startTime": 32,
+   "title": "Gadio News"
+  },
+  {
+   "startTime": 41,
+   "title": "影之刃零联名",
+   "img": "https://image.gcores.com/804e176c1d683f3a19b6c37e9bcf41ea-500-313.webp",
+   "url": "https://www.gcores.com/articles/221572"
+  },
+  {
+   "startTime": 62,
+   "title": "NuPhy联名",
+   "img": "https://image.gcores.com/cfa7ef66e8177541cacacc34286e1228-1600-900.webp",
+   "url": "https://www.gcores.com/articles/221808"
+  },
+  {
+   "startTime": 89,
+   "title": "即将发售",
+   "img": "https://image.gcores.com/4392ae91a07a175531815a36ca3b3b61-690-388.webp"
+  },
+  {
+   "startTime": 101,
+   "title": "TGA 2026",
+   "img": "https://image.gcores.com/aae11e63185fe3204275118808ff7a7b-536-548.webp"
+  },
+  {
+   "startTime": 111,
+   "title": "最后交付阶段"
+  },
+  {
+   "startTime": 195,
+   "title": "财报"
+  },
+  {
+   "startTime": 230,
+   "title": "史上最强预售",
+   "img": "https://image.gcores.com/719c4556d1873f029bf43937bd73824b-800-438.jpg"
+  },
+  {
+   "startTime": 285,
+   "title": "已破千万",
+   "img": "https://image.gcores.com/ff4f7829a5b34a7a55f68c3da8b96cd1-1782-954.png"
+  },
+  {
+   "startTime": 322,
+   "title": "目标帧率30帧",
+   "img": "https://image.gcores.com/642a18df448d33b886fd2699df61d19b-800-450.webp",
+   "url": "https://www.gcores.com/articles/222174"
+  },
+  {
+   "startTime": 478,
+   "title": "Steam新一周销量榜"
+  },
+  {
+   "startTime": 516,
+   "title": "现在55篇了",
+   "img": "https://image.gcores.com/39addfbd60637a3accad806c3f30685e-433-392.png"
+  },
+  {
+   "startTime": 582,
+   "title": "销量",
+   "img": "https://image.gcores.com/af5efc4e875d6d14d0db238f985c681a-460-215.jpg"
+  },
+  {
+   "startTime": 665,
+   "title": "全冠清"
+  },
+  {
+   "startTime": 926,
+   "title": "性能模式？",
+   "img": "https://image.gcores.com/62dbbcefaa6d19de9c3eff3027e767af-550-309.png"
+  },
+  {
+   "startTime": 1053,
+   "title": "溢价严重",
+   "img": "https://image.gcores.com/4dc79e8f0f8cb6436710f73ff2d84604-326-380.webp"
+  },
+  {
+   "startTime": 1090,
+   "title": "收购Arkane意向",
+   "img": "https://image.gcores.com/10f20a4bad33f52762c2ef88f00ff064-800-451.webp",
+   "url": "https://www.gcores.com/articles/221949"
+  },
+  {
+   "startTime": 1134,
+   "title": "《魔法门之黑暗弥赛亚》",
+   "img": "https://image.gcores.com/e767434093c4dc7730c8a4f2968e311e-500-341.webp"
+  },
+  {
+   "startTime": 1177,
+   "title": "《漫威刀锋战士》",
+   "img": "https://image.gcores.com/fae5f67858926054986f9804a9eb8f38-295-338.png"
+  },
+  {
+   "startTime": 1299,
+   "title": "PS6进度"
+  },
+  {
+   "startTime": 1344,
+   "title": "PlayStation Portal",
+   "img": "https://image.gcores.com/f02b0aefc62a6c1902942539472e8aec-1077-606.webp"
+  },
+  {
+   "startTime": 1553,
+   "title": "不便宜"
+  },
+  {
+   "startTime": 1622,
+   "title": "开局一句话 内容全生成",
+   "img": "https://image.gcores.com/4d269d4df0d59ddf2141c7690e2438e5-1242-579.webp"
+  },
+  {
+   "startTime": 1690,
+   "title": "《几猫》",
+   "img": "https://image.gcores.com/b1f506c71c5bb084a043dbdab6007ea9-1080-516.jpg"
+  },
+  {
+   "startTime": 1715,
+   "title": "Unity实现盈利"
+  },
+  {
+   "startTime": 1738,
+   "title": "私有化收购"
+  },
+  {
+   "startTime": 1813,
+   "title": "MAGA政治广告",
+   "img": "https://image.gcores.com/e78d4c61c5714f8db40749edb81532a2-500-281.webp"
+  },
+  {
+   "startTime": 1847,
+   "title": "《魔兽世界：无限》",
+   "img": "https://image.gcores.com/a5421c904f627e9adb5653804f2c46f4-800-450.webp"
+  },
+  {
+   "startTime": 1859,
+   "title": "历史纪录",
+   "img": "https://image.gcores.com/84046e5dac954d512da4dd0a25c413ed-690-920.jpg"
+  },
+  {
+   "startTime": 1902,
+   "title": "免费试玩活动",
+   "img": "https://image.gcores.com/216c63f3e1e4e7d03ec2b02b2fc5ea2e-759-676.png"
+  },
+  {
+   "startTime": 1964,
+   "title": "机浪 Vol.132",
+   "img": "https://image.gcores.com/c8c40860d6c549795097629c47436352-1000-1000.png",
+   "url": "https://www.gcores.com/radios/221934"
+  },
+  {
+   "startTime": 2056,
+   "title": "死亡矿井",
+   "img": "https://image.gcores.com/7b4892a7c46caf374ae76c309ab65a62-536-402.webp"
+  },
+  {
+   "startTime": 2168,
+   "title": "专属权限"
+  },
+  {
+   "startTime": 2333,
+   "title": "史诗任务"
+  },
+  {
+   "startTime": 2439,
+   "title": "《魔兽世界：无限》",
+   "img": "https://image.gcores.com/d4331f769c24ffca874e3af8726f4f09-690-921.jpg"
+  },
+  {
+   "startTime": 2534,
+   "title": "新固件",
+   "img": "https://image.gcores.com/8a8c48ec06764ac9ad039e26ebaaeb5e-800-450.webp",
+   "url": "https://www.gcores.com/articles/222177"
+  },
+  {
+   "startTime": 2609,
+   "title": "协助开发",
+   "img": "https://image.gcores.com/a40e692fb47485026f7365385abe6eec-596-335.jpg"
+  },
+  {
+   "startTime": 2641,
+   "title": "解散与清算",
+   "img": "https://image.gcores.com/dfccbcc5ad1e23a3b69e9ee23e54e9bc-739-415.jpg",
+   "url": "https://www.gcores.com/articles/222196"
+  },
+  {
+   "startTime": 2754,
+   "title": "重启 PlayStation 独占",
+   "img": "https://image.gcores.com/fec172431e37bed124d3076ae7795df8-739-415.jpg"
+  },
+  {
+   "startTime": 2868,
+   "title": "左殇",
+   "img": "https://image.gcores.com/ecd2a2d83805cdcff81f0eb2257566cb-1120-630.jpg"
+  },
+  {
+   "startTime": 2904,
+   "title": "取消《Fairgame$》",
+   "img": "https://image.gcores.com/60767d018e769c85382132e208045cb1-1524-671.jpg"
+  },
+  {
+   "startTime": 2990,
+   "title": "新赛季“共生”",
+   "img": "https://image.gcores.com/b6b22df8b06ec63f851af067d3600a48-800-450.webp",
+   "url": "https://www.gcores.com/articles/222269"
+  },
+  {
+   "startTime": 3075,
+   "title": "2026年金摇杆奖",
+   "img": "https://image.gcores.com/f8937ff950ed5f0b338c8a59296cba7b-1920-1080.png",
+   "url": "https://www.gcores.com/articles/222239"
+  },
+  {
+   "startTime": 3155,
+   "title": "其他奖项",
+   "img": "https://image.gcores.com/8bfac6e73b81253dffd550b95ac6e99b-600-600.jpg"
+  },
+  {
+   "startTime": 3233,
+   "title": "其他奖项",
+   "img": "https://image.gcores.com/70aeb15cfa2c43f01079941c0628d085-600-600.jpg"
+  },
+  {
+   "startTime": 3284,
+   "title": "其他奖项",
+   "img": "https://image.gcores.com/9d27b681493def063a58004fb7407abc-600-600.jpg"
+  },
+  {
+   "startTime": 3311,
+   "title": "7个奖项",
+   "img": "https://image.gcores.com/73b4a4ac9a5bee3d2203cf6b2164d685-1920-1080.webp"
+  },
+  {
+   "startTime": 3323,
+   "title": "联合抵制",
+   "img": "https://image.gcores.com/a4e69bc555ddcd26b293b7dfba31fbe4-1080-609.webp",
+   "url": "https://www.gcores.com/articles/222182"
+  },
+  {
+   "startTime": 3337,
+   "title": "Sam Barlow",
+   "img": "https://image.gcores.com/b9f334fe1362f151deb31a0ea01ae0fd-785-989.png"
+  },
+  {
+   "startTime": 3365,
+   "title": "Austin Walker‌",
+   "img": "https://image.gcores.com/3a08d0c43936e1ee0d5635a97879e5bb-400-400.jpg"
+  },
+  {
+   "startTime": 3589,
+   "title": "解决性能问题",
+   "img": "https://image.gcores.com/ce984b96f048416f00233fdbeb5313d5-2560-1440.png"
+  },
+  {
+   "startTime": 3669,
+   "title": "《颂钟长鸣》",
+   "img": "https://image.gcores.com/d616f61fc7b22a367d9ee1be3646bf60-536-290.webp"
+  },
+  {
+   "startTime": 3817,
+   "title": "最终DLC《亡者行军》",
+   "img": "https://image.gcores.com/f9e18454c6cef89feeebe1344eb682d5-460-215.jpg"
+  },
+  {
+   "startTime": 3879,
+   "title": "新职业",
+   "img": "https://image.gcores.com/65a99894a78c43406b2a62fbf0953134-1080-1540.png"
+  },
+  {
+   "startTime": 3926,
+   "title": "斯特拉",
+   "img": "https://image.gcores.com/01a16ff47aa5e7b81ae64977fa435bbe-3256-3800.png"
+  },
+  {
+   "startTime": 4021,
+   "title": "《战锤40K：黑暗异端》",
+   "img": "https://image.gcores.com/85a669b99fb718f65db888f6e9439653-536-322.webp"
+  },
+  {
+   "startTime": 4121,
+   "title": "阿斯拜丝·库尔达",
+   "img": "https://image.gcores.com/24216b9af37228d03089d0cd4ecb23ac-1280-720.jpg"
+  },
+  {
+   "startTime": 4135,
+   "title": "拉赫缇",
+   "img": "https://image.gcores.com/f3ddca1c45742730ad2c4d8abb36be63-996-966.jpg"
+  },
+  {
+   "startTime": 4143,
+   "title": "海玛尔·德沃斯",
+   "img": "https://image.gcores.com/1756849292c37b6988d63b44bb31e109-996-966.jpg"
+  },
+  {
+   "startTime": 4247,
+   "title": "销量突破520万份",
+   "img": "https://image.gcores.com/50e8f1d5268b5dcfb74662c5d1eefbbb-720-405.webp"
+  },
+  {
+   "startTime": 4263,
+   "title": "弹冠相庆"
+  },
+  {
+   "startTime": 4498,
+   "title": "《暗喻幻想：ReFantazio》登陆ns2",
+   "img": "https://image.gcores.com/71094e08789d70e16fdab9496e164c5e-553-655.webp",
+   "url": "https://www.gcores.com/articles/222262"
+  },
+  {
+   "startTime": 4732,
+   "title": "《未知伤亡》",
+   "img": "https://image.gcores.com/94cbdd8719acbe1f5672e7bde6092940-536-267.webp"
+  },
+  {
+   "startTime": 4827,
+   "title": "《来自深渊》",
+   "img": "https://image.gcores.com/3e14c3ef62d35386d635d2d3bdbc32ee-536-715.webp"
+  },
+  {
+   "startTime": 4866,
+   "title": "拟真医疗系统",
+   "img": "https://image.gcores.com/aaf14b3dc5505327fc71a243b074d1ef-1919-1079.png"
+  },
+  {
+   "startTime": 5009,
+   "title": "《异病侦探》",
+   "img": "https://image.gcores.com/9e06c91d8a2677b202c8a388f8853519-536-261.webp"
+  },
+  {
+   "startTime": 5111,
+   "title": "下周再见",
+   "img": "https://image.gcores.com/cbf16d8f31534731718a42b63b919b04-330-330.png"
+  }
+ ]
+}

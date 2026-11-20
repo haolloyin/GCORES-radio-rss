@@ -1,0 +1,526 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/82f88b90766bba9b17da94c96db916e3-1448-1448.jpg",
+   "url": "https://music.163.com/song?id=28638615&uct2=U2FsdGVkX1+GRxnx+LhHEWc1k2i1KkBCqzQVFlfdHp4="
+  },
+  {
+   "startTime": 30,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 47,
+   "title": "展会归来",
+   "img": "https://image.gcores.com/57ca54e8f57f0ea01ec4b69317bcb43b-832-438.webp"
+  },
+  {
+   "startTime": 161,
+   "title": "科隆",
+   "img": "https://image.gcores.com/28b6a28fd9774ca91a4bcd5b7f154cbb-1080-690.webp"
+  },
+  {
+   "startTime": 218,
+   "title": "鲁尔区",
+   "img": "https://image.gcores.com/35061d666452789c13ccdeb69c4ebd3a-669-439.png"
+  },
+  {
+   "startTime": 256,
+   "title": "首钢园",
+   "img": "https://image.gcores.com/fca339ec38f2954cb4124a1738b63385-2500-1644.jpg"
+  },
+  {
+   "startTime": 288,
+   "title": "杜塞尔多夫",
+   "img": "https://image.gcores.com/9f561451bbfae3ec219081e95e798eca-1440-1920.jpg"
+  },
+  {
+   "startTime": 385,
+   "title": "德语「名 / 姓」"
+  },
+  {
+   "startTime": 468,
+   "title": "德国铁路",
+   "img": "https://image.gcores.com/9c0694cdf6cfb8f87958f48b3708ec10-555-407.png"
+  },
+  {
+   "startTime": 520,
+   "title": "国有与市场化",
+   "img": "https://image.gcores.com/f9dae2ffac42e5ab82ea33ed37c19e2a-1452-816.jpeg"
+  },
+  {
+   "startTime": 582,
+   "title": "西班牙铁路",
+   "img": "https://image.gcores.com/871c3fa1fb0585e0fb38397cbe6f3fd1-1000-667.jpg"
+  },
+  {
+   "startTime": 666,
+   "title": "法兰克福到科隆",
+   "img": "https://image.gcores.com/7a3a24603592106571820734cf08c788-818-495.png"
+  },
+  {
+   "startTime": 704,
+   "title": "车累了"
+  },
+  {
+   "startTime": 770,
+   "title": "永远准时",
+   "img": "https://image.gcores.com/821d3a43478cf2ebc7d5fd60ef9aff9d-1061-706.png"
+  },
+  {
+   "startTime": 868,
+   "title": "倒时差",
+   "img": "https://image.gcores.com/c1b906becf4ec43990c4b8c2aa12edd1-586-470.png"
+  },
+  {
+   "startTime": 912,
+   "title": "世界最大的游戏展",
+   "img": "https://image.gcores.com/992a31f6bda2ea741f229fe5983dc0ec-1791-1007.webp",
+   "url": "https://www.gcores.com/articles/219758"
+  },
+  {
+   "startTime": 979,
+   "title": "媒体日与玩家日",
+   "img": "https://image.gcores.com/0761235ff848ceaeaa3972ac53fe3839-1320-743.webp"
+  },
+  {
+   "startTime": 1080,
+   "title": "逛展",
+   "img": "https://image.gcores.com/813b297728bc902434e6f47158e098f3-898-655.png"
+  },
+  {
+   "startTime": 1137,
+   "title": "招聘会",
+   "img": "https://image.gcores.com/bd732afd4bd2224e37460233fdf7633f-1033-289.png"
+  },
+  {
+   "startTime": 1225,
+   "title": "摆地摊儿"
+  },
+  {
+   "startTime": 1306,
+   "title": "《龙之信条2：黑暗觉者》",
+   "img": "https://image.gcores.com/312668e7cba6190dad10dc65b492b2b5-1791-1007.webp",
+   "url": "https://www.gcores.com/articles/219477"
+  },
+  {
+   "startTime": 1397,
+   "title": "依旧开放世界",
+   "img": "https://image.gcores.com/a63200f9d262fd7c4a6b5eea6676656c-3840-2160.webp"
+  },
+  {
+   "startTime": 1433,
+   "title": "新系统",
+   "img": "https://image.gcores.com/2020c4adabd0cb6c5a47e738bbd7ae97-1330-782.webp"
+  },
+  {
+   "startTime": 1502,
+   "title": "BOSS战体验",
+   "img": "https://image.gcores.com/5ac5abf8fcec5b8c3b6f0acbf42af3a7-1920-1080.webp"
+  },
+  {
+   "startTime": 1605,
+   "title": "坠落之龙",
+   "img": "https://image.gcores.com/90cdac99c3df7ae113f0c10f34027623-1920-1080.webp"
+  },
+  {
+   "startTime": 1691,
+   "title": "交互感差",
+   "img": "https://image.gcores.com/8a387a3ca4040e87557e328ec3d6c001-1120-630.jpg"
+  },
+  {
+   "startTime": 1799,
+   "title": "地牢",
+   "img": "https://image.gcores.com/a03dbc28e7e58bc52da314982e4f1fe2-1920-1080.webp"
+  },
+  {
+   "startTime": 1899,
+   "title": "凤毛麟角",
+   "img": "https://image.gcores.com/58b40f5c0783dd19449bd4d40d6103a4-1920-880.webp"
+  },
+  {
+   "startTime": 1961,
+   "title": "战斗好玩",
+   "img": "https://image.gcores.com/dbe5acbe6cc4cc25b3f6f8b3b9fbf2e1-1920-1080.webp"
+  },
+  {
+   "startTime": 2062,
+   "title": "《源初之结》",
+   "img": "https://image.gcores.com/5da8198c609ebf2352bde91c269c8ba0-716-398.webp",
+   "url": "https://www.bilibili.com/video/BV1erhL6EE6k?share_source=copy_web"
+  },
+  {
+   "startTime": 2209,
+   "title": "风格大变",
+   "img": "https://image.gcores.com/d60e6c589c2b59eb75299d71f40b9038-1090-607.webp"
+  },
+  {
+   "startTime": 2331,
+   "title": "四个角色",
+   "img": "https://image.gcores.com/d4fe0f888448906cbc39c586baf49add-1777-890.png"
+  },
+  {
+   "startTime": 2373,
+   "title": "无用の狩猎笛",
+   "img": "https://image.gcores.com/9b2381cfb67dfe65dbae44c99e627a9a-1920-1440.jpg"
+  },
+  {
+   "startTime": 2434,
+   "title": "动作系统",
+   "img": "https://image.gcores.com/aafe3f9193d9ee8aab5657e9ba8be544-424-190.png"
+  },
+  {
+   "startTime": 2595,
+   "title": "穷奇",
+   "img": "https://image.gcores.com/1cd14de945a0f4e6a59b2b048741dce8-598-372.png"
+  },
+  {
+   "startTime": 2689,
+   "title": "视角变化"
+  },
+  {
+   "startTime": 2808,
+   "title": "海外受众",
+   "img": "https://image.gcores.com/446f54ed60e0d93b0f1289d4058fd694-1068-686.png"
+  },
+  {
+   "startTime": 2881,
+   "title": "免费+持续运营",
+   "img": "https://image.gcores.com/d31d3d2ab45a027255a1f75015435487-965-560.png"
+  },
+  {
+   "startTime": 2982,
+   "title": "付费模式"
+  },
+  {
+   "startTime": 3130,
+   "title": "CDPR展台",
+   "img": "https://image.gcores.com/663b81cde27510b160ef514788ec95bd-1151-637.png"
+  },
+  {
+   "startTime": 3256,
+   "title": "《巫师3》黑屋演示",
+   "img": "https://image.gcores.com/515101a592d45043e1b89b47b87f47e9-950-600.webp"
+  },
+  {
+   "startTime": 3359,
+   "title": "诗歌线索",
+   "img": "https://image.gcores.com/f7cec2b3af9094b1f5c2f690489594e0-627-582.webp"
+  },
+  {
+   "startTime": 3434,
+   "title": "完全重制",
+   "img": "https://image.gcores.com/6362b9b5b47b5d20b4f9dd84577bae21-1242-698.webp"
+  },
+  {
+   "startTime": 3586,
+   "title": "丹德里恩",
+   "img": "https://image.gcores.com/5f2275f9949141500d5a31d5928154ee-1000-1429.webp"
+  },
+  {
+   "startTime": 3703,
+   "title": "当地特色怪物",
+   "img": "https://image.gcores.com/2d912fab4793baef5d3c0045b0dd8195-1920-1080.webp"
+  },
+  {
+   "startTime": 3759,
+   "title": "跑商"
+  },
+  {
+   "startTime": 3880,
+   "title": "《巫师1》虚幻5重制",
+   "img": "https://image.gcores.com/f64e372b3e65861d8d3b6a3e89946d80-911-330.png"
+  },
+  {
+   "startTime": 3995,
+   "title": "NS2上的体验",
+   "img": "https://image.gcores.com/0df2676a935f232e22df342d9222d62f-627-353.webp"
+  },
+  {
+   "startTime": 4095,
+   "title": "Despoina Anetaki",
+   "img": "https://image.gcores.com/f38b29ceb07256dab603f2e8aab185b5-1920-936.webp"
+  },
+  {
+   "startTime": 4143,
+   "title": "展机被盗",
+   "img": "https://image.gcores.com/8f3334fa62ccd5f2e63253461cf47257-399-501.webp",
+   "url": "https://www.gcores.com/articles/219047"
+  },
+  {
+   "startTime": 4226,
+   "title": "生机勃发",
+   "img": "https://image.gcores.com/372c10f8332b186a438e29ff6edb190e-764-573.png"
+  },
+  {
+   "startTime": 4291,
+   "title": "《控制：共振》",
+   "img": "https://image.gcores.com/0226ef023baa050a96e1f58354defd76-627-417.webp"
+  },
+  {
+   "startTime": 4341,
+   "title": "瑕瑜互见",
+   "img": "https://image.gcores.com/4c9db53efa7cc3dac122f37e623de5b3-1201-1327.jpg"
+  },
+  {
+   "startTime": 4440,
+   "title": "进步飞跃",
+   "img": "https://image.gcores.com/334893e01a66cf74dbe145b7a7146e65-1440-810.webp"
+  },
+  {
+   "startTime": 4501,
+   "title": "动作天尊",
+   "img": "https://image.gcores.com/e50c9b49347ce1b64ca247303f45f573-1052-592.png"
+  },
+  {
+   "startTime": 4558,
+   "title": "天赋树",
+   "img": "https://image.gcores.com/f1696fee01ebe4db061fdb06fb955342-1325-736.png"
+  },
+  {
+   "startTime": 4577,
+   "title": "多种武器",
+   "img": "https://image.gcores.com/1bb4ceba5441c7a5deed10a848b0c1cd-768-633.png"
+  },
+  {
+   "startTime": 4661,
+   "title": "碎片化叙事",
+   "img": "https://image.gcores.com/62b7769485fb46c8128609c2be898dc0-1061-592.png"
+  },
+  {
+   "startTime": 4680,
+   "title": "视觉奇观",
+   "img": "https://image.gcores.com/5cc3b3eadaae6481ed29be737ee815dc-1203-746.png"
+  },
+  {
+   "startTime": 4770,
+   "title": "探索方面",
+   "img": "https://image.gcores.com/497686fbc6a6925dd1a91636add1684b-1311-675.png"
+  },
+  {
+   "startTime": 4844,
+   "title": "《量子破碎》",
+   "img": "https://image.gcores.com/4d4abb0603c17c0f353d542ae15a1a8c-2560-1440.jpg"
+  },
+  {
+   "startTime": 4921,
+   "title": "《苍穹浩瀚》",
+   "img": "https://image.gcores.com/0d29df81b95694b7b553818ef7d0ca5d-1920-1080.jpg"
+  },
+  {
+   "startTime": 4979,
+   "title": "文本质量",
+   "img": "https://image.gcores.com/806e72aea4917afa4180aa2c4581e851-2560-1440.jpg"
+  },
+  {
+   "startTime": 5071,
+   "title": "掩体射击玩法",
+   "img": "https://image.gcores.com/b9323e9abd33edfaa6c4b40eb11d7697-666-370.png"
+  },
+  {
+   "startTime": 5136,
+   "title": "体验中的问题"
+  },
+  {
+   "startTime": 5222,
+   "title": "叙事处理",
+   "img": "https://image.gcores.com/c76d0cc21bcdf18323f74965486e2c14-656-324.png"
+  },
+  {
+   "startTime": 5347,
+   "title": "《苍穹浩瀚》",
+   "img": "https://image.gcores.com/0633f9da4e15742d2540bbf399038369-1080-1620.jpg"
+  },
+  {
+   "startTime": 5458,
+   "title": "《彩虹六号：战术行动》",
+   "img": "https://image.gcores.com/06a3b34493c0175c4a19cc487ba85fc5-627-353.webp",
+   "url": "https://www.gcores.com/articles/219611"
+  },
+  {
+   "startTime": 5521,
+   "title": "《抵抗者》",
+   "img": "https://image.gcores.com/22241c16ca966ff7e323cb44e02319ae-460-215.webp"
+  },
+  {
+   "startTime": 5620,
+   "title": "德国人",
+   "img": "https://image.gcores.com/5efcc46da3297f3ad7a7ff5193fea116-525-498.png"
+  },
+  {
+   "startTime": 5725,
+   "title": "排队",
+   "img": "https://image.gcores.com/cd91c19c688a9357bbd886c0281384e1-940-616.png"
+  },
+  {
+   "startTime": 5812,
+   "title": "变成福瑞",
+   "img": "https://image.gcores.com/d8c702249254feea6f28f8c24afa6fb2-1059-563.png"
+  },
+  {
+   "startTime": 5846,
+   "title": "《白银之城》",
+   "img": "https://image.gcores.com/f4ffcac6aa0e3603fcba01e0a4898490-1600-900.webp",
+   "url": "https://www.gcores.com/articles/217458"
+  },
+  {
+   "startTime": 5938,
+   "title": "《昭和米国物语》",
+   "img": "https://image.gcores.com/3954a3b9bf25bca6f55fa4f43e477a26-1060-489.png"
+  },
+  {
+   "startTime": 6080,
+   "title": "《机品》试玩",
+   "img": "https://image.gcores.com/9f4a40178f9c428f84908f8101a81eed-1600-900.jpg",
+   "url": "https://www.bilibili.com/video/BV1rshV6HEd7/?spm_id_from=333.1387.0.0&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 6162,
+   "title": "PPT演出",
+   "img": "https://image.gcores.com/61ed845e43f15c911f521e3cbbffebad-1312-737.png"
+  },
+  {
+   "startTime": 6263,
+   "title": "《最终幻想7》",
+   "img": "https://image.gcores.com/d2da458edc5344056c8d91e99982dbd5-1061-592.png"
+  },
+  {
+   "startTime": 6392,
+   "title": "速通比赛"
+  },
+  {
+   "startTime": 6500,
+   "title": "芙莉莲coser",
+   "img": "https://image.gcores.com/754663db8fc5b84fb6f3ad801e1869dc-442-374.png"
+  },
+  {
+   "startTime": 6564,
+   "title": "德国咸面包",
+   "img": "https://image.gcores.com/a5a230197985bdfe146a2552e93f03ed-1072-693.png"
+  },
+  {
+   "startTime": 6662,
+   "title": "大号蝴蝶酥",
+   "img": "https://image.gcores.com/1ea78423e9c7ed1188065cac62ce32ac-590-512.png"
+  },
+  {
+   "startTime": 6731,
+   "title": "黑酸面包",
+   "img": "https://image.gcores.com/bf56ec49de73f22b1ede4b9c3cba8eb4-780-722.png"
+  },
+  {
+   "startTime": 6768,
+   "title": "《指环王 咕噜》",
+   "img": "https://image.gcores.com/dcccbb5befc79ce1d4e724cbad13dd1a-716-403.webp"
+  },
+  {
+   "startTime": 6816,
+   "title": "《维京防线：北境之风》",
+   "img": "https://image.gcores.com/a69d2696ed4e23fb9a31137103d97ebe-481-334.png",
+   "url": "https://www.bilibili.com/video/BV1sktX6aEUJ?share_source=copy_web"
+  },
+  {
+   "startTime": 6923,
+   "title": "《英灵神殿》采访",
+   "img": "https://image.gcores.com/55d1999286f630f61f04cecb28f20168-627-353.webp",
+   "url": "https://www.gcores.com/articles/219026"
+  },
+  {
+   "startTime": 7054,
+   "title": "《德波尼亚求生》",
+   "img": "https://image.gcores.com/3c2c3dfb3873e79cb42d19aa0f8e6518-552-257.png",
+   "url": "https://store.steampowered.com/app/2464520/__Surviving_Deponia/"
+  },
+  {
+   "startTime": 7142,
+   "title": "《百战天虫》系列新作",
+   "img": "https://image.gcores.com/ace1f82161dc56a56c686acad9ad4caa-686-386.webp"
+  },
+  {
+   "startTime": 7332,
+   "title": "《WARDOGS》采访",
+   "img": "https://image.gcores.com/329aec690af0f455855622d7aea5ad8b-1200-630.webp",
+   "url": "https://www.gcores.com/articles/219375"
+  },
+  {
+   "startTime": 7448,
+   "title": "《英雄无敌3》重制版",
+   "img": "https://image.gcores.com/b17974ddda3e6a0a781b4a49a3d2f1f9-1057-538.png"
+  },
+  {
+   "startTime": 7480,
+   "title": "坊间传言",
+   "img": "https://image.gcores.com/3165aa836e27592aa21a845c21b05072-660-372.jpg"
+  },
+  {
+   "startTime": 7541,
+   "title": "画面全升级",
+   "img": "https://image.gcores.com/26e80aae2e7b0862d27391d12a657dc1-744-412.png"
+  },
+  {
+   "startTime": 7668,
+   "title": "兼容原创地图",
+   "img": "https://image.gcores.com/b6fd4578a259ec1fd253f109191fcfd5-3840-2160.webp"
+  },
+  {
+   "startTime": 7733,
+   "title": "《1001 night》",
+   "img": "https://image.gcores.com/91183ec3be96fe3beaf5a35f5c2d1297-883-496.png",
+   "url": "https://store.steampowered.com/app/2782660/1001_Nights_Demo/"
+  },
+  {
+   "startTime": 7821,
+   "title": "鬼脑发动"
+  },
+  {
+   "startTime": 7914,
+   "title": "司机没了",
+   "img": "https://image.gcores.com/cc59752dbb87664e71eb3a3d86066a83-869-488.png"
+  },
+  {
+   "startTime": 8006,
+   "title": "忍忍呗",
+   "img": "https://image.gcores.com/13d5512f4859bc1bc7413274853a415b-454-521.png"
+  },
+  {
+   "startTime": 8097,
+   "title": "大批量晚点",
+   "img": "https://image.gcores.com/3db8559c2e8af0b30dbd5862ec1912a9-1280-836.webp"
+  },
+  {
+   "startTime": 8207,
+   "title": "早已习惯",
+   "img": "https://image.gcores.com/991318d7282835c6011130fc274fb7ee-751-375.png"
+  },
+  {
+   "startTime": 8237,
+   "title": "取消",
+   "img": "https://image.gcores.com/3717be0043f9456f0cfc1412a9919acf-804-603.jpg"
+  },
+  {
+   "startTime": 8329,
+   "title": "相关视频",
+   "img": "https://image.gcores.com/c4e28e3cb3e4d6e412726972e7cab6c8-1148-645.jpg",
+   "url": "https://www.bilibili.com/video/BV1gGgk6hEU8/?spm_id_from=333.1387.search.video_card.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 8462,
+   "title": "人与人的连接",
+   "img": "https://image.gcores.com/12f906a245d82b9e6f490c4eeb0b45d3-543-344.png"
+  },
+  {
+   "startTime": 8525,
+   "title": "遇到欠钱的朋友怎么办",
+   "img": "https://image.gcores.com/7e628ea6087c8c1a1e7271574a14b3c1-1600-900.webp",
+   "url": "https://www.gcores.com/articles/219252"
+  },
+  {
+   "startTime": 8560,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/bae4535b564a51a83231a2ac7b14cabe-800-800.jpg",
+   "url": "https://music.163.com/song?id=1313323113&uct2=U2FsdGVkX1/iKN1S3P4YrQ4kvkgxOAhSxrrhIU9QIM0="
+  }
+ ]
+}

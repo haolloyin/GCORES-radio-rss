@@ -1,0 +1,319 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/0145619ff09ede1dcdc8ebb8e8bd906b-3000-3000.jpg",
+   "url": "https://music.163.com/song?id=3420049289&uct2=U2FsdGVkX18q5zwI/hDm23+rTJSfnCUbjfJTFSPb08I="
+  },
+  {
+   "startTime": 12,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 49,
+   "title": "无剧透评测",
+   "img": "https://image.gcores.com/c321976f2eb4ab3789b3368fce45edaa-1600-900.jpg",
+   "url": "https://www.bilibili.com/video/BV1NSsm6rEGE/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 115,
+   "title": "《影之刃零》",
+   "img": "https://image.gcores.com/81316f2c4c111d84fccbe476a8ae5fba-1080-1080.png"
+  },
+  {
+   "startTime": 136,
+   "title": "ROG 幻X",
+   "img": "https://image.gcores.com/7ac1873c4317aa561c7c92b6da3ee434-873-660.png"
+  },
+  {
+   "startTime": 220,
+   "title": "白山风雷剑",
+   "img": "https://image.gcores.com/07a2854eecbe2c3f51e0f3db4cc0e5c2-591-460.png"
+  },
+  {
+   "startTime": 329,
+   "title": "《COD23》",
+   "img": "https://image.gcores.com/508053816c467812f401e907bb9ca3e1-550-384.png"
+  },
+  {
+   "startTime": 424,
+   "title": "诺兰",
+   "img": "https://image.gcores.com/7d89d6d0bd10cd1694b761a4e707656d-743-557.png"
+  },
+  {
+   "startTime": 483,
+   "title": "直奔主题",
+   "img": "https://image.gcores.com/142998c4042081a3f0de94c65043ba4e-408-360.png"
+  },
+  {
+   "startTime": 529,
+   "title": "“服从”",
+   "img": "https://image.gcores.com/1dec5e69996f2ccd8d6f4b91fbf28730-1138-583.png"
+  },
+  {
+   "startTime": 564,
+   "title": "“绝境”",
+   "img": "https://image.gcores.com/b2ea7e7566c9c7180c028789459ec572-1139-581.png"
+  },
+  {
+   "startTime": 653,
+   "title": "高镇赫",
+   "img": "https://image.gcores.com/e81f4f54b90812be42377d2b541b9a15-839-438.gif"
+  },
+  {
+   "startTime": 685,
+   "title": "瓦拉瑞亚",
+   "img": "https://image.gcores.com/0c4f1b4e976fbc20e59c76c6097d7479-945-482.png"
+  },
+  {
+   "startTime": 747,
+   "title": "还算不错",
+   "img": "https://image.gcores.com/70fae8084fc8ff5fca23cca9f6e40b3d-1052-615.png"
+  },
+  {
+   "startTime": 841,
+   "title": "Mads",
+   "img": "https://image.gcores.com/88a046631de80db3c07214d0adc7fc22-3840-2160.jpg"
+  },
+  {
+   "startTime": 893,
+   "title": "后续猜想",
+   "img": "https://image.gcores.com/90b62350fb9ebc99623cc622df73eac5-1071-583.png"
+  },
+  {
+   "startTime": 918,
+   "title": "邪魅一笑",
+   "img": "https://image.gcores.com/c11ddc8b04d547416e25554c5f67c231-771-430.png"
+  },
+  {
+   "startTime": 1003,
+   "title": "“刺杀”",
+   "img": "https://image.gcores.com/7bed882e3b5e3fae94e1b38773981a93-740-580.png"
+  },
+  {
+   "startTime": 1040,
+   "title": "重制版",
+   "img": "https://image.gcores.com/bbd81d3d8d030a085a81ee60d702895c-1065-555.png"
+  },
+  {
+   "startTime": 1125,
+   "title": "前情提要",
+   "img": "https://image.gcores.com/00d6ef6cd26775b7cce2d182c04f7d8f-2276-1280.webp"
+  },
+  {
+   "startTime": 1184,
+   "title": "净化斯坦索姆",
+   "img": "https://image.gcores.com/2a54060386f75750ca39767b4ff8c86a-697-452.png"
+  },
+  {
+   "startTime": 1316,
+   "title": "霜之哀伤",
+   "img": "https://image.gcores.com/8481f301aada05553ecc3535d91af390-561-1417.jpg"
+  },
+  {
+   "startTime": 1401,
+   "title": "故事开端",
+   "img": "https://image.gcores.com/b5f26e275cbe350a3786108739d49a03-1032-535.png"
+  },
+  {
+   "startTime": 1438,
+   "title": "乌瑟尔",
+   "img": "https://image.gcores.com/a19c6e5eda7b6b7efbe1c07dd35edf56-1056-596.png"
+  },
+  {
+   "startTime": 1501,
+   "title": "白银之手",
+   "img": "https://image.gcores.com/5b31d3746085c100fd7153fe795e521f-1069-595.png"
+  },
+  {
+   "startTime": 1557,
+   "title": "瑞文戴尔",
+   "img": "https://image.gcores.com/8f936d025a0587afd3fb1f89cbd9fa03-379-445.png"
+  },
+  {
+   "startTime": 1629,
+   "title": "截然相反的道路",
+   "img": "https://image.gcores.com/747687b44c7adb7f09b6a456ed3dcae1-1699-858.png"
+  },
+  {
+   "startTime": 1724,
+   "title": "梅森",
+   "img": "https://image.gcores.com/9843feeb50ee811146bbe1aa4a504a52-836-663.png"
+  },
+  {
+   "startTime": 1830,
+   "title": "《深空当铺：可能是偷的》",
+   "img": "https://image.gcores.com/bb526411947aa3e8cdb20d0cf46ef51b-409-190.png"
+  },
+  {
+   "startTime": 1881,
+   "title": "鉴定环节",
+   "img": "https://image.gcores.com/558caa31683c1be89e88906a6dcc6f7c-1065-593.png"
+  },
+  {
+   "startTime": 1915,
+   "title": "《请出示证件》",
+   "img": "https://image.gcores.com/e172b580086967cd9051fe9774349a2a-967-552.png"
+  },
+  {
+   "startTime": 1955,
+   "title": "不择手段",
+   "img": "https://image.gcores.com/c7cc23a6555d7a2c5d88267c44306ec6-397-373.png"
+  },
+  {
+   "startTime": 2021,
+   "title": "选择多样",
+   "img": "https://image.gcores.com/ef840a9a158616d934ea792852eb4f5d-989-538.png"
+  },
+  {
+   "startTime": 2131,
+   "title": "展示柜",
+   "img": "https://image.gcores.com/78822350d63a38e1b9503341275ebdaa-225-152.png"
+  },
+  {
+   "startTime": 2163,
+   "title": "水资源",
+   "img": "https://image.gcores.com/472534cbb7ba6658d7b55326ff8604df-497-648.png"
+  },
+  {
+   "startTime": 2241,
+   "title": "不同开局",
+   "img": "https://image.gcores.com/c9ae07cf61560492122d215cc32153be-1235-1026.png"
+  },
+  {
+   "startTime": 2339,
+   "title": "上层大小姐",
+   "img": "https://image.gcores.com/fbf01ed5aa9da7b005948b5d97c866ae-353-287.png"
+  },
+  {
+   "startTime": 2400,
+   "title": "叔叔的心意",
+   "img": "https://image.gcores.com/4221ca2813fb750b13042090ec32726e-323-274.png"
+  },
+  {
+   "startTime": 2474,
+   "title": "拾荒生活",
+   "img": "https://image.gcores.com/4f61392cb0be496527820ab3afb3eb7e-347-242.png"
+  },
+  {
+   "startTime": 2518,
+   "title": "小老头儿",
+   "img": "https://image.gcores.com/53142e0a2f154c6a8a6c6fcb5ddaa307-610-446.png"
+  },
+  {
+   "startTime": 2602,
+   "title": "不烧心",
+   "img": "https://image.gcores.com/b5715b74b4b07fae1fd98de14e943d0c-391-487.png"
+  },
+  {
+   "startTime": 2667,
+   "title": "亚空间收纳",
+   "img": "https://image.gcores.com/b7e5196accbf690777ded5c569fcbc5f-430-285.png"
+  },
+  {
+   "startTime": 2747,
+   "title": "MOD多",
+   "img": "https://image.gcores.com/d2331b77a410eef5e99444543b095d95-1527-871.png"
+  },
+  {
+   "startTime": 2801,
+   "title": "《女王魔域》",
+   "img": "https://image.gcores.com/90b99654be06312bece08105d6cd90fa-960-540.jpg"
+  },
+  {
+   "startTime": 2844,
+   "title": "名字对应",
+   "img": "https://image.gcores.com/26caeac8d3ba0764299fdc32371fba0c-595-280.png"
+  },
+  {
+   "startTime": 2868,
+   "title": "游戏画风",
+   "img": "https://image.gcores.com/8eb131ebc335edb9f6f547cc99e32f4d-1120-630.jpg"
+  },
+  {
+   "startTime": 2916,
+   "title": "3D银河城",
+   "img": "https://image.gcores.com/261fbb030b0d1ef315d2fdf3d266ad91-798-414.png"
+  },
+  {
+   "startTime": 3007,
+   "title": "怪物图鉴",
+   "img": "https://image.gcores.com/6b1d512c7bcbbb785655e0e94e7b3f39-1077-529.png"
+  },
+  {
+   "startTime": 3046,
+   "title": "关卡设计",
+   "img": "https://image.gcores.com/556d9fe5ab2b01fe60babee5f6256d5c-1120-630.jpg"
+  },
+  {
+   "startTime": 3136,
+   "title": "恶意不足",
+   "img": "https://image.gcores.com/79a9cf808c2a27e345bfc066cfe267e8-1022-595.png"
+  },
+  {
+   "startTime": 3276,
+   "title": "有中文",
+   "img": "https://image.gcores.com/9edadaeb5c8746eae494da8e6ed6476f-884-498.png",
+   "url": "https://store.steampowered.com/app/1799840/Queens_Domain/"
+  },
+  {
+   "startTime": 3318,
+   "title": "《CULTIC》",
+   "img": "https://image.gcores.com/469b62f5cbc6c31c0baed8709c81cfa5-881-498.png",
+   "url": "https://store.steampowered.com/app/1684930/CULTIC/"
+  },
+  {
+   "startTime": 3434,
+   "title": "《战锤40K：爆矢枪2》",
+   "img": "https://image.gcores.com/6009b5868df1fbb02723cc95d1d4f510-885-496.png",
+   "url": "https://store.steampowered.com/app/3115160/%E6%88%98%E9%94%A440K%E7%88%86%E7%9F%A2%E6%9E%AA2/"
+  },
+  {
+   "startTime": 3527,
+   "title": "《Bullet Per Minute》",
+   "img": "https://image.gcores.com/c7e194d20a545a40e9966f97a37aaf35-409-190.png",
+   "url": "https://store.steampowered.com/app/1286350/BPM_%E6%9E%AA%E6%9E%97%E5%BC%B9%E9%9B%A8/"
+  },
+  {
+   "startTime": 3599,
+   "title": "集大成",
+   "img": "https://image.gcores.com/c770d9bc25fff19eac9fec5bcbae480d-2081-1274.png"
+  },
+  {
+   "startTime": 3689,
+   "title": "《GTA5》",
+   "img": "https://image.gcores.com/3f80815dbc5653ac3fa0043c086ad853-880-493.png"
+  },
+  {
+   "startTime": 3768,
+   "title": "尼科的故事",
+   "img": "https://image.gcores.com/258561cfe74bfc82688e9329bc2243b4-1027-600.png"
+  },
+  {
+   "startTime": 3814,
+   "title": "共情",
+   "img": "https://image.gcores.com/25bac253d91c0dc05af066ceb4f1c95f-1060-461.png"
+  },
+  {
+   "startTime": 3870,
+   "title": "工业怪兽",
+   "img": "https://image.gcores.com/ab088883e62e0d1d690bb36c1553104f-974-532.png"
+  },
+  {
+   "startTime": 3978,
+   "title": "主角塑造",
+   "img": "https://image.gcores.com/c2ab754609c8bbf580f5d9a30b95c92d-1063-592.png"
+  },
+  {
+   "startTime": 4069,
+   "title": "游戏人生",
+   "img": "https://image.gcores.com/c164c757ccaacb972b9612ac2d49b54d-1059-595.png"
+  },
+  {
+   "startTime": 4127,
+   "title": "感谢收听"
+  }
+ ]
+}

@@ -1,0 +1,452 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/e8925a2b383f7f7ab0a1687add7a3429-474-473.webp"
+  },
+  {
+   "startTime": 40,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 56,
+   "title": "Roguelike 老节目",
+   "img": "https://image.gcores.com/2f8ef5a12e983f29220e9aaa9ba929d0-398-462.png",
+   "url": "https://www.gcores.com/radios/121523"
+  },
+  {
+   "startTime": 116,
+   "title": "单纯热爱",
+   "img": "https://image.gcores.com/108d7f5c638e66a296e0fb6e8f1e3d26-698-634.png"
+  },
+  {
+   "startTime": 148,
+   "title": "Roguelike不能叫一个游戏类型"
+  },
+  {
+   "startTime": 192,
+   "title": "阶段性总结",
+   "img": "https://image.gcores.com/8e9705427009f8bdf6e9f12a9853d176-460-215.webp"
+  },
+  {
+   "startTime": 257,
+   "title": "简称“肉鸽”",
+   "img": "https://image.gcores.com/27079f03641f28268fdefc488eeb219c-536-228.webp"
+  },
+  {
+   "startTime": 274,
+   "title": "肉鸽要素非常普遍",
+   "img": "https://image.gcores.com/d34fd7c42517fea280f786d1846b2bfd-1267-713.jpg"
+  },
+  {
+   "startTime": 343,
+   "title": "AoS-like",
+   "img": "https://image.gcores.com/1830e39cd888b92b290470c7084ce5cc-536-383.webp"
+  },
+  {
+   "startTime": 419,
+   "title": "目前vibe coding非常流行",
+   "img": "https://image.gcores.com/acb216da230dc0fad15916c15b9f05f9-536-499.webp"
+  },
+  {
+   "startTime": 476,
+   "title": "老程序员的核心竞争力",
+   "img": "https://image.gcores.com/cbe93cb17bb67f6e52b9c7a5c3400cb5-500-406.jpg"
+  },
+  {
+   "startTime": 525,
+   "title": "洪恩学习软件",
+   "img": "https://image.gcores.com/6ccf025dd7dbf96d03f0bb78ec9f9d57-1178-875.png",
+   "url": "https://www.bilibili.com/video/av213958673/?vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 628,
+   "title": "了解肉鸽的目的"
+  },
+  {
+   "startTime": 761,
+   "title": "谱系化的roguelike"
+  },
+  {
+   "startTime": 952,
+   "title": "2008年柏林诠释"
+  },
+  {
+   "startTime": 1061,
+   "title": "《马基埃亚尔的传说》",
+   "img": "https://image.gcores.com/378a6e2505ab5f5251deb6543939ca82-1278-1002.png"
+  },
+  {
+   "startTime": 1124,
+   "title": "roguelike celebration",
+   "img": "https://image.gcores.com/4d8939e6bc30862f394f8d5bace26705-758-414.png",
+   "url": "https://www.roguelike.club/event2026.html"
+  },
+  {
+   "startTime": 1207,
+   "title": "写在开头"
+  },
+  {
+   "startTime": 1313,
+   "title": "08年也是roguelite元年"
+  },
+  {
+   "startTime": 1353,
+   "title": "随机环境生成（Random environment generation）"
+  },
+  {
+   "startTime": 1485,
+   "title": "《石头汤》（Dungeon Crawl Stone Soup）",
+   "img": "https://image.gcores.com/a4b1af6748981b84d9e4c46138cb1927-1059-504.webp",
+   "url": "https://crawl.develz.org/"
+  },
+  {
+   "startTime": 1558,
+   "title": "卡德洞窟",
+   "img": "https://image.gcores.com/1d955619a853104ecb4cf5adea645e60-875-492.webp"
+  },
+  {
+   "startTime": 1683,
+   "title": "《迷宫骇客》",
+   "img": "https://image.gcores.com/35cfa8a53c9486278ca9b2926611c33a-875-380.webp",
+   "url": "https://www.gcores.com/articles/143626"
+  },
+  {
+   "startTime": 1732,
+   "title": "永久死亡(Permadeath)"
+  },
+  {
+   "startTime": 1768,
+   "title": "《风来的西林》",
+   "img": "https://image.gcores.com/a6dfcebc605cedab1883f6414820e7ef-579-466.webp"
+  },
+  {
+   "startTime": 1822,
+   "title": "一期一会"
+  },
+  {
+   "startTime": 1850,
+   "title": "《游戏能塑造世界，是因为这里有远方，录音笔 VOL.255》",
+   "img": "https://image.gcores.com/922d15c12bf4e67f72c041e1b31ef74a-386-456.png",
+   "url": "https://www.gcores.com/radios/185929"
+  },
+  {
+   "startTime": 1893,
+   "title": "中断存档",
+   "img": "https://image.gcores.com/73d5b21250215a103e905cef392de216-875-653.webp"
+  },
+  {
+   "startTime": 1940,
+   "title": "生成bones（骨骸）文件"
+  },
+  {
+   "startTime": 2045,
+   "title": "回合制（Turn-based）"
+  },
+  {
+   "startTime": 2064,
+   "title": "《节奏地牢》",
+   "img": "https://image.gcores.com/533b170b4c90a478bbb9386f3c1ff905-536-302.webp"
+  },
+  {
+   "startTime": 2124,
+   "title": "同步回合制"
+  },
+  {
+   "startTime": 2190,
+   "title": "DecaAut"
+  },
+  {
+   "startTime": 2297,
+   "title": "《大灾变：黑暗之日》（Cataclysm: Dark Days Ahead）",
+   "img": "https://image.gcores.com/f0184d9a707c820e21c3bd73fc34b288-2390-800.png"
+  },
+  {
+   "startTime": 2427,
+   "title": "格子制（Grid-based）"
+  },
+  {
+   "startTime": 2469,
+   "title": "六边形格子（HEX-based）",
+   "img": "https://image.gcores.com/67fd096971081955e38f88054abf2d77-3200-2000.png"
+  },
+  {
+   "startTime": 2630,
+   "title": "切比雪夫距离",
+   "img": "https://image.gcores.com/f8c633030cf2f249ac585f6fc7d1af34-548-547.png"
+  },
+  {
+   "startTime": 2673,
+   "title": "格子制是构造复杂世界的基础",
+   "img": "https://image.gcores.com/c7429bfb1ff2ae2643e22d4d96d91124-1000-563.webp"
+  },
+  {
+   "startTime": 2786,
+   "title": "非模态（ Non-modal）"
+  },
+  {
+   "startTime": 2804,
+   "title": "神秘古域（Ancient Domains of Mystery）",
+   "img": "https://image.gcores.com/5f9d3958a1cffcb5a25d01980ed0f998-460-215.png"
+  },
+  {
+   "startTime": 2889,
+   "title": "魔兽世界的攀岩日常",
+   "img": "https://image.gcores.com/6240ba00f7d74846b853ac171063673a-1424-874.png"
+  },
+  {
+   "startTime": 2931,
+   "title": "非模态的特点"
+  },
+  {
+   "startTime": 3001,
+   "title": "沙盒游戏",
+   "img": "https://image.gcores.com/17b173dc55e7519a3020f5c12a5ca0b9-3456-2160.jpg"
+  },
+  {
+   "startTime": 3081,
+   "title": "MUD",
+   "img": "https://image.gcores.com/1913c7dd49dc9e37faa6a06f952fc1be-536-476.webp"
+  },
+  {
+   "startTime": 3218,
+   "title": "风来的西林的商店",
+   "img": "https://image.gcores.com/4c6ce278f8d0f8e4eb8b25bbbb6cd05a-1166-665.png"
+  },
+  {
+   "startTime": 3295,
+   "title": "沙盒逻辑（底层规则互动）"
+  },
+  {
+   "startTime": 3365,
+   "title": "安格班德（Angband）",
+   "img": "https://image.gcores.com/64164c6233cb10cfbf84d83e424d74e9-480-224.png"
+  },
+  {
+   "startTime": 3477,
+   "title": "《旷野之息》的早期验证原型",
+   "img": "https://image.gcores.com/4bc6ae02a150b3f84e0eb45c074b7288-550-309.png"
+  },
+  {
+   "startTime": 3518,
+   "title": "《神鬼寓言》",
+   "img": "https://image.gcores.com/3cedd7ef0d8ad638985f1296d9b1bba4-1028-563.png"
+  },
+  {
+   "startTime": 3557,
+   "title": "复杂度（Complexity）"
+  },
+  {
+   "startTime": 3688,
+   "title": "鸡蛇（cockatrice）",
+   "img": "https://image.gcores.com/e62e9d01f1e63a9e31411bc965a4805c-320-549.png"
+  },
+  {
+   "startTime": 3792,
+   "title": "元素交互"
+  },
+  {
+   "startTime": 3858,
+   "title": "Band系和Hack系"
+  },
+  {
+   "startTime": 3883,
+   "title": "资源管理（Resource management）"
+  },
+  {
+   "startTime": 3937,
+   "title": "治好仓鼠病"
+  },
+  {
+   "startTime": 3983,
+   "title": "饥饿度系统",
+   "img": "https://image.gcores.com/78d78cbc267d363c84f9cbef69893ce4-640-402.png"
+  },
+  {
+   "startTime": 4206,
+   "title": "佐特时钟（Zot Clock）",
+   "img": "https://image.gcores.com/6ea4316a59fd64d9ce77bf2367e016f6-1132-700.png"
+  },
+  {
+   "startTime": 4331,
+   "title": "砍杀（Hack'n'slash）"
+  },
+  {
+   "startTime": 4416,
+   "title": "声望表机制",
+   "img": "https://image.gcores.com/0b2e77da4c99b1fe0ab558748d43187a-1920-1080.png"
+  },
+  {
+   "startTime": 4474,
+   "title": "漫游者模式",
+   "img": "https://image.gcores.com/9558b53aba468170cd48f74d963e62ec-616-235.png"
+  },
+  {
+   "startTime": 4519,
+   "title": "探索与发现 （Exploration and discovery）"
+  },
+  {
+   "startTime": 4544,
+   "title": "鉴定模式"
+  },
+  {
+   "startTime": 4635,
+   "title": "价格鉴定把\"经济行为\"变成鉴定手段"
+  },
+  {
+   "startTime": 4682,
+   "title": "Spoiler（剧透文档或源码档）"
+  },
+  {
+   "startTime": 4813,
+   "title": "柏林诠释不是刚性约束"
+  },
+  {
+   "startTime": 4855,
+   "title": "单角色（Single player character）"
+  },
+  {
+   "startTime": 4907,
+   "title": "ToMENet",
+   "img": "https://image.gcores.com/9dc192bf1dc71e3ae51ca18137fb9119-1450-670.png",
+   "url": "https://www.gcores.com/articles/183757"
+  },
+  {
+   "startTime": 4953,
+   "title": "Space Station 13（SS13）",
+   "img": "https://image.gcores.com/07f5be669c51662839791c09f612d62b-1920-1080.png"
+  },
+  {
+   "startTime": 4984,
+   "title": "怪物与人同规则（Monsters are similar to players）"
+  },
+  {
+   "startTime": 5042,
+   "title": "怪物也能处决玩家",
+   "img": "https://image.gcores.com/e5fca013a6a89fc5ed2113e65c20a87b-961-844.png"
+  },
+  {
+   "startTime": 5162,
+   "title": "红灵入侵",
+   "img": "https://image.gcores.com/971d2d3a9e5fc9c254d425380c69a1bc-1728-1080.png"
+  },
+  {
+   "startTime": 5277,
+   "title": "怪物可能会击杀别的怪物",
+   "img": "https://image.gcores.com/e1a868dfb9042e5f59600eea2c37e258-1200-674.png"
+  },
+  {
+   "startTime": 5328,
+   "title": "《杀戮尖塔》mod",
+   "img": "https://image.gcores.com/56fe3aa535a35fd594b1bc0fad7e49cc-1600-960.png"
+  },
+  {
+   "startTime": 5344,
+   "title": "战术挑战 （Tactical challenge）"
+  },
+  {
+   "startTime": 5409,
+   "title": "像解谜一样对待战斗"
+  },
+  {
+   "startTime": 5530,
+   "title": "战术roguelike",
+   "img": "https://image.gcores.com/5bd8870d8f6f4e638d6340fbf76f9f35-810-454.png"
+  },
+  {
+   "startTime": 5553,
+   "title": "《RiftWizard》",
+   "img": "https://image.gcores.com/6ff7ea83f414f5d3849a3ca22653e5d6-376-174.png"
+  },
+  {
+   "startTime": 5592,
+   "title": "《Brogue》",
+   "img": "https://image.gcores.com/2bd5c9883defa76e174af6ffd6fc1c11-628-289.png"
+  },
+  {
+   "startTime": 5605,
+   "title": "《Into The Breach（陷阵之志）》",
+   "img": "https://image.gcores.com/9df59b5d0f3e61a4929de04f7116b8f4-807-452.png"
+  },
+  {
+   "startTime": 5626,
+   "title": "ASCII 显示（ASCII display）",
+   "img": "https://image.gcores.com/074ee5f69866246ff4d1a6cc759f4c2c-1313-636.png"
+  },
+  {
+   "startTime": 5717,
+   "title": "《矮人要塞》画面",
+   "img": "https://image.gcores.com/fe5b1197fcec85be96f0cc6706550ea8-805-458.png"
+  },
+  {
+   "startTime": 5774,
+   "title": "地牢（Dungeons）"
+  },
+  {
+   "startTime": 5809,
+   "title": "地牢爬行",
+   "img": "https://image.gcores.com/a7bb01202852c3dedb242a1c46a9f9fe-640-360.jpg"
+  },
+  {
+   "startTime": 5903,
+   "title": "数值（Numbers）"
+  },
+  {
+   "startTime": 5921,
+   "title": "阻碍玩家享受roguelike的核心问题"
+  },
+  {
+   "startTime": 6005,
+   "title": "抽象数值转化为感性体验",
+   "img": "https://image.gcores.com/a755733f129358e7d542a179441d0107-600-450.webp"
+  },
+  {
+   "startTime": 6069,
+   "title": "人的要素"
+  },
+  {
+   "startTime": 6215,
+   "title": "《Rogue》",
+   "img": "https://image.gcores.com/0e345fd16fa056f2ab809704975b0c52-649-400.png"
+  },
+  {
+   "startTime": 6315,
+   "title": "《洞窟探险》（Spelunky）",
+   "img": "https://image.gcores.com/db0b9a58086e1672de560a6ffd8afc3e-640-480.png"
+  },
+  {
+   "startTime": 6379,
+   "title": "柏林诠释释放了生命力"
+  },
+  {
+   "startTime": 6543,
+   "title": "文曲星",
+   "img": "https://image.gcores.com/9de6a58e41e967957714bb7865f3e98a-750-508.png"
+  },
+  {
+   "startTime": 6578,
+   "title": "对声光电的追求"
+  },
+  {
+   "startTime": 6666,
+   "title": "育碧全责",
+   "img": "https://image.gcores.com/8d90056a810523e9da4d39bc3fa7d930-536-492.webp"
+  },
+  {
+   "startTime": 6683,
+   "title": "《魔戒》",
+   "img": "https://image.gcores.com/2fd15ae4a360e18f7b7161646ea81ed1-2640-2640.jpg"
+  },
+  {
+   "startTime": 6706,
+   "title": "《安珀志》",
+   "img": "https://image.gcores.com/6598dead7e614af834ecf427b2371304-536-628.webp"
+  },
+  {
+   "startTime": 6736,
+   "title": "点赞收藏转发"
+  }
+ ]
+}

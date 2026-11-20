@@ -1,0 +1,49 @@
+name: Update Gcores RSS
+
+on:
+  schedule:
+    # GitHub 的 cron 使用 UTC；整点触发时中国时间（UTC+8）同样是整点
+    - cron: "0 * * * *"
+  workflow_dispatch:
+
+# 同一时间只跑一个，避免两个任务同时 push 冲突
+concurrency:
+  group: gcores-rss
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Generate RSS
+        env:
+          GITHUB_REPOSITORY: ${{ github.repository }}
+          # chapters 目录要通过公网可访问的地址暴露给播客客户端
+          CHAPTERS_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main/chapters
+          FEED_BASE_URL: https://raw.githubusercontent.com/${{ github.repository }}/main
+        run: python3 gcores_rss.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "没有变化，跳过提交"
+            exit 0
+          fi
+          git commit -m "chore: refresh rss $(TZ=Asia/Shanghai date +'%Y-%m-%d %H:%M')"
+          git push

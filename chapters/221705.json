@@ -1,0 +1,428 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/5f482fb9102e4d81cf80c7426c58e7ee-600-600.jpg"
+  },
+  {
+   "startTime": 37,
+   "title": "Gadio News"
+  },
+  {
+   "startTime": 80,
+   "title": "影之刃零联名",
+   "img": "https://image.gcores.com/97bfb8f81d5f23a78dcdeaecf8321ae5-2500-1563.webp",
+   "url": "https://www.gcores.com/articles/221572"
+  },
+  {
+   "startTime": 157,
+   "title": "毛衣开衫",
+   "img": "https://image.gcores.com/46f9eb5eabeb7a88deee9a17976c4cbb-3750-5000.webp",
+   "url": "https://www.gcores.com/articles/221572"
+  },
+  {
+   "startTime": 167,
+   "title": "NuPhy Kick75联名",
+   "img": "https://image.gcores.com/7abc27d1dd5bcc438a231c28a566b5ac-1600-900.webp",
+   "url": "https://www.gcores.com/articles/221808"
+  },
+  {
+   "startTime": 318,
+   "title": "《影之刃零》销量",
+   "img": "https://image.gcores.com/8c0f7fca5444e3d817ef856bd449d2da-690-920.webp",
+   "url": "https://www.gcores.com/articles/221799"
+  },
+  {
+   "startTime": 361,
+   "title": "在线峰值",
+   "img": "https://image.gcores.com/90c04329638cbf6883a207fe712220e9-875-426.webp",
+   "url": "https://www.gcores.com/articles/221788"
+  },
+  {
+   "startTime": 562,
+   "title": "老实近战很枯燥吧",
+   "img": "https://image.gcores.com/ddc52e673928da19dcfeaa3e82b8b329-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1Uxxs6QES6"
+  },
+  {
+   "startTime": 597,
+   "title": "《GTA6》",
+   "img": "https://image.gcores.com/c133ae9ea090cb038bd7f7d6074e375d-875-492.webp",
+   "url": "https://www.gcores.com/articles/221897"
+  },
+  {
+   "startTime": 663,
+   "title": "《GTA6》预购量",
+   "img": "https://image.gcores.com/6071603b647d57740b82d48ad647023d-550-299.jpg"
+  },
+  {
+   "startTime": 766,
+   "title": "《尼尔》趣闻",
+   "img": "https://image.gcores.com/f193a8d261909d93e392aa880b4caee3-1920-1080.jpg",
+   "url": "https://www.gcores.com/articles/221995"
+  },
+  {
+   "startTime": 861,
+   "title": "性能表现",
+   "img": "https://image.gcores.com/d04421fd5c47c44657551979d3c3228e-550-309.webp"
+  },
+  {
+   "startTime": 959,
+   "title": "媒体预测",
+   "img": "https://image.gcores.com/d7f66d471084df11636ec3692f39ce73-550-310.webp"
+  },
+  {
+   "startTime": 1031,
+   "title": "首发帧数",
+   "img": "https://image.gcores.com/4491b6b38332b5a5ce07075879115d21-510-280.jpg"
+  },
+  {
+   "startTime": 1062,
+   "title": "由奢入俭难",
+   "img": "https://image.gcores.com/4aed1551958bad263f833c3d4c3a4a06-960-540.webp"
+  },
+  {
+   "startTime": 1186,
+   "title": "《GTA 6》PC版",
+   "img": "https://image.gcores.com/3743f0390032e06cbbc439a5357d7289-875-493.webp"
+  },
+  {
+   "startTime": 1202,
+   "title": "PC平台销量",
+   "img": "https://image.gcores.com/01d2e4b1a2005122c8ffbda3fc560591-1080-1544.jpg"
+  },
+  {
+   "startTime": 1298,
+   "title": "显卡售价",
+   "img": "https://image.gcores.com/35f7ed43393fbaec741b6ad44ff795cf-1000-562.webp"
+  },
+  {
+   "startTime": 1452,
+   "title": "玩家情愿",
+   "img": "https://image.gcores.com/31cdbbb3647fd77df88286e530748b42-1365-767.webp"
+  },
+  {
+   "startTime": 1550,
+   "title": "IP复活",
+   "img": "https://image.gcores.com/e35c393c8eaa1b4b5a300d0b7952f645-287-348.png"
+  },
+  {
+   "startTime": 1586,
+   "title": "政客谴责",
+   "img": "https://image.gcores.com/481ae7669cb8f52e35069fc09b67821a-739-415.jpg"
+  },
+  {
+   "startTime": 1654,
+   "title": "加拿大玩家情愿",
+   "img": "https://image.gcores.com/446ef75279216369ac481f3bc1a1af48-678-452.jpg"
+  },
+  {
+   "startTime": 1785,
+   "title": "EA马德里",
+   "img": "https://image.gcores.com/fcafcd1314d663894a0ee62c259474c4-550-406.png"
+  },
+  {
+   "startTime": 1831,
+   "title": "《质量效应：宇宙》",
+   "img": "https://image.gcores.com/e370d7357b59e4acd6f80ce5d4e26d14-1280-720.webp"
+  },
+  {
+   "startTime": 1902,
+   "title": "BioWare",
+   "img": "https://image.gcores.com/5b05be0f62b2a7e0b42b145b38fef45e-2355-2131.jpg"
+  },
+  {
+   "startTime": 1993,
+   "title": "Arkane",
+   "img": "https://image.gcores.com/107fb95da1bbbe4a874b71dcccdbb5e6-550-309.jpg"
+  },
+  {
+   "startTime": 2088,
+   "title": "工会要求",
+   "img": "https://image.gcores.com/3e4a7d21fcd0ddde5a7c6d349a3419c6-579-339.png"
+  },
+  {
+   "startTime": 2123,
+   "title": "公开竞购",
+   "img": "https://image.gcores.com/0e252313db7ac9c1875186d5d48d3f73-550-281.jpg"
+  },
+  {
+   "startTime": 2190,
+   "title": "法国法律",
+   "img": "https://image.gcores.com/bcfcffe2fed259b036ff757e8a832078-299-168.jpg"
+  },
+  {
+   "startTime": 2265,
+   "title": "记者爆料",
+   "img": "https://image.gcores.com/ce3d34d554476c0b49d89c5362f9ce60-1024-576.webp"
+  },
+  {
+   "startTime": 2290,
+   "title": "工会担忧",
+   "img": "https://image.gcores.com/85b75148a6c1ee9d718d84fff994e3fb-1200-675.webp"
+  },
+  {
+   "startTime": 2385,
+   "title": "开发进度",
+   "img": "https://image.gcores.com/5bd6ac9cd1124b0c81e1084ed1753a89-550-368.jpg"
+  },
+  {
+   "startTime": 2481,
+   "title": "《魔兽世界》",
+   "img": "https://image.gcores.com/e6505a74dd75f992002ab03761c0c8d6-600-600.webp"
+  },
+  {
+   "startTime": 2580,
+   "title": "全新分支",
+   "img": "https://image.gcores.com/32e6873bb634ef093700e218cf694b16-1920-1080.png"
+  },
+  {
+   "startTime": 2689,
+   "title": "画面表现",
+   "img": "https://image.gcores.com/5dd1eb217383371094019a0d91b607f0-1080-581.webp"
+  },
+  {
+   "startTime": 2755,
+   "title": "人山人海",
+   "img": "https://image.gcores.com/163c9eca73b5e3714ecaffee4ad470b2-550-309.webp"
+  },
+  {
+   "startTime": 2819,
+   "title": "规则集",
+   "img": "https://image.gcores.com/de34683ce794cfcc2aee8505aeef52e3-961-451.webp",
+   "url": "https://wow.blizzard.cn/news/24302070/"
+  },
+  {
+   "startTime": 2930,
+   "title": "新人",
+   "img": "https://image.gcores.com/d1484969e9cda553061749980d409b75-2400-1350.png"
+  },
+  {
+   "startTime": 2962,
+   "title": "怀旧服",
+   "img": "https://image.gcores.com/910d10469f5e7928cb4586788d5b0279-1080-950.webp"
+  },
+  {
+   "startTime": 2982,
+   "title": "更新方式",
+   "img": "https://image.gcores.com/cd0c68f26c0312412aed49cae69565fd-960-538.webp"
+  },
+  {
+   "startTime": 3054,
+   "title": "重制版",
+   "img": "https://image.gcores.com/55a9cd3cf1cf404db58a1e6c0200659b-920-515.webp"
+  },
+  {
+   "startTime": 3075,
+   "title": "《魔兽世界2》",
+   "img": "https://image.gcores.com/a2f3f645f25427796a3985b50453d9a0-617-324.jpg"
+  },
+  {
+   "startTime": 3183,
+   "title": "新种族",
+   "img": "https://image.gcores.com/7a7ba4bf480ab827ec88aaae796a86ea-1920-1080.webp"
+  },
+  {
+   "startTime": 3261,
+   "title": "潘达利亚",
+   "img": "https://image.gcores.com/3bc79178f2c58c0e5faf50d0e16076b7-1920-1080.webp"
+  },
+  {
+   "startTime": 3359,
+   "title": "开始游戏",
+   "img": "https://image.gcores.com/c7f87d4436032281a45df778fcf1b45c-2600-1463.webp"
+  },
+  {
+   "startTime": 3388,
+   "title": "云游戏",
+   "img": "https://image.gcores.com/baed9fd56bd31a2f79e15229fdded483-474-314.webp"
+  },
+  {
+   "startTime": 3443,
+   "title": "任天堂财报",
+   "img": "https://image.gcores.com/2e8673d14973b43993c2bb07512ffcf6-720-405.webp",
+   "url": "https://www.gcores.com/articles/221988"
+  },
+  {
+   "startTime": 3532,
+   "title": "超级IP",
+   "img": "https://image.gcores.com/ea2c71c37a63e5a4c5bed896c9e08485-566-353.jpg"
+  },
+  {
+   "startTime": 3614,
+   "title": "利润增长",
+   "img": "https://image.gcores.com/aa12149fcd42a1be5c9f49707dc8fc28-875-584.webp",
+   "url": "https://www.gcores.com/articles/221988"
+  },
+  {
+   "startTime": 3721,
+   "title": "《星际火狐》",
+   "img": "https://image.gcores.com/88503cfca5a30d85977574828ce8040c-518-690.jpg"
+  },
+  {
+   "startTime": 3846,
+   "title": "《时之笛》",
+   "img": "https://image.gcores.com/ccb2367d120d6fd9b9f65d0b173b0945-875-256.webp",
+   "url": "https://www.gcores.com/articles/221950"
+  },
+  {
+   "startTime": 3883,
+   "title": "Steam审核",
+   "img": "https://image.gcores.com/60dd909971644a4968d8ab3462d5803a-1080-607.jpg"
+  },
+  {
+   "startTime": 3956,
+   "title": "Steam新规",
+   "img": "https://image.gcores.com/4cf990eea82b8ac0efff61689a0f02c6-640-480.jpg"
+  },
+  {
+   "startTime": 4021,
+   "title": "AI游戏",
+   "img": "https://image.gcores.com/452dcd268809f41275013d92e7a523de-1080-617.jpg"
+  },
+  {
+   "startTime": 4114,
+   "title": "AI反噬",
+   "img": "https://image.gcores.com/1f79dfd3c29d2e5e5396f6ef1c0e03ce-1080-602.jpg"
+  },
+  {
+   "startTime": 4231,
+   "title": "滥竽充数",
+   "img": "https://image.gcores.com/206bfff505a1109c20911c789aa813de-1000-667.jpg"
+  },
+  {
+   "startTime": 4308,
+   "title": "审核难题",
+   "img": "https://image.gcores.com/f366fdde2dad204e9f5d8eadb5ce31e8-1920-1080.webp"
+  },
+  {
+   "startTime": 4415,
+   "title": "AI技术",
+   "img": "https://image.gcores.com/47878390ce28386e4a92ec2744e5d739-1024-572.webp"
+  },
+  {
+   "startTime": 4527,
+   "title": "文化堕距",
+   "img": "https://image.gcores.com/21033794c99365c4664663873e684ef7-1440-1152.png"
+  },
+  {
+   "startTime": 4585,
+   "title": "PS6",
+   "img": "https://image.gcores.com/d611e4bb88d97c2e77e983e584aa3ad2-1600-900.webp",
+   "url": "https://www.gcores.com/articles/221997"
+  },
+  {
+   "startTime": 4703,
+   "title": "阶段收尾",
+   "img": "https://image.gcores.com/326991f72d6fb95957a0b544a347d976-421-475.jpg"
+  },
+  {
+   "startTime": 4817,
+   "title": "《生化危机》DLC",
+   "img": "https://image.gcores.com/2ec5a2f74697b0d44e5d5a633728dbe8-550-310.jpg"
+  },
+  {
+   "startTime": 4923,
+   "title": "《生化危机10》",
+   "img": "https://image.gcores.com/de729f622b8181e57e38302b7a90f199-550-327.png"
+  },
+  {
+   "startTime": 5035,
+   "title": "卡普空",
+   "img": "https://image.gcores.com/2788042377b5e1695fbd46ac4e6e8654-375-533.jpg"
+  },
+  {
+   "startTime": 5130,
+   "title": "《最终幻想》",
+   "img": "https://image.gcores.com/164130929791454b71a2dcdf29aaca2e-265-374.png"
+  },
+  {
+   "startTime": 5185,
+   "title": "西方游戏产业",
+   "img": "https://image.gcores.com/6398f968769d256ea577c5233d7f593f-664-359.png"
+  },
+  {
+   "startTime": 5200,
+   "title": "日本游戏产业",
+   "img": "https://image.gcores.com/a32513f63be67e5d45ddc7949c3f826d-1280-720.webp"
+  },
+  {
+   "startTime": 5403,
+   "title": "市场体量",
+   "img": "https://image.gcores.com/aefad014e4bb905edc1ba9a90d101b11-740-740.jpg"
+  },
+  {
+   "startTime": 5545,
+   "title": "进入中国市场",
+   "img": "https://image.gcores.com/fc453780df0ea042488c57fd51636fd1-617-324.jpg"
+  },
+  {
+   "startTime": 5620,
+   "title": "《维罗妮卡》",
+   "img": "https://image.gcores.com/1965ec02244fbb1fe5c537affc40007b-1080-607.jpg"
+  },
+  {
+   "startTime": 5665,
+   "title": "TGA2026",
+   "img": "https://image.gcores.com/ca9959482d727a8d864f0fd97ced1e0f-596-335.jpg"
+  },
+  {
+   "startTime": 5736,
+   "title": "TGA年度游戏",
+   "img": "https://image.gcores.com/df7ae023f44ab0b43619ad77c98ff295-447-447.jpg"
+  },
+  {
+   "startTime": 5875,
+   "title": "《上古卷轴6》",
+   "img": "https://image.gcores.com/59f40211abdb17cad35cc26907cc00c2-1000-563.webp",
+   "url": "https://www.gcores.com/articles/221895"
+  },
+  {
+   "startTime": 5966,
+   "title": "《索尼克赛车》",
+   "img": "https://image.gcores.com/8ca70cd6d8cfe76111fc6357421cd636-1399-787.webp",
+   "url": "https://www.gcores.com/articles/221920"
+  },
+  {
+   "startTime": 5986,
+   "title": "联动内容",
+   "img": "https://image.gcores.com/21a497f60afc1494192ce31c80c4c5be-1600-900.webp",
+   "url": "https://www.gcores.com/articles/220862"
+  },
+  {
+   "startTime": 6124,
+   "title": "决斗模式",
+   "img": "https://image.gcores.com/c133cf18ddd0278ae247644f5ebbc64f-1080-607.jpg",
+   "url": "https://www.gcores.com/articles/220862"
+  },
+  {
+   "startTime": 6162,
+   "title": "调整售价",
+   "img": "https://image.gcores.com/4a9e135fc4f8e01218699bf5cb1d8f27-1080-607.jpg"
+  },
+  {
+   "startTime": 6180,
+   "title": "名越稔洋工作室",
+   "img": "https://image.gcores.com/8f146a23aa0561445caa7c9315fe7f27-855-464.webp",
+   "url": "https://www.gcores.com/articles/221810"
+  },
+  {
+   "startTime": 6206,
+   "title": "尼基塔新作",
+   "img": "https://image.gcores.com/bad0bd2325db85eabe49feb636f2b8e2-768-432.webp",
+   "url": "https://www.gcores.com/articles/221973"
+  },
+  {
+   "startTime": 6244,
+   "title": "《龙信2》联动",
+   "img": "https://image.gcores.com/6eb316c8859641636139d65341d73d7b-550-310.jpg"
+  },
+  {
+   "startTime": 6402,
+   "title": "下周再见",
+   "img": "https://image.gcores.com/e9e8656a8b4b151b05015f2ecbd95597-600-600.jpg"
+  }
+ ]
+}

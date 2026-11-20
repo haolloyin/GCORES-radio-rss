@@ -1,0 +1,379 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/c2ae217c0ad668e1617e01d9ff35be48-640-640.jpg",
+   "url": "https://music.163.com/#/song?id=862751827"
+  },
+  {
+   "startTime": 52,
+   "title": "Gadio News"
+  },
+  {
+   "startTime": 91,
+   "title": "《小黑鹂》",
+   "img": "https://image.gcores.com/55c9df47deb90e6b6d74f48814b7aea1-1600-900.webp",
+   "url": "https://www.gcores.com/articles/220323"
+  },
+  {
+   "startTime": 119,
+   "title": "游戏背景",
+   "img": "https://image.gcores.com/e0df32dd8aa78dcf66f78494fe8ae7b9-875-492.webp",
+   "url": "https://www.gcores.com/articles/220323"
+  },
+  {
+   "startTime": 154,
+   "title": "游戏玩法",
+   "img": "https://image.gcores.com/eb5121f2668c5d86c3637f927fe314f7-875-492.webp",
+   "url": "https://www.gcores.com/articles/220323"
+  },
+  {
+   "startTime": 174,
+   "title": "太阳朋克",
+   "img": "https://image.gcores.com/2d8303058ba8ab51892c859732eb86c1-547-365.jpg"
+  },
+  {
+   "startTime": 205,
+   "title": "现已发售",
+   "img": "https://image.gcores.com/8d8bbdd0ba3a9f21087d97661e69bd51-875-492.webp",
+   "url": "https://www.gcores.com/articles/220323"
+  },
+  {
+   "startTime": 286,
+   "title": "核聚变2026",
+   "img": "https://image.gcores.com/aef3b2e126537303ff3ec9b20817a864-2500-1406.webp",
+   "url": "https://www.gcores.com/articles/220086"
+  },
+  {
+   "startTime": 328,
+   "title": "GGG",
+   "img": "https://image.gcores.com/3c458b93f676887b632313cc7ccb7103-1875-879.webp",
+   "url": "https://www.gcores.com/articles/220086#nopop_2pca"
+  },
+  {
+   "startTime": 379,
+   "title": "《核吃海塞》",
+   "img": "https://image.gcores.com/956240578e4295a370196aec6d6b78ed-1600-900.jpg",
+   "url": "https://www.bilibili.com/video/BV1adaA65EHj"
+  },
+  {
+   "startTime": 509,
+   "title": "Bungie声明",
+   "img": "https://image.gcores.com/02e1559ba6f9b61b09970cdf3598c14b-1280-713.webp",
+   "url": "https://www.gcores.com/articles/220059"
+  },
+  {
+   "startTime": 585,
+   "title": "封存",
+   "img": "https://image.gcores.com/a19c252f2e888448048fc3d692d79f0a-875-366.webp"
+  },
+  {
+   "startTime": 684,
+   "title": "请愿活动",
+   "img": "https://image.gcores.com/bca601092dc34eb54c839cd5f81e6fce-1977-991.webp"
+  },
+  {
+   "startTime": 740,
+   "title": "玩家反响",
+   "img": "https://image.gcores.com/8b2b75eaa16a8c393fb0f8794af064fe-1920-1080.webp"
+  },
+  {
+   "startTime": 823,
+   "title": "《马拉松》",
+   "img": "https://image.gcores.com/711b1454f06bedca4309856d7c20e0ae-875-492.webp",
+   "url": "https://www.gcores.com/articles/220059"
+  },
+  {
+   "startTime": 917,
+   "title": "开发者观点",
+   "img": "https://image.gcores.com/007db683e8a0bdbe9b7027698fe7b267-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1xqau6DEqV"
+  },
+  {
+   "startTime": 1038,
+   "title": "微软裁员",
+   "img": "https://image.gcores.com/5883ab820684b9ef990010396f3cfe18-766-400.webp",
+   "url": "https://www.gcores.com/articles/220294"
+  },
+  {
+   "startTime": 1079,
+   "title": "工作室重组",
+   "img": "https://image.gcores.com/0eaeee9a30a333e70ab48a52fa83fa9b-597-335.webp",
+   "url": "https://www.gcores.com/articles/220082"
+  },
+  {
+   "startTime": 1138,
+   "title": "工作室剥离",
+   "img": "https://image.gcores.com/d37dd6e3a0c6e24e8ec103352eb7fe7a-597-335.webp",
+   "url": "https://www.gcores.com/articles/220082"
+  },
+  {
+   "startTime": 1234,
+   "title": "玩家反响",
+   "img": "https://image.gcores.com/581515c680db8ed6c262f716083f2c92-690-388.webp"
+  },
+  {
+   "startTime": 1311,
+   "title": "改组",
+   "img": "https://image.gcores.com/0fc246813a4420c5a866217893ec2e04-320-320.png"
+  },
+  {
+   "startTime": 1420,
+   "title": "Xbox游戏",
+   "img": "https://image.gcores.com/a63d3ff2acd5fa2b657d4e6b32701127-739-415.jpg"
+  },
+  {
+   "startTime": 1507,
+   "title": "征战PC",
+   "img": "https://image.gcores.com/3c38602871747d7b113ef0b7bf02f34a-596-335.jpg"
+  },
+  {
+   "startTime": 1547,
+   "title": "只能独占",
+   "img": "https://image.gcores.com/19a58bc9bbecb5474a4046b4921cf9cb-1080-606.webp"
+  },
+  {
+   "startTime": 1643,
+   "title": "内容驱动",
+   "img": "https://image.gcores.com/9a4b9441a03330850b2869bced7eac62-690-388.jpg"
+  },
+  {
+   "startTime": 1679,
+   "title": "《火纹 万紫千红》",
+   "img": "https://image.gcores.com/5dcfa63f04545a793feaa2751155fb11-549-308.jpg"
+  },
+  {
+   "startTime": 1794,
+   "title": "角色塑造",
+   "img": "https://image.gcores.com/71baf1d1e5696efc9672986179e69061-550-308.jpg"
+  },
+  {
+   "startTime": 1881,
+   "title": "《战争机器》裁员",
+   "img": "https://image.gcores.com/29859a95c4d4bcdb34295a2c06657077-1920-1080.webp"
+  },
+  {
+   "startTime": 1971,
+   "title": "12人PVE模式",
+   "img": "https://image.gcores.com/afc4d0bf9a9d8679458a8eaa27d9b336-554-554.jpg"
+  },
+  {
+   "startTime": 2079,
+   "title": "DLSS5",
+   "img": "https://image.gcores.com/9f47a6db9dde08b6faf14d021b25daba-830-739.jpg"
+  },
+  {
+   "startTime": 2120,
+   "title": "《光环》",
+   "img": "https://image.gcores.com/88714b3f76582eba7112c0c7ff627934-739-415.jpg"
+  },
+  {
+   "startTime": 2290,
+   "title": "Double Fine",
+   "img": "https://image.gcores.com/625197166979467737a18d859d57dd97-569-388.jpg"
+  },
+  {
+   "startTime": 2374,
+   "title": "犹在眼前",
+   "img": "https://image.gcores.com/434a4d1b47fe792c74b900b848bb8186-739-415.jpg"
+  },
+  {
+   "startTime": 2408,
+   "title": "3i计划发布会",
+   "img": "https://image.gcores.com/67b7e775450b4f630bce082a22c7f0b9-739-415.jpg"
+  },
+  {
+   "startTime": 2572,
+   "title": "BARB破产",
+   "img": "https://image.gcores.com/7e236125c6738d3541ded43a68a1d636-660-372.jpg"
+  },
+  {
+   "startTime": 2760,
+   "title": "TGS 2026",
+   "img": "https://image.gcores.com/cf4dd21cc5ef4769f3348ff2a228f524-1268-703.webp",
+   "url": "https://www.gcores.com/articles/220003"
+  },
+  {
+   "startTime": 2829,
+   "title": "TGS 2027",
+   "img": "https://image.gcores.com/f719a6931428ad45e6e26ace83a1474f-640-480.jpg"
+  },
+  {
+   "startTime": 3001,
+   "title": "日本游戏大奖",
+   "img": "https://image.gcores.com/4c0aa45273fb8c3e361735fa910c9003-739-415.jpg"
+  },
+  {
+   "startTime": 3057,
+   "title": "《文字游戏》",
+   "img": "https://image.gcores.com/aeb25ca8329b6c581088e2571a974092-765-401.jpg"
+  },
+  {
+   "startTime": 3083,
+   "title": "游戏设计师大奖",
+   "img": "https://image.gcores.com/5ad678c68f72179f724ff93ffaa60032-739-415.jpg"
+  },
+  {
+   "startTime": 3186,
+   "title": "圈子大哥",
+   "img": "https://image.gcores.com/aca64ae129ace62c814cc8886bb25a05-1080-607.jpg"
+  },
+  {
+   "startTime": 3285,
+   "title": "后继无人"
+  },
+  {
+   "startTime": 3370,
+   "title": "门徒",
+   "img": "https://image.gcores.com/f06e3a316fc9af7e2d3f940eb04d52c5-447-447.jpg"
+  },
+  {
+   "startTime": 3430,
+   "title": "秋季游戏",
+   "img": "https://image.gcores.com/89d0fdb7d0866553126a0ea5624842f6-856-481.webp"
+  },
+  {
+   "startTime": 3475,
+   "title": "《控制：共振》",
+   "img": "https://image.gcores.com/5471a1a96ce71f4d4dc23eade0402654-739-415.jpg"
+  },
+  {
+   "startTime": 3586,
+   "title": "敌人",
+   "img": "https://image.gcores.com/c47c02779c8d76fa81529d744d076471-739-415.jpg"
+  },
+  {
+   "startTime": 3654,
+   "title": "BOSS战"
+  },
+  {
+   "startTime": 3749,
+   "title": "大场面",
+   "img": "https://image.gcores.com/2784cf005c9a5a890f99031a66371f21-596-335.jpg"
+  },
+  {
+   "startTime": 3817,
+   "title": "游戏设计",
+   "img": "https://image.gcores.com/eef47cd31ef7d888dc48cabf02324700-739-415.jpg"
+  },
+  {
+   "startTime": 3873,
+   "title": "流程",
+   "img": "https://image.gcores.com/45f50f2863548e2f641a9711d1bb87d0-740-414.jpg"
+  },
+  {
+   "startTime": 3947,
+   "title": "BOSS类型",
+   "img": "https://image.gcores.com/1fc5411377d447ba1e993e46250af51d-796-492.png"
+  },
+  {
+   "startTime": 4056,
+   "title": "阿修罗之怒",
+   "img": "https://image.gcores.com/df673bbaef4bb86d487e2d87d05b2623-447-447.jpg"
+  },
+  {
+   "startTime": 4094,
+   "title": "大体型BOSS",
+   "img": "https://image.gcores.com/b89f2e2f30939760b0be74a17bf0fc10-648-340.png"
+  },
+  {
+   "startTime": 4362,
+   "title": "《巫师3》重制",
+   "img": "https://image.gcores.com/ff73fac261f422e8eed199f76cd8364e-1600-900.webp",
+   "url": "https://www.gcores.com/articles/220366"
+  },
+  {
+   "startTime": 4481,
+   "title": "光影",
+   "img": "https://image.gcores.com/c62bf7701372a241e6075266b10f19a3-2560-1440.png"
+  },
+  {
+   "startTime": 4591,
+   "title": "免费升级",
+   "img": "https://image.gcores.com/488cbcf8e84eb4520692b7bbee19b966-875-467.webp"
+  },
+  {
+   "startTime": 4705,
+   "title": "《真·三国无双2》",
+   "img": "https://image.gcores.com/c720bb86c85b4392296f6237aa4e836c-1000-563.webp"
+  },
+  {
+   "startTime": 4824,
+   "title": "现代化重制",
+   "img": "https://image.gcores.com/75939003e0d105636084e8ff91f959cf-1920-1080.jpg"
+  },
+  {
+   "startTime": 4859,
+   "title": "《恶魔城》新作",
+   "img": "https://image.gcores.com/0e40695fb801a6f08e7e8a02d6aa2dae-738-414.jpg"
+  },
+  {
+   "startTime": 4901,
+   "title": "《皇牌空战8》",
+   "img": "https://image.gcores.com/9596fec8ccc8a5ebbe35c2a90797af53-1906-1080.webp",
+   "url": "https://www.gcores.com/articles/220274"
+  },
+  {
+   "startTime": 4934,
+   "title": "《GTA6》",
+   "img": "https://image.gcores.com/169be1f2a8ad31d3e54fb8ccce84690c-554-554.webp",
+   "url": "https://www.gcores.com/articles/220383"
+  },
+  {
+   "startTime": 5048,
+   "title": "金摇杆",
+   "img": "https://image.gcores.com/26285acbf803491f6630bdfbf3a31979-739-415.webp",
+   "url": "https://www.gcores.com/articles/220296"
+  },
+  {
+   "startTime": 5107,
+   "title": "《生化危机》",
+   "img": "https://image.gcores.com/73a3a289f773076c6e69c37ed497e41a-600-600.webp"
+  },
+  {
+   "startTime": 5214,
+   "title": "销量飙升",
+   "img": "https://image.gcores.com/8b3b79ac065141c76c164e8057d2be17-550-686.jpg"
+  },
+  {
+   "startTime": 5299,
+   "title": "利大于弊",
+   "img": "https://image.gcores.com/0428af6eab29f7bf56f79b764565aa4d-1900-1610.jpg"
+  },
+  {
+   "startTime": 5338,
+   "title": "发行商",
+   "img": "https://image.gcores.com/ad5cb25648065f1e13bc65a0878244b1-350-384.webp"
+  },
+  {
+   "startTime": 5403,
+   "title": "生化危机鬼屋",
+   "img": "https://image.gcores.com/60c4a08b0264a126121a1a532beb1632-683-292.jpg"
+  },
+  {
+   "startTime": 5517,
+   "title": "真人演出",
+   "img": "https://image.gcores.com/e317815e9e53c6dbb75f2a8875d92ced-635-483.jpg"
+  },
+  {
+   "startTime": 5615,
+   "title": "重温经典",
+   "img": "https://image.gcores.com/8d191d5fcc7f06df372f4cced9d721c1-2000-2000.jpg",
+   "url": "https://www.gcores.com/albums/89"
+  },
+  {
+   "startTime": 5639,
+   "title": "《战神：劳菲》",
+   "img": "https://image.gcores.com/fcefbcfd26fe2c1c3b9b80ccd01c7ea1-875-492.webp",
+   "url": "https://www.gcores.com/articles/220340"
+  },
+  {
+   "startTime": 5759,
+   "title": "假期愉快",
+   "img": "https://image.gcores.com/69b5b724d6d5a53387d45d8f54a06593-300-300.jpg",
+   "url": "https://music.163.com/#/song?id=27364027"
+  }
+ ]
+}

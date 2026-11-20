@@ -1,0 +1,273 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "Gadio News",
+   "img": "https://image.gcores.com/cdced16242e43612a483d48c88aa47bc-1400-1400.jpg",
+   "url": "https://music.163.com/#/song?id=545655045"
+  },
+  {
+   "startTime": 60,
+   "title": "核周报"
+  },
+  {
+   "startTime": 100,
+   "title": "「摊开玩」独立游戏市集",
+   "img": "https://image.gcores.com/59acd718c689c95e1e54ea16f81fab62-1600-750.webp",
+   "url": "https://www.gcores.com/articles/217359"
+  },
+  {
+   "startTime": 113,
+   "title": "更多游戏",
+   "img": "https://image.gcores.com/2dc188093c089e7923288500ae5f5b86-875-1167.webp",
+   "url": "https://www.gcores.com/articles/217359"
+  },
+  {
+   "startTime": 127,
+   "title": "现场玩法",
+   "img": "https://image.gcores.com/df62b63f1b126fcd6e294e52563814de-875-1167.webp",
+   "url": "https://www.gcores.com/articles/217359"
+  },
+  {
+   "startTime": 135,
+   "title": "路演舞台",
+   "img": "https://image.gcores.com/bdaa64a6545dc9aaaa715e5c26ea16c8-875-1167.webp",
+   "url": "https://www.gcores.com/articles/217359"
+  },
+  {
+   "startTime": 160,
+   "title": "暴造广告位",
+   "img": "https://image.gcores.com/790f3bf6b1cb880b3c88e284f25231a5-875-1167.webp",
+   "url": "https://www.gcores.com/articles/217359"
+  },
+  {
+   "startTime": 226,
+   "title": "线上购票",
+   "img": "https://image.gcores.com/15fe4dd856447a62bd3b6b8d11da5a76-875-1167.webp",
+   "url": "https://www.gcores.com/articles/217359"
+  },
+  {
+   "startTime": 244,
+   "title": "《黄油猫》",
+   "img": "https://image.gcores.com/982b4b0ebbf7a34ee60b339ba90682ee-1920-1080.webp",
+   "url": "https://www.gcores.com/articles/217731"
+  },
+  {
+   "startTime": 321,
+   "title": "Steam六折",
+   "img": "https://image.gcores.com/e3051e3406f0f73a0a721042b9c818f6-875-492.webp",
+   "url": "https://www.gcores.com/articles/217731"
+  },
+  {
+   "startTime": 353,
+   "title": "《最终幻想14》",
+   "img": "https://image.gcores.com/5a48f47be91ee2cedf58821c3ab64abd-759-404.webp",
+   "url": "https://www.gcores.com/articles/217581"
+  },
+  {
+   "startTime": 431,
+   "title": "国服同步",
+   "img": "https://image.gcores.com/812b5d55161453a5d845f12982658495-1280-720.jpg"
+  },
+  {
+   "startTime": 514,
+   "title": "掌机平台",
+   "img": "https://image.gcores.com/c44e7d49b0b7d66a86f26d44b74b04a9-1920-1080.jpg"
+  },
+  {
+   "startTime": 541,
+   "title": "手柄操作",
+   "img": "https://image.gcores.com/70cb8c9c4166798263817f82ff847511-739-415.jpg"
+  },
+  {
+   "startTime": 644,
+   "title": "《战神：劳菲》",
+   "img": "https://image.gcores.com/c19e6f53e18167791ad79a2b19c24dd1-800-450.webp",
+   "url": "https://www.gcores.com/articles/217560"
+  },
+  {
+   "startTime": 737,
+   "title": "代入感",
+   "img": "https://image.gcores.com/5da735b4d5a8e3decaffe9f0ad7f62c6-249-401.png"
+  },
+  {
+   "startTime": 833,
+   "title": "平行叙事",
+   "img": "https://image.gcores.com/1041282f20d6a5eac3b3903375ff0fe0-741-414.jpg",
+   "url": "https://www.gcores.com/articles/217560"
+  },
+  {
+   "startTime": 962,
+   "title": "美术风格",
+   "img": "https://image.gcores.com/81f7d88374e870168f73e8d620bf8f4a-739-415.jpg"
+  },
+  {
+   "startTime": 1021,
+   "title": "《疯狂出租车》",
+   "img": "https://image.gcores.com/d2a77dc0859bf735c9b080c64da68a5e-920-430.webp",
+   "url": "https://www.gcores.com/articles/215572"
+  },
+  {
+   "startTime": 1100,
+   "title": "多人测试",
+   "img": "https://image.gcores.com/b962264e8e306fc883bc2b78bb475722-3840-2160.avif",
+   "url": "https://www.gcores.com/articles/215572"
+  },
+  {
+   "startTime": 1212,
+   "title": "多人玩法",
+   "img": "https://image.gcores.com/a01f1bd874f590e3be685a0426acd0f7-596-335.jpg",
+   "url": "https://www.gcores.com/articles/215572"
+  },
+  {
+   "startTime": 1235,
+   "title": "《绝地潜兵2》联动",
+   "img": "https://image.gcores.com/aef61a4de977c4296293b8c58f9cd0b8-875-1167.webp",
+   "url": "https://www.gcores.com/articles/217798"
+  },
+  {
+   "startTime": 1316,
+   "title": "超级上海保卫战",
+   "img": "https://image.gcores.com/5674be498a5fd4eea2e6fb6f285c964c-875-656.webp"
+  },
+  {
+   "startTime": 1383,
+   "title": "《星际战士2》",
+   "img": "https://image.gcores.com/579161423c05b1e064969923cf9f4fa2-800-450.webp",
+   "url": "https://www.gcores.com/articles/217735"
+  },
+  {
+   "startTime": 1425,
+   "title": "终局级敌人",
+   "img": "https://image.gcores.com/754eefec0e65717ce2802bbedd518cc9-875-492.webp",
+   "url": "https://www.gcores.com/articles/217735"
+  },
+  {
+   "startTime": 1485,
+   "title": "技术军士",
+   "img": "https://image.gcores.com/7fa2b9afe367f997f3c249d4b509495c-1080-607.jpg"
+  },
+  {
+   "startTime": 1520,
+   "title": "DND联动",
+   "img": "https://image.gcores.com/afd6f78683db8758250f2e538abe8bf8-1000-1147.jpg"
+  },
+  {
+   "startTime": 1581,
+   "title": "赛季制更新",
+   "img": "https://image.gcores.com/d279c2f62d6ba770d77a764384528549-1847-993.jpg"
+  },
+  {
+   "startTime": 1683,
+   "title": "本地化",
+   "img": "https://image.gcores.com/29e413b9991de488b37b8174d5e7673c-849-587.webp"
+  },
+  {
+   "startTime": 1787,
+   "title": "《无常》新作",
+   "img": "https://image.gcores.com/3f63e56f384cac9df6f252970ed7b5d5-690-387.webp",
+   "url": "https://www.gcores.com/articles/217719"
+  },
+  {
+   "startTime": 1939,
+   "title": "游戏争议",
+   "img": "https://image.gcores.com/c4f797d2629ed81dc7b7e5a023faec7b-2500-1741.webp"
+  },
+  {
+   "startTime": 2045,
+   "title": "一周年",
+   "img": "https://image.gcores.com/ed374699a260242f7bf0dd49dfc1836e-800-451.jpg"
+  },
+  {
+   "startTime": 2207,
+   "title": "裁员潮",
+   "img": "https://image.gcores.com/7b37bf6049686784e1da439f13f26ed7-600-228.png"
+  },
+  {
+   "startTime": 2269,
+   "title": "贝塞斯达",
+   "img": "https://image.gcores.com/b810d7dd2237e750dbf2a9884c90bf93-875-875.webp"
+  },
+  {
+   "startTime": 2283,
+   "title": "《上古卷轴OL》",
+   "img": "https://image.gcores.com/d96197e1d07496cf209aa465cf764af7-1600-900.webp",
+   "url": "https://www.gcores.com/articles/217802"
+  },
+  {
+   "startTime": 2358,
+   "title": "《骑马与砍杀》",
+   "img": "https://image.gcores.com/d7e076cc01d4afe630fade721cdfb171-1024-576.webp",
+   "url": "https://www.gcores.com/articles/217563"
+  },
+  {
+   "startTime": 2593,
+   "title": "东野圭吾",
+   "img": "https://image.gcores.com/97599f4a72d2587fc78cda4d8909eac6-1600-778.webp",
+   "url": "https://www.gcores.com/articles/217615"
+  },
+  {
+   "startTime": 2719,
+   "title": "非推理题材",
+   "img": "https://image.gcores.com/f735dfbee049a5b4869871259c7c5745-265-374.jpg"
+  },
+  {
+   "startTime": 2784,
+   "title": "《假面山庄》",
+   "img": "https://image.gcores.com/e92c283847f5d8f65123432176588f50-264-378.jpg"
+  },
+  {
+   "startTime": 2824,
+   "title": "《恶意》",
+   "img": "https://image.gcores.com/008447a183bff3026532f48033c220d5-250-359.jpg"
+  },
+  {
+   "startTime": 2950,
+   "title": "巧舟",
+   "img": "https://image.gcores.com/6028008bd2032f236128424a23bc6183-367-544.jpg"
+  },
+  {
+   "startTime": 3031,
+   "title": "ROG玩家国度",
+   "img": "https://image.gcores.com/6dd206f5eba56181f44508e44c15100b-1600-900.webp",
+   "url": "https://www.gcores.com/articles/217135"
+  },
+  {
+   "startTime": 3089,
+   "title": "观影杂感",
+   "img": "https://image.gcores.com/8e6ac499621d989dc083ed9acf9dffef-578-325.webp",
+   "url": "https://www.gcores.com/topics/677"
+  },
+  {
+   "startTime": 3179,
+   "title": "回归主题",
+   "img": "https://image.gcores.com/e58f3fbc14007a30c8d769a2a8841f58-1080-1350.jpg"
+  },
+  {
+   "startTime": 3275,
+   "title": "交接",
+   "img": "https://image.gcores.com/3d4087d060cdb1792fcc273354ac2eda-1920-1080.jpg"
+  },
+  {
+   "startTime": 3319,
+   "title": "动画电影"
+  },
+  {
+   "startTime": 3332,
+   "title": "《奥德赛》",
+   "img": "https://image.gcores.com/56b97104f390cc0b79298df775b8a184-875-1296.webp"
+  },
+  {
+   "startTime": 3341,
+   "title": "《年会不能停2》",
+   "img": "https://image.gcores.com/224100755149bad82f4e8799275c3bd8-266-375.png"
+  },
+  {
+   "startTime": 3356,
+   "title": "下周再见",
+   "img": "https://image.gcores.com/5e07cce81e2fb045ea8b36bd4340adc2-1417-1417.jpg",
+   "url": "https://music.163.com/#/song?id=2619759943"
+  }
+ ]
+}

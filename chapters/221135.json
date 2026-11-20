@@ -1,0 +1,499 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/8a5b630a4a7b2ed0fcad8a5babb18858-447-447.jpg"
+  },
+  {
+   "startTime": 120,
+   "title": "失落的好游戏",
+   "img": "https://image.gcores.com/31090c7f9b7362f2b64ffb94911e5579-460-215.jpg"
+  },
+  {
+   "startTime": 153,
+   "title": "说的啥",
+   "img": "https://image.gcores.com/8b7ad961d6778c9d89829d2ed59b7f21-1280-720.avif"
+  },
+  {
+   "startTime": 173,
+   "title": "《使命召唤：现代战争4》",
+   "img": "https://image.gcores.com/8dab99750e934359a38aaaa001c3c003-1024-1024.jpg",
+   "url": "https://www.gcores.com/articles/221550"
+  },
+  {
+   "startTime": 185,
+   "title": "普莱斯疯了",
+   "img": "https://image.gcores.com/71b70d35c2575766d6e9d65a11c411b2-3840-2160.png"
+  },
+  {
+   "startTime": 223,
+   "title": "《特殊行动：一线生机》",
+   "img": "https://image.gcores.com/3aacb7dcaa08951bc3d648bd9fc7d8ff-273-365.png"
+  },
+  {
+   "startTime": 289,
+   "title": "一口气全剧透",
+   "img": "https://image.gcores.com/60c6a0dd36a40723b16df6bcec0c57fe-632-316.jpg"
+  },
+  {
+   "startTime": 348,
+   "title": "同期对手",
+   "img": "https://image.gcores.com/80370cdc33862ee9cfe1966d054eb5cf-960-1200.jpg"
+  },
+  {
+   "startTime": 440,
+   "title": "《特殊行动：一线生机》",
+   "img": "https://image.gcores.com/69e5bd15c64b1f6f8f6d53b0e9e0fd6c-273-365.png"
+  },
+  {
+   "startTime": 503,
+   "title": "高度风格化",
+   "img": "https://image.gcores.com/e6dbcd3db5802853d1e7074ee3b0b2fd-1080-911.webp"
+  },
+  {
+   "startTime": 548,
+   "title": "建造中的哈利法塔",
+   "img": "https://image.gcores.com/80845ec33292dbd1530e91bce676a263-1200-750.webp"
+  },
+  {
+   "startTime": 630,
+   "title": "激烈的混战",
+   "img": "https://image.gcores.com/9c9ee37fa969de50117dd32d6f48b28d-596-335.jpg"
+  },
+  {
+   "startTime": 691,
+   "title": "自述",
+   "img": "https://image.gcores.com/cd5aa8337efaeb80796bc351e0d3d5bc-500-600.webp"
+  },
+  {
+   "startTime": 701,
+   "title": "约翰·康拉德中校",
+   "img": "https://image.gcores.com/fc57b22d9fd9ba0cb09f45e81d44708f-1200-750.webp"
+  },
+  {
+   "startTime": 801,
+   "title": "救援信号",
+   "img": "https://image.gcores.com/27be7c69a7751bb8cbb30e943f31506a-739-415.jpg"
+  },
+  {
+   "startTime": 871,
+   "title": "指挥官玩法",
+   "img": "https://image.gcores.com/f23031c36c4b65aa769b3e8dcce01be9-720-375.jpg"
+  },
+  {
+   "startTime": 956,
+   "title": "初来乍到",
+   "img": "https://image.gcores.com/bfa6c91443873d0aa8c40ca097bef1e1-739-415.jpg"
+  },
+  {
+   "startTime": 1081,
+   "title": "展开战斗",
+   "img": "https://image.gcores.com/1f0b2ce8fd7a67bc2b5ca7fcaed547a6-1920-1080.jpg"
+  },
+  {
+   "startTime": 1175,
+   "title": "动态战斗环境",
+   "img": "https://image.gcores.com/f2b2d0a49253a8c8f04f65cfd266ae40-421-236.png"
+  },
+  {
+   "startTime": 1303,
+   "title": "DJ",
+   "img": "https://image.gcores.com/e9c12aa01d07051ee80c44b40fe183f7-1280-720.jpg"
+  },
+  {
+   "startTime": 1395,
+   "title": "组织武装",
+   "img": "https://image.gcores.com/23c6638593e9fbf20cf750468c37ef81-500-312.jpg"
+  },
+  {
+   "startTime": 1539,
+   "title": "“灰狐”",
+   "img": "https://image.gcores.com/f872012435e66ad0308fe9441d863a33-148-298.webp"
+  },
+  {
+   "startTime": 1618,
+   "title": "一片混乱",
+   "img": "https://image.gcores.com/58a1eb3c1df5fac196d5229e6b56b5fc-739-415.jpg"
+  },
+  {
+   "startTime": 1755,
+   "title": "丰富的语音内容",
+   "img": "https://image.gcores.com/f78170954ea93de90dd36c89e46c24f6-1920-1080.jpg"
+  },
+  {
+   "startTime": 1824,
+   "title": "处决机制",
+   "img": "https://image.gcores.com/f164d365085885df7ab75fc948790f33-700-393.webp"
+  },
+  {
+   "startTime": 1944,
+   "title": "坚持调查",
+   "img": "https://image.gcores.com/aef6f6a9876c91a331e6f4ba7ca1dffa-640-360.jpg"
+  },
+  {
+   "startTime": 2041,
+   "title": "误伤平民",
+   "img": "https://image.gcores.com/d30b30a2146305ed212ae2893733b14b-1080-599.jpg"
+  },
+  {
+   "startTime": 2089,
+   "title": "哗变",
+   "img": "https://image.gcores.com/ed269581d2dd98ccc62b854d47c3087e-739-415.jpg"
+  },
+  {
+   "startTime": 2195,
+   "title": "还在DJ",
+   "img": "https://image.gcores.com/56cdd84eed44a199d3880c36b2b3a12f-597-335.jpg"
+  },
+  {
+   "startTime": 2257,
+   "title": "越发恐怖",
+   "img": "https://image.gcores.com/b3b98e27386be6fa4c27ebc0ca549c78-2405-1071.webp"
+  },
+  {
+   "startTime": 2308,
+   "title": "隧道",
+   "img": "https://image.gcores.com/ebe0b5ca6bc88bbd346b2372092ec6e7-739-415.jpg"
+  },
+  {
+   "startTime": 2335,
+   "title": "轰炸",
+   "img": "https://image.gcores.com/cfbbdbc05940d704ca88d75358dfaf21-596-335.jpg"
+  },
+  {
+   "startTime": 2376,
+   "title": "白磷弹",
+   "img": "https://image.gcores.com/13340d1cc071c56adf6847dd427632a1-1280-994.jpg"
+  },
+  {
+   "startTime": 2539,
+   "title": "做出选择",
+   "img": "https://image.gcores.com/a284b02c7510f4f95cd6c71b3af8f317-739-415.jpg"
+  },
+  {
+   "startTime": 2668,
+   "title": "以牙还牙",
+   "img": "https://image.gcores.com/5f5d4b8d7c8a771ea052c820f020a9cd-900-506.webp"
+  },
+  {
+   "startTime": 2853,
+   "title": "人间地狱",
+   "img": "https://image.gcores.com/b413e78d678645be598a87e2ec5d036e-1280-720.jpg"
+  },
+  {
+   "startTime": 2992,
+   "title": "内容警告",
+   "img": "https://image.gcores.com/9fdd4bf011f86529a8766ee8c5dc56ec-512-288.jpg"
+  },
+  {
+   "startTime": 3049,
+   "title": "崩溃了",
+   "img": "https://image.gcores.com/35494c5ca6b1bcbd72a60919db0e4050-300-188.jpg"
+  },
+  {
+   "startTime": 3103,
+   "title": "我无罪",
+   "img": "https://image.gcores.com/298b115a611d8befefe442cee66e1346-1456-819.jpg"
+  },
+  {
+   "startTime": 3197,
+   "title": "对话康拉德",
+   "img": "https://image.gcores.com/0f70642b8475ffe9ffac54b8f4b65f2c-1680-945.jpg"
+  },
+  {
+   "startTime": 3262,
+   "title": "道德选择",
+   "img": "https://image.gcores.com/71da9307a226f564ac149662217f6cb8-1920-1080.jpg"
+  },
+  {
+   "startTime": 3430,
+   "title": "杰夫·里格斯",
+   "img": "https://image.gcores.com/9ef648e3b3297e98096ccc8f59d3e0e6-1044-768.webp"
+  },
+  {
+   "startTime": 3575,
+   "title": "最后的希望",
+   "img": "https://image.gcores.com/93ba5cc7b1701c052a68eaa163ff11f2-1280-720.jpg"
+  },
+  {
+   "startTime": 3635,
+   "title": "给个痛快",
+   "img": "https://image.gcores.com/6e0f8dbaf1ec31654dd4db1f22d1e677-800-450.jpg"
+  },
+  {
+   "startTime": 3681,
+   "title": "特殊设计",
+   "img": "https://image.gcores.com/f6c43047b6bec3040d3e875e44b25aef-203-249.webp"
+  },
+  {
+   "startTime": 3829,
+   "title": "867-5309/Jenny"
+  },
+  {
+   "startTime": 3865,
+   "title": "出现幻觉",
+   "img": "https://image.gcores.com/a5c7c8a37e83af875ae66826f6a3323e-2560-1440.png"
+  },
+  {
+   "startTime": 3975,
+   "title": "DJ",
+   "img": "https://image.gcores.com/ad992ec5e431a18a38963ee2854ff9ba-123-187.webp"
+  },
+  {
+   "startTime": 4041,
+   "title": "爱德华·默罗",
+   "img": "https://image.gcores.com/1855e8108f2dd0277fe717f4943f756a-337-450.jpg"
+  },
+  {
+   "startTime": 4150,
+   "title": "土皇帝",
+   "img": "https://image.gcores.com/a83cf2a8bb89404fc5dc9905e6f7c572-1280-720.jpg"
+  },
+  {
+   "startTime": 4184,
+   "title": "直升机大战",
+   "img": "https://image.gcores.com/336bce735ec5ecabd5034ce06441ace7-800-600.jpg"
+  },
+  {
+   "startTime": 4212,
+   "title": "往日重现",
+   "img": "https://image.gcores.com/b5c0a18a3c5a22144ce5754ff76de72c-640-640.jpg"
+  },
+  {
+   "startTime": 4261,
+   "title": "中场休息",
+   "img": "https://image.gcores.com/63a39acf6486c90f7796280d2c019a7b-554-554.jpg"
+  },
+  {
+   "startTime": 4282,
+   "title": "坠机",
+   "img": "https://image.gcores.com/09d18fd696a8c9ea4069f008f2ad0ba5-610-343.jpg"
+  },
+  {
+   "startTime": 4353,
+   "title": "代入男主",
+   "img": "https://image.gcores.com/487ffc60a0f3d47b091072bee0d0c9e5-500-600.jpg"
+  },
+  {
+   "startTime": 4499,
+   "title": "为时已晚",
+   "img": "https://image.gcores.com/4f35786ac5db794ae2242b5f3d57ebaf-1440-900.jpg"
+  },
+  {
+   "startTime": 4622,
+   "title": "隐藏选项",
+   "img": "https://image.gcores.com/fee40b916db0c4457e7c873b197fed27-1280-720.jpg"
+  },
+  {
+   "startTime": 4710,
+   "title": "最后的战斗",
+   "img": "https://image.gcores.com/764dd506f29dfb450a4ce33e611c1fdd-355-500.jpg"
+  },
+  {
+   "startTime": 4872,
+   "title": "直面",
+   "img": "https://image.gcores.com/0bb8c9b14448b33a33f632d8cd2ba795-596-335.jpg"
+  },
+  {
+   "startTime": 4964,
+   "title": "康拉德的尸体",
+   "img": "https://image.gcores.com/b10fc5988bb937dfe88505a25697012d-1440-900.jpg"
+  },
+  {
+   "startTime": 5004,
+   "title": "最后的对峙",
+   "img": "https://image.gcores.com/72ab5f0808ae2294d284b79455560442-1680-945.jpg"
+  },
+  {
+   "startTime": 5082,
+   "title": "加载界面",
+   "img": "https://image.gcores.com/c96b484a8bdd780ac6a93e877e743649-1920-1080.jpg"
+  },
+  {
+   "startTime": 5201,
+   "title": "暗示性图案",
+   "img": "https://image.gcores.com/46905cf7506f05a470dc18ab31c02b36-1920-1080.jpg"
+  },
+  {
+   "startTime": 5271,
+   "title": "纪念碑",
+   "img": "https://image.gcores.com/0faeb3968720ac79e5ca4bbb665acda6-1677-939.jpg"
+  },
+  {
+   "startTime": 5327,
+   "title": "审判自己",
+   "img": "https://image.gcores.com/9dd308b188c997c8641d23311e5d4f28-1280-720.jpg"
+  },
+  {
+   "startTime": 5413,
+   "title": "自尽结局",
+   "img": "https://image.gcores.com/fe4ae67267332b9c1dbbb8f8c536e5b0-739-415.jpg"
+  },
+  {
+   "startTime": 5460,
+   "title": "撤离结局",
+   "img": "https://image.gcores.com/1502166704d10ae72cd33df09174f30c-1280-720.jpg"
+  },
+  {
+   "startTime": 5517,
+   "title": "撤出",
+   "img": "https://image.gcores.com/6641ed57c5e6448e996c39c348d8c301-1280-720.webp"
+  },
+  {
+   "startTime": 5574,
+   "title": "“龙之归乡”结局",
+   "img": "https://image.gcores.com/baebd50f79bc51dce812f51e36831f3c-690-388.gif"
+  },
+  {
+   "startTime": 5593,
+   "title": "“斩断不死”结局",
+   "img": "https://image.gcores.com/2a8c3a69a6d69d7984edb0c7f360fa6e-1280-720.jpg"
+  },
+  {
+   "startTime": 5662,
+   "title": "“修罗”结局",
+   "img": "https://image.gcores.com/b08d69957f7b0cc5ff53ff54435185b5-1024-768.jpg"
+  },
+  {
+   "startTime": 5708,
+   "title": "真相",
+   "img": "https://image.gcores.com/bdca451a40d665d3bf4ae195eb80f926-720-403.jpg"
+  },
+  {
+   "startTime": 5879,
+   "title": "商业失败",
+   "img": "https://image.gcores.com/c44ea8e55aa2b29e6dc371c2a8509e6e-1280-853.jpg"
+  },
+  {
+   "startTime": 6019,
+   "title": "宣发错位",
+   "img": "https://image.gcores.com/616418814eaa7c58920ff1fc1ec14b8b-739-415.jpg"
+  },
+  {
+   "startTime": 6078,
+   "title": "引发讨论",
+   "img": "https://image.gcores.com/b54c74ec0bbf7f26a99fff85248d4174-705-1000.jpg"
+  },
+  {
+   "startTime": 6126,
+   "title": "退市",
+   "img": "https://image.gcores.com/dfb75278b6211545604c5188ef67a4b4-415-88.png"
+  },
+  {
+   "startTime": 6216,
+   "title": "藐视玩家嫌疑",
+   "img": "https://image.gcores.com/3a84846219830b23cbac272ea961235a-320-180.jpg"
+  },
+  {
+   "startTime": 6344,
+   "title": "一个问题",
+   "img": "https://image.gcores.com/94c68a36b0e29ec9fdaf1bbf3dcb3ce3-500-600.webp"
+  },
+  {
+   "startTime": 6391,
+   "title": "阿尔萨斯",
+   "img": "https://image.gcores.com/a644f01666b38d61fb157a00741391ec-365-273.jpg"
+  },
+  {
+   "startTime": 6486,
+   "title": "《最后的生还者2》",
+   "img": "https://image.gcores.com/bf78d2da28e290f37db0e36a389324aa-1400-700.avif"
+  },
+  {
+   "startTime": 6625,
+   "title": "疯狂的瞬间",
+   "img": "https://image.gcores.com/aa71be31fd37232eb7c18392d1231141-1920-1080.png"
+  },
+  {
+   "startTime": 6757,
+   "title": "拆解主体性",
+   "img": "https://image.gcores.com/c2456aabe495e141aea33bee1d02f78f-610-259.webp"
+  },
+  {
+   "startTime": 6980,
+   "title": "社区讨论",
+   "img": "https://image.gcores.com/2e6ca43cbe4ba54506bf766781727a17-2560-1335.jpg"
+  },
+  {
+   "startTime": 7148,
+   "title": "幻觉",
+   "img": "https://image.gcores.com/5eb634435b569e7b0b10aac648183958-640-360.webp"
+  },
+  {
+   "startTime": 7251,
+   "title": "做选择",
+   "img": "https://image.gcores.com/a701a9bfba0c78bf5a2ad487581ed271-597-335.jpg"
+  },
+  {
+   "startTime": 7353,
+   "title": "白磷弹",
+   "img": "https://image.gcores.com/4a565f86bc6fb38d36c6483333cb0ec4-783-391.jpg"
+  },
+  {
+   "startTime": 7378,
+   "title": "越战",
+   "img": "https://image.gcores.com/cb5e41d58f7ceb6400cb1c5641c92e19-1280-994.jpg"
+  },
+  {
+   "startTime": 7394,
+   "title": "费卢杰战役",
+   "img": "https://image.gcores.com/cd3339e603f2212da7dcda451b10dca8-3072-2048.jpg"
+  },
+  {
+   "startTime": 7475,
+   "title": "《费卢杰：隐秘的大屠杀》"
+  },
+  {
+   "startTime": 7573,
+   "title": "2006黎巴嫩战争",
+   "img": "https://image.gcores.com/99f58637f5fd1a2fe6dd39eb234baad2-946-631.avif"
+  },
+  {
+   "startTime": 7614,
+   "title": "2009加沙战争",
+   "img": "https://image.gcores.com/757b9fa2dfc6cf96accd1ece6a693ec9-507-412.jpg"
+  },
+  {
+   "startTime": 7692,
+   "title": "为什么是白磷弹",
+   "img": "https://image.gcores.com/36d7ad6b6e3128f03f82f2c587329667-1024-640.jpg"
+  },
+  {
+   "startTime": 7807,
+   "title": "爆了",
+   "img": "https://image.gcores.com/03ad5a1bf0aa3dab9efe08263ebb16c4-480-176.jpg"
+  },
+  {
+   "startTime": 7940,
+   "title": "死有余辜",
+   "img": "https://image.gcores.com/8831f87159a84e7351866e5a0147c517-1280-720.jpg"
+  },
+  {
+   "startTime": 8000,
+   "title": "《无畏战舰》",
+   "img": "https://image.gcores.com/ef0684580138e4bba020ed81389e1aee-739-415.jpg"
+  },
+  {
+   "startTime": 8081,
+   "title": "《The Cycle》",
+   "img": "https://image.gcores.com/cdccc604a36b4a2c05f91383e3da170b-739-415.jpg"
+  },
+  {
+   "startTime": 8135,
+   "title": "《黑暗之心》",
+   "img": "https://image.gcores.com/1f175ea44b0f7e7177eba4b2c4a5861a-500-769.jpg"
+  },
+  {
+   "startTime": 8161,
+   "title": "万字解析《特殊行动：一线生机》",
+   "img": "https://image.gcores.com/61aedc845d2556359275d97342e5880e-312-475.jpg"
+  },
+  {
+   "startTime": 8306,
+   "title": "结尾BGM",
+   "img": "https://image.gcores.com/beb9385cb3a5745627be3ee6fc0fa772-640-636.jpg"
+  }
+ ]
+}

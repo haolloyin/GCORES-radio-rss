@@ -1,0 +1,453 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/91128e2a7e4d1d81c23958dfc20d77d1-748-896.webp"
+  },
+  {
+   "startTime": 30,
+   "title": "核周报"
+  },
+  {
+   "startTime": 101,
+   "title": "扬长避短",
+   "img": "https://image.gcores.com/6d55361213075b9be10439676d4c6c21-739-415.jpg"
+  },
+  {
+   "startTime": 146,
+   "title": "《生化危机7》",
+   "img": "https://image.gcores.com/951a0b6bba6e842cd232415c06752283-265-375.jpg"
+  },
+  {
+   "startTime": 193,
+   "title": "大作云集",
+   "img": "https://image.gcores.com/c49eb98723338bb071983ba539576f9f-742-413.jpg"
+  },
+  {
+   "startTime": 219,
+   "title": "《战争机器》",
+   "img": "https://image.gcores.com/cc8d5d37e0ccfa12a5d38926296cbc58-1728-1080.webp"
+  },
+  {
+   "startTime": 303,
+   "title": "安利失败",
+   "img": "https://image.gcores.com/cbe028efa078badd70cdfd024e379565-1920-1080.webp"
+  },
+  {
+   "startTime": 354,
+   "title": "暴白萝卜",
+   "img": "https://image.gcores.com/614e22dba711e5ea2593fec4a9d02171-1200-675.webp"
+  },
+  {
+   "startTime": 390,
+   "title": "《皇牌空战8》",
+   "img": "https://image.gcores.com/f904fc00bdd7a61076fbdc106d70b9c7-1920-1080.jpg"
+  },
+  {
+   "startTime": 474,
+   "title": "剧情概要",
+   "img": "https://image.gcores.com/d2b40fc58b528d95c6cccc894550a593-1080-606.webp"
+  },
+  {
+   "startTime": 554,
+   "title": "羊头狗肉",
+   "img": "https://image.gcores.com/f322ba8f29fc3ada0b685672c9252e0b-739-415.jpg"
+  },
+  {
+   "startTime": 616,
+   "title": "社交媒体",
+   "img": "https://image.gcores.com/f2c7df1c2ca066db2240920a93bfc16b-739-415.jpg"
+  },
+  {
+   "startTime": 734,
+   "title": "差不多得了",
+   "img": "https://image.gcores.com/3155e712627bfe49165bf30872580f82-2560-1440.png"
+  },
+  {
+   "startTime": 763,
+   "title": "万众瞩目",
+   "img": "https://image.gcores.com/281a538e3088e569a8af53632b34eb19-1280-720.jpg"
+  },
+  {
+   "startTime": 825,
+   "title": "南梦宫之魂",
+   "img": "https://image.gcores.com/61bc9d49538da5b94dc74d5c34033f31-596-335.jpg"
+  },
+  {
+   "startTime": 902,
+   "title": "复古科幻",
+   "img": "https://image.gcores.com/a4264e5d6186e9426b49993cc45597ef-593-395.webp"
+  },
+  {
+   "startTime": 970,
+   "title": "现代战争",
+   "img": "https://image.gcores.com/aa2b7c089798b18caf09c427f191e37d-1250-808.jpg"
+  },
+  {
+   "startTime": 1072,
+   "title": "《真·三国无双2》",
+   "img": "https://image.gcores.com/a404b63c4cd017077bbc19f456dd99a8-1080-607.webp"
+  },
+  {
+   "startTime": 1173,
+   "title": "老无双",
+   "img": "https://image.gcores.com/55713c4550c8f87bd53300c03c51a69d-739-415.jpg"
+  },
+  {
+   "startTime": 1221,
+   "title": "拖字诀",
+   "img": "https://image.gcores.com/f6571fa402cb353476a8ff9f77435448-1920-1080.jpg"
+  },
+  {
+   "startTime": 1311,
+   "title": "小乔",
+   "img": "https://image.gcores.com/af4485bbf4a487ebf182074e5e8293b3-1080-1080.jpg"
+  },
+  {
+   "startTime": 1351,
+   "title": "角色配音",
+   "img": "https://image.gcores.com/d2dd120f347ad80eb10b652dff514f45-1080-607.jpg"
+  },
+  {
+   "startTime": 1426,
+   "title": "片尾曲",
+   "img": "https://image.gcores.com/960d177751c6c7c13d61864baae93b76-596-335.jpg"
+  },
+  {
+   "startTime": 1506,
+   "title": "试玩版",
+   "img": "https://image.gcores.com/10573b115259065d9e26338eb50d94b1-1000-563.webp"
+  },
+  {
+   "startTime": 1562,
+   "title": "《真·三国无双6》",
+   "img": "https://image.gcores.com/775d4fd2ce96bd41a360a8a8108626be-1152-720.jpg"
+  },
+  {
+   "startTime": 1650,
+   "title": "得意武器",
+   "img": "https://image.gcores.com/1dbc8e223ced78771b349efc0505d090-1280-720.jpg"
+  },
+  {
+   "startTime": 1748,
+   "title": "战斗爽",
+   "img": "https://image.gcores.com/e0d08a14433ec35b4d8ec8263a6fb70c-400-500.jpg"
+  },
+  {
+   "startTime": 1875,
+   "title": "现代化",
+   "img": "https://image.gcores.com/3b6b3a3dbec44f1998ec2e216ffb907c-228-290.jpg"
+  },
+  {
+   "startTime": 1935,
+   "title": "《星战 银河赛车手》",
+   "img": "https://image.gcores.com/88a8d84f85e82c5df76eca14beafa4e5-820-531.webp"
+  },
+  {
+   "startTime": 2025,
+   "title": "赛车游戏",
+   "img": "https://image.gcores.com/d1309d7e8bcf9dbaa163fab6d8fa577a-331-331.webp"
+  },
+  {
+   "startTime": 2141,
+   "title": "剧情与亮点",
+   "img": "https://image.gcores.com/a4271ee3465da7408a8a13d9e8f57a7c-1200-675.webp"
+  },
+  {
+   "startTime": 2189,
+   "title": "《索尼克赛车》",
+   "img": "https://image.gcores.com/615b49c4e1f4b574adfdb34036049e27-875-492.webp"
+  },
+  {
+   "startTime": 2306,
+   "title": "世嘉阵容",
+   "img": "https://image.gcores.com/3377213367c910675cecb5df554bc377-768-440.jpg"
+  },
+  {
+   "startTime": 2357,
+   "title": "《疯狂出租车》",
+   "img": "https://image.gcores.com/fec3c7768ab90825ab02fae8e114cdb3-875-492.webp"
+  },
+  {
+   "startTime": 2492,
+   "title": "《巫师3》",
+   "img": "https://image.gcores.com/35751597c5da7d16190729a1c37a1206-441-321.png"
+  },
+  {
+   "startTime": 2588,
+   "title": "不患寡而患不均",
+   "img": "https://image.gcores.com/238806f9da302e599b9f967e9527c3eb-550-343.png"
+  },
+  {
+   "startTime": 2693,
+   "title": "准备不充分",
+   "img": "https://image.gcores.com/00f434b949fdeff909403b328643bd4c-550-313.png"
+  },
+  {
+   "startTime": 2755,
+   "title": "风格化美术",
+   "img": "https://image.gcores.com/f405f5a6f64740db261f2f6fc756ddae-1080-606.jpg"
+  },
+  {
+   "startTime": 2914,
+   "title": "帧数下降",
+   "img": "https://image.gcores.com/65dbfcd7c14f8b018b81e210d4fb91e8-1080-606.jpg"
+  },
+  {
+   "startTime": 2939,
+   "title": "原版游戏",
+   "img": "https://image.gcores.com/33bb4d89c94727c767c993d165842a69-600-429.png"
+  },
+  {
+   "startTime": 3020,
+   "title": "《GTA6》传言",
+   "img": "https://image.gcores.com/159d9a3e78add0ea3a671a756a6861fe-750-500.webp"
+  },
+  {
+   "startTime": 3099,
+   "title": "云游戏服务",
+   "img": "https://image.gcores.com/aca861d57b93691d8689afa2071afd4c-1200-675.jpg"
+  },
+  {
+   "startTime": 3202,
+   "title": "《战地风云6》",
+   "img": "https://image.gcores.com/7324a0263a52c0d7a0ca8b849fb505da-3840-2160.jpg"
+  },
+  {
+   "startTime": 3247,
+   "title": "《地平线6》",
+   "img": "https://image.gcores.com/400897077821601463e1169de3469cb5-250-375.jpg"
+  },
+  {
+   "startTime": 3312,
+   "title": "肖恩·莱登",
+   "img": "https://image.gcores.com/348b810f70da689f889a3bc2fbb8494a-738-415.jpg"
+  },
+  {
+   "startTime": 3381,
+   "title": "裁员新闻",
+   "img": "https://image.gcores.com/05f57668d2eb5f6adaf5d332ce50a40a-1024-975.png"
+  },
+  {
+   "startTime": 3414,
+   "title": "须田刚一",
+   "img": "https://image.gcores.com/d3d4c60eafdaaf732e6ad56e17efc2ab-660-627.jpg"
+  },
+  {
+   "startTime": 3489,
+   "title": "名越稔洋",
+   "img": "https://image.gcores.com/e150a810c0516be5b4c2d79f1ca11d90-679-452.jpg"
+  },
+  {
+   "startTime": 3576,
+   "title": "大咖"
+  },
+  {
+   "startTime": 3627,
+   "title": "直播",
+   "img": "https://image.gcores.com/7c9a358072463a4d5c14092c9b8403bd-644-476.jpg"
+  },
+  {
+   "startTime": 3678,
+   "title": "樱井政博",
+   "img": "https://image.gcores.com/0da5d13e814c9cc342934874c8aced25-550-459.png"
+  },
+  {
+   "startTime": 3744,
+   "title": "创作热情",
+   "img": "https://image.gcores.com/6c37c456149cf429594f1ef31c5a7a07-678-452.jpg"
+  },
+  {
+   "startTime": 3861,
+   "title": "世嘉主题乐园",
+   "img": "https://image.gcores.com/60115db269ef1f6db65810740d6fbd00-700-438.jpg"
+  },
+  {
+   "startTime": 3957,
+   "title": "铃木裕",
+   "img": "https://image.gcores.com/afe329d5d463c4a79d0c5ce4df49d95b-1209-1287.jpg"
+  },
+  {
+   "startTime": 4017,
+   "title": "《龙帮》",
+   "img": "https://image.gcores.com/c868375f87b4bd59f9b4022e772b3630-550-310.jpg"
+  },
+  {
+   "startTime": 4063,
+   "title": "《星际公民》",
+   "img": "https://image.gcores.com/3caaf8317148abe5370f6b7dbc46339b-480-269.jpg"
+  },
+  {
+   "startTime": 4102,
+   "title": "《黑域撤离》",
+   "img": "https://image.gcores.com/d735a9fb06b56fc29b040f7e1d6402c3-460-215.webp"
+  },
+  {
+   "startTime": 4125,
+   "title": "《三角洲行动》",
+   "img": "https://image.gcores.com/c427284726d49bce8cae1a4110f64874-1080-608.webp"
+  },
+  {
+   "startTime": 4168,
+   "title": "吴彦祖",
+   "img": "https://image.gcores.com/17d2831f421a36720cec1d83eb5d76d6-550-385.png"
+  },
+  {
+   "startTime": 4295,
+   "title": "法老控",
+   "img": "https://image.gcores.com/07e1010c6c0cd058837ea36120adfd43-640-360.jpg"
+  },
+  {
+   "startTime": 4367,
+   "title": "《火纹 万紫千红》",
+   "img": "https://image.gcores.com/d71835962afadc6251352c402f7e5727-1200-675.jpg"
+  },
+  {
+   "startTime": 4489,
+   "title": "减负设计",
+   "img": "https://image.gcores.com/e5d9c1e416b6eada5b4954249a4833da-739-415.jpg"
+  },
+  {
+   "startTime": 4542,
+   "title": "法毕欧",
+   "img": "https://image.gcores.com/4cd367adc688c631d9a646807315511d-387-516.jpg"
+  },
+  {
+   "startTime": 4628,
+   "title": "小人物的塑造",
+   "img": "https://image.gcores.com/624d4fedda4541c3ba8ac701471c46c7-738-414.jpg"
+  },
+  {
+   "startTime": 4736,
+   "title": "救世啊",
+   "img": "https://image.gcores.com/930ccc1dc24875b32e64c0048e0e9a4b-1003-1419.jpg"
+  },
+  {
+   "startTime": 4776,
+   "title": "世嘉",
+   "img": "https://image.gcores.com/bf5323ac8b28ac4d55cdbfdf1a0f1d78-1280-720.png"
+  },
+  {
+   "startTime": 4813,
+   "title": "米哈游",
+   "img": "https://image.gcores.com/01490376f1d5271df1da8fc897139ba7-1027-684.webp"
+  },
+  {
+   "startTime": 4870,
+   "title": "新公司",
+   "img": "https://image.gcores.com/6416cdfb6be0251c799bb43d441cbe2a-1024-580.jpg"
+  },
+  {
+   "startTime": 4956,
+   "title": "DeepSeek",
+   "img": "https://image.gcores.com/2880798fba68881d2c7ab8bffe216c8c-800-534.jpg"
+  },
+  {
+   "startTime": 5016,
+   "title": "领投方",
+   "img": "https://image.gcores.com/c93bc7858070645e3abdce71ca57b24a-678-452.jpg"
+  },
+  {
+   "startTime": 5111,
+   "title": "3i计划",
+   "img": "https://image.gcores.com/15026398342e31bc448780da44b72276-720-540.webp"
+  },
+  {
+   "startTime": 5177,
+   "title": "《潜水员戴夫》联动",
+   "img": "https://image.gcores.com/d8d062c619c9c3ee5db5d2552556ae35-550-309.webp"
+  },
+  {
+   "startTime": 5201,
+   "title": "《虚妄回响》",
+   "img": "https://image.gcores.com/49b64b5b662a7013c92a5eb89723c590-550-310.jpg"
+  },
+  {
+   "startTime": 5225,
+   "title": "《空壳之牢》",
+   "img": "https://image.gcores.com/9c6cc18ff87d5c8f67b19d5211ab24f5-590-338.jpg"
+  },
+  {
+   "startTime": 5242,
+   "title": "《叫魂》",
+   "img": "https://image.gcores.com/ddd91a6fada61f52c012f168dd6c8012-1920-1080.jpg"
+  },
+  {
+   "startTime": 5285,
+   "title": "《机械迷城2》",
+   "img": "https://image.gcores.com/33d3e3b9d2394f8e392bea73f2eb0741-739-415.jpg"
+  },
+  {
+   "startTime": 5294,
+   "title": "《喇叭之城》",
+   "img": "https://image.gcores.com/ae7d31ecd2eea31525da796437301ef6-1080-607.jpg"
+  },
+  {
+   "startTime": 5322,
+   "title": "《小马岛2》",
+   "img": "https://image.gcores.com/53483ce9f96736104b1376a6525351fc-739-415.jpg"
+  },
+  {
+   "startTime": 5357,
+   "title": "《ReVamp》",
+   "img": "https://image.gcores.com/101fa31d0c3dd8c4f1d71fbbad15d649-590-338.jpg",
+   "url": "https://www.gcores.com/articles/220656"
+  },
+  {
+   "startTime": 5373,
+   "title": "《散落星海》",
+   "img": "https://image.gcores.com/e74b03c5fa8f59ed4af7518059d17497-329-152.jpg"
+  },
+  {
+   "startTime": 5445,
+   "title": "《火湖》",
+   "img": "https://image.gcores.com/d4205eb1883fa1ae3dcbd9be5344be12-602-339.png"
+  },
+  {
+   "startTime": 5477,
+   "title": "《土豆兄弟》",
+   "img": "https://image.gcores.com/d44c39b45b95c1b5859d42dda815e274-739-415.jpg"
+  },
+  {
+   "startTime": 5509,
+   "title": "《艾希：续》",
+   "img": "https://image.gcores.com/62fdca4c8bb1b40066b736d2896b2177-740-414.jpg"
+  },
+  {
+   "startTime": 5572,
+   "title": "架在火上烤",
+   "img": "https://image.gcores.com/763c561bd38bed3d579d0b4d77fa4e0c-985-604.webp"
+  },
+  {
+   "startTime": 5656,
+   "title": "游戏生活",
+   "img": "https://image.gcores.com/7c6f69e34313254a091beadde3f1946a-739-415.jpg"
+  },
+  {
+   "startTime": 5761,
+   "title": "《龙之信条2》",
+   "img": "https://image.gcores.com/7fbf929705de35af5529bb6a9fdc29cf-900-506.webp"
+  },
+  {
+   "startTime": 5816,
+   "title": "《生化危机9》DLC",
+   "img": "https://image.gcores.com/54a5b05ef1414937f3089574f04fe033-550-309.jpg"
+  },
+  {
+   "startTime": 5953,
+   "title": "新设定",
+   "img": "https://image.gcores.com/554ccc9a40239c31e4c3c56227e0306f-600-338.jpg"
+  },
+  {
+   "startTime": 6030,
+   "title": "双线交汇",
+   "img": "https://image.gcores.com/ea2c5752ad4b5dd114eb2c2495c35bdd-600-338.jpg"
+  },
+  {
+   "startTime": 6158,
+   "title": "下周再见"
+  }
+ ]
+}

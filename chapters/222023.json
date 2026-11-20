@@ -1,0 +1,567 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/3ac712e896f24730a640223c7e794fdd-600-600.webp"
+  },
+  {
+   "startTime": 21,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 39,
+   "title": "熬夜打通",
+   "img": "https://image.gcores.com/3a46bc6007d9d0c0568aad774e7ad067-355-293.png",
+   "url": "https://space.bilibili.com/319992115?spm_id_from=333.337.0.0"
+  },
+  {
+   "startTime": 72,
+   "title": "全剧透",
+   "img": "https://image.gcores.com/a0b8320e135d31c86cec3985d41e4036-300-168.webp"
+  },
+  {
+   "startTime": 101,
+   "title": "无法评价",
+   "img": "https://image.gcores.com/4d56dbe827591d36a5b2c73d2aba8528-707-714.png",
+   "url": "https://www.gcores.com/talks/1309421#comments"
+  },
+  {
+   "startTime": 141,
+   "title": "多结局"
+  },
+  {
+   "startTime": 235,
+   "title": "任务提醒",
+   "img": "https://image.gcores.com/8304bd1f6b13d4882386f12062c5d9c4-1171-297.png"
+  },
+  {
+   "startTime": 289,
+   "title": "主角特别强",
+   "img": "https://image.gcores.com/49a768303b46b93179ff8be1ed324306-200-133.jpg"
+  },
+  {
+   "startTime": 354,
+   "title": "黑魔伤",
+   "img": "https://image.gcores.com/a62aea3f0dd30d3fdcfad9b54d734319-480-480.png",
+   "url": "https://wiki.biligame.com/yingzhiren/%E9%BB%91%E9%AD%94%E4%BC%A4"
+  },
+  {
+   "startTime": 405,
+   "title": "左殇二阶段",
+   "img": "https://image.gcores.com/db65ed898f1d99f54cbd0188d3e55f9d-510-663.png",
+   "url": "https://wiki.biligame.com/yingzhiren/%E5%B7%A6%E6%AE%87%EF%BC%9A%E7%9C%9F%E9%BE%99%E4%B9%8B%E8%BA%AF"
+  },
+  {
+   "startTime": 450,
+   "title": "吉尔伽美什",
+   "img": "https://image.gcores.com/4b829f91c25c3b0ebbf012f109c6bc1f-536-758.webp"
+  },
+  {
+   "startTime": 473,
+   "title": "黄金火铳",
+   "img": "https://image.gcores.com/acd7a6faacb508984f352dc90d6a99f1-480-480.png"
+  },
+  {
+   "startTime": 523,
+   "title": "片尾曲《劫》",
+   "img": "https://image.gcores.com/ccab7f53dd0ef90579a9a24401b229b6-600-600.webp"
+  },
+  {
+   "startTime": 557,
+   "title": "非常喜欢",
+   "img": "https://image.gcores.com/e162e40992f73aa4a575c5cf25037e3d-334-246.jpg"
+  },
+  {
+   "startTime": 599,
+   "title": "和空轨一桌",
+   "img": "https://image.gcores.com/5310ee28d5627864496bf6ecf87ee366-536-302.webp"
+  },
+  {
+   "startTime": 628,
+   "title": "预期违背",
+   "img": "https://image.gcores.com/8e6c48b6497651c994331095811c5cc8-805-452.png"
+  },
+  {
+   "startTime": 679,
+   "title": "影境美学",
+   "img": "https://image.gcores.com/4c648c3deb11845d13c8f1e6038eff50-3840-2160.png"
+  },
+  {
+   "startTime": 699,
+   "title": "戏梦山庄",
+   "img": "https://image.gcores.com/468659184f398f33fa018a433df7e080-1560-869.png"
+  },
+  {
+   "startTime": 734,
+   "title": "正道联盟守卫",
+   "img": "https://image.gcores.com/60b263064bb433842800c13f78733706-1145-741.png"
+  },
+  {
+   "startTime": 787,
+   "title": "幻鬼旁的老道士",
+   "img": "https://image.gcores.com/a466435bc0294037a64a1ed3fc53cb3f-1196-757.png"
+  },
+  {
+   "startTime": 824,
+   "title": "鬼差",
+   "img": "https://image.gcores.com/88a5a81668815ed0e8fafc087b699f7b-510-471.png"
+  },
+  {
+   "startTime": 855,
+   "title": "正道联盟剑客",
+   "img": "https://image.gcores.com/1c787f52d601d1c260a9276b4e8ea5cc-484-1036.png",
+   "url": "https://wiki.biligame.com/yingzhiren/%E6%97%A0%E9%9D%A2%E5%89%91%E5%AE%A2%E9%98%9F%E9%95%BF"
+  },
+  {
+   "startTime": 903,
+   "title": "后期还不断有新东西",
+   "img": "https://image.gcores.com/6089c35878d6753d5bd9143a2efe6513-510-404.png"
+  },
+  {
+   "startTime": 943,
+   "title": "数值设计刚性差",
+   "img": "https://image.gcores.com/095c85a21fd9887ae4cd55ba5cb1c335-297-397.png"
+  },
+  {
+   "startTime": 992,
+   "title": "破军",
+   "img": "https://image.gcores.com/c061f0cc0789300f710c503c336defd5-480-480.png"
+  },
+  {
+   "startTime": 1012,
+   "title": "泥头车",
+   "img": "https://image.gcores.com/b271af8475c870f25cb2d691222aa2e2-480-480.png"
+  },
+  {
+   "startTime": 1054,
+   "title": "荡寇凶刃",
+   "img": "https://image.gcores.com/45f3bb77cc9801314ea24eb48df774f7-480-480.png"
+  },
+  {
+   "startTime": 1056,
+   "title": "乱莺剑",
+   "img": "https://image.gcores.com/daeda8cda12b55fd1c4808a6dfedf55a-480-480.png"
+  },
+  {
+   "startTime": 1102,
+   "title": "武器不套模板",
+   "img": "https://image.gcores.com/b795247848bf4173fa81ce965332e5d9-804-448.png"
+  },
+  {
+   "startTime": 1185,
+   "title": "召唤流玩法",
+   "img": "https://image.gcores.com/2a706df4e55bfefd1ec13ede8aaf0161-480-480.png"
+  },
+  {
+   "startTime": 1212,
+   "title": "圣母邪扇",
+   "img": "https://image.gcores.com/0155c9a36ba2c3357835fd43d186e008-480-480.png"
+  },
+  {
+   "startTime": 1250,
+   "title": "偃月刀",
+   "img": "https://image.gcores.com/5adad06848e4dc16f7c801cbd64a9409-480-480.png"
+  },
+  {
+   "startTime": 1299,
+   "title": "别离残钩",
+   "img": "https://image.gcores.com/ce15953c9574c4fd5389db286506b3b0-480-480.png"
+  },
+  {
+   "startTime": 1357,
+   "title": "鬼差高手：勾魂",
+   "img": "https://image.gcores.com/380b5b74d0ee311e0403cb3957d81e11-510-544.png"
+  },
+  {
+   "startTime": 1377,
+   "title": "灵蛇软剑",
+   "img": "https://image.gcores.com/ec6e8a2754bd34f2d9ac7d3bb9b53bf2-480-480.png"
+  },
+  {
+   "startTime": 1432,
+   "title": "廿一号·剑偶：玉璧",
+   "img": "https://image.gcores.com/cdda46b533d1d34dbba7a8078044f24a-510-568.png"
+  },
+  {
+   "startTime": 1507,
+   "title": "荒行子：撕裂锯轮",
+   "img": "https://image.gcores.com/46760bf37b8b185344f69c68e8499da8-510-775.png"
+  },
+  {
+   "startTime": 1528,
+   "title": "血滴子",
+   "img": "https://image.gcores.com/1f7d68eff8524912424ba7cbed861373-480-480.png"
+  },
+  {
+   "startTime": 1558,
+   "title": "追命锁镰",
+   "img": "https://image.gcores.com/f7e82bae8c32e73ec90d67bfcf166337-480-480.png"
+  },
+  {
+   "startTime": 1564,
+   "title": "长柄金瓜",
+   "img": "https://image.gcores.com/be4fbeb13cccda857a43a435e584bd9a-480-480.png"
+  },
+  {
+   "startTime": 1583,
+   "title": "七星剑阵：大师兄",
+   "img": "https://image.gcores.com/0ef9f46178bf0aeca7f31e822bbd6165-510-1042.png"
+  },
+  {
+   "startTime": 1593,
+   "title": "红衣女剑客",
+   "img": "https://image.gcores.com/e050fb4853dceeced5fc6dd386a4da90-510-613.png"
+  },
+  {
+   "startTime": 1605,
+   "title": "雷霆枪",
+   "img": "https://image.gcores.com/c490139796cf4003d2ecde3393880f02-480-480.png"
+  },
+  {
+   "startTime": 1624,
+   "title": "雷枪：长鸿",
+   "img": "https://image.gcores.com/c106ea9c1c7861a922e515aeb4a3a2d2-510-562.png"
+  },
+  {
+   "startTime": 1652,
+   "title": "白影",
+   "img": "https://image.gcores.com/eb1a9677fbd3073703efe77025db844b-480-480.png"
+  },
+  {
+   "startTime": 1663,
+   "title": "风雪刀客",
+   "img": "https://image.gcores.com/f6ca78d04005ece1996be06dee1e0898-510-541.png"
+  },
+  {
+   "startTime": 1750,
+   "title": "动作系统别太当真",
+   "img": "https://image.gcores.com/ed50fa3cf3e8c06b0c0ab98ebe1e9555-492-216.png"
+  },
+  {
+   "startTime": 1758,
+   "title": "黑伤双刃",
+   "img": "https://image.gcores.com/d48485eae7edd02a5aa3e3465a928c15-480-480.png"
+  },
+  {
+   "startTime": 1801,
+   "title": "残钢刃",
+   "img": "https://image.gcores.com/8a64c8b163a73535ff7b076f52506d6c-480-480.png"
+  },
+  {
+   "startTime": 1874,
+   "title": "战斗复杂度足够",
+   "img": "https://image.gcores.com/694e618175da011a9c363d0383d21d53-485-205.png"
+  },
+  {
+   "startTime": 1955,
+   "title": "白山风雷剑",
+   "img": "https://image.gcores.com/8c8c0936baecaf48fb80e07043ace2a6-480-480.png"
+  },
+  {
+   "startTime": 2042,
+   "title": "动作游戏的基本原理",
+   "img": "https://image.gcores.com/73f3a6b76f9b6be154f7324e27310946-716-697.png",
+   "url": "https://www.bilibili.com/video/BV1TGWs6yEh1/?spm_id_from=333.337.search-card.all.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 2173,
+   "title": "敌人攻击频率过快"
+  },
+  {
+   "startTime": 2207,
+   "title": "双蛇夫人：白赤练",
+   "img": "https://image.gcores.com/05502ae7f6bf18e9365ea2d33a7bbc24-510-389.png"
+  },
+  {
+   "startTime": 2287,
+   "title": "天玄青铜剑",
+   "img": "https://image.gcores.com/ee3039ae3a54283bd5b4a767af7ae3ce-480-480.png"
+  },
+  {
+   "startTime": 2311,
+   "title": "慈母护符",
+   "img": "https://image.gcores.com/cc2dd7eb41aa5718fce6e63a476b5fd0-332-579.png"
+  },
+  {
+   "startTime": 2392,
+   "title": "古甲残片",
+   "img": "https://image.gcores.com/8b390813177c0d1cd7bc52c1359e797a-540-559.png"
+  },
+  {
+   "startTime": 2486,
+   "title": "最讨厌的BOSS",
+   "img": "https://image.gcores.com/541c4d20d5e684403c343e63992b6572-504-284.webp"
+  },
+  {
+   "startTime": 2527,
+   "title": "灭法之法",
+   "img": "https://image.gcores.com/931a57516fbe0ed5e19a107e07ae92ed-510-946.png"
+  },
+  {
+   "startTime": 2549,
+   "title": "灭法之法：蛊鹤",
+   "img": "https://image.gcores.com/d2088e18bf2527b393e8424b0b812d39-510-748.png"
+  },
+  {
+   "startTime": 2732,
+   "title": "红蓝光是被动收益",
+   "img": "https://image.gcores.com/b64e6533a1c4824fcea036de3fb68cc5-804-452.png"
+  },
+  {
+   "startTime": 2768,
+   "title": "邪道联盟盟主羽毛",
+   "img": "https://image.gcores.com/a1a72a342d3b63581fdd1795c2a1f95e-362-293.png",
+   "url": "https://www.bilibili.com/video/BV195xp6HEX2/?spm_id_from=333.1387.homepage.video_card.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 2836,
+   "title": "鬼差队长：火流星",
+   "img": "https://image.gcores.com/11a39e6073a3631c8ed031adb03063c3-468-1036.png"
+  },
+  {
+   "startTime": 2842,
+   "title": "梦差：冷荼",
+   "img": "https://image.gcores.com/5f6cb7428a66c9f4b8600b3dd829576a-510-953.png"
+  },
+  {
+   "startTime": 2923,
+   "title": "交互判定",
+   "img": "https://image.gcores.com/8ee5bb5a5bb5e9a757370fbf30aa23c2-873-849.png"
+  },
+  {
+   "startTime": 2993,
+   "title": "处决按不到",
+   "img": "https://image.gcores.com/9717e3c522b54069f42e7ea00cdd8f4e-915-658.png"
+  },
+  {
+   "startTime": 3062,
+   "title": "对着钩锁点使用了金瓜锤",
+   "img": "https://image.gcores.com/52cfb1e5c83df0b42722d3178438e34d-803-451.png"
+  },
+  {
+   "startTime": 3254,
+   "title": "自动生成的攻击模组",
+   "img": "https://image.gcores.com/2ddca7e210380e699b895205947151c0-818-570.png"
+  },
+  {
+   "startTime": 3349,
+   "title": "玉妖铁鬼双人BOSS战",
+   "img": "https://image.gcores.com/ac5e9ba2aae442bfd9136a6174b53515-1280-785.png"
+  },
+  {
+   "startTime": 3534,
+   "title": "神医：谢秋冬",
+   "img": "https://image.gcores.com/402990315862437eb56f9342fec4178a-510-435.png"
+  },
+  {
+   "startTime": 3626,
+   "title": "系统跟玩家抢角色的控制权",
+   "img": "https://image.gcores.com/9b44d3fcf48e3df7de72e62a15349fec-800-445.png"
+  },
+  {
+   "startTime": 3691,
+   "title": "解锁正道大营",
+   "img": "https://image.gcores.com/e06d226cea5dc9c1a94ba91ae5ac1216-806-450.png"
+  },
+  {
+   "startTime": 3723,
+   "title": "梅谷湖",
+   "img": "https://image.gcores.com/c4f9925631b37d784a1dce8c2766d268-1258-734.png"
+  },
+  {
+   "startTime": 3799,
+   "title": "减法不够"
+  },
+  {
+   "startTime": 3870,
+   "title": "血色森林",
+   "img": "https://image.gcores.com/bc6836ba2989a06415f75f2232d903c0-1424-765.png"
+  },
+  {
+   "startTime": 3929,
+   "title": "烟千岁",
+   "img": "https://image.gcores.com/e979d9ddbd5a486eb1c11a8d45bb8f35-1073-630.png"
+  },
+  {
+   "startTime": 4011,
+   "title": "打完沐小葵的杀气石碎片",
+   "img": "https://image.gcores.com/17fcbb0574ce20d87ea58583dc5124b2-1306-712.png"
+  },
+  {
+   "startTime": 4055,
+   "title": "水行钓者",
+   "img": "https://image.gcores.com/c12b0470d9b8da47bb7bdc462333cd24-422-1170.png"
+  },
+  {
+   "startTime": 4061,
+   "title": "独眼弓客",
+   "img": "https://image.gcores.com/50e83c4abf9ee49536e3639c4e55b61f-510-562.png"
+  },
+  {
+   "startTime": 4107,
+   "title": "游戏音乐",
+   "img": "https://image.gcores.com/f9d78e15de32a8e53881e6d6c6783be5-600-600.webp"
+  },
+  {
+   "startTime": 4140,
+   "title": "皮影戏",
+   "img": "https://image.gcores.com/ae4dce027b8b46a82a25b7113aabad12-1156-683.png"
+  },
+  {
+   "startTime": 4231,
+   "title": "也是一种按头安利",
+   "img": "https://image.gcores.com/f3bbab1ae03c5ecd0ddfc19538b5504b-846-701.png"
+  },
+  {
+   "startTime": 4314,
+   "title": "被面具控制的舞狮尊主：烈焰",
+   "img": "https://image.gcores.com/1edea9aebd9f9471d07f9f92e7cf7140-510-508.png"
+  },
+  {
+   "startTime": 4346,
+   "title": "狮头点睛小演出",
+   "img": "https://image.gcores.com/f5f8eaf124772f0b3f23145e990001e3-1271-761.png"
+  },
+  {
+   "startTime": 4480,
+   "title": "文本问题"
+  },
+  {
+   "startTime": 4534,
+   "title": "手游的沐小葵",
+   "img": "https://image.gcores.com/9b85d8e5d8a162271248613b4172c0d7-550-253.png"
+  },
+  {
+   "startTime": 4610,
+   "title": "记忆之花",
+   "img": "https://image.gcores.com/4cf3ff9883b425ea20daceb0ad6dec67-600-450.png"
+  },
+  {
+   "startTime": 4676,
+   "title": "梦华圣母娘娘",
+   "img": "https://image.gcores.com/252733a395fe314e8234e80677058ba9-510-815.png"
+  },
+  {
+   "startTime": 4703,
+   "title": "陆三迁",
+   "img": "https://image.gcores.com/35bfae19475e425dad950b8312189f80-916-519.png"
+  },
+  {
+   "startTime": 4812,
+   "title": "薄彩生《游戏音乐创作漫谈》",
+   "img": "https://image.gcores.com/577a26fd152f5c07fa2a95c866fc0217-1027-867.png",
+   "url": "https://www.gcores.com/radios/155834"
+  },
+  {
+   "startTime": 4823,
+   "title": "大娘亲",
+   "img": "https://image.gcores.com/748d824af3ff1fc232a192b5471141bd-474-998.png"
+  },
+  {
+   "startTime": 4896,
+   "title": "浊",
+   "img": "https://image.gcores.com/3973a80eda1258bdc7ee89742c023582-821-860.png"
+  },
+  {
+   "startTime": 4943,
+   "title": "少年左殇",
+   "img": "https://image.gcores.com/c42e6c7663340254778b8ef59eb22e6b-439-1041.png"
+  },
+  {
+   "startTime": 5017,
+   "title": "沐天邈",
+   "img": "https://image.gcores.com/10b4e6e758f97b9d7c0c065a45ca76ca-1129-821.png"
+  },
+  {
+   "startTime": 5129,
+   "title": "虎炮：雷当",
+   "img": "https://image.gcores.com/192598b408bc7b7dbe63b43385104821-510-530.png"
+  },
+  {
+   "startTime": 5230,
+   "title": "最终决战",
+   "img": "https://image.gcores.com/17e8c4af9ebc649024bd0540ee4b8016-1358-783.png"
+  },
+  {
+   "startTime": 5372,
+   "title": "人物关系不成立"
+  },
+  {
+   "startTime": 5484,
+   "title": "左殇的目的是啥",
+   "img": "https://image.gcores.com/555f1d6e087e50ef1d98d44e167cdce7-510-942.png"
+  },
+  {
+   "startTime": 5585,
+   "title": "世界观设定",
+   "img": "https://image.gcores.com/9c6e2fde2f0aec8f42d5bd952713806c-450-253.jpg",
+   "url": "https://wiki.biligame.com/yingzhiren/%E4%B8%96%E7%95%8C%E8%A7%82"
+  },
+  {
+   "startTime": 5632,
+   "title": "横刀：毕峰",
+   "img": "https://image.gcores.com/ca7762b922162a8b872c8bf1fd8e3257-510-679.png"
+  },
+  {
+   "startTime": 5777,
+   "title": "昆仑叛教者：荒行子",
+   "img": "https://image.gcores.com/884b88e679f17c88231c4cdda3b8c9ab-510-603.png"
+  },
+  {
+   "startTime": 5953,
+   "title": "玩老头环玩的",
+   "img": "https://image.gcores.com/4fc0207d5c6f8339fe5b9e11383848c4-1194-868.png"
+  },
+  {
+   "startTime": 6027,
+   "title": "至高者",
+   "img": "https://image.gcores.com/f90c4376160783785e950de83abbd9b0-1145-705.png"
+  },
+  {
+   "startTime": 6080,
+   "title": "是真喜欢"
+  },
+  {
+   "startTime": 6174,
+   "title": "动作系统非常好",
+   "img": "https://image.gcores.com/8a2bce79e7cac920a0ef695ffd626310-757-641.gif"
+  },
+  {
+   "startTime": 6285,
+   "title": "最强主角",
+   "img": "https://image.gcores.com/47f980531c811b86a62595afb398637f-640-542.png"
+  },
+  {
+   "startTime": 6377,
+   "title": "期待下一作"
+  },
+  {
+   "startTime": 6484,
+   "title": "敲铃铛后敌人不复活",
+   "img": "https://image.gcores.com/21a2336da2cc0fc7c45a0564f8ea45e1-1352-698.png"
+  },
+  {
+   "startTime": 6571,
+   "title": "BOSS不恢复阶段",
+   "img": "https://image.gcores.com/0ef44a148d751839f34119373df728a0-1186-531.png"
+  },
+  {
+   "startTime": 6636,
+   "title": "让人玩起来很帅",
+   "img": "https://image.gcores.com/006dce1f1d66034f13d2cb836ad3cd62-1080-607.jpg"
+  },
+  {
+   "startTime": 6753,
+   "title": "你找到自己的那把\"轮椅\"武器了吗？",
+   "img": "https://image.gcores.com/ebb0f7245137bb49b71f998a5b14d135-1077-608.webp",
+   "url": "https://www.gcores.com/articles/222114"
+  },
+  {
+   "startTime": 6787,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/e34e90638635cd2ddf81f6586a2e2943-850-529.jpg"
+  }
+ ]
+}

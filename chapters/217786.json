@@ -1,0 +1,319 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "Gadio EA"
+  },
+  {
+   "startTime": 46,
+   "title": "《轮回之兽》",
+   "img": "https://image.gcores.com/9be9e94c322d2987373bcab28b1f2038-920-430.webp"
+  },
+  {
+   "startTime": 80,
+   "title": "Game Freak",
+   "img": "https://image.gcores.com/5822476d5ba429429df8a2c623035ba8-199-136.png"
+  },
+  {
+   "startTime": 152,
+   "title": "发售平台",
+   "img": "https://image.gcores.com/e77534d2e3ac8d98745f8c9383f93453-640-360.jpg"
+  },
+  {
+   "startTime": 219,
+   "title": "宝可梦元素",
+   "img": "https://image.gcores.com/57f208079e10392155b1fe90e0c0490e-875-492.webp"
+  },
+  {
+   "startTime": 275,
+   "title": "小库能力",
+   "img": "https://image.gcores.com/7ba5e8a7d1540fb5f670c774d6758c41-1582-890.png"
+  },
+  {
+   "startTime": 365,
+   "title": "异常属性",
+   "img": "https://image.gcores.com/2329c99d53d5528ddee2136e606c20eb-875-492.webp"
+  },
+  {
+   "startTime": 484,
+   "title": "既视感",
+   "img": "https://image.gcores.com/1813f4278f12f7e3e5b82cf3e1bf8844-875-492.webp"
+  },
+  {
+   "startTime": 514,
+   "title": "战斗体验",
+   "img": "https://image.gcores.com/22bfc0d0b9d0571d7551f750ba7f11c9-875-492.webp"
+  },
+  {
+   "startTime": 596,
+   "title": "霸主技",
+   "img": "https://image.gcores.com/0978ce28a45eac64bafc04935f5a0bb7-600-337.webp"
+  },
+  {
+   "startTime": 661,
+   "title": "视觉反馈",
+   "img": "https://image.gcores.com/6a8a1cad51fcbb66ad9902469feb95b3-360-360.png"
+  },
+  {
+   "startTime": 688,
+   "title": "游玩节奏",
+   "img": "https://image.gcores.com/6b4541af3240c70f72b79e649d997641-1582-890.png"
+  },
+  {
+   "startTime": 736,
+   "title": "技能属性",
+   "img": "https://image.gcores.com/ddd17f96524d60e07bc10c912c4520d1-2560-1440.jpg"
+  },
+  {
+   "startTime": 789,
+   "title": "尼尔",
+   "img": "https://image.gcores.com/18eee45af315898021c468eb57a61992-298-333.jpg"
+  },
+  {
+   "startTime": 812,
+   "title": "声优阵容",
+   "img": "https://image.gcores.com/268b7f06d83f48a0e0e5e534647eb506-875-542.webp"
+  },
+  {
+   "startTime": 929,
+   "title": "世界观",
+   "img": "https://image.gcores.com/3f54aff881a8633ff5885c32603c974b-1582-890.png"
+  },
+  {
+   "startTime": 955,
+   "title": "基地",
+   "img": "https://image.gcores.com/698315b6e840a1a21f09156822c77111-578-631.png"
+  },
+  {
+   "startTime": 1020,
+   "title": "音乐",
+   "img": "https://image.gcores.com/c5d775091eb22d06dab55a7273f8cffb-1582-890.png"
+  },
+  {
+   "startTime": 1119,
+   "title": "角色",
+   "img": "https://image.gcores.com/6d7f5dee418ccf7435ca293529cd85f1-753-765.png"
+  },
+  {
+   "startTime": 1154,
+   "title": "小尼尔",
+   "img": "https://image.gcores.com/1355189247901955212db1ee1a1b9c1c-1582-890.png"
+  },
+  {
+   "startTime": 1226,
+   "title": "小只狼",
+   "img": "https://image.gcores.com/dd035ac2582e0addf7a90850b94d2a09-280-350.jpg"
+  },
+  {
+   "startTime": 1317,
+   "title": "小库",
+   "img": "https://image.gcores.com/e13f172199e1c23981db1bbffe6c92e2-550-308.png"
+  },
+  {
+   "startTime": 1376,
+   "title": "动作系统",
+   "img": "https://image.gcores.com/2cef7713878681cc644828027263fdf8-1582-890.png"
+  },
+  {
+   "startTime": 1474,
+   "title": "交互体验",
+   "img": "https://image.gcores.com/5e57ce2743099dafea56b5d3bde201f3-1582-890.png"
+  },
+  {
+   "startTime": 1587,
+   "title": "敌人动作",
+   "img": "https://image.gcores.com/cbcb8bc6d072f831fa56334361a345e1-1582-890.png"
+  },
+  {
+   "startTime": 1624,
+   "title": "人犬协作",
+   "img": "https://image.gcores.com/3f1f8ccc427fed5ec91374bd95b7fe10-1582-890.png"
+  },
+  {
+   "startTime": 1666,
+   "title": "战斗难度",
+   "img": "https://image.gcores.com/3a690a439ee848e155b558320ec3e95f-1379-776.webp"
+  },
+  {
+   "startTime": 1759,
+   "title": "细节优化",
+   "img": "https://image.gcores.com/8b6e470c4e30562a747a1196bbd7a852-1582-890.png"
+  },
+  {
+   "startTime": 1948,
+   "title": "辅助玩法",
+   "img": "https://image.gcores.com/9183d81b2d7786bf338553e3af06f65b-1379-776.webp"
+  },
+  {
+   "startTime": 2097,
+   "title": "敌人种类",
+   "img": "https://image.gcores.com/a6ad71caeddca5a061c3a76391062c15-1502-845.webp"
+  },
+  {
+   "startTime": 2154,
+   "title": "恐怖直立猿",
+   "img": "https://image.gcores.com/d8a515e625cc26c5c8d92ac8394ab2ae-1379-776.webp"
+  },
+  {
+   "startTime": 2262,
+   "title": "叙事占比",
+   "img": "https://image.gcores.com/a46af6ab8d43ca1258364d07b2bf5b4c-1379-776.webp"
+  },
+  {
+   "startTime": 2316,
+   "title": "角色对话",
+   "img": "https://image.gcores.com/69f702ee110ce21d4deccc807c715b25-1379-776.webp"
+  },
+  {
+   "startTime": 2462,
+   "title": "穷",
+   "img": "https://image.gcores.com/f93e639659e691e03f0a761e024e21e9-1379-776.webp"
+  },
+  {
+   "startTime": 2560,
+   "title": "成也败也",
+   "img": "https://image.gcores.com/cbf131e74aa2ff605281190cbabaf30b-1379-776.webp"
+  },
+  {
+   "startTime": 2601,
+   "title": "Game Freak",
+   "img": "https://image.gcores.com/a15a430837b85b4be66d7bc05df4a68e-783-391.jpg"
+  },
+  {
+   "startTime": 2657,
+   "title": "同人志",
+   "img": "https://image.gcores.com/bb82305c712ab180620d41b2308180fb-362-512.jpg"
+  },
+  {
+   "startTime": 2692,
+   "title": "创业故事",
+   "img": "https://image.gcores.com/1c6fc2ace7a435eb8a213c54a6f5b6ef-458-670.jpg"
+  },
+  {
+   "startTime": 2800,
+   "title": "开发作品",
+   "img": "https://image.gcores.com/e25092f6ee1b2c33737f4186edc937c7-620-388.jpg"
+  },
+  {
+   "startTime": 2858,
+   "title": "齿轮计划",
+   "img": "https://image.gcores.com/f6cee7538d31c04937a1d6eae0789510-2048-1152.jpg"
+  },
+  {
+   "startTime": 2895,
+   "title": "《纸牌赛马》",
+   "img": "https://image.gcores.com/0d98113428ac0af20f04c3e33d6050ff-1024-640.jpg"
+  },
+  {
+   "startTime": 2957,
+   "title": "《轰隆钻头》",
+   "img": "https://image.gcores.com/e46a74cf2a106b2fd93beac2dccc03bb-375-334.png"
+  },
+  {
+   "startTime": 3062,
+   "title": "总监采访",
+   "img": "https://image.gcores.com/42c70e011ec247fa35762d0e43d57cef-1870-1080.webp",
+   "url": "https://www.gcores.com/articles/216539"
+  },
+  {
+   "startTime": 3150,
+   "title": "古岛康太",
+   "img": "https://image.gcores.com/5492b7fea2365904becd6f0256f8edb6-500-272.jpg"
+  },
+  {
+   "startTime": 3238,
+   "title": "小库",
+   "img": "https://image.gcores.com/54e972c73be08fa71e734800ab432ec5-983-993.webp"
+  },
+  {
+   "startTime": 3321,
+   "title": "技术储备",
+   "img": "https://image.gcores.com/3466733b79fc2bf65ec8426fae3ee096-739-415.jpg"
+  },
+  {
+   "startTime": 3410,
+   "title": "国产游戏",
+   "img": "https://image.gcores.com/eba051be28319dfbb7741807bfb898ff-250-250.jpg"
+  },
+  {
+   "startTime": 3523,
+   "title": "中规中矩",
+   "img": "https://image.gcores.com/895e0a340645d24fe05a90bb9a4acd26-960-641.avif"
+  },
+  {
+   "startTime": 3676,
+   "title": "核心明确",
+   "img": "https://image.gcores.com/6ab47773c10c5714f2f861226e2874d4-739-415.jpg"
+  },
+  {
+   "startTime": 3727,
+   "title": "学习成本",
+   "img": "https://image.gcores.com/99b414b11f1790956536b35a099a6586-1200-630.webp"
+  },
+  {
+   "startTime": 3899,
+   "title": "涂击队",
+   "img": "https://image.gcores.com/37455e3d27be15766c1aa68968f82604-853-480.webp"
+  },
+  {
+   "startTime": 3979,
+   "title": "角色性能",
+   "img": "https://image.gcores.com/44982f0c7828dcf6dfbdcb24ddeb61f7-1379-776.webp"
+  },
+  {
+   "startTime": 4080,
+   "title": "流畅探索",
+   "img": "https://image.gcores.com/a758fbde7dbd6fba52584b463657659c-1379-776.webp"
+  },
+  {
+   "startTime": 4191,
+   "title": "自动寻物",
+   "img": "https://image.gcores.com/299dce0a40cdaf3c6ec2d9993b3f593d-1379-776.webp"
+  },
+  {
+   "startTime": 4260,
+   "title": "解谜",
+   "img": "https://image.gcores.com/573dd60dbc338203c58979edf2fedcc2-1379-776.webp"
+  },
+  {
+   "startTime": 4324,
+   "title": "探索体验",
+   "img": "https://image.gcores.com/4db58dc3f3cdf0c1fa83c4402c3cb879-1379-776.webp"
+  },
+  {
+   "startTime": 4404,
+   "title": "自知之明",
+   "img": "https://image.gcores.com/505d2f7232974db61f7958cf4f656556-1379-776.webp"
+  },
+  {
+   "startTime": 4443,
+   "title": "尼尔代餐",
+   "img": "https://image.gcores.com/eabf355f14d6b88f0c3d0d3453ed5bcb-298-333.jpg"
+  },
+  {
+   "startTime": 4484,
+   "title": "2000年后",
+   "img": "https://image.gcores.com/b2544c7f310ea518fdeaf3a975c5bb85-1584-892.png"
+  },
+  {
+   "startTime": 4557,
+   "title": "大作来袭",
+   "img": "https://image.gcores.com/fcf688ef9ad06d2948587157258e5bf7-596-335.jpg"
+  },
+  {
+   "startTime": 4638,
+   "title": "性能表现",
+   "img": "https://image.gcores.com/a2397c7a8232247a74148bf3471235f4-739-415.jpg"
+  },
+  {
+   "startTime": 4717,
+   "title": "洗澡",
+   "img": "https://image.gcores.com/7bc51a5ef8e963d72e525f0ecd33f4f3-1379-776.webp"
+  },
+  {
+   "startTime": 4786,
+   "title": "下期再见"
+  }
+ ]
+}

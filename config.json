@@ -1,0 +1,30 @@
+{
+  "max_items": 100,
+  "pages": 3,
+  "page_size": 100,
+  "workers": 8,
+  "normalize_title_bar": true,
+  "feeds": {
+    "gcores": {
+      "file": "gcores.xml",
+      "title": "机核 GCORES · 机核出品",
+      "link": "https://www.gcores.com/radios?filter=gcores",
+      "description": "机核出品的播客节目，按发布时间降序排列，每集附时间轴。",
+      "filter": "gcores",
+      "ignore": [
+        "SPEC",
+        "录音笔"
+      ]
+    },
+    "join": {
+      "file": "join.xml",
+      "title": "机核 GCORES · 入驻播客",
+      "link": "https://www.gcores.com/radios?filter=join",
+      "description": "机核「入驻播客」节目，按发布时间降序排列，每集附时间轴。",
+      "filter": "join_podcast",
+      "ignore": [
+        "诗梳风"
+      ]
+    }
+  }
+}

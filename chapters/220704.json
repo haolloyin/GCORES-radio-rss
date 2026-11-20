@@ -1,0 +1,408 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 23,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 42,
+   "title": "安利回顾"
+  },
+  {
+   "startTime": 85,
+   "title": "年度游戏候选",
+   "img": "https://image.gcores.com/934492761b039001df957216720dfc73-1024-587.jpg"
+  },
+  {
+   "startTime": 177,
+   "title": "名人名言",
+   "img": "https://image.gcores.com/dfd20975ee3f18ee8c83f8cccf39676b-90-110.png"
+  },
+  {
+   "startTime": 206,
+   "title": "角色塑造",
+   "img": "https://image.gcores.com/e41a2aab8fa2054df7e01d06d1db0280-587-590.png"
+  },
+  {
+   "startTime": 249,
+   "title": "出云阿国",
+   "img": "https://image.gcores.com/abeb8b7b991c9924b2f788238eaec8bd-741-430.png"
+  },
+  {
+   "startTime": 310,
+   "title": "宫本武藏",
+   "img": "https://image.gcores.com/96d9ca4b809a0369ee48573965837c5d-1022-617.png"
+  },
+  {
+   "startTime": 405,
+   "title": "设计如此",
+   "img": "https://image.gcores.com/ed2e0209a92ffd60e675910c80b298f9-785-731.gif"
+  },
+  {
+   "startTime": 499,
+   "title": "动作游戏风格",
+   "img": "https://image.gcores.com/54adbe34ede96af1c31616cdc09588a8-1067-624.png"
+  },
+  {
+   "startTime": 612,
+   "title": "容错高",
+   "img": "https://image.gcores.com/a17dd145b339ee822aa655baad21ad2e-1011-585.png"
+  },
+  {
+   "startTime": 639,
+   "title": "一闪",
+   "img": "https://image.gcores.com/e17668b3abf0e592350f84c48eadb286-785-731.gif"
+  },
+  {
+   "startTime": 680,
+   "title": "有效升级",
+   "img": "https://image.gcores.com/938e43ac7e11ae74e29e5924ce010e07-513-829.png"
+  },
+  {
+   "startTime": 765,
+   "title": "雷狼龙",
+   "img": "https://image.gcores.com/438ac92116ef816d4a4ad6676f0ac912-1482-834.jpg"
+  },
+  {
+   "startTime": 802,
+   "title": "理性批判"
+  },
+  {
+   "startTime": 842,
+   "title": "为什么没有多种武器",
+   "img": "https://image.gcores.com/65e48233e05ebbf357a283c3a5ecbf03-2560-1438.jpg"
+  },
+  {
+   "startTime": 930,
+   "title": "正反馈强",
+   "img": "https://image.gcores.com/cfc0b57157b3fda840a80afacd4405fc-1329-512.png"
+  },
+  {
+   "startTime": 993,
+   "title": "卡师傅",
+   "img": "https://image.gcores.com/eb9fe00668c99ffb837cb7adc053898a-380-215.png"
+  },
+  {
+   "startTime": 1044,
+   "title": "爷俩傻笑",
+   "img": "https://image.gcores.com/366b4ed0c2919e0b0b68ba3f79ec643f-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1NzY46TEdE/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1106,
+   "title": "紫式部",
+   "img": "https://image.gcores.com/5075afee240bbb54c167c33cb98fe60c-1125-656.png"
+  },
+  {
+   "startTime": 1184,
+   "title": "期待过高",
+   "img": "https://image.gcores.com/cf378886f6f4cb80205c0df98b68de1f-1120-630.jpg"
+  },
+  {
+   "startTime": 1238,
+   "title": "西蒙的体验",
+   "img": "https://image.gcores.com/6b39c1678867c986e3c554b84eed4aab-1054-601.png",
+   "url": "https://www.gcores.com/radios/108071"
+  },
+  {
+   "startTime": 1300,
+   "title": "听歌玩只狼",
+   "img": "https://image.gcores.com/7ad3b8b8a0782f2f4a4bf0043adc1b1e-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1RoYo6KENe/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1392,
+   "title": "马桶BOSS",
+   "img": "https://image.gcores.com/21e1c9a9b3e7bb5adb67d37de73ff05b-583-446.png"
+  },
+  {
+   "startTime": 1443,
+   "title": "气焰状态",
+   "img": "https://image.gcores.com/4671772f15337eb4e5ea2f1abd1caf26-993-842.png"
+  },
+  {
+   "startTime": 1531,
+   "title": "以爽为主",
+   "img": "https://image.gcores.com/fd902fe6d1eafa36b90c1fd5e84ac8b1-2048-1152.jpg"
+  },
+  {
+   "startTime": 1700,
+   "title": "不太喜欢",
+   "img": "https://image.gcores.com/9f3754841e5e614226eaa80891953734-1500-843.jpg"
+  },
+  {
+   "startTime": 1798,
+   "title": "群战糟糕",
+   "img": "https://image.gcores.com/620354f08d44a5daf1c05d956162ef85-1120-630.jpg"
+  },
+  {
+   "startTime": 1877,
+   "title": "信息反馈差",
+   "img": "https://image.gcores.com/40948549c57e9aa118fa255e393c3efc-693-572.png"
+  },
+  {
+   "startTime": 1989,
+   "title": "内容匮乏",
+   "img": "https://image.gcores.com/ab1c7fd0f653f5ca2154e249d5c93999-542-107.png"
+  },
+  {
+   "startTime": 2088,
+   "title": "战斗系统",
+   "img": "https://image.gcores.com/4b37d2daaf182cdb6d0b2a2ffef74dee-678-381.png"
+  },
+  {
+   "startTime": 2125,
+   "title": "开局武器",
+   "img": "https://image.gcores.com/2dc96e66bf87438b870f16ded7ce2788-564-310.png"
+  },
+  {
+   "startTime": 2167,
+   "title": "好多人啊",
+   "img": "https://image.gcores.com/5c0cf37c056acc39c6162aa0ceb1e60f-480-300.gif"
+  },
+  {
+   "startTime": 2231,
+   "title": "往期节目",
+   "img": "https://image.gcores.com/28423964eb216df8a3104718c317867e-251-251.webp",
+   "url": "https://www.gcores.com/radios/115047"
+  },
+  {
+   "startTime": 2335,
+   "title": "克苏鲁",
+   "img": "https://image.gcores.com/335c3016ccfbbdb12e1fd34a41ef0414-251-251.webp",
+   "url": "https://www.gcores.com/radios/22261"
+  },
+  {
+   "startTime": 2404,
+   "title": "《心灵杀手》",
+   "img": "https://image.gcores.com/a397f12a23df11473e73b0f787fc11a4-1728-1080.jpg"
+  },
+  {
+   "startTime": 2463,
+   "title": "烟灰缸迷宫",
+   "img": "https://image.gcores.com/4bf34874f9e3451c08abf6a02c98acf7-1067-596.png"
+  },
+  {
+   "startTime": 2537,
+   "title": "瑕不掩瑜",
+   "img": "https://image.gcores.com/d4a16a1a50b0aac68fd52481d75b4f66-422-442.png"
+  },
+  {
+   "startTime": 2599,
+   "title": "机核参与",
+   "img": "https://image.gcores.com/0abb92fcf4c26ee06264784ad82e25ef-716-335.webp"
+  },
+  {
+   "startTime": 2629,
+   "title": "最后的出租车",
+   "img": "https://image.gcores.com/f817420f020ccd00af428fb6119d2d4e-1120-630.jpg"
+  },
+  {
+   "startTime": 2690,
+   "title": "《蝙蝠侠：阿卡姆骑士》",
+   "img": "https://image.gcores.com/cff0a7641c276b127a4bf6387ac1aa36-2048-1536.jpg"
+  },
+  {
+   "startTime": 2730,
+   "title": "游戏开场",
+   "img": "https://image.gcores.com/0b646f0167cbafd20c0eeb57e1bb5a75-1317-665.png"
+  },
+  {
+   "startTime": 2798,
+   "title": "敌兵设计",
+   "img": "https://image.gcores.com/7f1f515295d7dbf52bc95bc83aa06ffe-1317-704.png"
+  },
+  {
+   "startTime": 2850,
+   "title": "场景美学",
+   "img": "https://image.gcores.com/3c2147d1d1255ea4e864d5955aad72b4-1159-579.png"
+  },
+  {
+   "startTime": 2918,
+   "title": "游戏画面",
+   "img": "https://image.gcores.com/a14e83badd7e27c03cbce20c8435fe9f-1341-747.png"
+  },
+  {
+   "startTime": 3025,
+   "title": "显性引导",
+   "img": "https://image.gcores.com/2da26b875c10cf481937314270bc5a97-641-470.png"
+  },
+  {
+   "startTime": 3102,
+   "title": "游戏主角",
+   "img": "https://image.gcores.com/b2695cabcd33fbab3dea05bb9e4a0585-319-474.png"
+  },
+  {
+   "startTime": 3173,
+   "title": "《战争机器：事变日》",
+   "img": "https://image.gcores.com/46876f3a3052404320791d47e527d5df-410-190.png"
+  },
+  {
+   "startTime": 3233,
+   "title": "夜幕低垂",
+   "img": "https://image.gcores.com/b575c8dd204b9cfbe94783fdc4bec1e6-378-352.png"
+  },
+  {
+   "startTime": 3285,
+   "title": "故事梗概",
+   "img": "https://image.gcores.com/0e126dd25da5ada48b1ede854dcbd6ac-1080-607.webp"
+  },
+  {
+   "startTime": 3415,
+   "title": "完美换弹",
+   "img": "https://image.gcores.com/d96b5e773e5422df67008cfd80ee9066-1302-527.png"
+  },
+  {
+   "startTime": 3478,
+   "title": "立刻安排！",
+   "img": "https://image.gcores.com/92a1d8430d3597854c446ef8398e7e19-292-294.png"
+  },
+  {
+   "startTime": 3499,
+   "title": "COG"
+  },
+  {
+   "startTime": 3526,
+   "title": "E-Day",
+   "img": "https://image.gcores.com/5fa883412720dd96128d6bd7d1248850-800-450.webp"
+  },
+  {
+   "startTime": 3579,
+   "title": "最好的兄弟",
+   "img": "https://image.gcores.com/346992a31d77cfcaef9a34f3cd5b9434-1044-592.png"
+  },
+  {
+   "startTime": 3613,
+   "title": "钟摆战争",
+   "img": "https://image.gcores.com/a62560ca2fdb3d199d672d9708ac874f-627-492.webp",
+   "url": "https://www.gcores.com/articles/114553?f_link_type=f_linkinlinenote&flow_extra=eyJpbmxpbmVfZGlzcGxheV9wb3NpdGlvbiI6MCwiZG9jX3Bvc2l0aW9uIjowLCJkb2NfaWQiOiIwNDcwMTFiNzc2ZDljMDg0LWNlZWE3ODQ0MGJhYjVhMmUifQ%3D%3D"
+  },
+  {
+   "startTime": 3647,
+   "title": "《战争机器：审判》",
+   "img": "https://image.gcores.com/801c16965f52fb2f43d849d76e8ed1fa-805-1024.jpg"
+  },
+  {
+   "startTime": 3726,
+   "title": "忍痛杀妻",
+   "img": "https://image.gcores.com/e2d28526b8a6655484bfd7e9102f3b42-1078-612.png"
+  },
+  {
+   "startTime": 3779,
+   "title": "心理阴影"
+  },
+  {
+   "startTime": 3858,
+   "title": "美术优秀",
+   "img": "https://image.gcores.com/340df4d44949e7203c04cfca47bfd56f-1333-679.png"
+  },
+  {
+   "startTime": 3966,
+   "title": "新角色",
+   "img": "https://image.gcores.com/0af60f136d662d1a6e1da780a73ecc89-881-552.png"
+  },
+  {
+   "startTime": 4047,
+   "title": "经典套路",
+   "img": "https://image.gcores.com/b9d96fc657e99c9a9dac8cb640786ea6-381-258.png"
+  },
+  {
+   "startTime": 4115,
+   "title": "卡敏家族",
+   "img": "https://image.gcores.com/e3b2d8780fab0a472b1dd5a20d2579ac-492-177.png",
+   "url": "https://youtu.be/XiLKXd78h3Q?si=Y2SlVokLkHUed3q0"
+  },
+  {
+   "startTime": 4231,
+   "title": "大众审美",
+   "img": "https://image.gcores.com/286a05b6d6eb3747c77c7cdbefbc9d27-249-226.png"
+  },
+  {
+   "startTime": 4299,
+   "title": "游玩顺序",
+   "img": "https://image.gcores.com/81384afcff88ebee549d58a05aa2f69a-1791-1007.webp"
+  },
+  {
+   "startTime": 4351,
+   "title": "《战争机器：战术小队》",
+   "img": "https://image.gcores.com/be08db2724238f58ba6d00573264aeaa-1920-1080.jpg"
+  },
+  {
+   "startTime": 4454,
+   "title": "黎明之锤"
+  },
+  {
+   "startTime": 4577,
+   "title": "《皇牌空战8：希孚之翼》",
+   "img": "https://image.gcores.com/a7e4f421411200b113da367693a77cbc-419-402.png",
+   "url": "https://store.steampowered.com/app/2288340/8__ACE_COMBAT_8_WINGS_OF_THEVE/"
+  },
+  {
+   "startTime": 4643,
+   "title": "上手容易",
+   "img": "https://image.gcores.com/71390964d75a11efbc45adda64870c13-886-498.png"
+  },
+  {
+   "startTime": 4716,
+   "title": "希孚之翼",
+   "img": "https://image.gcores.com/e077ff15aad6cd8547ce2169697a232d-136-176.png"
+  },
+  {
+   "startTime": 4818,
+   "title": "希望破灭",
+   "img": "https://image.gcores.com/4b079a970f777d3837f084e6cfccf68d-1297-660.png"
+  },
+  {
+   "startTime": 4937,
+   "title": "《皇牌空战7：未知空域》",
+   "img": "https://image.gcores.com/fcf9e3c75fa2072b6d26a81d25f0bc35-1920-1080.jpg",
+   "url": "https://store.steampowered.com/app/502500/ACE_COMBAT_7_SKIES_UNKNOWN/"
+  },
+  {
+   "startTime": 5028,
+   "title": "...",
+   "img": "https://image.gcores.com/d44f82f03207e84ef1af8fa8ac93a9a4-1324-763.png"
+  },
+  {
+   "startTime": 5078,
+   "title": "《King Arthur: Knight's Tale》",
+   "img": "https://image.gcores.com/15b004508fa4a499537371d58f53b1d9-884-494.png",
+   "url": "https://store.steampowered.com/app/1157390/King_Arthur_Knights_Tale/"
+  },
+  {
+   "startTime": 5163,
+   "title": "《魔兽世界：无限》",
+   "img": "https://image.gcores.com/fa2e656eff781ab054e178fe30b27249-2560-1440.webp"
+  },
+  {
+   "startTime": 5257,
+   "title": "丝滑过渡",
+   "img": "https://image.gcores.com/1e464e3a58420c5a237718285995a10d-918-591.png"
+  },
+  {
+   "startTime": 5286,
+   "title": "没有朋友",
+   "img": "https://image.gcores.com/deb4d417caa8e1e6970a4aaf6522d6bf-491-342.png"
+  },
+  {
+   "startTime": 5394,
+   "title": "静御前",
+   "img": "https://image.gcores.com/77153f7fc5d8d1f336899afc8ba3db26-951-583.png"
+  },
+  {
+   "startTime": 5490,
+   "title": "遗老",
+   "img": "https://image.gcores.com/35a047e6f0387dcb77805dd88a1175fe-771-524.png"
+  },
+  {
+   "startTime": 5556,
+   "title": "《龙之信条2》DLC",
+   "img": "https://image.gcores.com/711bba60dc4aa95e8af29a0a0b051f5f-1791-1007.webp"
+  },
+  {
+   "startTime": 5590,
+   "title": "感谢收听"
+  }
+ ]
+}

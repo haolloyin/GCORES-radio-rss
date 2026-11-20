@@ -1,0 +1,237 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/b9a18909bd39bd0fe78e52c79afa3246-447-447.jpg"
+  },
+  {
+   "startTime": 39,
+   "title": "大新闻",
+   "img": "https://image.gcores.com/e2f3434437694060574f5a66bbdd3d0e-1920-1080.png",
+   "url": "https://www.gcores.com/articles/220082"
+  },
+  {
+   "startTime": 106,
+   "title": "公司病",
+   "img": "https://image.gcores.com/32f09f3e988458bc7ce4fb2b3883fd82-516-387.jpg"
+  },
+  {
+   "startTime": 196,
+   "title": "达斯米奇",
+   "img": "https://image.gcores.com/5e59e1570ae9f8a1ef3cafea575afde7-496-618.jpg"
+  },
+  {
+   "startTime": 284,
+   "title": "谨慎期待",
+   "img": "https://image.gcores.com/5d022530acc76ef984108ce731cef3eb-455-674.jpg"
+  },
+  {
+   "startTime": 402,
+   "title": "贝塞斯达接管黑曜石",
+   "img": "https://image.gcores.com/2a601ccd53acc014da65b732c1784a44-690-388.webp"
+  },
+  {
+   "startTime": 467,
+   "title": "《光环》电视剧",
+   "img": "https://image.gcores.com/e9d0a266aa14c85d7b58b66681130142-1200-675.jpg"
+  },
+  {
+   "startTime": 598,
+   "title": "动视",
+   "img": "https://image.gcores.com/2a9c1dfa67f890e4dcd2590b9f84e607-1710-900.jpg"
+  },
+  {
+   "startTime": 690,
+   "title": "贝塞斯达",
+   "img": "https://image.gcores.com/d15658985ed4912c628721a588bded75-739-415.jpg"
+  },
+  {
+   "startTime": 722,
+   "title": "远程办公",
+   "img": "https://image.gcores.com/ca32b34d89bd2d4c1b36e1013f07059f-554-554.jpg"
+  },
+  {
+   "startTime": 825,
+   "title": "吃史达人",
+   "img": "https://image.gcores.com/ed7cd923a349d5efc69af0964a1de4f4-800-450.png"
+  },
+  {
+   "startTime": 932,
+   "title": "黑曜石",
+   "img": "https://image.gcores.com/e242158d44515318246905a6fff62ab7-763-402.jpg"
+  },
+  {
+   "startTime": 1020,
+   "title": "楚门的世界",
+   "img": "https://image.gcores.com/8776ab2ad9d55f81d55504acab589b26-1200-675.avif"
+  },
+  {
+   "startTime": 1186,
+   "title": "没支棱起来",
+   "img": "https://image.gcores.com/1ba948226af1542785e851519b38281c-1000-563.jpg"
+  },
+  {
+   "startTime": 1308,
+   "title": "11年前",
+   "img": "https://image.gcores.com/3bdb6e54572a22d51fbcdf02a899d1aa-498-498.jpg",
+   "url": "https://www.gcores.com/radios/16391"
+  },
+  {
+   "startTime": 1340,
+   "title": "惊人的老人",
+   "img": "https://image.gcores.com/abee53441e50092e7d0364746cca34e0-854-1200.webp"
+  },
+  {
+   "startTime": 1456,
+   "title": "id Softwork",
+   "img": "https://image.gcores.com/f6c07f33d07ea86527f6fc9e316b072e-1000-667.jpg"
+  },
+  {
+   "startTime": 1547,
+   "title": "人是客观的",
+   "img": "https://image.gcores.com/86cfec25f1fd59d4b2e000a0e8218551-937-557.jpg"
+  },
+  {
+   "startTime": 1671,
+   "title": "克里斯·阿瓦隆",
+   "img": "https://image.gcores.com/29f592b0d9c3ebb9c56683cd74805dfc-1280-960.jpg"
+  },
+  {
+   "startTime": 1692,
+   "title": "天下无不散的宴席",
+   "img": "https://image.gcores.com/f25050f591228bda77fb45f2a4267c2f-1024-479.jpg"
+  },
+  {
+   "startTime": 1761,
+   "title": "爱陶TV",
+   "img": "https://image.gcores.com/ae9fbbf8a15aef2652fe23c0d1e0f902-200-200.jpg"
+  },
+  {
+   "startTime": 1844,
+   "title": "《星空》",
+   "img": "https://image.gcores.com/cb8fbf08dd94b7f4603dcedfca1c2b5c-1032-1298.png"
+  },
+  {
+   "startTime": 1985,
+   "title": "吃相难看",
+   "img": "https://image.gcores.com/a56a7e151923b2855e35fda741c4f892-640-640.jpg"
+  },
+  {
+   "startTime": 2088,
+   "title": "叙事失调",
+   "img": "https://image.gcores.com/941847fb28ede906cb88bfdb72848824-470-470.jpg"
+  },
+  {
+   "startTime": 2188,
+   "title": "Mod打多了",
+   "img": "https://image.gcores.com/8b87f04b895e26d8f76ed81fe99392f5-810-456.jpg"
+  },
+  {
+   "startTime": 2310,
+   "title": "错误滤镜",
+   "img": "https://image.gcores.com/42355ac6ec5a6b196235e5a9e34a3d0a-739-415.jpg"
+  },
+  {
+   "startTime": 2389,
+   "title": "补充系统",
+   "img": "https://image.gcores.com/78cbbdcb4b1a9c373110ba64b2369359-1024-576.webp"
+  },
+  {
+   "startTime": 2488,
+   "title": "《辐射76》",
+   "img": "https://image.gcores.com/8df04bc59e11aacfd30690d832a91611-1200-675.webp"
+  },
+  {
+   "startTime": 2553,
+   "title": "故事驱动",
+   "img": "https://image.gcores.com/51eeafdca51ee182f936c7839da3275f-2000-1000.avif"
+  },
+  {
+   "startTime": 2765,
+   "title": "上古卷轴6",
+   "img": "https://image.gcores.com/9199eaf9becdf7f2fa4d4b6a4c160755-1280-720.jpg"
+  },
+  {
+   "startTime": 2879,
+   "title": "IP游乐场化",
+   "img": "https://image.gcores.com/dd6ab34cbcbb92b897736e79d938cd47-739-415.jpg"
+  },
+  {
+   "startTime": 3001,
+   "title": "《奥德赛》",
+   "img": "https://image.gcores.com/5180c65085cb391a381353a29e47c3b4-1080-1350.jpg"
+  },
+  {
+   "startTime": 3108,
+   "title": "制片厂崩溃",
+   "img": "https://image.gcores.com/f334d55575eaf91d107d50aad873e367-465-279.avif"
+  },
+  {
+   "startTime": 3208,
+   "title": "保持期待",
+   "img": "https://image.gcores.com/1266808473daf720dd5f36a7a3d45bf7-1750-1150.jpg"
+  },
+  {
+   "startTime": 3285,
+   "title": "摧毁基础设施",
+   "img": "https://image.gcores.com/45368abc39a270f5924b84b57599c458-700-400.jpg"
+  },
+  {
+   "startTime": 3347,
+   "title": "《黑暗塔》",
+   "img": "https://image.gcores.com/f25b8306b642b4e21038edbf7e38ad7f-255-392.jpg"
+  },
+  {
+   "startTime": 3431,
+   "title": "时尚是个圈",
+   "img": "https://image.gcores.com/56f46ea53dc6c09bf2d045d0d7bd9cb4-739-415.jpg"
+  },
+  {
+   "startTime": 3482,
+   "title": "走出茧房",
+   "img": "https://image.gcores.com/926f24ef5bc83f28cd8c918e7074131c-740-493.avif"
+  },
+  {
+   "startTime": 3565,
+   "title": "二游"
+  },
+  {
+   "startTime": 3663,
+   "title": "马尔芙",
+   "img": "https://image.gcores.com/d35d593087166b8f47030fc8a529ef19-441-453.jpg"
+  },
+  {
+   "startTime": 3696,
+   "title": "最好的时机",
+   "img": "https://image.gcores.com/df2a272616f1cff70842d15c5a288f72-494-620.jpg"
+  },
+  {
+   "startTime": 3849,
+   "title": "AI逆向开源",
+   "img": "https://image.gcores.com/31ac8affc51a63de50c21f9cab113047-758-404.jpg"
+  },
+  {
+   "startTime": 3904,
+   "title": "叙事的核心",
+   "img": "https://image.gcores.com/d502b05e590aedc26342c437e94424db-815-376.jpg"
+  },
+  {
+   "startTime": 4039,
+   "title": "《极乐迪斯科》",
+   "img": "https://image.gcores.com/b6fde4ee44d73652448c7f6da9b85d10-1200-1600.webp",
+   "url": "https://www.gcores.com/articles/121442"
+  },
+  {
+   "startTime": 4204,
+   "title": "试试总没错",
+   "img": "https://image.gcores.com/ce87034408dbe0ddba2840adfe8d0051-560-640.jpg"
+  },
+  {
+   "startTime": 4284,
+   "title": "结尾BGM",
+   "img": "https://image.gcores.com/0b7d03209e5b241535d475e865ef86e8-447-447.jpg"
+  }
+ ]
+}

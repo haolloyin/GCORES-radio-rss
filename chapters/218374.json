@@ -1,0 +1,304 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/43dfa410945bcace9b3397679ff20792-640-640.jpg"
+  },
+  {
+   "startTime": 35,
+   "title": "“光盘战争”",
+   "img": "https://image.gcores.com/4d123b304fcfa453a0bc8a07daf1b831-560-560.jpg",
+   "url": "https://www.gcores.com/radios/217286"
+  },
+  {
+   "startTime": 80,
+   "title": "“BLACKOUT”ops",
+   "img": "https://image.gcores.com/e6a645641c032b824043e02560b70de5-399-501.jpg"
+  },
+  {
+   "startTime": 168,
+   "title": "数字生命",
+   "img": "https://image.gcores.com/ba5770bee8b96c25717e1c4cbfca27dc-1024-512.png"
+  },
+  {
+   "startTime": 249,
+   "title": "卖光盘",
+   "img": "https://image.gcores.com/97a9f748b4c12a5095a7d299af9341b2-900-1200.jpg"
+  },
+  {
+   "startTime": 291,
+   "title": "保值游戏",
+   "img": "https://image.gcores.com/35572a102154b63b2b3d6f2d42ff088c-1581-2560.jpg"
+  },
+  {
+   "startTime": 382,
+   "title": "山雨欲来",
+   "img": "https://image.gcores.com/d9d20af38462bfbd6e87489d473a7f81-1080-599.png"
+  },
+  {
+   "startTime": 494,
+   "title": "公告",
+   "img": "https://image.gcores.com/b4207cb9a2546947694a1e9d1c14e814-566-353.jpg"
+  },
+  {
+   "startTime": 516,
+   "title": "取消光盘",
+   "img": "https://image.gcores.com/82c3ec8d35a779fb4ce51666cbf9e3f7-1200-720.png"
+  },
+  {
+   "startTime": 589,
+   "title": "噤声",
+   "img": "https://image.gcores.com/711a2ecfdf052416a1a1f9a587742f3e-640-192.jpg"
+  },
+  {
+   "startTime": 637,
+   "title": "FK SONY",
+   "img": "https://image.gcores.com/8dfff98074df9e4265cfe87d0bc31f04-447-794.png"
+  },
+  {
+   "startTime": 699,
+   "title": "房间里的大象",
+   "img": "https://image.gcores.com/b032639f703741bffc233704ac3f3e3a-444-536.png"
+  },
+  {
+   "startTime": 742,
+   "title": "无人在意",
+   "img": "https://image.gcores.com/9b6b92137043839a196ae78940c54867-1280-720.jpg",
+   "url": "https://www.youtube.com/watch?v=B7SwoJsSb7w"
+  },
+  {
+   "startTime": 803,
+   "title": "坚定立场"
+  },
+  {
+   "startTime": 886,
+   "title": "请愿",
+   "img": "https://image.gcores.com/cdc480a653287478df8f0ed855e44f2b-938-528.png"
+  },
+  {
+   "startTime": 933,
+   "title": "杰德·皮尔斯",
+   "img": "https://image.gcores.com/4880fe013ad9a98b7260f30b4c11c4a4-2556-938.png"
+  },
+  {
+   "startTime": 988,
+   "title": "PNP Games",
+   "img": "https://image.gcores.com/98047b98e606ca35e2768e236ed01201-930-620.png"
+  },
+  {
+   "startTime": 1020,
+   "title": "实体店",
+   "img": "https://image.gcores.com/cda6009bc3e4e48d5fc60d879358c624-1803-1000.png"
+  },
+  {
+   "startTime": 1159,
+   "title": "二手市场",
+   "img": "https://image.gcores.com/5e7ff0bfa538daea816a46b9b7b977bc-1280-716.webp"
+  },
+  {
+   "startTime": 1258,
+   "title": "真正拥有",
+   "img": "https://image.gcores.com/eadfc1a2f939b123acc597cd1933b460-2360-1327.webp"
+  },
+  {
+   "startTime": 1358,
+   "title": "集体请愿",
+   "img": "https://image.gcores.com/e056a363ee0272bd9063102403f6fd1a-1031-231.png"
+  },
+  {
+   "startTime": 1458,
+   "title": "“PSBlackout”",
+   "img": "https://image.gcores.com/b3a1cf136c18da64b76466bc0a297689-680-400.png"
+  },
+  {
+   "startTime": 1597,
+   "title": "DoesItPlay？",
+   "img": "https://image.gcores.com/a37d6814c89258d13289b8eb3182600d-980-635.png"
+  },
+  {
+   "startTime": 1660,
+   "title": "光盘不等于游戏",
+   "img": "https://image.gcores.com/001b9740eb404e7919e3127ff94cbd51-895-505.png"
+  },
+  {
+   "startTime": 1777,
+   "title": "为之而战",
+   "img": "https://image.gcores.com/f3547a31665f0e5fa675b68c914d17cf-399-501.jpg"
+  },
+  {
+   "startTime": 1805,
+   "title": "“CBOMB”",
+   "img": "https://image.gcores.com/d144a8e5279d808f53a483b4a0ded44a-3024-4032.jpg"
+  },
+  {
+   "startTime": 1882,
+   "title": "罗列罪状",
+   "img": "https://image.gcores.com/489b7fad87f82a6899713b06dbe73330-468-374.webp"
+  },
+  {
+   "startTime": 1966,
+   "title": "Alanah Pearce",
+   "img": "https://image.gcores.com/c101f323b81475971286e9b7c643f267-720-404.avif",
+   "url": "https://www.youtube.com/watch?v=_Znc7MVsSlg"
+  },
+  {
+   "startTime": 2067,
+   "title": "早有迹象",
+   "img": "https://image.gcores.com/04fb18abd3dd97f5df4022702d7dc435-508-393.jpg"
+  },
+  {
+   "startTime": 2173,
+   "title": "滚出PS",
+   "img": "https://image.gcores.com/95a3264243d9cecc055e958e41c54ac6-1027-208.png"
+  },
+  {
+   "startTime": 2226,
+   "title": "服软",
+   "img": "https://image.gcores.com/82f41bac4d5f09415468c9205361155e-1111-738.png"
+  },
+  {
+   "startTime": 2287,
+   "title": "“逐步关闭”",
+   "img": "https://image.gcores.com/27e78d65f7712ed092e8f8732a24843c-1229-692.webp"
+  },
+  {
+   "startTime": 2391,
+   "title": "公关策略",
+   "img": "https://image.gcores.com/7d5606ba1acbebf45dd05c5a1a7aaaab-220-124.gif"
+  },
+  {
+   "startTime": 2479,
+   "title": "共襄盛举",
+   "img": "https://image.gcores.com/c9d557fd8ed6d8bbe3dfbef6002e53e7-739-415.png"
+  },
+  {
+   "startTime": 2559,
+   "title": "《绝地潜兵2》事件",
+   "img": "https://image.gcores.com/fd88c9872eb989987d5870f27fe9f5a1-686-386.jpg"
+  },
+  {
+   "startTime": 2646,
+   "title": "陶琳",
+   "img": "https://image.gcores.com/88ebad954354978deea7322976620385-550-309.png"
+  },
+  {
+   "startTime": 2688,
+   "title": "索尼爱立信",
+   "img": "https://image.gcores.com/216a63c9ce7a9581d95dc6678a5284dc-960-1916.jpg"
+  },
+  {
+   "startTime": 2786,
+   "title": "第一任女性CFO",
+   "img": "https://image.gcores.com/7fb99eb12543f538ec1c76776efe0e5e-518-518.webp"
+  },
+  {
+   "startTime": 2908,
+   "title": "捍卫决策",
+   "img": "https://image.gcores.com/b31454f02bfafc438ce020b818b5c062-2360-1327.webp"
+  },
+  {
+   "startTime": 2983,
+   "title": "不服",
+   "img": "https://image.gcores.com/ce127c65cc0ba21cceb21e37114a0b19-1145-454.png"
+  },
+  {
+   "startTime": 3199,
+   "title": "过去的承诺",
+   "img": "https://image.gcores.com/f33961e701ac461822b567ba23c946ba-2360-1327.webp",
+   "url": "https://www.gcores.com/radios/217286"
+  },
+  {
+   "startTime": 3240,
+   "title": "回旋镖",
+   "img": "https://image.gcores.com/e9d44ba266f011838c82ad6a62887c7a-739-415.jpg"
+  },
+  {
+   "startTime": 3356,
+   "title": "抽象营销",
+   "img": "https://image.gcores.com/7b47657b7bb3a9dad857e9dc2648ff78-320-180.jpg",
+   "url": "https://www.bilibili.com/video/BV1L9TE6eELd/?spm_id_from=333.337.search-card.all.click&vd_source=c50c1753d4defc2ea97046d7c12899ef"
+  },
+  {
+   "startTime": 3493,
+   "title": "谁能赢？",
+   "img": "https://image.gcores.com/dcb30f1a06b6262a266a5aaa056c52e9-1200-630.webp"
+  },
+  {
+   "startTime": 3609,
+   "title": "输得难看",
+   "img": "https://image.gcores.com/2b768fc2f4bfad52d7e949bd53c87bde-800-666.png"
+  },
+  {
+   "startTime": 3722,
+   "title": "小岛的评论",
+   "img": "https://image.gcores.com/b09673ff44020795fac5a7f4aa33ebaa-1920-1080.jpg"
+  },
+  {
+   "startTime": 3799,
+   "title": "“水龙头”理论",
+   "img": "https://image.gcores.com/e4528e9bbb04343a15b8ac006df6786d-603-558.png"
+  },
+  {
+   "startTime": 3902,
+   "title": "“数字亡灵”",
+   "img": "https://image.gcores.com/d78c755acfbfb89a85c9302d28456e90-416-240.jpg"
+  },
+  {
+   "startTime": 3996,
+   "title": "SONY DADC",
+   "img": "https://image.gcores.com/b3a2c526ea64959b58eebd699cf25391-690-449.png"
+  },
+  {
+   "startTime": 4127,
+   "title": "很难反抗",
+   "img": "https://image.gcores.com/8c99e09e35ab9471c5467fc8220acd9a-800-533.avif"
+  },
+  {
+   "startTime": 4248,
+   "title": "有些迟滞",
+   "img": "https://image.gcores.com/8f9fe95b279bf236edd3131d9c55a66f-739-415.jpg"
+  },
+  {
+   "startTime": 4356,
+   "title": "赛博朋克",
+   "img": "https://image.gcores.com/f3b240b0957442b95c6ee01591006910-1200-1200.png"
+  },
+  {
+   "startTime": 4468,
+   "title": "索尼多贺城工厂",
+   "img": "https://image.gcores.com/56afb781c43c1ae75349d075bd6b2ed0-800-600.jpg"
+  },
+  {
+   "startTime": 4618,
+   "title": "Nothing changes",
+   "img": "https://image.gcores.com/48576a9c0821bbbd1eebd08d180a6ffe-560-560.jpg"
+  },
+  {
+   "startTime": 4777,
+   "title": "Steam Machine",
+   "img": "https://image.gcores.com/4881fedf14684c910167cbc893adbf36-1920-1080.jpg"
+  },
+  {
+   "startTime": 4814,
+   "title": "跨平台串联",
+   "img": "https://image.gcores.com/327a6e91aa3bdfb72ee202bc2e63819d-2000-2000.avif"
+  },
+  {
+   "startTime": 4869,
+   "title": "没有主机战争了",
+   "img": "https://image.gcores.com/9339e73083cf5985544043b0b77a8521-800-450.jpg"
+  },
+  {
+   "startTime": 5013,
+   "title": "薛定谔的光盘",
+   "img": "https://image.gcores.com/d1f56be358e2e9cc3a0e45e911aaf0db-2360-1327.webp"
+  },
+  {
+   "startTime": 5053,
+   "title": "结尾BGM",
+   "img": "https://image.gcores.com/f53beb84b1db01d347349dff690a5498-640-640.jpg"
+  }
+ ]
+}

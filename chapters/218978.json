@@ -1,0 +1,386 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/183e1e309a70618e27c33e1d4156965e-3000-3000.jpg",
+   "url": "https://music.163.com/song?id=1428895049&uct2=U2FsdGVkX1+Zz5njGL/ZX37/iKOU44r8WFTaHAGyJH0="
+  },
+  {
+   "startTime": 29,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 72,
+   "title": "State of Play",
+   "img": "https://image.gcores.com/304438c676c5f8e96e15a378ddafdf64-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1jutZ68EU9/?spm_id_from=333.337.search-card.all.click"
+  },
+  {
+   "startTime": 107,
+   "title": "《生化危机：爆发夜》",
+   "img": "https://image.gcores.com/30c87b9af12fa4f49c8505e52134b64a-1748-983.jpg",
+   "url": "https://www.bilibili.com/video/BV1UFto62EqK/?spm_id_from=333.337.search-card.all.click"
+  },
+  {
+   "startTime": 178,
+   "title": "《凶器》",
+   "img": "https://image.gcores.com/7fbc1db2a00ab1f6b047727f6a684d48-1080-1600.jpg"
+  },
+  {
+   "startTime": 200,
+   "title": "《漫威金刚狼》",
+   "img": "https://image.gcores.com/b2aad3e4287c962feeb197ed6d63174b-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV12Nto6VEqm/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 208,
+   "title": "《羊蹄山之魂 完整版》",
+   "img": "https://image.gcores.com/58e4a680c43368ac9e2680ecfdec19d0-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1mAto6yEv1/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 233,
+   "title": "《怪物猎人 荒野：凌越》",
+   "img": "https://image.gcores.com/41f0b5c09da0f1740d00162acf77275f-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1Ddtd6JE8F/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 297,
+   "title": "毒液",
+   "img": "https://image.gcores.com/cb676796f5bf674e2f05981b3448ab87-1620-879.png"
+  },
+  {
+   "startTime": 362,
+   "title": "《地铁2039》实机演示",
+   "img": "https://image.gcores.com/1b3fa5962e935f829fd630e8570bde6e-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1a5tv6ZE4i/?spm_id_from=333.337.search-card.all.click"
+  },
+  {
+   "startTime": 375,
+   "title": "《Maneater 2》",
+   "img": "https://image.gcores.com/0efd328eb079684ae8e85da4ba3f84ec-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1Vzti68EKc/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 392,
+   "title": "《红色沙漠》DLC",
+   "img": "https://image.gcores.com/791b08b2efd374d981dd48683eb5b021-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1x9tf6EErs/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 412,
+   "title": "乐高 PlayStation",
+   "img": "https://image.gcores.com/c116f856afacac259633487e99b2d664-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1Bbtf6vEpt/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 482,
+   "title": "《最终幻想：共鸣》",
+   "img": "https://image.gcores.com/a63bc6d99cf30811644e93aad9a8cee9-1000-563.webp",
+   "url": "https://www.bilibili.com/video/BV1ZPtv6eEpX/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 562,
+   "title": "手机玩家",
+   "img": "https://image.gcores.com/c821a48618a08eb424893422e6dd769c-931-582.png"
+  },
+  {
+   "startTime": 626,
+   "title": "《机动战士高达 Rogue Orbit》",
+   "img": "https://image.gcores.com/6097604e16f99d60fbeec85a92ea27e8-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1Zctv6iEdh/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 658,
+   "title": "《装甲核心》",
+   "img": "https://image.gcores.com/715693344b81307ae9b648d7b44d7316-2000-1125.jpeg"
+  },
+  {
+   "startTime": 765,
+   "title": "《Hunter's Moon》",
+   "img": "https://image.gcores.com/4b20cf2f45a114a59c3d9a19ed63a32a-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1nAbF6GEu4/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 779,
+   "title": "《Keeper》",
+   "img": "https://image.gcores.com/52b16e33fe165a5f7294a9acff9b044a-1000-563.webp"
+  },
+  {
+   "startTime": 818,
+   "title": "《Rev. NOiR》",
+   "img": "https://image.gcores.com/9b64bd353678e66d50f1eb5b57b0ca5b-1000-563.webp",
+   "url": "https://www.bilibili.com/video/BV1mUtf6QEMp/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 843,
+   "title": "《猩红狂想曲》",
+   "img": "https://image.gcores.com/fc65298dbc440f873077a2001514f1e7-1918-1078.jpg",
+   "url": "https://www.bilibili.com/video/BV11Mto63Ehr/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 950,
+   "title": "《魔法师的学徒》",
+   "img": "https://image.gcores.com/f94d646c7eedba67fd4dac83a03a0c7b-850-1260.jpg"
+  },
+  {
+   "startTime": 1009,
+   "title": "PS+游戏阵容",
+   "img": "https://image.gcores.com/8c481a78cce3855812154ff08274ae6c-1000-563.webp"
+  },
+  {
+   "startTime": 1048,
+   "title": "《Saros》",
+   "img": "https://image.gcores.com/79696f72b68bbdb7546de21c1bb20537-2327-1309.jpg",
+   "url": "https://www.bilibili.com/video/BV1s9tf6EEUn/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1069,
+   "title": "《Gran Turismo 7》",
+   "img": "https://image.gcores.com/04838a1aa02cd0732effe616ba65aac3-1442-811.jpg",
+   "url": "https://www.bilibili.com/video/BV1fxtf6qEJb/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1233,
+   "title": "《直到黎明2》",
+   "img": "https://image.gcores.com/35095e62913a9041fc00c766d79c1021-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1c7to6KE1X/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1314,
+   "title": "玄学综艺",
+   "img": "https://image.gcores.com/f8a60bc0f1c5d637ac807d8c2d74c071-1328-604.png"
+  },
+  {
+   "startTime": 1349,
+   "title": "《最终幻想VII：启示录》",
+   "img": "https://image.gcores.com/35bb1c0580ec55c0fd75707b64408970-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1C3to6uEqg?share_source=copy_web"
+  },
+  {
+   "startTime": 1417,
+   "title": "《最终幻想7》典藏",
+   "img": "https://image.gcores.com/9172ae887c9f3d47f26ba81d154ea2b6-600-338.webp"
+  },
+  {
+   "startTime": 1443,
+   "title": "三合一",
+   "img": "https://image.gcores.com/239f6bf7ab0c3034d94469a9427733a4-876-215.png"
+  },
+  {
+   "startTime": 1568,
+   "title": "《七龙珠 异战3》",
+   "img": "https://image.gcores.com/79a7631b21a0524f3e070349792633f1-2560-1440.jpg",
+   "url": "https://www.bilibili.com/video/BV1y3to6uETu/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1585,
+   "title": "《Fate/EXTRA Record》",
+   "img": "https://image.gcores.com/93a5e86acd953dce52a3424614e2a80f-1000-563.webp",
+   "url": "https://www.bilibili.com/video/BV1PFtz69E4a/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1674,
+   "title": "《种子落下之处》",
+   "img": "https://image.gcores.com/53820604c26791bd0bcbcff99ef3086c-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1vatf6YEZy/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1735,
+   "title": "《想要成为影之实力者 残响篇》",
+   "img": "https://image.gcores.com/d71020b79b8b0cbb94051cc8fdf09c9e-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1EubF6MEhq/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1749,
+   "title": "《世界虚构管理联盟》",
+   "img": "https://image.gcores.com/c38f0974213b921ce365972f2c07675f-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1XPtB6wEwr/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1782,
+   "title": "《愚者不灭》",
+   "img": "https://image.gcores.com/f1e7fe41c0ecead8fb1d2e8b2f60ccc2-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV1dTtv6aE1m/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1843,
+   "title": "《零境·入侵》",
+   "img": "https://image.gcores.com/108f3df9783c947224b1c80c493ffda6-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1kQtX6xEMm/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1859,
+   "title": "《数码宝贝物语时空异客》",
+   "img": "https://image.gcores.com/5570c837711a1a98d60b6b5f7fd99ac2-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1mmtf6pEZN/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 1876,
+   "title": "《不屈王冠》",
+   "img": "https://image.gcores.com/3f1abe50d760cdc27ddce9c51fefdff0-627-353.webp",
+   "url": "https://www.bilibili.com/video/BV1Mmtf6WEjT/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 2022,
+   "title": "《达巴：水痕之地》",
+   "img": "https://image.gcores.com/4a02caf51322f990e207289feb59f7ee-1280-720.webp",
+   "url": "https://www.bilibili.com/video/BV1AZtf62ErP/?spm_id_from=888.80997.embed_other.whitelist&t=4.471437&bvid=BV1AZtf62ErP&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 2125,
+   "title": "官号私用",
+   "img": "https://image.gcores.com/68777d30187fb6123f42d7b57a7a7350-1041-641.png"
+  },
+  {
+   "startTime": 2206,
+   "title": "《羊蹄山之魂》DLC",
+   "img": "https://image.gcores.com/0f0f58fcf0e9156e51927d1f0afac56b-1920-1080.jpg",
+   "url": "https://www.bilibili.com/video/BV1Zttf6KEpD?share_source=copy_web"
+  },
+  {
+   "startTime": 2266,
+   "title": "V社数据泄露",
+   "img": "https://image.gcores.com/db2d6393657b66e9275bab9f39e73aed-550-309.png",
+   "url": "https://www.gcores.com/articles/219049"
+  },
+  {
+   "startTime": 2354,
+   "title": "相关内容",
+   "img": "https://image.gcores.com/7950b6c1f25df67d1e93f994bdd880e8-627-363.webp"
+  },
+  {
+   "startTime": 2424,
+   "title": "《生化危机：死寂》",
+   "img": "https://image.gcores.com/b852e6ba655d202012b7aa5bb4f440b8-500-450.webp"
+  },
+  {
+   "startTime": 2494,
+   "title": "GTA6预购数据",
+   "img": "https://image.gcores.com/7ac67e899cd2d5446a134ac120263456-584-328.jpg"
+  },
+  {
+   "startTime": 2590,
+   "title": "网飞首播成功破圈",
+   "img": "https://image.gcores.com/7a53e0db24be5558c6ad89fdc7a622de-550-303.png"
+  },
+  {
+   "startTime": 2710,
+   "title": "《绿灯军团》",
+   "img": "https://image.gcores.com/893bce9d68d468b6397ce603565758d4-1080-1350.jpg"
+  },
+  {
+   "startTime": 2755,
+   "title": "马丁·斯科塞斯",
+   "img": "https://image.gcores.com/5a86808707bd3f42ba42890cb6399e61-485-680.jpg"
+  },
+  {
+   "startTime": 2838,
+   "title": "《街区男孩》",
+   "img": "https://image.gcores.com/2a09663aabee10d0e6bfb2a37a9f1edd-500-743.jpg"
+  },
+  {
+   "startTime": 2913,
+   "title": "游戏售价",
+   "img": "https://image.gcores.com/50d1a6d0aec0999b896517dd79f1dc38-3840-2160.webp"
+  },
+  {
+   "startTime": 3044,
+   "title": "《黎明行者之血》",
+   "img": "https://image.gcores.com/79f7e318ecdd6c98a4a8385a533efd13-794-450.webp",
+   "url": "https://www.bilibili.com/video/BV1dXCKBpEfV?share_source=copy_web"
+  },
+  {
+   "startTime": 3156,
+   "title": "《赛博朋克2077》销量破4000万份",
+   "img": "https://image.gcores.com/61d71629d6d7b540d3fa3fa84e6f3d7c-716-403.webp"
+  },
+  {
+   "startTime": 3247,
+   "title": "《巫师3：重制版》",
+   "img": "https://image.gcores.com/96078047758e5fa356d70d644f1ac2fe-630-357.png"
+  },
+  {
+   "startTime": 3366,
+   "title": "Steam单周上架游戏数新高",
+   "img": "https://image.gcores.com/a84bf64ebea47d1efbd027d6a10ff287-2826-1428.webp"
+  },
+  {
+   "startTime": 3437,
+   "title": "《维修物语》",
+   "img": "https://image.gcores.com/35a349a5d2bb5bc55f91e37e73a6bd67-1920-1080.jpg"
+  },
+  {
+   "startTime": 3504,
+   "title": "游戏玩法",
+   "img": "https://image.gcores.com/f26f116f3419db5bf2f5807dbd88b025-1280-720.jpg",
+   "url": "https://www.bilibili.com/video/BV13juQ6dEMT/?spm_id_from=333.337.search-card.all.click&vd_source=10f70a0b56af366d650f24a25b6a989f"
+  },
+  {
+   "startTime": 3623,
+   "title": "缺少好游戏"
+  },
+  {
+   "startTime": 3672,
+   "title": "《东方红魔乡：新典》",
+   "img": "https://image.gcores.com/fb0a141177654a1236dd60235c8b8c3c-883-495.png",
+   "url": "https://store.steampowered.com/app/4659620/__the_Embodiment_of_Scarlet_Devil/"
+  },
+  {
+   "startTime": 3737,
+   "title": "最佳移动游戏",
+   "img": "https://image.gcores.com/e9c65273ff061a49b1b20affb01c613f-720-960.webp"
+  },
+  {
+   "startTime": 3795,
+   "title": "千帆出海",
+   "img": "https://image.gcores.com/9491e22aa7653ca1e695b8e368929358-776-269.png"
+  },
+  {
+   "startTime": 3870,
+   "title": "龙说老白",
+   "img": "https://image.gcores.com/946b3b447ff66dbaab71a13691a731d0-156-117.gif"
+  },
+  {
+   "startTime": 3909,
+   "title": "光线传媒首款3A",
+   "img": "https://image.gcores.com/3340510d1a12fc3d99216b108034c9d9-1080-597.webp"
+  },
+  {
+   "startTime": 4004,
+   "title": "GGG游戏节奏联欢夜",
+   "img": "https://image.gcores.com/ce55f1c030f08d319b0fb521c8a24e69-1791-1007.webp",
+   "url": "https://www.gcores.com/articles/219130"
+  },
+  {
+   "startTime": 4065,
+   "title": "ACT村的故事",
+   "img": "https://image.gcores.com/04043382cfa141e3f7785fa7b35bef90-409-473.png",
+   "url": "https://space.bilibili.com/381830506/lists?sid=7526817&spm_id_from=333.788.0.0"
+  },
+  {
+   "startTime": 4163,
+   "title": "《哈利·波特》剧版预告",
+   "img": "https://image.gcores.com/0c9efacd67f04885777af47221f7a32f-716-403.webp",
+   "url": "https://www.gcores.com/articles/219171"
+  },
+  {
+   "startTime": 4260,
+   "title": "哈利波特片场",
+   "img": "https://image.gcores.com/2778fa28285cea3551fe08ee40c4d6db-1062-687.png"
+  },
+  {
+   "startTime": 4361,
+   "title": "《鬼武者：剑之道》",
+   "img": "https://image.gcores.com/fba3ce5573603e8d739238953ef1d7c7-716-376.webp"
+  },
+  {
+   "startTime": 4503,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/5b799a085604309605dc77e50b1a69ef-3000-3000.jpg",
+   "url": "https://music.163.com/song?id=5056045&uct2=U2FsdGVkX1/zTi4LjFXXaXA5qbV8MWsba1TLvWO1Jnw="
+  }
+ ]
+}

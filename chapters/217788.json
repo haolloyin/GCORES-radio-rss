@@ -1,0 +1,484 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 4,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/f5b87800f72a69493baf8c434887e746-736-736.JPG",
+   "url": "https://c6.y.qq.com/base/fcgi-bin/u?__=nX2pKHU4995P"
+  },
+  {
+   "startTime": 29,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 39,
+   "title": "新老嘉宾豆",
+   "img": "https://image.gcores.com/c5ea0be119a59f6d98841bdb0ae6c300-303-204.png"
+  },
+  {
+   "startTime": 67,
+   "title": "绷住",
+   "img": "https://image.gcores.com/8b856716c30fdec39d399ce699174ca4-631-367.png"
+  },
+  {
+   "startTime": 105,
+   "title": "小笼包",
+   "img": "https://image.gcores.com/df29e78bcd155f0be209420d0cad92e6-407-491.jpg"
+  },
+  {
+   "startTime": 162,
+   "title": "《奥德赛》",
+   "img": "https://image.gcores.com/2a84fdb9ad9ece39a4aa96f0e182739e-261-415.png"
+  },
+  {
+   "startTime": 229,
+   "title": "《特洛伊》",
+   "img": "https://image.gcores.com/7bf9328c465c2e32a66159a120f64b56-259-383.jpg"
+  },
+  {
+   "startTime": 245,
+   "title": "嘉豪吗",
+   "img": "https://image.gcores.com/90b572552f7d4534418f91a72427539e-307-389.png"
+  },
+  {
+   "startTime": 263,
+   "title": "美式前刺",
+   "img": "https://image.gcores.com/7420f31e1b2515f179424079c290743d-370-353.png"
+  },
+  {
+   "startTime": 302,
+   "title": "上一期节目",
+   "url": "https://www.gcores.com/radios/217287"
+  },
+  {
+   "startTime": 326,
+   "title": "卒中",
+   "img": "https://image.gcores.com/831956f403bdea7e8ea2e683658974ed-632-537.jpg"
+  },
+  {
+   "startTime": 353,
+   "title": "兵击"
+  },
+  {
+   "startTime": 378,
+   "title": "智能驾驶L3L4",
+   "img": "https://image.gcores.com/a2428b5840d7bbc1f6913ec0cbae6631-729-362.png"
+  },
+  {
+   "startTime": 539,
+   "title": "路恐",
+   "img": "https://image.gcores.com/ae04b563681482d980ff26716faa93ad-685-448.jpg"
+  },
+  {
+   "startTime": 579,
+   "title": "大撒把",
+   "img": "https://image.gcores.com/518cd8889eb7bde12084bbe4bac8a7c6-334-256.png"
+  },
+  {
+   "startTime": 628,
+   "title": "屁股战士",
+   "img": "https://image.gcores.com/a2cb2fb6126e7a58eda4e07340b3992e-397-335.png"
+  },
+  {
+   "startTime": 634,
+   "title": "大哥的更新",
+   "img": "https://image.gcores.com/c66666712e9e6efc3969e58abe9698e2-368-296.png"
+  },
+  {
+   "startTime": 683,
+   "title": "便秘引发脑出血",
+   "img": "https://image.gcores.com/ced0f990888b99c84d4554f59a8a1b4a-256-194.png"
+  },
+  {
+   "startTime": 712,
+   "title": "西梅汁",
+   "img": "https://image.gcores.com/cbb8ddb7e9e8adaa2ed39245fc2aace2-1280-960.jpg"
+  },
+  {
+   "startTime": 769,
+   "title": "窜稀寸步难行",
+   "img": "https://image.gcores.com/6d59b926c2cb60b3edd30b426793b133-318-377.png"
+  },
+  {
+   "startTime": 793,
+   "title": "直播上厕所",
+   "img": "https://image.gcores.com/848cac243ed052ee99cce0732fa58c08-374-363.png"
+  },
+  {
+   "startTime": 879,
+   "title": "年会中奖",
+   "img": "https://image.gcores.com/0cf037ff35fe7ee9e7675709de6767dc-269-282.png"
+  },
+  {
+   "startTime": 977,
+   "title": "吨吨桶",
+   "img": "https://image.gcores.com/c6b1b029814eb0535817b2587da332b7-227-355.png"
+  },
+  {
+   "startTime": 1044,
+   "title": "马桶座位",
+   "img": "https://image.gcores.com/498bf90f383d3f28f6513c551a4ef140-414-503.jpg"
+  },
+  {
+   "startTime": 1050,
+   "title": "《机器人瓦力》",
+   "img": "https://image.gcores.com/cccac8bc70cbc23c94e170c8eee996c5-243-184.jpg"
+  },
+  {
+   "startTime": 1097,
+   "title": "网约车司机的投稿",
+   "url": "https://www.gcores.com/radios/217287"
+  },
+  {
+   "startTime": 1167,
+   "title": "明文规定",
+   "img": "https://image.gcores.com/ea4df5f57d1c98f5d900e9f38881f697-628-249.png"
+  },
+  {
+   "startTime": 1201,
+   "title": "淮南牛肉汤",
+   "img": "https://image.gcores.com/9bc0b31a933e38a2912cc2151d03720b-563-292.png"
+  },
+  {
+   "startTime": 1205,
+   "title": "三河米饺",
+   "img": "https://image.gcores.com/603f76d2f83e53a5b67bdbaa6b33dc8e-331-496.png"
+  },
+  {
+   "startTime": 1257,
+   "title": "车内读空气",
+   "img": "https://image.gcores.com/d52382c9701302b1aa35ca87f4ea48d6-223-186.png"
+  },
+  {
+   "startTime": 1283,
+   "title": "“不是在跟你说”",
+   "img": "https://image.gcores.com/ed9311339a4c52ef19bd67c30af7feca-590-370.png"
+  },
+  {
+   "startTime": 1342,
+   "title": "聋哑人司机",
+   "img": "https://image.gcores.com/c4352f96e14de39099df73b33d4f2732-231-139.png"
+  },
+  {
+   "startTime": 1389,
+   "title": "聋哑人驾照",
+   "img": "https://image.gcores.com/456169761d768605568bc9c37bb43014-549-430.png"
+  },
+  {
+   "startTime": 1545,
+   "title": "话太密了",
+   "img": "https://image.gcores.com/19adda4d8c20a2b64b53139264512d74-387-216.png"
+  },
+  {
+   "startTime": 1596,
+   "title": "下次再聊",
+   "img": "https://image.gcores.com/dbc659cd7a0cde8e0c667199928f4182-657-385.png"
+  },
+  {
+   "startTime": 1655,
+   "title": "想有自己的生活",
+   "img": "https://image.gcores.com/d2025d1b9211ea1e3960111ecce685ff-489-266.png"
+  },
+  {
+   "startTime": 1711,
+   "title": "上车睡着",
+   "img": "https://image.gcores.com/f7521e1c2a393a77245b9709cdf7e5eb-246-411.png"
+  },
+  {
+   "startTime": 1795,
+   "title": "盐枪",
+   "img": "https://image.gcores.com/28c0919e038dc1ad37b2fa3a3f9c0dcb-324-212.png"
+  },
+  {
+   "startTime": 1824,
+   "title": "盐枪老兵的投稿",
+   "img": "https://image.gcores.com/9bc256fac0e905fd747ce31081559573-243-245.png"
+  },
+  {
+   "startTime": 1877,
+   "title": "栓动步枪",
+   "img": "https://image.gcores.com/c70fb02a5808f993eb4606f217beac72-604-357.png"
+  },
+  {
+   "startTime": 1928,
+   "title": "粗盐",
+   "img": "https://image.gcores.com/a14668e022e40e0901bb40cc7b6aa277-275-256.png"
+  },
+  {
+   "startTime": 2039,
+   "title": "飞龙突脸",
+   "img": "https://image.gcores.com/a819aad4884cddd6b35a88f425369649-227-166.png"
+  },
+  {
+   "startTime": 2062,
+   "title": "激光笔",
+   "img": "https://image.gcores.com/2355527a1d9e59cc11220c6b614cfc7b-471-341.png"
+  },
+  {
+   "startTime": 2169,
+   "title": "浇开水",
+   "img": "https://image.gcores.com/0a34bbf6940d5ac8dd3a551175937f49-358-385.png"
+  },
+  {
+   "startTime": 2314,
+   "title": "虻",
+   "img": "https://image.gcores.com/645fff915f109c6b20a9ac637633536f-229-173.png"
+  },
+  {
+   "startTime": 2367,
+   "title": "线香",
+   "img": "https://image.gcores.com/1d3270df33f50edcf52b70801aab8d38-331-452.png"
+  },
+  {
+   "startTime": 2400,
+   "title": "电梯里的蚊子",
+   "img": "https://image.gcores.com/fa91c99c64f13bb800b28a3635e01923-334-482.png"
+  },
+  {
+   "startTime": 2482,
+   "title": "下一个投稿",
+   "img": "https://image.gcores.com/5b9c1da631f5c7418e659086aa9487ad-308-282.jpg"
+  },
+  {
+   "startTime": 2516,
+   "title": "上厕所麻烦",
+   "img": "https://image.gcores.com/c07eb4af2adff36bb4980a2e0311b471-128-90.png"
+  },
+  {
+   "startTime": 2522,
+   "title": "叶问",
+   "img": "https://image.gcores.com/52cbe3398e8340bd71cf6ac45a214a48-311-269.png"
+  },
+  {
+   "startTime": 2564,
+   "title": "住院节目",
+   "img": "https://image.gcores.com/00b86394a6c3b7280a09c62c911274b3-997-997.jpg",
+   "url": "https://www.gcores.com/radios/105462"
+  },
+  {
+   "startTime": 2609,
+   "title": "支架",
+   "img": "https://image.gcores.com/701b62d0038a1d032263d8d4a48ceb67-277-365.png"
+  },
+  {
+   "startTime": 2647,
+   "title": "哪都别骨折",
+   "img": "https://image.gcores.com/68dc6a86e8ac46fbeb2ef5dfd6275679-120-120.jpg"
+  },
+  {
+   "startTime": 2684,
+   "title": "皴",
+   "img": "https://image.gcores.com/1fca1bd1bdb7a72535e0a32c8d70dc8e-518-368.png"
+  },
+  {
+   "startTime": 2733,
+   "title": "踩屎感拖鞋",
+   "img": "https://image.gcores.com/ba44da88e9457c7630070f36eb4e0c91-541-386.png"
+  },
+  {
+   "startTime": 2804,
+   "title": "术后谵妄",
+   "img": "https://image.gcores.com/dbc1683ff19c5988b67d0b211b4e5e29-468-510.png"
+  },
+  {
+   "startTime": 2846,
+   "title": "谵妄",
+   "img": "https://image.gcores.com/46f86c6e8d87c573fbb83eb06db7b5e7-212-205.png"
+  },
+  {
+   "startTime": 2892,
+   "title": "《默沙东诊疗手册》",
+   "img": "https://image.gcores.com/9813911320192fa3bc6a4dca3f013322-423-789.jpg"
+  },
+  {
+   "startTime": 2992,
+   "title": "应届生投稿"
+  },
+  {
+   "startTime": 3157,
+   "title": "曾母暗沙",
+   "img": "https://image.gcores.com/203feaec9abd6d00e466041d66f7d47c-516-334.png"
+  },
+  {
+   "startTime": 3386,
+   "title": "离家太远",
+   "img": "https://image.gcores.com/85a232287cf32fb3620edade2a83464b-301-220.png"
+  },
+  {
+   "startTime": 3503,
+   "title": "爷爷的父亲",
+   "img": "https://image.gcores.com/61fb6026997e15a6d760e9e53c72c0c9-482-494.png"
+  },
+  {
+   "startTime": 3581,
+   "title": "租房",
+   "img": "https://image.gcores.com/8ec51885b8ceb3e41e2780beb04b1c45-376-551.png"
+  },
+  {
+   "startTime": 3671,
+   "title": "贝壳服务费",
+   "img": "https://image.gcores.com/ad326673c6f6eef93e353253dcb4dfa5-615-396.png"
+  },
+  {
+   "startTime": 3759,
+   "title": "安居客",
+   "img": "https://image.gcores.com/11949b66269e70228e886beb9ae7e2b4-207-218.png"
+  },
+  {
+   "startTime": 3893,
+   "title": "宿舍",
+   "img": "https://image.gcores.com/99773e6f2e6886fa816a9044f38b7d73-506-352.png"
+  },
+  {
+   "startTime": 3940,
+   "title": "萝卜的租房小经验",
+   "img": "https://image.gcores.com/be120b7796d24cdd28132d211bf18117-334-246.jpg"
+  },
+  {
+   "startTime": 4081,
+   "title": "绕开中介",
+   "img": "https://image.gcores.com/0cdff2ab2a52b8a8f2c0acf11ece9e7b-640-392.jpeg"
+  },
+  {
+   "startTime": 4147,
+   "title": "刘三姐",
+   "img": "https://image.gcores.com/9441f3bbcb19002508a56be821edc2e0-491-329.png"
+  },
+  {
+   "startTime": 4158,
+   "title": "止逆阀",
+   "img": "https://image.gcores.com/0d6c16721df66bf2542209742bbbc935-466-307.png"
+  },
+  {
+   "startTime": 4215,
+   "title": "租房玄学",
+   "img": "https://image.gcores.com/7ea7ab5ff8538dcc8621b894fb646371-978-1016.jpg"
+  },
+  {
+   "startTime": 4257,
+   "title": "选择新校区",
+   "img": "https://image.gcores.com/ac09f47dae831147ec00b17eb27e6a5a-615-537.png"
+  },
+  {
+   "startTime": 4384,
+   "title": "押一付一",
+   "img": "https://image.gcores.com/5bb949c11141d2620b399bf04f86cb80-377-245.png"
+  },
+  {
+   "startTime": 4421,
+   "title": "快递外卖配送问题",
+   "img": "https://image.gcores.com/38de715c970636d118f0e5a00fb991fc-664-388.png"
+  },
+  {
+   "startTime": 4519,
+   "title": "扫楼的",
+   "img": "https://image.gcores.com/c5387f6336246494d807c1c88105983d-310-226.png"
+  },
+  {
+   "startTime": 4635,
+   "title": "邻里关系",
+   "img": "https://image.gcores.com/802ec3fda1f75bece87c12bd55f4aed5-678-483.png"
+  },
+  {
+   "startTime": 4714,
+   "title": "煤气中毒了",
+   "img": "https://image.gcores.com/b21e85bac733fbc3d15b69725a585f4e-560-299.png"
+  },
+  {
+   "startTime": 4811,
+   "title": "业主群",
+   "img": "https://image.gcores.com/b0c921103dd623396e2a0ba4c44037ef-417-429.png"
+  },
+  {
+   "startTime": 4922,
+   "title": "夜魔侠",
+   "img": "https://image.gcores.com/046c448e70481ac2b1f1bcffad93754b-250-313.jpg"
+  },
+  {
+   "startTime": 4982,
+   "title": "为母则刚",
+   "img": "https://image.gcores.com/c6cc9da223fe5a6cceece4b754ac1ac2-465-286.png"
+  },
+  {
+   "startTime": 5101,
+   "title": "狗友社交",
+   "img": "https://image.gcores.com/666efae98ee51523b11486f516f7be37-1080-1439.jpg"
+  },
+  {
+   "startTime": 5190,
+   "title": "绕路跟狗",
+   "img": "https://image.gcores.com/0f7684d9549a471760f26dae987c5e26-291-415.png"
+  },
+  {
+   "startTime": 5267,
+   "title": "发财小秘诀",
+   "img": "https://image.gcores.com/fbffc651478efe8b09f4fde6bacffb8a-220-220.jpg"
+  },
+  {
+   "startTime": 5304,
+   "title": "最后一个投稿",
+   "img": "https://image.gcores.com/a86512e106e3106be01093c3216fb51d-270-190.png"
+  },
+  {
+   "startTime": 5324,
+   "title": "做博客需要准备什么",
+   "img": "https://image.gcores.com/c47c4404505ebc3073f5e0f7d26d5e10-395-301.png"
+  },
+  {
+   "startTime": 5391,
+   "title": "调音台",
+   "img": "https://image.gcores.com/1e5f4e9873a82e0a68abe5a0039312ca-636-365.png"
+  },
+  {
+   "startTime": 5417,
+   "title": "摆放绿植",
+   "img": "https://image.gcores.com/fb96154ec7adce60cf3af56fa6dd5ecc-643-395.png"
+  },
+  {
+   "startTime": 5468,
+   "title": "EQ",
+   "img": "https://image.gcores.com/80afd8ef321d31a4402f589146b5d97d-725-346.png"
+  },
+  {
+   "startTime": 5535,
+   "title": "娘欸",
+   "img": "https://image.gcores.com/7602720a91c7002435ec66d1a622bf4a-563-529.png"
+  },
+  {
+   "startTime": 5636,
+   "title": "小宇宙的风格",
+   "img": "https://image.gcores.com/8398425719514f1313d63569be0415d2-331-314.png"
+  },
+  {
+   "startTime": 5785,
+   "title": "听感",
+   "img": "https://image.gcores.com/91bf50716de0ebf1fcb52469e9d2fd54-474-359.png"
+  },
+  {
+   "startTime": 5890,
+   "title": "做up主",
+   "img": "https://image.gcores.com/821618d8fba624065b65484ba4989e88-414-89.png",
+   "url": "https://space.bilibili.com/2753558?spm_id_from=333.337.0.0"
+  },
+  {
+   "startTime": 5926,
+   "title": "主播",
+   "img": "https://image.gcores.com/29b1b862a6137de4b5258a1769ddcc9c-438-324.png"
+  },
+  {
+   "startTime": 6060,
+   "title": "视频播客",
+   "img": "https://image.gcores.com/def77309d8e4ca08c2fafda8da233ee5-382-216.png"
+  },
+  {
+   "startTime": 6144,
+   "title": "《檄！帝国华击团》",
+   "img": "https://image.gcores.com/8fe165bdd891ceec91393568d532496a-447-447.jpg"
+  },
+  {
+   "startTime": 6164,
+   "title": "感谢收听"
+  }
+ ]
+}
