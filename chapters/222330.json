@@ -1,0 +1,344 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/caedac827524ac82d85b707d8a67c00e-3000-3000.jpg",
+   "url": "https://music.163.com/#/song?id=3448337966"
+  },
+  {
+   "startTime": 36,
+   "title": "Gadio News"
+  },
+  {
+   "startTime": 47,
+   "title": "媒体评分",
+   "img": "https://image.gcores.com/43470ccd4ac304bf321f1104ec9d0796-1600-900.webp",
+   "url": "https://www.gcores.com/articles/222493"
+  },
+  {
+   "startTime": 159,
+   "title": "预购销量",
+   "img": "https://image.gcores.com/24f30d101cb7ce52db17c78652b4cf54-1600-900.webp",
+   "url": "https://www.gcores.com/articles/222190"
+  },
+  {
+   "startTime": 274,
+   "title": "打破纪录",
+   "img": "https://image.gcores.com/e26ca3093ce1613b0a47aaaf49a2694c-590-338.jpg"
+  },
+  {
+   "startTime": 315,
+   "title": "社区争议",
+   "img": "https://image.gcores.com/28f71f92a1265b863d65349c82229dd8-1920-1080.avif"
+  },
+  {
+   "startTime": 332,
+   "title": "《GTA Online》",
+   "img": "https://image.gcores.com/c8828d179a445e9682a4917b4fe197e9-550-306.png"
+  },
+  {
+   "startTime": 350,
+   "title": "请假游玩",
+   "img": "https://image.gcores.com/df5c3f522385cc38eb862fcc7b7ed85f-1080-719.jpg"
+  },
+  {
+   "startTime": 416,
+   "title": "新西兰玩家",
+   "img": "https://image.gcores.com/276402eb91cd7307ba56442e32364d1b-1080-607.jpg"
+  },
+  {
+   "startTime": 439,
+   "title": "Pocketpair",
+   "img": "https://image.gcores.com/4f986cb488cf72a7e21168192377a698-1024-1024.webp"
+  },
+  {
+   "startTime": 479,
+   "title": "首发Bug",
+   "img": "https://image.gcores.com/0f629619d48f53918efc3c12b1eab61a-1080-607.jpg"
+  },
+  {
+   "startTime": 531,
+   "title": "数毛社实测",
+   "img": "https://image.gcores.com/2f9c1ebfe92dbbfe93f3789855a9e1fb-1080-607.jpg"
+  },
+  {
+   "startTime": 589,
+   "title": "直播数据",
+   "img": "https://image.gcores.com/e7ce1f2550b57a2e67e27d79f9879e5e-1600-900.jpg"
+  },
+  {
+   "startTime": 724,
+   "title": "合规引导",
+   "img": "https://image.gcores.com/9e52940518682ca7c9701cb1b76378a0-678-379.png"
+  },
+  {
+   "startTime": 786,
+   "title": "社区谣言",
+   "img": "https://image.gcores.com/9cf4a32baef13aec026eb2be104055c4-1280-1600.webp"
+  },
+  {
+   "startTime": 825,
+   "title": "开发成本",
+   "img": "https://image.gcores.com/c2bfb93b0e0e851c4974aa9e98f3e18f-739-415.jpg"
+  },
+  {
+   "startTime": 870,
+   "title": "回本线",
+   "img": "https://image.gcores.com/33eb7a42e19c50b9880b1978de8b51a4-1900-1063.jpg"
+  },
+  {
+   "startTime": 884,
+   "title": "预估销量",
+   "img": "https://image.gcores.com/ebd4bb37a6295d3a60ffe768de2b211d-1920-1920.webp"
+  },
+  {
+   "startTime": 952,
+   "title": "主流3A",
+   "img": "https://image.gcores.com/f8f8606090ba4609e783967bc664a3d4-1920-1080.webp"
+  },
+  {
+   "startTime": 1104,
+   "title": "TGA2026",
+   "img": "https://image.gcores.com/ff237204b3d087639440fd5181158824-920-430.webp"
+  },
+  {
+   "startTime": 1194,
+   "title": "年度游戏大奖",
+   "img": "https://image.gcores.com/1022c583726ffece5614d2d8bd7c2f46-1574-855.png"
+  },
+  {
+   "startTime": 1241,
+   "title": "最佳游戏指导",
+   "img": "https://image.gcores.com/d163d60b5cc73ca16322a5f2588c13ce-875-492.webp"
+  },
+  {
+   "startTime": 1254,
+   "title": "最佳叙事",
+   "img": "https://image.gcores.com/fffa2d594df9113fd68aaeed135eb7f7-875-492.webp"
+  },
+  {
+   "startTime": 1272,
+   "title": "最佳艺术指导",
+   "img": "https://image.gcores.com/fe89081725ccd453c133b438ce17dd8b-875-492.webp"
+  },
+  {
+   "startTime": 1287,
+   "title": "最佳音乐/配乐",
+   "img": "https://image.gcores.com/911560472c93b8d95c09ff0b6be755fd-875-492.webp"
+  },
+  {
+   "startTime": 1334,
+   "title": "最佳音效设计",
+   "img": "https://image.gcores.com/00ca0895a77d3b29882f763148d2ee70-875-492.webp"
+  },
+  {
+   "startTime": 1342,
+   "title": "最具影响力游戏",
+   "img": "https://image.gcores.com/2e8fa49350f499d1ef5b1dd9cb02da59-875-492.webp"
+  },
+  {
+   "startTime": 1375,
+   "title": "最佳持续运营",
+   "img": "https://image.gcores.com/ec1d29aaea4b8dc47a826a722547902b-875-492.webp"
+  },
+  {
+   "startTime": 1467,
+   "title": "最佳社区支持"
+  },
+  {
+   "startTime": 1498,
+   "title": "最佳独立游戏",
+   "img": "https://image.gcores.com/d078ef0006e50ebf3874aab082648c3d-875-492.webp"
+  },
+  {
+   "startTime": 1561,
+   "title": "最佳首秀游戏",
+   "img": "https://image.gcores.com/e7b4e32d0ac50996791faacedf6f227b-875-492.webp"
+  },
+  {
+   "startTime": 1587,
+   "title": "最佳移动游戏",
+   "img": "https://image.gcores.com/955448ec18cf85ad1b65e9d0bf6068ed-875-492.webp"
+  },
+  {
+   "startTime": 1690,
+   "title": "移动游戏",
+   "img": "https://image.gcores.com/353ee5ff9e52a1a849ef1efa06ec2631-1280-720.webp"
+  },
+  {
+   "startTime": 1817,
+   "title": "人捧人高",
+   "img": "https://image.gcores.com/07048487f8e779e1c236798b31ce19b5-1280-720.webp"
+  },
+  {
+   "startTime": 1974,
+   "title": "最佳VR/AR游戏",
+   "img": "https://image.gcores.com/1b3568340f7af53b2d7b2a81a5c9df6d-875-492.webp"
+  },
+  {
+   "startTime": 2016,
+   "title": "最佳动作游戏",
+   "img": "https://image.gcores.com/abd359435ee91ae03f87dc939d41141a-875-492.webp"
+  },
+  {
+   "startTime": 2236,
+   "title": "最佳动作/冒险",
+   "img": "https://image.gcores.com/fe4d0934888c4fbd1ac23e67fb588bd3-875-492.webp"
+  },
+  {
+   "startTime": 2339,
+   "title": "最佳角色扮演",
+   "img": "https://image.gcores.com/fd4c8dae3ad300de8649c90f1207a015-875-492.webp"
+  },
+  {
+   "startTime": 2409,
+   "title": "最佳家庭游戏",
+   "img": "https://image.gcores.com/1aa7606d6da63b3703708cc8481fd831-875-492.webp"
+  },
+  {
+   "startTime": 2419,
+   "title": "最佳多人游戏",
+   "img": "https://image.gcores.com/eeb45f3fae49a90a1f1c1bf40e54d1dd-875-492.webp"
+  },
+  {
+   "startTime": 2455,
+   "title": "最佳模拟/策略",
+   "img": "https://image.gcores.com/596ee8882fe0df036445546ec0c85967-875-492.webp"
+  },
+  {
+   "startTime": 2459,
+   "title": "最受期待游戏",
+   "img": "https://image.gcores.com/4fbf91cbe2bf55773719bc05ca4537d3-875-492.webp"
+  },
+  {
+   "startTime": 2495,
+   "title": "最佳游戏改编",
+   "img": "https://image.gcores.com/b92943dbf618abb1b89a0d145726cc7f-875-492.webp"
+  },
+  {
+   "startTime": 2557,
+   "title": "S16",
+   "img": "https://image.gcores.com/ef320cae207b8d0d4b5cbe4f87e35734-690-385.webp"
+  },
+  {
+   "startTime": 2559,
+   "title": "最佳无障碍创新",
+   "img": "https://image.gcores.com/a49cd7fddcef196d9ceb4e0f63acdbc6-875-492.webp"
+  },
+  {
+   "startTime": 2593,
+   "title": "最佳电竞游戏",
+   "img": "https://image.gcores.com/58906a74106a936ea87351858d80904c-875-492.webp"
+  },
+  {
+   "startTime": 2680,
+   "title": "Faker",
+   "img": "https://image.gcores.com/d3be89a835c5607129b306b6924e81a0-988-987.avif"
+  },
+  {
+   "startTime": 2792,
+   "title": "最佳电竞选手",
+   "img": "https://image.gcores.com/85cb981fac0f1a4ab3f86e2471f3a723-875-492.webp"
+  },
+  {
+   "startTime": 2845,
+   "title": "《异于天堂》",
+   "img": "https://image.gcores.com/4d3c7b1cfbedc9aca3b398e04c22378b-1600-900.webp",
+   "url": "https://www.gcores.com/articles/222440"
+  },
+  {
+   "startTime": 2907,
+   "title": "辻本良三采访",
+   "img": "https://image.gcores.com/b76ae9ef7be7db8308faa14b8e233286-640-360.jpg"
+  },
+  {
+   "startTime": 2989,
+   "title": "性能修复",
+   "img": "https://image.gcores.com/1c732df9fde0e07cf4a793f45bc028d4-640-480.jpg"
+  },
+  {
+   "startTime": 3151,
+   "title": "Firaxis",
+   "img": "https://image.gcores.com/ec53cd1b1727d582542b8dc505de16c9-597-335.webp"
+  },
+  {
+   "startTime": 3237,
+   "title": "新一任《007》",
+   "img": "https://image.gcores.com/f4dbc24871c042ba2a39567d6bd303d1-1035-582.webp",
+   "url": "https://www.gcores.com/articles/222426"
+  },
+  {
+   "startTime": 3355,
+   "title": "007系列",
+   "img": "https://image.gcores.com/604c71703685a62d42e5d43f4559967c-601-332.jpg"
+  },
+  {
+   "startTime": 3425,
+   "title": "罗伯特·帕丁森",
+   "img": "https://image.gcores.com/68f6e9d71bf90382d1f2e1b574ce2651-1080-1440.webp"
+  },
+  {
+   "startTime": 3563,
+   "title": "安提诺俄斯",
+   "img": "https://image.gcores.com/4c3a2e6b8ff3372106986a36a53d39c0-1448-1772.jpg"
+  },
+  {
+   "startTime": 3638,
+   "title": "老系列翻新",
+   "img": "https://image.gcores.com/a8a8f62f4326816e255ba0637bf0cd38-720-405.webp"
+  },
+  {
+   "startTime": 3717,
+   "title": "《007之金枪客》",
+   "img": "https://image.gcores.com/f217a8e96d34cb80127413a181bb3345-250-375.jpg"
+  },
+  {
+   "startTime": 3726,
+   "title": "《007之生死关头》",
+   "img": "https://image.gcores.com/0166dffee9b63557ebd28d379d01443f-256-388.jpg"
+  },
+  {
+   "startTime": 3784,
+   "title": "15年",
+   "img": "https://image.gcores.com/4bfa3435972dfa3e5b70a55cce342907-1080-1526.webp"
+  },
+  {
+   "startTime": 3887,
+   "title": "选角",
+   "img": "https://image.gcores.com/090d840aff23660492fe3922f1010bf8-1024-681.webp"
+  },
+  {
+   "startTime": 3935,
+   "title": "《复仇者联盟5》",
+   "img": "https://image.gcores.com/5b42034dfb0d15d0d2efff0cb9ecd774-427-468.jpg"
+  },
+  {
+   "startTime": 4039,
+   "title": "AI短剧",
+   "img": "https://image.gcores.com/efc712267f7cf7250979a69a6e499e97-384-216.jpg"
+  },
+  {
+   "startTime": 4090,
+   "title": "《复仇者联盟4》票房",
+   "img": "https://image.gcores.com/612f73e33c427235b1e48176e2118adb-1080-1350.jpg"
+  },
+  {
+   "startTime": 4202,
+   "title": "《幻视任务》",
+   "img": "https://image.gcores.com/78e793ab654cfeb11161c2fb655cf7cd-259-324.jpg"
+  },
+  {
+   "startTime": 4262,
+   "title": "作品评价",
+   "img": "https://image.gcores.com/3e5cdada42f73ab2b9ac88b8ec9122b0-739-415.jpg"
+  },
+  {
+   "startTime": 4473,
+   "title": "下周再见",
+   "img": "https://image.gcores.com/b0fc2ccbaccea3b8a37b6810020522ef-1425-1425.jpg",
+   "url": "https://music.163.com/#/song?id=3463218076"
+  }
+ ]
+}

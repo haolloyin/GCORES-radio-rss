@@ -1,5 +1,499 @@
 {
  "items": {
+  "222330": {
+   "id": "222330",
+   "guid": "gcores-radio-222330",
+   "title": "并无悬念，核周报11.21",
+   "category_raw": "Gadio News",
+   "category": "Gadio News",
+   "published_at": "2026-11-21T23:00:00+08:00",
+   "duration": 4522,
+   "audio": "https://alioss.gcores.com/uploads/audio/65336655-c3b1-4948-9173-0f0aa61ba724.mp3",
+   "page_url": "https://www.gcores.com/radios/222330",
+   "image": "https://image.gcores.com/756f829dafd4f4d49d8e06689707b202-1600-900.png",
+   "summary": "本期核周报要闻：作者称《GTA6》发售MC媒体评分99分追平《时之笛》，预购超1700万份破纪录；TGA提名公布，《GTA6》未发售先获8项提名领跑，《影之刃零》获五项提名；另有2000万人见证BLG 3:1击败GEN夺S16冠军。",
+   "content_html": "<p>本期时间轴制作：佟和</p>\n<p>本期要闻：​《GTA6》发售MC 媒体评分99 分追平时之笛，预购超 1700 万份破纪录， TGA 提名公布，《GTA6》 未发售先拿 8 项领跑，《影之刃零》获五项提名； 2000 万人见证BLG 3:1 击败 GEN 夺 S16 冠军等。​</p>",
+   "participants": [
+    "Ryoma",
+    "雪豆",
+    "Nadya"
+   ],
+   "media_id": "23405",
+   "timelines": [
+    {
+     "at": 0,
+     "title": "开场音乐",
+     "content": "现在播放的音乐是来自《GTA 6》原声集的《Flower In A Hurricane》。",
+     "href": "https://music.163.com/#/song?id=3448337966",
+     "img": "https://image.gcores.com/caedac827524ac82d85b707d8a67c00e-3000-3000.jpg"
+    },
+    {
+     "at": 36,
+     "title": "Gadio News",
+     "content": "欢迎各位听众朋友收听核周报，本期节目由 龙马、Nadya 以及 雪豆 主持。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 47,
+     "title": "媒体评分",
+     "content": "随着游戏将于11月19日发售，媒体评分汇总网站 Metacritic 也汇总了各大媒体的评分。截至发稿前，本作 PS5 版的均分为99分。在98家媒体中，有80家给出了满分。",
+     "href": "https://www.gcores.com/articles/222493",
+     "img": "https://image.gcores.com/43470ccd4ac304bf321f1104ec9d0796-1600-900.webp"
+    },
+    {
+     "at": 159,
+     "title": "预购销量",
+     "content": "根据市场研究机构 Sensor Tower 的估算，截至 2026 年 11 月 18 日，《GTA 6》在全球 PS5 和 Xbox 平台的预购销量已突破 1700 万套，预估营收超过 16.5 亿美元。",
+     "href": "https://www.gcores.com/articles/222190",
+     "img": "https://image.gcores.com/24f30d101cb7ce52db17c78652b4cf54-1600-900.webp"
+    },
+    {
+     "at": 274,
+     "title": "打破纪录",
+     "content": "《荒野大镖客：救赎2》发售仅3天总收入达7.25亿美元，曾创下首周收入最高的娱乐产品纪录。",
+     "href": "",
+     "img": "https://image.gcores.com/e26ca3093ce1613b0a47aaaf49a2694c-590-338.jpg"
+    },
+    {
+     "at": 315,
+     "title": "社区争议",
+     "content": "部分玩家对当代主机缺乏 60 FPS 选项感到失望，认为 30 帧在镜头转动和射击瞄准时不够流畅、容易晕眩。",
+     "href": "",
+     "img": "https://image.gcores.com/28f71f92a1265b863d65349c82229dd8-1920-1080.avif"
+    },
+    {
+     "at": 332,
+     "title": "《GTA Online》",
+     "content": "美国银行近日在发给投资者的分析备忘中预测，《GTA6》在线模式有望于2027年第一季度推出，距离主线发售仅相隔数月。该机构将新一代《GTA Online》视为Take-Two未来最重要的增长动力之一，但Rockstar至今未公布时间。",
+     "href": "",
+     "img": "https://image.gcores.com/c8828d179a445e9682a4917b4fe197e9-550-306.png"
+    },
+    {
+     "at": 350,
+     "title": "请假游玩",
+     "content": "经济学家 José García Montalvo 曾估算，发售日当天美国或有多达 150 万名员工缺勤，潜在生产力损失约 10 亿美元。\n\n据人力资源平台 BrightHR 统计，英国员工在 11 月和 12 月申请的与《GTA 6》相关年假合计约 8.3 万个工作日。仅发售当天的相关年假成本就达约 314 万英镑。",
+     "href": "",
+     "img": "https://image.gcores.com/df5c3f522385cc38eb862fcc7b7ed85f-1080-719.jpg"
+    },
+    {
+     "at": 416,
+     "title": "新西兰玩家",
+     "content": "《GTA 6》按各地当地时间午夜陆续解锁，新西兰因时区靠前，成为全球最早开放游玩的地区之一。大量玩家通过更改主机地区设置或注册新西兰账号提前进入游戏，以免被剧透或更早开玩。\n\n新西兰旅游局在 Instagram 上回应称：“率先迎来日出有什么好处？当然是也能率先玩上《GTA 6》！听说有不少人正打算用‘新西兰大法’加入我们。我们懂，也非常欢迎你们。”",
+     "href": "",
+     "img": "https://image.gcores.com/276402eb91cd7307ba56442e32364d1b-1080-607.jpg"
+    },
+    {
+     "at": 439,
+     "title": "Pocketpair",
+     "content": "《幻兽帕鲁》开发商 Pocketpair 宣布，为迎接《GTA6》于 2026年11月19日 发售，向有意游玩的员工提供 11月19日至23日 共计5天的特别假期。\n\nPocketpair 将这次休假戏称为前往罪恶城执行紧急任务的“商务旅行”。",
+     "href": "",
+     "img": "https://image.gcores.com/4f986cb488cf72a7e21168192377a698-1024-1024.webp"
+    },
+    {
+     "at": 479,
+     "title": "首发Bug",
+     "content": "你在游玩《GTA 6》的过程中都遇到过哪些Bug？",
+     "href": "",
+     "img": "https://image.gcores.com/0f629619d48f53918efc3c12b1eab61a-1080-607.jpg"
+    },
+    {
+     "at": 531,
+     "title": "数毛社实测",
+     "content": "数毛社对《GTA 6》主机版的实测结果显示，各平台均以 30fps 为目标帧率，其中 PS5 Pro 与 Xbox Series X 表现最为稳健，PS5 标准版 在高负载下有明显掉帧，Xbox Series S 帧率压力最大。",
+     "href": "",
+     "img": "https://image.gcores.com/2f9c1ebfe92dbbfe93f3789855a9e1fb-1080-607.jpg"
+    },
+    {
+     "at": 589,
+     "title": "直播数据",
+     "content": "2026 年 11 月 18 日至 19 日《GTA 6》分批解锁期间，Twitch 峰值达到约 329.3 万—331.2 万人，超越此前《堡垒之夜》（约 329.15 万）和《英雄联盟》（约 314.5 万）的纪录。",
+     "href": "",
+     "img": "https://image.gcores.com/e7ce1f2550b57a2e67e27d79f9879e5e-1600-900.jpg"
+    },
+    {
+     "at": 724,
+     "title": "合规引导",
+     "content": "媒体报道显示抖音曾向创作者流出过相关开播合规引导，核心要求包括：\n1. 禁止出现身体严重伤害画面，禁止宣扬暴恐行为；网传引导还涉及限制抢车、打砸抢、殴打路人及袭警等高风险行为。\n2. 建议通过游戏“色盲模式”将血液调整为绿色或灰色，或借助直播伴侣 LUT 滤镜、OBS 滤镜、显卡滤镜遮挡/调整，必要时黑屏跳过血腥镜头。\n3. 严禁裸体或露出敏感部位；除海边等特定合理公共场所外，不得出现角色着装暴露、突出身体轮廓或低俗色情画面。",
+     "href": "",
+     "img": "https://image.gcores.com/9e52940518682ca7c9701cb1b76378a0-678-379.png"
+    },
+    {
+     "at": 786,
+     "title": "社区谣言",
+     "content": "2026 年 11 月 19 日前后，海外社交平台（如 X 和 Facebook）流传出一张伪造的 Rockstar Games 官方声明截图，声称 R星为《GTA 6》存在的卡顿、掉帧及性能问题向玩家“诚挚道歉”，并宣布将于 11 月 25 日推出大型修复更新。\n\n经核实，Rockstar Games 的所有官方社交媒体及官网均未发布过此类道歉声明，也未公布过 11 月 25 日的更新计划，相关帖子已被社交平台标记为虚假信息。",
+     "href": "",
+     "img": "https://image.gcores.com/9cf4a32baef13aec026eb2be104055c4-1280-1600.webp"
+    },
+    {
+     "at": 825,
+     "title": "开发成本",
+     "content": "Rockstar 与母公司 Take-Two 均未披露确切成本，但据外媒及行业估算，整体预算通常落在 10亿至15亿美元区间。\n\n研发周期长达多年并经历多次延期，团队规模扩展至 4700 人以上，几乎是项目启动初期的两倍。",
+     "href": "",
+     "img": "https://image.gcores.com/c2bfb93b0e0e851c4974aa9e98f3e18f-739-415.jpg"
+    },
+    {
+     "at": 870,
+     "title": "回本线",
+     "content": "据 Hindustan Times 与行业分析测算，按 10 亿至 12 亿美元成本计算，卖出 2000 万至 2500 万份 即可覆盖全部开发与大部分营销支出。",
+     "href": "",
+     "img": "https://image.gcores.com/33eb7a42e19c50b9880b1978de8b51a4-1900-1063.jpg"
+    },
+    {
+     "at": 884,
+     "title": "预估销量",
+     "content": "在 2027 财年第二季度财报中，Take-Two 重申全年净预订收入指引为 80 亿至 82 亿美元。\n\n根据Newzoo此前建立的预购及销售预测模型，《GTA6》几个月内全球收入有望达到32.5亿至52亿美元，预计销量约为3700万至5100万份。",
+     "href": "",
+     "img": "https://image.gcores.com/ebd4bb37a6295d3a60ffe768de2b211d-1920-1920.webp"
+    },
+    {
+     "at": 952,
+     "title": "主流3A",
+     "content": "现代3A游戏的开发成本普遍在1亿至3亿美元以上，部分顶级开放世界或旗舰项目甚至达到2亿至5亿美元甚至更高；要实现回本与盈利，多数项目通常需要600万至1000万份以上的销量。",
+     "href": "",
+     "img": "https://image.gcores.com/f8f8606090ba4609e783967bc664a3d4-1920-1080.webp"
+    },
+    {
+     "at": 1104,
+     "title": "TGA2026",
+     "content": "The Game Awards 2026提名名单已公布，《侠盗猎车手6》（GTA6）以8项提名领跑，国产动作游戏《影之刃零》获5项提名并入围年度最佳游戏。\n\n除了年度最佳游戏外，《影之刃零》还获得了最佳游戏导演、最佳艺术指导、最佳配乐与音乐和最佳动作游戏4项提名。",
+     "href": "",
+     "img": "https://image.gcores.com/ff237204b3d087639440fd5181158824-920-430.webp"
+    },
+    {
+     "at": 1194,
+     "title": "年度游戏大奖",
+     "content": "《007：初露锋芒》\n《控制：共振》\n《侠盗猎车手6》\n《影之刃零》\n《生化危机：安魂曲》\n《塞尔达传说 时之笛》",
+     "href": "",
+     "img": "https://image.gcores.com/1022c583726ffece5614d2d8bd7c2f46-1574-855.png"
+    },
+    {
+     "at": 1241,
+     "title": "最佳游戏指导",
+     "content": "《控制：共振》\n《侠盗猎车手6》\n《影之刃零》\n《识质存在》\n《生化危机：安魂曲》",
+     "href": "",
+     "img": "https://image.gcores.com/d163d60b5cc73ca16322a5f2588c13ce-875-492.webp"
+    },
+    {
+     "at": 1254,
+     "title": "最佳叙事",
+     "content": "《007：初露锋芒》\n《控制：共振》\n《侠盗猎车手6》\n《生化危机：安魂曲》\n《黎明行者之血》",
+     "href": "",
+     "img": "https://image.gcores.com/fffa2d594df9113fd68aaeed135eb7f7-875-492.webp"
+    },
+    {
+     "at": 1272,
+     "title": "最佳艺术指导",
+     "content": "《控制：共振》\n《侠盗猎车手6》\n《神探杰克鼠》\n《影之刃零》\n《塞尔达传说 时之笛》",
+     "href": "",
+     "img": "https://image.gcores.com/fe89081725ccd453c133b438ce17dd8b-875-492.webp"
+    },
+    {
+     "at": 1287,
+     "title": "最佳音乐/配乐",
+     "content": "《皇牌空战8：希孚之翼》\n《侠盗猎车手6》\n《混音青春》\n《影之刃零》\n《塞尔达传说 时之笛》",
+     "href": "",
+     "img": "https://image.gcores.com/911560472c93b8d95c09ff0b6be755fd-875-492.webp"
+    },
+    {
+     "at": 1334,
+     "title": "最佳音效设计",
+     "content": "《皇牌空战8：希孚之翼》\n《控制：共振》\n《侠盗猎车手6》\n《生化危机：安魂曲》\n《星球大战：银河赛车手》",
+     "href": "",
+     "img": "https://image.gcores.com/00ca0895a77d3b29882f763148d2ee70-875-492.webp"
+    },
+    {
+     "at": 1342,
+     "title": "最具影响力游戏",
+     "content": "《大步走》\n《孤山独影》\n《Forever Ago》\n《奇异人生：重逢》\n《lily's world XD》\n《混音青春》",
+     "href": "",
+     "img": "https://image.gcores.com/2e8fa49350f499d1ef5b1dd9cb02da59-875-492.webp"
+    },
+    {
+     "at": 1375,
+     "title": "最佳持续运营",
+     "content": "《弧光猎人》\n《最终幻想14》\n《堡垒之夜》\n《无人深空》\n《巫师3：狂猎》",
+     "href": "",
+     "img": "https://image.gcores.com/ec1d29aaea4b8dc47a826a722547902b-875-492.webp"
+    },
+    {
+     "at": 1467,
+     "title": "最佳社区支持",
+     "content": "《红色沙漠》\n《绝地潜兵2》\n《无人深空》\n《巫师3：狂猎》\n《星际战甲》",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 1498,
+     "title": "最佳独立游戏",
+     "content": "《大步走》\n《孤山独影》\n《电车炫客》\n《喵喵的结合》\n《挖掘者米娜》",
+     "href": "",
+     "img": "https://image.gcores.com/d078ef0006e50ebf3874aab082648c3d-875-492.webp"
+    },
+    {
+     "at": 1561,
+     "title": "最佳首秀游戏",
+     "content": "《针影裁梦》\n《奥秘消退》\n《轨道双子星》\n《Replaced》\n《Silver Pines》",
+     "href": "",
+     "img": "https://image.gcores.com/e7b4e32d0ac50996791faacedf6f227b-875-492.webp"
+    },
+    {
+     "at": 1587,
+     "title": "最佳移动游戏",
+     "content": "《明日方舟：终末地》\n《怪物猎人：旅人》\n《异环》\n《宝可梦 Champions》\n《燕云十六声》",
+     "href": "",
+     "img": "https://image.gcores.com/955448ec18cf85ad1b65e9d0bf6068ed-875-492.webp"
+    },
+    {
+     "at": 1690,
+     "title": "移动游戏",
+     "content": "多端游戏都可以参与评选。",
+     "href": "",
+     "img": "https://image.gcores.com/353ee5ff9e52a1a849ef1efa06ec2631-1280-720.webp"
+    },
+    {
+     "at": 1817,
+     "title": "人捧人高",
+     "content": "既然做了就争取做到最好。",
+     "href": "",
+     "img": "https://image.gcores.com/07048487f8e779e1c236798b31ce19b5-1280-720.webp"
+    },
+    {
+     "at": 1974,
+     "title": "最佳VR/AR游戏",
+     "content": "《Forefront》\n《Into the Radius 2》\n《小小梦魇VR：异境回响》\n《Teenage Mutant Ninja Turtles: Empire City》\n《Thief VR: Legacy of Shadow》",
+     "href": "",
+     "img": "https://image.gcores.com/1b3568340f7af53b2d7b2a81a5c9df6d-875-492.webp"
+    },
+    {
+     "at": 2016,
+     "title": "最佳动作游戏",
+     "content": "《皇牌空战8：希孚之翼》\n《战争机器：事变日》\n《鬼武者 Way of the Sword》\n《影之刃零》\n《沙罗周期》",
+     "href": "",
+     "img": "https://image.gcores.com/abd359435ee91ae03f87dc939d41141a-875-492.webp"
+    },
+    {
+     "at": 2236,
+     "title": "最佳动作/冒险",
+     "content": "《007：初露锋芒》\n《控制：共振》\n《侠盗猎车手6》\n《识质存在》\n《生化危机：安魂曲》\n《塞尔达传说 时之笛》",
+     "href": "",
+     "img": "https://image.gcores.com/fe4d0934888c4fbd1ac23e67fb588bd3-875-492.webp"
+    },
+    {
+     "at": 2339,
+     "title": "最佳角色扮演",
+     "content": "《最终幻想 共鸣》\n《火焰之纹章 万缕千丝》\n《怪物猎人物语3：命运双龙》\n《黎明行者之血》\n《空之轨迹 the 2nd》",
+     "href": "",
+     "img": "https://image.gcores.com/fd4c8dae3ad300de8649c90f1207a015-875-492.webp"
+    },
+    {
+     "at": 2409,
+     "title": "最佳家庭游戏",
+     "content": "《大步走》\n《乐高蝙蝠侠：黑暗骑士之遗》\n《Nintendo Switch 运动度假胜地》\n《宝可梦 Pokopia》\n《耀西与不可思议的图鉴》",
+     "href": "",
+     "img": "https://image.gcores.com/1aa7606d6da63b3703708cc8481fd831-875-492.webp"
+    },
+    {
+     "at": 2419,
+     "title": "最佳多人游戏",
+     "content": "《大步走》\n《使命召唤：现代战争4》\n《战争机器：事变日》\n《失落星船：马拉松》\n《Meccha Chameleon》\n《轨道双子星》",
+     "href": "",
+     "img": "https://image.gcores.com/eeb45f3fae49a90a1f1c1bf40e54d1dd-875-492.webp"
+    },
+    {
+     "at": 2455,
+     "title": "最佳模拟/策略",
+     "content": "《喵喵的结合》\n《动物园之星 2》\n《宝可梦 Pokopia》\n《杀戮尖塔2》\n《星球大战 零号连队》",
+     "href": "",
+     "img": "https://image.gcores.com/596ee8882fe0df036445546ec0c85967-875-492.webp"
+    },
+    {
+     "at": 2459,
+     "title": "最受期待游戏",
+     "content": "《神鬼寓言》\n《最终幻想Ⅶ 启示录》\n《战神：劳菲》\n《生化危机：维罗妮卡》\n《巫师4》",
+     "href": "",
+     "img": "https://image.gcores.com/4fbf91cbe2bf55773719bc05ca4537d3-875-492.webp"
+    },
+    {
+     "at": 2495,
+     "title": "最佳游戏改编",
+     "content": "《赛博朋克：边缘行者 2》\n《辐射》第二季\n《真人快打 2》\n《超级马力欧银河大电影》\n《生化危机：爆发夜》",
+     "href": "",
+     "img": "https://image.gcores.com/b92943dbf618abb1b89a0d145726cc7f-875-492.webp"
+    },
+    {
+     "at": 2557,
+     "title": "S16",
+     "content": "2026《英雄联盟》S16全球总决赛已于北京时间11月15日在美国纽约布鲁克林落幕，LPL赛区的Bilibili Gaming（BLG）在先失一局的情况下连追三局，以3:1击败LCK一号种子Gen.G，夺得队史首个世界冠军，这也是LPL时隔五年再度登顶S赛。",
+     "href": "",
+     "img": "https://image.gcores.com/ef320cae207b8d0d4b5cbe4f87e35734-690-385.webp"
+    },
+    {
+     "at": 2559,
+     "title": "最佳无障碍创新",
+     "content": "《刺客信条：黑旗 记忆重置》\n《极限竞速：地平线6》\n《战争机器：事变日》\n《漫威金刚狼》\n《节奏天国 奇迹之星》",
+     "href": "",
+     "img": "https://image.gcores.com/a49cd7fddcef196d9ceb4e0f63acdbc6-875-492.webp"
+    },
+    {
+     "at": 2593,
+     "title": "最佳电竞游戏",
+     "content": "《反恐精英2》\n《DOTA 2》\n《英雄联盟》\n《Mobile Legends: Bang Bang》\n《无畏契约》",
+     "href": "",
+     "img": "https://image.gcores.com/58906a74106a936ea87351858d80904c-875-492.webp"
+    },
+    {
+     "at": 2680,
+     "title": "Faker",
+     "content": "韩国《英雄联盟》职业电子竞技选手，自2013年出道起便效力于T1（前SK Telecom T1）战队。\n\n曾获6次全球总决赛冠军、10次 LCK联赛冠军、2次 季中冠军赛（MSI）冠军，以及 2023年、2026年 亚运会《英雄联盟》项目金牌，并于2024年入选《英雄联盟》名人堂，2026年1月获韩国“青龙章”体育勋章。",
+     "href": "",
+     "img": "https://image.gcores.com/d3be89a835c5607129b306b6924e81a0-988-987.avif"
+    },
+    {
+     "at": 2792,
+     "title": "最佳电竞选手",
+     "content": "Chovy（Gen.G）\ndonk（Team Spirit）\nErde（LOUD）\nYatoro（Team Spirit）\nZywOo（Team Vitality）",
+     "href": "",
+     "img": "https://image.gcores.com/85cb981fac0f1a4ab3f86e2471f3a723-875-492.webp"
+    },
+    {
+     "at": 2845,
+     "title": "《异于天堂》",
+     "content": "世嘉宣布，《异于天堂》系列剧情预告片第二部“吴篇”现已公开。本作将于2027年1月15日发售。\n\n系列剧情预告片将为玩家介绍本作主角·大东真贯穿1915年至1965年，跨越五个时代、五座城市的人生轨迹，着重展现大东在不同时代、不同城市结识的人们，以及他所经历的种种转折。",
+     "href": "https://www.gcores.com/articles/222440",
+     "img": "https://image.gcores.com/4d3c7b1cfbedc9aca3b398e04c22378b-1600-900.webp"
+    },
+    {
+     "at": 2907,
+     "title": "辻本良三采访",
+     "content": "在 2026 年 gamescom asia x Thailand Game Show 展会期间接受 GamerBraves 采访时，辻本良三谈到了卡普空近年来推出多款优秀作品的原因，包括《识质存在》、《鬼武者：剑之道》以及《生化危机：安魂曲》。\n\n他表示：“我认为，我们不能简单地说这就是原因，但 RE Engine 确实发挥了重要作用，也是这些游戏能够以目前这种方式开发的重要因素之一。”辻本良三进一步解释称：“在开发过程中，能够让引擎工程师参与其中非常有帮助，因为这样可以快速解决问题，也能让不同团队成员之间的沟通更加顺畅。此外，使用这套引擎还可以让开发人员在整个制作过程中进行更多细节上的调整。”",
+     "href": "",
+     "img": "https://image.gcores.com/b76ae9ef7be7db8308faa14b8e233286-640-360.jpg"
+    },
+    {
+     "at": 2989,
+     "title": "性能修复",
+     "content": "有人可能会认为，《怪物猎人：荒野》本来就应该推迟发售，等到技术表现达到预期后再与玩家见面。但不少采用其他游戏引擎开发的作品，即使经历多年更新，也始终没能彻底解决性能问题。此外，还有不少游戏在发售后长期处于表现平平的技术状态，最终不得不依靠玩家制作的 MOD 修复开发团队始终未能解决的问题。\n\n从这个角度来看，《怪物猎人：荒野》虽然以糟糕的技术表现开局，但如今大部分问题已经得到修复，这段经历也并非毫无价值。",
+     "href": "",
+     "img": "https://image.gcores.com/1c732df9fde0e07cf4a793f45bc028d4-640-480.jpg"
+    },
+    {
+     "at": 3151,
+     "title": "Firaxis",
+     "content": "Take-Two （R星及2K的母公司）旗下负责开发《文明》《幽浮》的游戏工作室 Firaxis Games 于日前宣布裁员约60人，占员工总数的三分之一左右。2K Games 发言人随后证实，工作室负责人 Heather Hazen 也将离职。\n\nFiraxis去年推出的最新作品《文明7》市场反响褒贬不一，但此后陆续获得了大量更新。据未获授权公开发言的知情人士透露，Firaxis一直在开发一款新的《幽浮》游戏。不过这款游戏的开发过程并不顺利，今年夏天还错过了一个重要节点。知情人士表示，新《幽浮》项目的开发仍会继续，但此次裁员可能会给项目带来较大变动。",
+     "href": "",
+     "img": "https://image.gcores.com/ec53cd1b1727d582542b8dc505de16c9-597-335.webp"
+    },
+    {
+     "at": 3237,
+     "title": "新一任《007》",
+     "content": "亚马逊 MGM 影业宣布，罗伯特·帕丁森将接替丹尼尔·克雷格，成为新一代詹姆斯·邦德的扮演者。",
+     "href": "https://www.gcores.com/articles/222426",
+     "img": "https://image.gcores.com/f4dbc24871c042ba2a39567d6bd303d1-1035-582.webp"
+    },
+    {
+     "at": 3355,
+     "title": "007系列",
+     "content": "亚马逊在2022年以84.5亿美元收购米高梅后，又于2025年取得007系列的创意主导权，正式打破延续六十余年的布洛科利家族主控模式，推动007从选角逻辑、创作班底到商业运作地全面转向。\n\n新作由《沙丘》导演丹尼斯·维伦纽瓦执导，《浴血黑帮》主创史蒂文·奈特担任编剧，由操盘过《蜘蛛侠》《哈利·波特》等长线IP的艾米·帕斯卡与大卫·海曼制片。",
+     "href": "",
+     "img": "https://image.gcores.com/604c71703685a62d42e5d43f4559967c-601-332.jpg"
+    },
+    {
+     "at": 3425,
+     "title": "罗伯特·帕丁森",
+     "content": "英国男演员、制片人、音乐人及模特，现年40岁，代表作包括：《暮光之城》、《哈利·波特与火焰杯》、《信条》、《新蝙蝠侠》、《奥德赛》、《沙丘3》等。",
+     "href": "",
+     "img": "https://image.gcores.com/68f6e9d71bf90382d1f2e1b574ce2651-1080-1440.webp"
+    },
+    {
+     "at": 3563,
+     "title": "安提诺俄斯",
+     "content": "罗伯特·帕丁森在克里斯托弗·诺兰执导的2026年电影《奥德赛》中饰演反派角色安提诺俄斯，即围攻奥德修斯王宫并试图霸占珀涅罗珀的主要求婚者首领。",
+     "href": "",
+     "img": "https://image.gcores.com/4c3a2e6b8ff3372106986a36a53d39c0-1448-1772.jpg"
+    },
+    {
+     "at": 3638,
+     "title": "老系列翻新",
+     "content": "丹尼尔·克雷格主演的5 部《007》电影弱化了系列早期夸张科幻道具与花花公子套路，转向更写实、粗粝且注重心理与情感的动作风格。",
+     "href": "",
+     "img": "https://image.gcores.com/a8a8f62f4326816e255ba0637bf0cd38-720-405.webp"
+    },
+    {
+     "at": 3717,
+     "title": "《007之金枪客》",
+     "content": "007系列电影的第9部作品，于1974年上映，由盖伊·汉弥尔顿执导，罗杰·摩尔饰演詹姆斯·邦德。",
+     "href": "",
+     "img": "https://image.gcores.com/f217a8e96d34cb80127413a181bb3345-250-375.jpg"
+    },
+    {
+     "at": 3726,
+     "title": "《007之生死关头》",
+     "content": "007系列电影的第8部作品，于1973年上映，由盖伊·汉弥尔顿执导，罗杰·摩尔首次饰演詹姆斯·邦德。",
+     "href": "",
+     "img": "https://image.gcores.com/0166dffee9b63557ebd28d379d01443f-256-388.jpg"
+    },
+    {
+     "at": 3784,
+     "title": "15年",
+     "content": "丹尼尔·克雷格是007影史上任期最长的邦德扮演者，共担任该角色15年（2006年《007：大战皇家赌场》至2021年《007：无暇赴死》）。\n\n参演007系列次数最多的演员是罗杰·摩尔（7部），任期跨度为12年（1973–1985）。",
+     "href": "",
+     "img": "https://image.gcores.com/4bfa3435972dfa3e5b70a55cce342907-1080-1526.webp"
+    },
+    {
+     "at": 3887,
+     "title": "选角",
+     "content": "在亚马逊米高梅的选角终面中，五位演员接受了动作戏与台词考核： \n罗伯特·帕丁森\n卡勒姆·特纳\n杰克·劳登\n乔什·奥康纳\n尼古拉斯·霍尔特",
+     "href": "",
+     "img": "https://image.gcores.com/090d840aff23660492fe3922f1010bf8-1024-681.webp"
+    },
+    {
+     "at": 3935,
+     "title": "《复仇者联盟5》",
+     "content": "《复仇者联盟5：毁灭之日》将于 2026年12月16日 在中国大陆上映，12月18日 在北美上映。",
+     "href": "",
+     "img": "https://image.gcores.com/5b42034dfb0d15d0d2efff0cb9ecd774-427-468.jpg"
+    },
+    {
+     "at": 4039,
+     "title": "AI短剧",
+     "content": "感兴趣的朋友欢迎搜索「MJ宇宙」。",
+     "href": "",
+     "img": "https://image.gcores.com/efc712267f7cf7250979a69a6e499e97-384-216.jpg"
+    },
+    {
+     "at": 4090,
+     "title": "《复仇者联盟4》票房",
+     "content": "《复仇者联盟4：终局之战》全球累计票房约 29.26亿美元，凭借2026年《复仇者联盟4：终局之战》重映表现，反超《阿凡达》的29.237亿美元，夺得全球影史单片票房冠军。",
+     "href": "",
+     "img": "https://image.gcores.com/612f73e33c427235b1e48176e2118adb-1080-1350.jpg"
+    },
+    {
+     "at": 4202,
+     "title": "《幻视任务》",
+     "content": "漫威电影宇宙第六阶段剧集，共8集，于2026年10月13日在 Disney+ 首播，2026年11月10日完结。",
+     "href": "",
+     "img": "https://image.gcores.com/78e793ab654cfeb11161c2fb655cf7cd-259-324.jpg"
+    },
+    {
+     "at": 4262,
+     "title": "作品评价",
+     "content": "漫威电影宇宙自进入第四阶段后，作品评价都比较一般。",
+     "href": "",
+     "img": "https://image.gcores.com/3e5cdada42f73ab2b9ac88b8ec9122b0-739-415.jpg"
+    },
+    {
+     "at": 4473,
+     "title": "下周再见",
+     "content": "感谢各位听众朋友收听核周报，我们下周再见！\n\n结尾播放的音乐是来自《GTA 6》原声集的《IKYFL》。",
+     "href": "https://music.163.com/#/song?id=3463218076",
+     "img": "https://image.gcores.com/b0fc2ccbaccea3b8a37b6810020522ef-1425-1425.jpg"
+    }
+   ],
+   "tl_checked": 1,
+   "length": 72353869,
+   "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222330.json"
+  },
   "222329": {
    "id": "222329",
    "guid": "gcores-radio-222329",
@@ -386,8 +880,8 @@
      "img": ""
     }
    ],
-   "tl_checked": 1,
    "length": 78110003,
+   "tl_checked": 1,
    "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222329.json"
   },
   "222328": {
@@ -40324,844 +40818,6 @@
    "length": 99201059,
    "tl_checked": 1,
    "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217525.json"
-  },
-  "217524": {
-   "id": "217524",
-   "guid": "gcores-radio-217524",
-   "title": "“老登焦虑”是什么？这里集合 Vol.2",
-   "category_raw": "Gadio Life",
-   "category": "Gadio Life",
-   "published_at": "2026-07-28T23:00:00+08:00",
-   "duration": 7478,
-   "audio": "https://alioss.gcores.com/uploads/audio/d74fc327-c969-4f97-86b6-57ce243efb58.mp3",
-   "page_url": "https://www.gcores.com/radios/217524",
-   "image": "https://image.gcores.com/fcd7fb1d75e09b622cb9e30cc90b7529-1920-1080.jpg",
-   "summary": "机核《这里集合》Vol.2 汇总6月20日至7月20日站内动态，涵盖核聚变志愿者体验、世界杯舆论引发的“登味焦虑”、年轻人年龄焦虑、注意力与记忆力下降、中元夜话、机友评《后室》、闲鱼捡漏与梦见入职机核等话题，并预告机核FM功能。",
-   "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>欢迎来到7月的《这里集合》！每个月，机核站内会产生一万多条动态。编辑团队在日常运营中不断地浏览这些内容，并从中选取一些帖子进行分享和讨论。这些帖子可能是热门的，也可能是被忽略的，但它们都引发了我们的某些停顿和联想。「这里集合」并非有明确主题的精选榜单，而是尝试观察和参与机组大家所分享的生活，由机核运营团队主持，（计划）每月更新。本期涵盖了6月20日到7月20日的机组内容，我们从机组得到的话题有：</p>\n<ul>\n<li>来核聚变当志愿者是什么体验？</li>\n<li>世界杯舆论场引发的登味焦虑</li>\n<li>20岁的年轻人也有年龄焦虑？</li>\n<li>感觉注意力和记忆力下降了，该怎么办？</li>\n<li>最恐怖的中元夜话，可能来自生活</li>\n<li>机友锐评《后室》</li>\n<li>混迹闲鱼，捡到的不止是便宜</li>\n<li>在梦里入职机核</li>\n</ul>\n<p>最后，我们介绍了即将上线的机核FM功能，希望大家多多期待！ </p>",
-   "participants": [
-    "Samiii",
-    "柏亚舟",
-    "白广大",
-    "雪豆"
-   ],
-   "media_id": "22349",
-   "timelines": [
-    {
-     "at": 0,
-     "title": "开场音乐",
-     "content": "您现在听到的是《I've Got You Under My Skin》。",
-     "href": "",
-     "img": "https://image.gcores.com/695eba2e1bffb4923356b73d3eee0e18-1209-680.webp"
-    },
-    {
-     "at": 30,
-     "title": "欢迎收听",
-     "content": "大家好！欢迎收听新一期的《这里集合》节目，本期成员是Samiii、柏亚舟、雪豆和老白。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 39,
-     "title": "老白返场",
-     "content": "到底是谁在念叨老白。",
-     "href": "",
-     "img": "https://image.gcores.com/274b840ec9465c4c99257416dc693a3e-601-612.png"
-    },
-    {
-     "at": 85,
-     "title": "好快的七月",
-     "content": "是不是因为这个月录了两期，因为七月中还有一期SP。",
-     "href": "https://www.gcores.com/radios/217005",
-     "img": "https://image.gcores.com/b1cc20438a6902480d3c9be70efb6d60-1014-846.png"
-    },
-    {
-     "at": 115,
-     "title": "时间节点多",
-     "content": "深核，世界杯，BW......这个月确实发生了很多事。",
-     "href": "https://www.gcores.com/articles/216513",
-     "img": "https://image.gcores.com/732b9586b9c8a74737c81da314c91491-875-657.webp"
-    },
-    {
-     "at": 165,
-     "title": "10月北京核聚变",
-     "content": "OHHHHHHHHH~",
-     "href": "",
-     "img": "https://image.gcores.com/13eaa78345632c348363e1b6c5ed2351-2500-1406.webp"
-    },
-    {
-     "at": 173,
-     "title": "再次介绍这档节目",
-     "content": "每个月，机核站内会产生一万多条动态。编辑团队在日常运营中不断地浏览这些内容，并从中选取一些帖子进行分享和讨论。这些帖子可能是热门的，也可能是被忽略的，但它们都引发了我们的某种停顿和思考。「这里集合」并非精选榜单，而是一档基于机组内容的观察节目，将由机核运营团队主持，（计划）每月更新。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 229,
-     "title": "核聚变抓拍西蒙",
-     "content": "饱经沧桑的眼神......(救救机核)",
-     "href": "",
-     "img": "https://image.gcores.com/9b243dcc3fa3f755786ebcb7656f641f-556-556.png"
-    },
-    {
-     "at": 270,
-     "title": "李安来过核聚变",
-     "content": "第一次知道......",
-     "href": "",
-     "img": "https://image.gcores.com/1d8bf6685b57072ec5fc5903032add6e-600-519.jpg"
-    },
-    {
-     "at": 292,
-     "title": "每次必到",
-     "content": "ATXZ老师还整理了2026深圳核聚变两天的摄影合集，有任何核聚变“戒断反应”的朋友可以尝试缓解一下症状。",
-     "href": "https://www.gcores.com/articles/216516",
-     "img": "https://image.gcores.com/eeff61003b07a39e45d155eaac18f8df-700-1050.webp"
-    },
-    {
-     "at": 345,
-     "title": "高强度用户",
-     "content": "感谢宇文老师！",
-     "href": "https://www.gcores.com/talks/1258176",
-     "img": "https://image.gcores.com/d4e63b29c75b02c26e5e51f4af60b642-559-689.png"
-    },
-    {
-     "at": 459,
-     "title": "感谢所有志愿者",
-     "content": "阿陶老师镜头下的宇文老师。",
-     "href": "https://www.gcores.com/articles/216513",
-     "img": "https://image.gcores.com/5d09705e245720409adfff9c09045c53-875-657.webp"
-    },
-    {
-     "at": 486,
-     "title": "澄清志愿者迷思",
-     "content": "与其说是志愿者活动，不如说是一年一度的机核线下朋友聚会。",
-     "href": "",
-     "img": "https://image.gcores.com/d0c9f2ad12c9491db85544fb613c2715-1920-1080.webp"
-    },
-    {
-     "at": 603,
-     "title": "白广大无料",
-     "content": "球球了......",
-     "href": "",
-     "img": "https://image.gcores.com/d0b65ee9de4aefe4086cb53b5011e177-2000-857.webp"
-    },
-    {
-     "at": 628,
-     "title": "还有志愿者酒局",
-     "content": "喜欢志愿者的原因找到了（。",
-     "href": "",
-     "img": "https://image.gcores.com/6f344d6adb7069cd49d9ff6f8484eb32-703-612.png"
-    },
-    {
-     "at": 712,
-     "title": "世界杯直播",
-     "content": "录音笔里有一期当时龙马和柏亚舟的世界杯决赛直播实录。",
-     "href": "https://www.gcores.com/radios/217335",
-     "img": "https://image.gcores.com/155ab3473d0df78f95ac7aa5d978e3ad-888-879.png"
-    },
-    {
-     "at": 766,
-     "title": "Ado × adidas 日本国家队联名球衣",
-     "content": "",
-     "href": "",
-     "img": "https://image.gcores.com/29496303e2a874e9caf0af4d5885b37a-500-333.png"
-    },
-    {
-     "at": 798,
-     "title": "登味朋友圈",
-     "content": "身在登中不知登，只缘身在此登中。",
-     "href": "https://www.gcores.com/talks/1262251",
-     "img": "https://image.gcores.com/e76890ec26189d58109df94dce154639-567-359.png"
-    },
-    {
-     "at": 934,
-     "title": "锐评显登味",
-     "content": "所谓锐评，既可以是批评，也可以是独到见解，但可能那些独到见解，可能也会被别人解读为登味。",
-     "href": "",
-     "img": "https://image.gcores.com/7a170a4ea536c8d007ea62b61f40c887-128-124.png"
-    },
-    {
-     "at": 949,
-     "title": "微博达人舟老师",
-     "content": "还是陌生人社区比熟人社区用起来舒服。",
-     "href": "",
-     "img": "https://image.gcores.com/114e0be3527907bb38ea339765e7bae6-1080-1286.jpg"
-    },
-    {
-     "at": 1033,
-     "title": "更不喜欢推荐算法",
-     "content": "但现在所有平台都用推荐流了吧，微博和公众号不也一样，可能只有小平台不用，比如机组（。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 1073,
-     "title": "自我发言的权威性",
-     "content": "舟老师的这个“会”太经典了哈哈哈哈哈。",
-     "href": "",
-     "img": "https://image.gcores.com/b7486953e742565230a3ee9ca48ea8d0-244-201.gif"
-    },
-    {
-     "at": 1088,
-     "title": "洛天依线下生日歌会",
-     "content": "详细请看豆哥在站内发的文章。",
-     "href": "https://www.gcores.com/articles/217255",
-     "img": "https://image.gcores.com/5ab5551efa963a5fd79ed37245507161-875-492.webp"
-    },
-    {
-     "at": 1143,
-     "title": "不要用登来定义一项活动",
-     "content": "永远有人年轻，年轻人会用自己的方式去热爱。",
-     "href": "",
-     "img": "https://image.gcores.com/b0cfc7ba29488a70424f5058eefa2e95-875-492.webp"
-    },
-    {
-     "at": 1191,
-     "title": "别太在意登不登",
-     "content": "做返自己啦（做回自己吧）。",
-     "href": "",
-     "img": "https://image.gcores.com/6ca2d5e1b2cdb4e34ad2b21138b86f0c-1011-572.png"
-    },
-    {
-     "at": 1220,
-     "title": "戒赌节目",
-     "content": "戒戒你好。",
-     "href": "https://www.gcores.com/radios/217256",
-     "img": "https://image.gcores.com/23ca04890e35f42f676199675b97b4af-888-879.png"
-    },
-    {
-     "at": 1269,
-     "title": "对于登的焦虑",
-     "content": "害怕自己的表达散发出登味。",
-     "href": "",
-     "img": "https://image.gcores.com/85e025c607e29e3d01fa692414781fcd-1182-677.jpg"
-    },
-    {
-     "at": 1374,
-     "title": "正确支持英格兰队的方式",
-     "content": "第一，不要对英格兰夺冠抱走任何的信心\n第二，赛前赛中赛后，无论对方球迷说什么，都不要有任何回怼的行为。\n第三，不准说什么足球回家啦。It's coming home.等等云云。\n第四，如果明天真的输了，就输了。要接受。\n第五，万一他们赢了，我是说万一，那只是他们不小心赢的。\n第六，无论结果如何。红牌点球什么的，第二天继续正常上班，太阳继续从东方升起。\n第七，出门的时候不要闯红灯，红灯的时候不要过马路。\n第八，好好吃饭。\n第九，记得多喝一点水，对新陈代谢有帮助。\n第十，英格兰真的想赢的时候，他们就很可能会赢，不要太积极，保持悲观，1966年到现在都没赢过，如果这次没赢，不是你的问题。\n第十一，英格兰就像人生。",
-     "href": "https://www.gcores.com/talks/1265334",
-     "img": "https://image.gcores.com/67f3c5a99201c1fbaa2acc33602ec29f-1320-1697.webp"
-    },
-    {
-     "at": 1486,
-     "title": "身边的隐藏球迷",
-     "content": "看来这次世界杯也有不少新球迷入坑。",
-     "href": "",
-     "img": "https://image.gcores.com/104e68ec7833aab1abfb95c5dc76df57-2560-1706.jpg"
-    },
-    {
-     "at": 1548,
-     "title": "球员组CP",
-     "content": "原来说的是身体对抗啊，还以为说的是身体对抗呢。",
-     "href": "",
-     "img": "https://image.gcores.com/ddf1de69b3862598708b0e85ff4b7874-640-360.png"
-    },
-    {
-     "at": 1621,
-     "title": "亚马尔",
-     "content": "拉明·亚马尔（Lamine Yamal），2007年7月13日出生于西班牙加泰罗尼亚巴塞罗那省埃斯普卢加斯，拥有西班牙/赤道几内亚双重国籍，西班牙足球运动员，场上司职前锋，现效力于西班牙足球甲级联赛的巴塞罗那足球俱乐部。",
-     "href": "",
-     "img": "https://image.gcores.com/089345646962c2078d046048c103429e-536-722.webp"
-    },
-    {
-     "at": 1694,
-     "title": "年龄焦虑",
-     "content": "但21岁。",
-     "href": "",
-     "img": "https://image.gcores.com/f37ea0364ff7b3be28804060831bd7f1-564-320.png"
-    },
-    {
-     "at": 1746,
-     "title": "最好的年龄",
-     "content": "某位游戏推手曾经说过，25岁是成为艺术家的最好的年龄，21岁的你还有四年可以挥霍。",
-     "href": "",
-     "img": "https://image.gcores.com/a76548c676d30848de469cb2cdd13860-685-621.gif"
-    },
-    {
-     "at": 1843,
-     "title": "迷茫的年纪",
-     "content": "没事，“XX岁正是迷茫的年纪”，这个句式填多少都成立，只是迷茫的角度不同，不如活在当下吧。",
-     "href": "",
-     "img": "https://image.gcores.com/9ec8505381e670d2a945b95b256a3135-576-499.jpg"
-    },
-    {
-     "at": 1960,
-     "title": "大学高中化",
-     "content": "指大学在管理模式、教学方式、评价体系及学生成长路径上向高中阶段靠拢，课业负担加重、自主时间被压缩的现象。",
-     "href": "",
-     "img": "https://image.gcores.com/42bd31e51507db2281f12717821221cb-1920-1080.jpg"
-    },
-    {
-     "at": 2102,
-     "title": "试错成本低",
-     "content": "多多尝试自己感兴趣的方向，不行再换还来得及。",
-     "href": "",
-     "img": "https://image.gcores.com/30cf23124acd6d128a8ac5679abc56c8-474-315.webp"
-    },
-    {
-     "at": 2168,
-     "title": "人生导师豆哥",
-     "content": "建议在GPASS里开个专栏。",
-     "href": "",
-     "img": "https://image.gcores.com/e0c6511aca62b22aad4f723a4fe87c9c-633-713.png"
-    },
-    {
-     "at": 2280,
-     "title": "老白的32岁",
-     "content": "“我没有退路。”",
-     "href": "",
-     "img": "https://image.gcores.com/63c69702f315df1c2d8212fec501b639-722-1228.webp"
-    },
-    {
-     "at": 2329,
-     "title": "萝卜的机组",
-     "content": "这才是年轻人该思考的事！",
-     "href": "",
-     "img": "https://image.gcores.com/dea03e1f23d328194802a220a6b45ade-729-1110.png"
-    },
-    {
-     "at": 2361,
-     "title": "注意力下降",
-     "content": "多玩游戏是对的。",
-     "href": "",
-     "img": "https://image.gcores.com/91bb0ae408289618e11e14493e2c22ba-558-257.png"
-    },
-    {
-     "at": 2403,
-     "title": "ADHD",
-     "content": "注意力缺失过动症（ADHD），又称注意力缺陷多动障碍、过度活跃症，是一种以注意缺陷、活动过度和冲动控制困难为特征的神经发育障碍，常见于儿童期且60%-70%患者的症状会延续至成年。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 2496,
-     "title": "有病就去医院",
-     "content": "别随便把一些病理性的症状往自己身上贴，有病没病去医院查过才知道。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 2513,
-     "title": "巴纳姆效应",
-     "content": "是指人们常常认为一种笼统的,一般性的人格描述十分准确地揭示了自己的特点，是一种典型的认知偏差行为。这种效应可以部分解释一些超自然信仰和实践的广泛接受，例如占星术、算命、气场解读和某些类型的性格测试。",
-     "href": "",
-     "img": "https://image.gcores.com/af39ff232380eab108e07126c231a59c-310-198.jpg"
-    },
-    {
-     "at": 2632,
-     "title": "拒绝批评",
-     "content": "舟老师不是聋，而是专注力高！",
-     "href": "",
-     "img": "https://image.gcores.com/ca546e8d5eafc96b6cdf26fb5db6ea6f-219-210.png"
-    },
-    {
-     "at": 2754,
-     "title": "适量运动",
-     "content": "多运动肯定是没错的。",
-     "href": "",
-     "img": "https://image.gcores.com/de537c608e41312b4afb40a4e85578bb-1200-800.jpg"
-    },
-    {
-     "at": 2787,
-     "title": "番茄工作法",
-     "content": "番茄工作法包括规划、跟踪、记录、处理、可视化五个阶段，是一个完整的闭环。核心理念是将工作时间划分为若干个25分钟（时长可调整）的时间段，称为“番茄时间”。每个“番茄时间”后，进行5分钟的短暂休息，而当连续完成四个番茄时间后，可以获得一个更长的休息时间，通常为15至30分钟。",
-     "href": "",
-     "img": "https://image.gcores.com/8e67aba8440c7655054225d7ee266e36-536-427.webp"
-    },
-    {
-     "at": 2866,
-     "title": "沉浸式全屏编辑器",
-     "content": "可以最大程度地隔绝外界干扰。",
-     "href": "",
-     "img": "https://image.gcores.com/c5db052f62774cf57cdfb5b0c6b12aea-600-350.png"
-    },
-    {
-     "at": 2985,
-     "title": "《人类存钱箱制造机》",
-     "content": "大雄拿到压岁钱，深知自己意志力差、一定会忍不住乱花，拜托哆啦 A 梦把钱放进很难破解的存钱装置锁住。",
-     "href": "",
-     "img": "https://image.gcores.com/d5848d94f498ee7d4faba2dbd013c164-1200-800.png"
-    },
-    {
-     "at": 3033,
-     "title": "恐怖片录音笔",
-     "content": "",
-     "href": "https://www.gcores.com/radios/216847",
-     "img": "https://image.gcores.com/d66ae38175f2fdbc218d13d663d1c21d-1012-933.png"
-    },
-    {
-     "at": 3066,
-     "title": "病村",
-     "content": "所以这算恐怖吗。",
-     "href": "",
-     "img": "https://image.gcores.com/7cb107f6ecedf19cc4c9fea33e0d4c9a-489-276.png"
-    },
-    {
-     "at": 3126,
-     "title": "《8号出口》",
-     "content": "在地铁通道里，男主与西装大叔的反复擦肩令他感到异样，此时墙上张贴的规则，让他意识到需要仔细观察每个重复的场景，找出其中细微的“异变”。在循环中，他遇到了同样陷入循环的小男孩，最终，他发现这段经历与他不愿面对的现实密切相关，获得了成长。唯有觉察并正视这些内心的“异变”，才能找到通往真实世界的出口。\n本片改编自2023年发行的寻找“异常”的同名游戏。",
-     "href": "",
-     "img": "https://image.gcores.com/ba4ba4f63c03c48159a042af04d673c2-270-405.webp"
-    },
-    {
-     "at": 3154,
-     "title": "K版后室",
-     "content": "“后室”本就是互联网上的集体创作题材，而K版后室主要聚焦于以《后室》电影的导演凯恩·帕森斯为核心的创作部分。",
-     "href": "",
-     "img": "https://image.gcores.com/824bdd60c607ecdc7800e1b55db3a9e0-473-675.jpg"
-    },
-    {
-     "at": 3191,
-     "title": "机核办公室",
-     "content": "机核办公室也是一种后室。",
-     "href": "",
-     "img": "https://image.gcores.com/d2d5a9e5082c593f698c8b38b2b8cd13-698-1031.png"
-    },
-    {
-     "at": 3214,
-     "title": "外国人害怕简装房",
-     "content": "一生要强老中人。",
-     "href": "",
-     "img": "https://image.gcores.com/0563b11046351472c4ad712ebcca814b-553-981.png"
-    },
-    {
-     "at": 3237,
-     "title": "雪版后室",
-     "content": "还挺可爱。",
-     "href": "",
-     "img": "https://image.gcores.com/e985aef5dcb45b1e5e2387857988c774-690-862.jpg"
-    },
-    {
-     "at": 3255,
-     "title": "面无表情",
-     "content": "表面镇定，内心慌得一匹。",
-     "href": "",
-     "img": "https://image.gcores.com/b04f82f8d30534c4c2ec68d6069ca231-160-144.gif"
-    },
-    {
-     "at": 3295,
-     "title": "《灵异咒》",
-     "content": "某日，东京一处房屋失火，房屋主人小林雅文（村木仁 饰）生不见人，死不见尸。小林是一名怪奇作家，他经常到传言闹鬼的地方体验采访，著书立作，同时还是一名电台灵异节目的主持人。他的失踪引起人们广泛猜测，而其留下的DV素材则称为寻找其下落的关键所在。\n录像带中，小林曾拜访过一位家庭主妇，主妇声称在隔壁经常能够听到婴儿的哭声，而那户人家根本没有小孩。在采访结束后不久，主妇遭遇车祸身亡。小林坚信这起事故背后另有隐情，他由此展开更为深入的调查。然而调查越深入，离奇诡异的事件越来越多，而恐怖的真相也渐渐浮出水面……",
-     "href": "",
-     "img": "https://image.gcores.com/2003c2844456cec131ab724c3938585b-270-382.webp"
-    },
-    {
-     "at": 3320,
-     "title": "最古老的景象",
-     "content": "",
-     "href": "https://www.bilibili.com/video/BV1iu4y1x7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=bc539f90316a679c9f8de3029479618d",
-     "img": "https://image.gcores.com/f23d8d89de88827f38cc87d7888b771c-1174-658.png"
-    },
-    {
-     "at": 3394,
-     "title": "梦核",
-     "content": "确实就是十几二十年前对现实的印象。",
-     "href": "",
-     "img": "https://image.gcores.com/498753b9d30de479def633c04522c794-800-437.jpg"
-    },
-    {
-     "at": 3432,
-     "title": "《咒》",
-     "content": "六年前，怀孕的李若男（蔡亘宴 饰）、陈立东（林敬伦 饰）和陈振原（温庆禹 饰）秉着破除迷信的态度进入了陈家村，据说那里供奉着不可冒犯的神明。陈立东和陈振原因为传入了祭坛所在的禁地而招致了灭顶之灾，李若男虽然逃过一死，精神却受到了极大的冲击。\n此事过后，李若男生下了一个女儿，因为怕触犯禁忌，李若男将女儿寄养在孤儿院中。之后，李若男一直接受着心理治疗，一晃眼就是六年过去。当李若男觉得一切都已经平息之后，她将女儿陈乐瞳（黄歆庭 饰）接回了自己身边，哪知道女儿刚到家没多久，家中便屡屡出现可怕的异像，年幼的陈乐瞳似乎和曾经陈家村所供奉的神明有着千丝万缕的联系。",
-     "href": "",
-     "img": "https://image.gcores.com/06e226f13e0d08d87e0e9e5388f1f130-270-391.webp"
-    },
-    {
-     "at": 3470,
-     "title": "老白安利恐怖片",
-     "content": "《沃伦》《自己去看》《狗镇》《生死线》《伊甸湖》。",
-     "href": "",
-     "img": "https://image.gcores.com/4e2aa036356da9b18cb25422a4d40ef1-270-399.webp"
-    },
-    {
-     "at": 3484,
-     "title": "《柳条人》",
-     "content": "20世纪70年代，苏格兰警官豪伊（ 爱德华·伍德华德 饰）收到一封信，信中称苏格兰西海岸的一个小岛——夏岛上的女孩罗恩·莫里森失踪已久，并向他求助破案。豪伊来到夏岛展开调查，发现岛上的氛围十分怪异。居民们先说不认识这个女孩，后又表示女孩已死。但豪伊没有找到女孩的尸体。失踪女孩的去向愈发不明。案件真相越来越扑朔迷离。豪伊又惊讶地发现岛上的居民是一群并不信仰耶稣基督的异教徒。夏岛勋爵（克里斯托弗·李 饰）更是似乎拥有极大的权力和声望。他们并不配合豪伊的调查。豪伊准备离开小岛时发现了小岛五月庆典中用活人来祭祀的传统，他准备一探究竟，然而他不知道危险正在向他靠近……",
-     "href": "",
-     "img": "https://image.gcores.com/7d07202eb925c07572cdc9f1d8bc36e1-270-382.webp"
-    },
-    {
-     "at": 3489,
-     "title": "《午夜凶铃》",
-     "content": "女高中生友子和同学共同看了一盘来历不明的录像带，七天后，她和她的同学相继死去，这引起了女记者浅川（松岛菜菜子 饰）的关注，她决定调查这个事件的真相。\n浅川了解到友子死前曾因看一盘录像带惊吓过度而住院，于是她找到了出租那盘录像带的旅店，也租了那盘没有名字的带子，打开录像机，极度恐怖的画面让浅川情绪几近崩溃。\n浅川的前夫高山（真田广之 饰）此时来到了她的身边，并且复制了一盘录象带决定和她一起研究。而他们只有在七天之内揭开录像带的秘密才能活下去……",
-     "href": "",
-     "img": "https://image.gcores.com/8354c0d9e961953c80c7c9c536bd2094-270-393.webp"
-    },
-    {
-     "at": 3562,
-     "title": "中元夜话2026故事征集活动开始啦！",
-     "content": "「2026 中元节灵异事件征集」已经正式开始啦！\n\n🎁2026年7月14日至8月7日期间，在【👻胆小勿入】话题内分享你的经历，即可参加获得今年的中元节专属APP图标，在本次征稿期间，吉考斯克苏鲁系列新品也将开启限时折扣！\n\n🎙️活动结束后，机核编辑部将从中选出有意思的稿件，以此为基础制作 《2026中元夜话》节目，以及 会员专属节目《中元小话》，敬请期待！投稿被选中的用户将获得 Gpass 月卡奖励～",
-     "href": "https://www.gcores.com/articles/217090",
-     "img": "https://image.gcores.com/916071a39067f62f934767f55096edc6-1250-703.webp"
-    },
-    {
-     "at": 3601,
-     "title": "亏钱才是真",
-     "content": "",
-     "href": "",
-     "img": "https://image.gcores.com/56032cfcde4684df496ef02c3ae18840-562-419.png"
-    },
-    {
-     "at": 3621,
-     "title": "大A启示录",
-     "content": "",
-     "href": "",
-     "img": "https://image.gcores.com/d754f83d0b60e39f00029189cda18ca5-558-280.png"
-    },
-    {
-     "at": 3762,
-     "title": "不要挣认知以外的钱",
-     "content": "人也挣不到认知以外的钱。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 3841,
-     "title": "买SE股票",
-     "content": "豆哥还是想当SE的股东。",
-     "href": "",
-     "img": "https://image.gcores.com/6d38d15cb37c2bac3622595d6a3e7618-599-630.png"
-    },
-    {
-     "at": 3866,
-     "title": "《偶像梦幻祭》",
-     "content": "游戏围绕“青春、偶像、高校生”等主题，玩家将扮演史上第一位转学到“私立梦之咲学院”制作科的女生，与学院中风格各异的组合的男子高中生偶像一起打造最强偶像团体。",
-     "href": "",
-     "img": "https://image.gcores.com/8b7e63f52702dd2b73a31ee14fa1bf0d-536-382.webp"
-    },
-    {
-     "at": 3920,
-     "title": "咸鱼捡漏失败",
-     "content": "没事，可能提前买也会后悔的。",
-     "href": "",
-     "img": "https://image.gcores.com/d8f90585779a917e29952b29cf411bef-564-704.png"
-    },
-    {
-     "at": 4001,
-     "title": "砍不砍价",
-     "content": "就算写明“不可刀”，但好像去刀一下也没什么损失。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 4159,
-     "title": "咸鱼表情包",
-     "content": "确实可以通过一些表情包来降低沟通成本。",
-     "href": "",
-     "img": "https://image.gcores.com/5cd2ac1ab165d5221897c5a002ac5093-1124-806.jpg"
-    },
-    {
-     "at": 4180,
-     "title": "KPOP小卡",
-     "content": "",
-     "href": "",
-     "img": "https://image.gcores.com/1876986bac013bf64dc6350ea9c34ae1-1000-1000.jpg"
-    },
-    {
-     "at": 4222,
-     "title": "炸药老师",
-     "content": "资深尼龙佬。",
-     "href": "",
-     "img": "https://image.gcores.com/43ef5cdc54438a5be9be091eb722ff4b-699-1111.png"
-    },
-    {
-     "at": 4331,
-     "title": "Hazard 4",
-     "content": "Hazard 4（危机 4），美国加州战术包具品牌，主打城市战术与专业器材收纳。产品普遍采用 1000D Cordura 耐磨尼龙，模块化 MOLLE 结构，兼顾军警实用需求与日常通勤外观。",
-     "href": "",
-     "img": "https://image.gcores.com/7b49761aa40a0d0e473bb86d42ba4ce4-779-740.png"
-    },
-    {
-     "at": 4446,
-     "title": "咸鱼录音笔",
-     "content": "支持拓展为一期生活节目。",
-     "href": "https://www.gcores.com/radios/215009",
-     "img": "https://image.gcores.com/c96481b37bc418e9827dbf3b7fbff9a1-871-908.png"
-    },
-    {
-     "at": 4554,
-     "title": "CCD相机",
-     "content": "CCD相机是任何一种带有电荷耦合器件图像传感器的数码相机。CCD是电荷耦合器件(charge coupled device)的简称。CCD相机一般包括CCD传感器、驱动电路、信号处理电路、接口电路、外壳及机械光学接口。",
-     "href": "",
-     "img": "https://image.gcores.com/37d64865af7411ef718346374d97bed0-536-356.webp"
-    },
-    {
-     "at": 4634,
-     "title": "kindle",
-     "content": "是不是现在很多国产都比kindle强了。",
-     "href": "",
-     "img": "https://image.gcores.com/a38f8e1aafc041d0614b305581f10c0b-560-468.png"
-    },
-    {
-     "at": 4664,
-     "title": "对老电子产品的情怀",
-     "content": "",
-     "href": "",
-     "img": "https://image.gcores.com/2a15e5cd3e34950586769d33d40f763f-563-766.png"
-    },
-    {
-     "at": 4779,
-     "title": "墨案",
-     "content": "是由小米科技、顺为基金和龙旗股份联合孵化的高新科技企业，墨案专注于数字阅读和轻AI办公。",
-     "href": "",
-     "img": "https://image.gcores.com/76f105d80964fd885ac2ddb0e8487402-558-451.png"
-    },
-    {
-     "at": 4892,
-     "title": "上闲鱼买",
-     "content": "call back闲鱼。",
-     "href": "",
-     "img": "https://image.gcores.com/683a79afee619fb133ecd7ebc80d379b-1124-1048.jpg"
-    },
-    {
-     "at": 4907,
-     "title": "文石Leaf5",
-     "content": "",
-     "href": "https://www.zhihu.com/tardis/zm/art/2028530443058787849?source_id=1005",
-     "img": "https://image.gcores.com/2e60a3030bc6b6b73aedb1433758208c-1280-720.webp"
-    },
-    {
-     "at": 4998,
-     "title": "Action 5 Pro",
-     "content": "大疆Osmo Action 5 Pro是DJI大疆创新于2024年9月19日发布的超旗舰运动相机，主打户外运动场景拍摄。其搭载1/1.3英寸传感器，支持4K/120fps视频录制和4000万像素静态拍摄，动态范围达13.5挡，内置10-bit D-Log M和HLG模式优化色彩表现，通过4纳米芯片实现32倍超级慢放及AI降噪。",
-     "href": "",
-     "img": "https://image.gcores.com/a0e6aae4ebb8aad76b12b98083e70dbb-536-257.webp"
-    },
-    {
-     "at": 5042,
-     "title": "口袋书",
-     "content": "指开本小于小32开、印张不超过10个的便携书籍，中文又称“袖珍本”，英文称为“pocket book”。",
-     "href": "",
-     "img": "https://image.gcores.com/013811dcf5a3be2189aaee29d5cbeab5-536-290.webp"
-    },
-    {
-     "at": 5086,
-     "title": "索尼取消实体盘",
-     "content": "节目已经上了。",
-     "href": "https://www.gcores.com/radios/217286",
-     "img": "https://image.gcores.com/bd8d6c8c5331a6cb9bea19ddf125962a-1131-833.png"
-    },
-    {
-     "at": 5167,
-     "title": "“乏味的人”发愁找对象",
-     "content": "老白已经给支招了。",
-     "href": "",
-     "img": "https://image.gcores.com/7bac602be07456e247f3399fed58c42d-554-471.png"
-    },
-    {
-     "at": 5239,
-     "title": "给你两拳",
-     "content": "给你建议又不做，就只知道抱怨。",
-     "href": "",
-     "img": "https://image.gcores.com/c69ce99a24a919f5ba6939ff045608ce-181-136.gif"
-    },
-    {
-     "at": 5280,
-     "title": "手游焦虑",
-     "content": "等等，找对象怎么联系到玩手游的？",
-     "href": "",
-     "img": "https://image.gcores.com/29808b4f4c2b78770c1223de5682c0f8-517-464.jpg"
-    },
-    {
-     "at": 5351,
-     "title": "到岁数了",
-     "content": "感觉是经典被“什么年龄就得办什么年龄的事”这种所谓社会时钟的概念毒害了。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 5436,
-     "title": "把焦虑转化为行动",
-     "content": "支棱起来！",
-     "href": "",
-     "img": "https://image.gcores.com/b5f56be2837631719db809be6a81b1c3-474-474.webp"
-    },
-    {
-     "at": 5479,
-     "title": "怎么知道对方觉得乏味",
-     "content": "这次轮到你抛头露脸啦！先把自己推出去再说。",
-     "href": "",
-     "img": "https://image.gcores.com/d1b87c3696f9fabb49a409e6d1da600e-636-493.png"
-    },
-    {
-     "at": 5500,
-     "title": "这条机组下的回复",
-     "content": "",
-     "href": "",
-     "img": "https://image.gcores.com/d7602708a7c8fc8db39ecbcfe57c22fb-701-555.png"
-    },
-    {
-     "at": 5579,
-     "title": "低精力老白",
-     "content": "您那还真不是低精力了。",
-     "href": "",
-     "img": "https://image.gcores.com/5547d1fca2bdd000644866fd1eb0013c-1052-1263.png"
-    },
-    {
-     "at": 5724,
-     "title": "带货达人老白",
-     "content": "还是有点影响力的。",
-     "href": "",
-     "img": "https://image.gcores.com/ed9019d6b506b2e2340c1eb112ed7c50-696-667.png"
-    },
-    {
-     "at": 5830,
-     "title": "安利《都在酒里》",
-     "content": "行业指定品牌。",
-     "href": "",
-     "img": "https://image.gcores.com/3dc9268fb2b7d0f32d24184e0d706d67-557-907.png"
-    },
-    {
-     "at": 5885,
-     "title": "影响用户",
-     "content": "从看节目到自己开酒吧。",
-     "href": "",
-     "img": "https://image.gcores.com/417ceb9776df8fcdc791b76412da918b-696-1032.png"
-    },
-    {
-     "at": 5931,
-     "title": "IPA",
-     "content": "IPA啤酒，即印度淡色艾尔啤酒（India Pale Ale），是一种出口啤酒。它起源于18世纪末至19世纪的英国，由英国弓弩酒厂的酿酒师乔治·霍奇森发明配方，通过加入大量啤酒花和提升酒精度，使啤酒能够经受长途海运至殖民地印度。",
-     "href": "",
-     "img": "https://image.gcores.com/4851a6df4b6721b941ca7afb67557d44-536-804.webp"
-    },
-    {
-     "at": 5961,
-     "title": "Samiii机组",
-     "content": "酒桌会再添一员猛将。",
-     "href": "",
-     "img": "https://image.gcores.com/ffbe83a5b97c7ca401e6773473843355-704-1194.png"
-    },
-    {
-     "at": 6137,
-     "title": "sapporo bar",
-     "content": "The Sapporo Bar 是札幌（三宝乐）啤酒官方高端体验酒吧，主打黑标生啤。店内依靠专业酒头分出三种口感版本，严格把控温度与泡沫比例。多为站立式吧台，热门门店常有排队，规定每人限点两杯。门店集中在东京银座、新宿等商圈，只提供自家啤酒和少量简式下酒菜，是啤酒爱好者热门打卡点。",
-     "href": "",
-     "img": "https://image.gcores.com/911da13f7fc44aa4e52c6f215dfebf44-768-426.png"
-    },
-    {
-     "at": 6196,
-     "title": "惠比寿",
-     "content": "惠比寿啤酒是日本札幌啤酒公司旗下高端啤酒品牌，创立于1890年，为日本现存最古老的啤酒品牌。该品牌由德国技师参与筹建，采用纯麦芽酿造工艺，现隶属于札幌啤酒株式会社。",
-     "href": "",
-     "img": "https://image.gcores.com/105e9bfdc4d1c2022eaad8977ed8eeff-536-326.webp"
-    },
-    {
-     "at": 6252,
-     "title": "精酿文化",
-     "content": "该组织第二季《都在酒里》了。",
-     "href": "",
-     "img": "https://image.gcores.com/cabd082c443e3f953737a9fc6edb31e0-536-536.webp"
-    },
-    {
-     "at": 6288,
-     "title": "威士忌节",
-     "content": "北京威士忌节是亚洲规模最大的威士忌盛会，汇聚国内外品牌，并通过“万人评审团”打造权威消费指南。",
-     "href": "",
-     "img": "https://image.gcores.com/e6b81dc8bce0773e2edb9825c17392cd-1080-1763.webp"
-    },
-    {
-     "at": 6315,
-     "title": "子旋老师",
-     "content": "",
-     "href": "",
-     "img": "https://image.gcores.com/bac2234e8ef608eab725436e61a7b563-745-1070.png"
-    },
-    {
-     "at": 6369,
-     "title": "酒吧",
-     "content": "年轻人新的寄托地。",
-     "href": "",
-     "img": "https://image.gcores.com/d3706bb9170c97cc1737c2dc7cf77c37-533-800.jpg"
-    },
-    {
-     "at": 6554,
-     "title": "适度饮酒",
-     "content": "",
-     "href": "",
-     "img": "https://image.gcores.com/8a52c1e8fab13433d8fe06e7d8ae2bdd-310-279.gif"
-    },
-    {
-     "at": 6665,
-     "title": "梦见入职机核",
-     "content": "还是自由职业好。",
-     "href": "",
-     "img": "https://image.gcores.com/68561996bf7f202338762ecdef07ebe0-553-789.png"
-    },
-    {
-     "at": 6752,
-     "title": "二次元气息",
-     "content": "（笑）",
-     "href": "",
-     "img": "https://image.gcores.com/3dc9e2129026e75cba14ef01f69e7ab5-633-713.png"
-    },
-    {
-     "at": 6840,
-     "title": "喝两杯",
-     "content": "怎么还在酒里？",
-     "href": "",
-     "img": "https://image.gcores.com/42f2e8d820a997aafa9e9ccde5737e1f-703-612.png"
-    },
-    {
-     "at": 6910,
-     "title": "像AI写的",
-     "content": "完了AI已经把老白蒸馏了。",
-     "href": "",
-     "img": "https://image.gcores.com/57de38cbc794d7bbde626dbf063dbe51-699-766.png"
-    },
-    {
-     "at": 6979,
-     "title": "检查文章",
-     "content": "自己写的反而检查不出错误......",
-     "href": "",
-     "img": "https://image.gcores.com/517fdd8755eba4a317707db6d9751922-672-109.png"
-    },
-    {
-     "at": 7029,
-     "title": "好多梦到入职机核",
-     "content": "这算不算一种都市怪谈？",
-     "href": "",
-     "img": "https://image.gcores.com/778e82341694cb89e326def5b0c63fbf-564-484.png"
-    },
-    {
-     "at": 7100,
-     "title": "别来机核",
-     "content": "如果你很喜欢游戏的话。",
-     "href": "",
-     "img": "https://image.gcores.com/96556efcdb3d9d6b717dbaeaa96c4e2e-160-144.gif"
-    },
-    {
-     "at": 7174,
-     "title": "机核新功能",
-     "content": "终于能不间断地听节目啦！",
-     "href": "",
-     "img": "https://image.gcores.com/a456b2d143453c9aa24724c0a235e907-110-100.png"
-    },
-    {
-     "at": 7292,
-     "title": "定期更新节目单",
-     "content": "随时打开随时收听。",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 7363,
-     "title": "多多尝试",
-     "content": "功能上线后，也请听友们多多试用，多提意见！",
-     "href": "",
-     "img": ""
-    },
-    {
-     "at": 7435,
-     "title": "感谢收听",
-     "content": "感谢收听本期节目，我们下期节目再见！您现在听到的是《It's De-Lovely》。",
-     "href": "",
-     "img": "https://image.gcores.com/7dad88c1c5568b56ce7bd30837456b0b-474-474.webp"
-    }
-   ],
-   "length": 119656399,
-   "tl_checked": 1,
-   "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217524.json"
   }
  }
 }
