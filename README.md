@@ -103,12 +103,24 @@ python3 gcores_rss.py --feed join      # 只生成入驻播客
 
 如果这一轮抓到的内容和上一轮完全一致，脚本会跳过写文件（日志里显示「内容无变化」），所以 Actions 每小时跑一次也不会产生一堆空提交。
 
-## GitHub Actions
+## 定时刷新
 
-`.github/workflows/rss.yml` 已配置好：
+### 主力：Cloudflare Worker（`worker/`）
 
-- 每小时尝试 3 次（`:13` / `:33` / `:53`）自动运行，也可在 Actions 页面手动 `Run workflow`；
-  GitHub 的定时任务是尽力而为，排在整点的任务在高峰期会被延迟甚至丢弃，所以故意错开整点并多次重试；
+GitHub 自带的 `on: schedule` **靠不住**：它是尽力而为的，低活跃仓库会被降频。实测这个仓库两天只跑了 6 次，间隔 4～8 小时，而且时间完全漂移。
+
+所以改成用 Cloudflare 的 Cron Trigger 每小时调一次 GitHub API 的 `workflow_dispatch`——这条路不受 schedule 限流影响，派发即创建 run。
+
+部署只要三步（详细步骤见 [`worker/README.md`](worker/README.md)）：
+
+1. 建一个 Fine-grained PAT，仓库选 `GCORES-radio-rss`，权限给 `Actions: Read and write`；
+2. Cloudflare 控制台新建 Worker，粘贴 `worker/src/index.js`，把 PAT 存成 Secret `GH_TOKEN`；
+3. 加一个 Cron Trigger `0 * * * *`。
+
+### 兜底：GitHub Actions 的 schedule
+
+`.github/workflows/rss.yml` 里仍保留 `:13` / `:33` / `:53` 三条 cron 作为备份，也能在 Actions 页面手动 `Run workflow`。
+
 - 运行后自动 `commit + push` 更新三个 XML、`chapters/`、`cache/`；
 - 内容无变化时不会产生空提交。
 

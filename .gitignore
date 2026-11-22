@@ -2,3 +2,5 @@ __pycache__/
 *.pyc
 .DS_Store
 .workbuddy-ai
+worker/node_modules/
+worker/.wrangler/
