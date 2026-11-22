@@ -3,6 +3,7 @@
   "feed_base": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main",
   "chapters_base": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters",
   "max_items": 100,
-  "render": 6
+  "render": 6,
+  "icon": "https://image.gcores.com/72c564186057a94288949bffc6865811-2048-2048.png?v=2"
  }
 }

@@ -3,6 +3,7 @@
   "feed_base": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main",
   "chapters_base": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters",
   "max_items": 100,
-  "render": 6
+  "render": 6,
+  "icon": "https://www.gcores.com/android-chrome-256x256.png"
  }
 }

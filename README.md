@@ -107,7 +107,8 @@ python3 gcores_rss.py --feed join      # 只生成入驻播客
 
 `.github/workflows/rss.yml` 已配置好：
 
-- 每小时整点（`0 * * * *`）自动运行，也可在 Actions 页面手动 `Run workflow`；
+- 每小时尝试 3 次（`:13` / `:33` / `:53`）自动运行，也可在 Actions 页面手动 `Run workflow`；
+  GitHub 的定时任务是尽力而为，排在整点的任务在高峰期会被延迟甚至丢弃，所以故意错开整点并多次重试；
 - 运行后自动 `commit + push` 更新三个 XML、`chapters/`、`cache/`；
 - 内容无变化时不会产生空提交。
 

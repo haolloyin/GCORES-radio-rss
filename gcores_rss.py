@@ -850,7 +850,8 @@ def process_feed(name: str, feed_cfg: dict, cfg: dict, headers: dict,
 
     feed_path = ROOT / feed_cfg["file"]
     meta_now = {"feed_base": feed_base, "chapters_base": chapters_base,
-                "max_items": max_items, "render": RENDER_VERSION}
+                "max_items": max_items, "render": RENDER_VERSION,
+                "icon": feed_cfg.get("icon") or ""}
     if (feed_path.exists()
             and signature(items) == signature(list(state.values()))
             and load_meta(meta_path) == meta_now):
