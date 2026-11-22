@@ -32,23 +32,29 @@ GitHub Actions 跑 gcores_rss.py → commit & push
 3. 点 **Edit code**，把 `worker/src/index.js` 的内容整段粘进去 → **Deploy**
 4. 回到 Worker 详情 → **Settings** → **Variables and Secrets** → **Add**
    - Type 选 **Secret**，Name 填 `GH_TOKEN`，Value 粘贴上一步的 PAT → Save
-5. 同一页往下 **Trigger Events** → **Cron Triggers** → **Add Cron Trigger**
+5. 还是 **Settings**，找 **Triggers**（部分账号/旧版界面显示为 **Trigger Events** 或直接叫 **Cron Triggers**）→ **Cron Triggers** → **Add Cron Trigger**
    - 填 `0 * * * *` → Add
+
+> **找不到 Triggers 菜单？** 控制台这两年改过几次版，入口名称和位置都动过。别纠结，直接用下面的方式 B：cron 写在 `wrangler.toml` 里，部署时自动生效，完全不用点菜单。
+
 6. 打开 `https://gcores-rss-cron.<你的子域>.workers.dev/run` 测试，返回 `{"ok": true, "dispatched": ...}` 就成功了，去 Actions 页面能看到一次 `workflow_dispatch` 的 run
 
 > `REPO` / `WORKFLOW` / `REF` 在代码里已有默认值，网页方式可以完全不配。
 > 如果 `workers.dev` 打不开（国内网络可能被墙），不影响定时任务——Cron 是 Cloudflare 内部触发，不需要你访问它。
+> Cron Trigger 新增/修改后，最多需要 **15 分钟** 才会同步到全球网络，这期间可能漏掉一两次触发，属正常。
 
-### 方式 B：wrangler CLI
+### 方式 B：wrangler CLI（推荐，cron 随部署生效）
 
 ```bash
 cd worker
-npx wrangler login
+npx wrangler login                   # 浏览器里点一下授权
 npx wrangler secret put GH_TOKEN     # 粘贴 PAT
-npx wrangler deploy                  # 会连同 wrangler.toml 里的 cron 一起部署
+npx wrangler deploy                  # 代码 + wrangler.toml 里的 cron 一起部署
 ```
 
-改完代码重新 `npx wrangler deploy` 即可。
+部署成功后终端会打印 `schedule: 0 * * * *` 之类的一行，说明 cron 已经挂上去了。改完代码重新 `npx wrangler deploy` 即可。
+
+注意：用 wrangler 部署会**用 `wrangler.toml` 里的 `crons` 覆盖**控制台上已有的 Cron Trigger，所以别两边混着配。
 
 ## 三、验证
 
