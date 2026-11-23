@@ -1,5 +1,28 @@
 {
  "items": {
+  "222682": {
+   "id": "222682",
+   "guid": "gcores-radio-222682",
+   "title": "我会发着呆、然后忘记你、最后吹起时之笛 再荐茶社45",
+   "category_raw": "再荐茶社",
+   "category": "再荐茶社",
+   "published_at": "2026-11-23T19:08:42+08:00",
+   "duration": 7894,
+   "audio": "https://alioss.gcores.com/uploads/audio/f15d6009-d33a-4a23-a7f9-5b05f7098288.mp3",
+   "page_url": "https://www.gcores.com/radios/222682",
+   "image": "https://image.gcores.com/7756fc3ee33f1875a80c793425e3682c-1177-662.jpg",
+   "summary": "本期《再荐茶社》盘点金摇杆获奖、BIG WALK因AI被IGF拒评等新闻，介绍《渊舟蚀影》等多款新游，并聊《Queen's Domain》《影之刃零》《塞尔达传说：时之笛》与《深空当铺》。",
+   "content_html": "<p>🐧👉《再荐茶社》更新通知QQ群：1055561149</p>\n<p>感谢大家一直以来的赞赏、订阅和支持，欢迎朋友们在评论中和我们一起分享游戏体验！ </p>\n<p>BGM: 宅在家的慵懒｜New Boombap beat“米乳”｜轻快吉他律动 prod by RYUU_CHUNG</p>\n<p>—————</p>\n<p>00:11 - 近期新闻雏选</p>\n<ul>\n<li>金摇杆获奖《生化危机9：安魂曲》</li>\n<li>BIG WALK因使用ai被IGF拒绝评奖</li>\n<li>NS2财报新闻</li>\n<li>万智牌中文回归</li>\n</ul>\n<p>19:26 - 近期新游李选</p>\n<ul>\n<li>渊舟蚀影IDREADMOOR</li>\n<li>MONOMOON：幻月迷踪</li>\n<li>弗莱明庄园命案</li>\n<li>Hillthorn</li>\n<li>外星来信</li>\n<li>狸狸：胖哒的夏日</li>\n<li>莉娜清洁物语</li>\n<li>永不按颜色分练</li>\n</ul>\n<p>36:44 - Queen&#x27;s Domain</p>\n<p>1:07:06 - 影之刃零</p>\n<p>1:18:32 - 塞尔达传说：时之笛</p>\n<p>1:50:07 - 深空当铺：可能是偷的</p>",
+   "participants": [
+    "雏雏",
+    "NoSleepLee"
+   ],
+   "media_id": "23422",
+   "timelines": [],
+   "tl_checked": 1,
+   "length": 126306548,
+   "chapters_url": ""
+  },
   "222668": {
    "id": "222668",
    "guid": "gcores-radio-222668",
@@ -18,8 +41,8 @@
    ],
    "media_id": "23418",
    "timelines": [],
-   "tl_checked": 1,
    "length": 124132183,
+   "tl_checked": 1,
    "chapters_url": ""
   },
   "222623": {
@@ -2196,29 +2219,6 @@
    "media_id": "22975",
    "timelines": [],
    "length": 45475766,
-   "tl_checked": 1,
-   "chapters_url": ""
-  },
-  "220439": {
-   "id": "220439",
-   "guid": "gcores-radio-220439",
-   "title": "Vol.267 追幻寻影！《装甲骑兵 幻影篇》深潜涵泳",
-   "category_raw": "终声嗜好",
-   "category": "终声嗜好",
-   "published_at": "2026-09-30T17:40:00+08:00",
-   "duration": 12885,
-   "audio": "https://jt.ximalaya.com//GKwRIUEOkkpZBjeZvQTgOyvL.m4a?channel=rss&album_id=50195982&track_id=1020175247&uid=144463711&jt=https://aod.cos.tx.xmcdn.com/storages/9431-audiofreehighqps/58/BB/GKwRIUEOkkpZBjeZvQTgOyvL.m4a",
-   "page_url": "https://www.gcores.com/radios/220439",
-   "image": "https://image.gcores.com/aa5d8272-092f-4845-9ce3-cb8915cc7349-1080-1080.jpeg",
-   "summary": "本期节目用三个半小时深度讨论《装甲骑兵》IP时间轴目前最后的动画作品《幻影篇》，围绕这部作品展开分享与解析。",
-   "content_html": "<p>《装甲骑兵》IP时间轴目前最后的动画作品 -- 《幻影篇》，今天我们篇幅三个半小时深度潜航分享。</p>",
-   "participants": [
-    "Kazuya",
-    "鬼龟鬼龟鬼"
-   ],
-   "media_id": "22974",
-   "timelines": [],
-   "length": 104307133,
    "tl_checked": 1,
    "chapters_url": ""
   }
