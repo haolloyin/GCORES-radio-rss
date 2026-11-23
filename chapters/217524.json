@@ -1,0 +1,591 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场音乐",
+   "img": "https://image.gcores.com/695eba2e1bffb4923356b73d3eee0e18-1209-680.webp"
+  },
+  {
+   "startTime": 30,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 39,
+   "title": "老白返场",
+   "img": "https://image.gcores.com/274b840ec9465c4c99257416dc693a3e-601-612.png"
+  },
+  {
+   "startTime": 85,
+   "title": "好快的七月",
+   "img": "https://image.gcores.com/b1cc20438a6902480d3c9be70efb6d60-1014-846.png",
+   "url": "https://www.gcores.com/radios/217005"
+  },
+  {
+   "startTime": 115,
+   "title": "时间节点多",
+   "img": "https://image.gcores.com/732b9586b9c8a74737c81da314c91491-875-657.webp",
+   "url": "https://www.gcores.com/articles/216513"
+  },
+  {
+   "startTime": 165,
+   "title": "10月北京核聚变",
+   "img": "https://image.gcores.com/13eaa78345632c348363e1b6c5ed2351-2500-1406.webp"
+  },
+  {
+   "startTime": 173,
+   "title": "再次介绍这档节目"
+  },
+  {
+   "startTime": 229,
+   "title": "核聚变抓拍西蒙",
+   "img": "https://image.gcores.com/9b243dcc3fa3f755786ebcb7656f641f-556-556.png"
+  },
+  {
+   "startTime": 270,
+   "title": "李安来过核聚变",
+   "img": "https://image.gcores.com/1d8bf6685b57072ec5fc5903032add6e-600-519.jpg"
+  },
+  {
+   "startTime": 292,
+   "title": "每次必到",
+   "img": "https://image.gcores.com/eeff61003b07a39e45d155eaac18f8df-700-1050.webp",
+   "url": "https://www.gcores.com/articles/216516"
+  },
+  {
+   "startTime": 345,
+   "title": "高强度用户",
+   "img": "https://image.gcores.com/d4e63b29c75b02c26e5e51f4af60b642-559-689.png",
+   "url": "https://www.gcores.com/talks/1258176"
+  },
+  {
+   "startTime": 459,
+   "title": "感谢所有志愿者",
+   "img": "https://image.gcores.com/5d09705e245720409adfff9c09045c53-875-657.webp",
+   "url": "https://www.gcores.com/articles/216513"
+  },
+  {
+   "startTime": 486,
+   "title": "澄清志愿者迷思",
+   "img": "https://image.gcores.com/d0c9f2ad12c9491db85544fb613c2715-1920-1080.webp"
+  },
+  {
+   "startTime": 603,
+   "title": "白广大无料",
+   "img": "https://image.gcores.com/d0b65ee9de4aefe4086cb53b5011e177-2000-857.webp"
+  },
+  {
+   "startTime": 628,
+   "title": "还有志愿者酒局",
+   "img": "https://image.gcores.com/6f344d6adb7069cd49d9ff6f8484eb32-703-612.png"
+  },
+  {
+   "startTime": 712,
+   "title": "世界杯直播",
+   "img": "https://image.gcores.com/155ab3473d0df78f95ac7aa5d978e3ad-888-879.png",
+   "url": "https://www.gcores.com/radios/217335"
+  },
+  {
+   "startTime": 766,
+   "title": "Ado × adidas 日本国家队联名球衣",
+   "img": "https://image.gcores.com/29496303e2a874e9caf0af4d5885b37a-500-333.png"
+  },
+  {
+   "startTime": 798,
+   "title": "登味朋友圈",
+   "img": "https://image.gcores.com/e76890ec26189d58109df94dce154639-567-359.png",
+   "url": "https://www.gcores.com/talks/1262251"
+  },
+  {
+   "startTime": 934,
+   "title": "锐评显登味",
+   "img": "https://image.gcores.com/7a170a4ea536c8d007ea62b61f40c887-128-124.png"
+  },
+  {
+   "startTime": 949,
+   "title": "微博达人舟老师",
+   "img": "https://image.gcores.com/114e0be3527907bb38ea339765e7bae6-1080-1286.jpg"
+  },
+  {
+   "startTime": 1033,
+   "title": "更不喜欢推荐算法"
+  },
+  {
+   "startTime": 1073,
+   "title": "自我发言的权威性",
+   "img": "https://image.gcores.com/b7486953e742565230a3ee9ca48ea8d0-244-201.gif"
+  },
+  {
+   "startTime": 1088,
+   "title": "洛天依线下生日歌会",
+   "img": "https://image.gcores.com/5ab5551efa963a5fd79ed37245507161-875-492.webp",
+   "url": "https://www.gcores.com/articles/217255"
+  },
+  {
+   "startTime": 1143,
+   "title": "不要用登来定义一项活动",
+   "img": "https://image.gcores.com/b0cfc7ba29488a70424f5058eefa2e95-875-492.webp"
+  },
+  {
+   "startTime": 1191,
+   "title": "别太在意登不登",
+   "img": "https://image.gcores.com/6ca2d5e1b2cdb4e34ad2b21138b86f0c-1011-572.png"
+  },
+  {
+   "startTime": 1220,
+   "title": "戒赌节目",
+   "img": "https://image.gcores.com/23ca04890e35f42f676199675b97b4af-888-879.png",
+   "url": "https://www.gcores.com/radios/217256"
+  },
+  {
+   "startTime": 1269,
+   "title": "对于登的焦虑",
+   "img": "https://image.gcores.com/85e025c607e29e3d01fa692414781fcd-1182-677.jpg"
+  },
+  {
+   "startTime": 1374,
+   "title": "正确支持英格兰队的方式",
+   "img": "https://image.gcores.com/67f3c5a99201c1fbaa2acc33602ec29f-1320-1697.webp",
+   "url": "https://www.gcores.com/talks/1265334"
+  },
+  {
+   "startTime": 1486,
+   "title": "身边的隐藏球迷",
+   "img": "https://image.gcores.com/104e68ec7833aab1abfb95c5dc76df57-2560-1706.jpg"
+  },
+  {
+   "startTime": 1548,
+   "title": "球员组CP",
+   "img": "https://image.gcores.com/ddf1de69b3862598708b0e85ff4b7874-640-360.png"
+  },
+  {
+   "startTime": 1621,
+   "title": "亚马尔",
+   "img": "https://image.gcores.com/089345646962c2078d046048c103429e-536-722.webp"
+  },
+  {
+   "startTime": 1694,
+   "title": "年龄焦虑",
+   "img": "https://image.gcores.com/f37ea0364ff7b3be28804060831bd7f1-564-320.png"
+  },
+  {
+   "startTime": 1746,
+   "title": "最好的年龄",
+   "img": "https://image.gcores.com/a76548c676d30848de469cb2cdd13860-685-621.gif"
+  },
+  {
+   "startTime": 1843,
+   "title": "迷茫的年纪",
+   "img": "https://image.gcores.com/9ec8505381e670d2a945b95b256a3135-576-499.jpg"
+  },
+  {
+   "startTime": 1960,
+   "title": "大学高中化",
+   "img": "https://image.gcores.com/42bd31e51507db2281f12717821221cb-1920-1080.jpg"
+  },
+  {
+   "startTime": 2102,
+   "title": "试错成本低",
+   "img": "https://image.gcores.com/30cf23124acd6d128a8ac5679abc56c8-474-315.webp"
+  },
+  {
+   "startTime": 2168,
+   "title": "人生导师豆哥",
+   "img": "https://image.gcores.com/e0c6511aca62b22aad4f723a4fe87c9c-633-713.png"
+  },
+  {
+   "startTime": 2280,
+   "title": "老白的32岁",
+   "img": "https://image.gcores.com/63c69702f315df1c2d8212fec501b639-722-1228.webp"
+  },
+  {
+   "startTime": 2329,
+   "title": "萝卜的机组",
+   "img": "https://image.gcores.com/dea03e1f23d328194802a220a6b45ade-729-1110.png"
+  },
+  {
+   "startTime": 2361,
+   "title": "注意力下降",
+   "img": "https://image.gcores.com/91bb0ae408289618e11e14493e2c22ba-558-257.png"
+  },
+  {
+   "startTime": 2403,
+   "title": "ADHD"
+  },
+  {
+   "startTime": 2496,
+   "title": "有病就去医院"
+  },
+  {
+   "startTime": 2513,
+   "title": "巴纳姆效应",
+   "img": "https://image.gcores.com/af39ff232380eab108e07126c231a59c-310-198.jpg"
+  },
+  {
+   "startTime": 2632,
+   "title": "拒绝批评",
+   "img": "https://image.gcores.com/ca546e8d5eafc96b6cdf26fb5db6ea6f-219-210.png"
+  },
+  {
+   "startTime": 2754,
+   "title": "适量运动",
+   "img": "https://image.gcores.com/de537c608e41312b4afb40a4e85578bb-1200-800.jpg"
+  },
+  {
+   "startTime": 2787,
+   "title": "番茄工作法",
+   "img": "https://image.gcores.com/8e67aba8440c7655054225d7ee266e36-536-427.webp"
+  },
+  {
+   "startTime": 2866,
+   "title": "沉浸式全屏编辑器",
+   "img": "https://image.gcores.com/c5db052f62774cf57cdfb5b0c6b12aea-600-350.png"
+  },
+  {
+   "startTime": 2985,
+   "title": "《人类存钱箱制造机》",
+   "img": "https://image.gcores.com/d5848d94f498ee7d4faba2dbd013c164-1200-800.png"
+  },
+  {
+   "startTime": 3033,
+   "title": "恐怖片录音笔",
+   "img": "https://image.gcores.com/d66ae38175f2fdbc218d13d663d1c21d-1012-933.png",
+   "url": "https://www.gcores.com/radios/216847"
+  },
+  {
+   "startTime": 3066,
+   "title": "病村",
+   "img": "https://image.gcores.com/7cb107f6ecedf19cc4c9fea33e0d4c9a-489-276.png"
+  },
+  {
+   "startTime": 3126,
+   "title": "《8号出口》",
+   "img": "https://image.gcores.com/ba4ba4f63c03c48159a042af04d673c2-270-405.webp"
+  },
+  {
+   "startTime": 3154,
+   "title": "K版后室",
+   "img": "https://image.gcores.com/824bdd60c607ecdc7800e1b55db3a9e0-473-675.jpg"
+  },
+  {
+   "startTime": 3191,
+   "title": "机核办公室",
+   "img": "https://image.gcores.com/d2d5a9e5082c593f698c8b38b2b8cd13-698-1031.png"
+  },
+  {
+   "startTime": 3214,
+   "title": "外国人害怕简装房",
+   "img": "https://image.gcores.com/0563b11046351472c4ad712ebcca814b-553-981.png"
+  },
+  {
+   "startTime": 3237,
+   "title": "雪版后室",
+   "img": "https://image.gcores.com/e985aef5dcb45b1e5e2387857988c774-690-862.jpg"
+  },
+  {
+   "startTime": 3255,
+   "title": "面无表情",
+   "img": "https://image.gcores.com/b04f82f8d30534c4c2ec68d6069ca231-160-144.gif"
+  },
+  {
+   "startTime": 3295,
+   "title": "《灵异咒》",
+   "img": "https://image.gcores.com/2003c2844456cec131ab724c3938585b-270-382.webp"
+  },
+  {
+   "startTime": 3320,
+   "title": "最古老的景象",
+   "img": "https://image.gcores.com/f23d8d89de88827f38cc87d7888b771c-1174-658.png",
+   "url": "https://www.bilibili.com/video/BV1iu4y1x7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=bc539f90316a679c9f8de3029479618d"
+  },
+  {
+   "startTime": 3394,
+   "title": "梦核",
+   "img": "https://image.gcores.com/498753b9d30de479def633c04522c794-800-437.jpg"
+  },
+  {
+   "startTime": 3432,
+   "title": "《咒》",
+   "img": "https://image.gcores.com/06e226f13e0d08d87e0e9e5388f1f130-270-391.webp"
+  },
+  {
+   "startTime": 3470,
+   "title": "老白安利恐怖片",
+   "img": "https://image.gcores.com/4e2aa036356da9b18cb25422a4d40ef1-270-399.webp"
+  },
+  {
+   "startTime": 3484,
+   "title": "《柳条人》",
+   "img": "https://image.gcores.com/7d07202eb925c07572cdc9f1d8bc36e1-270-382.webp"
+  },
+  {
+   "startTime": 3489,
+   "title": "《午夜凶铃》",
+   "img": "https://image.gcores.com/8354c0d9e961953c80c7c9c536bd2094-270-393.webp"
+  },
+  {
+   "startTime": 3562,
+   "title": "中元夜话2026故事征集活动开始啦！",
+   "img": "https://image.gcores.com/916071a39067f62f934767f55096edc6-1250-703.webp",
+   "url": "https://www.gcores.com/articles/217090"
+  },
+  {
+   "startTime": 3601,
+   "title": "亏钱才是真",
+   "img": "https://image.gcores.com/56032cfcde4684df496ef02c3ae18840-562-419.png"
+  },
+  {
+   "startTime": 3621,
+   "title": "大A启示录",
+   "img": "https://image.gcores.com/d754f83d0b60e39f00029189cda18ca5-558-280.png"
+  },
+  {
+   "startTime": 3762,
+   "title": "不要挣认知以外的钱"
+  },
+  {
+   "startTime": 3841,
+   "title": "买SE股票",
+   "img": "https://image.gcores.com/6d38d15cb37c2bac3622595d6a3e7618-599-630.png"
+  },
+  {
+   "startTime": 3866,
+   "title": "《偶像梦幻祭》",
+   "img": "https://image.gcores.com/8b7e63f52702dd2b73a31ee14fa1bf0d-536-382.webp"
+  },
+  {
+   "startTime": 3920,
+   "title": "咸鱼捡漏失败",
+   "img": "https://image.gcores.com/d8f90585779a917e29952b29cf411bef-564-704.png"
+  },
+  {
+   "startTime": 4001,
+   "title": "砍不砍价"
+  },
+  {
+   "startTime": 4159,
+   "title": "咸鱼表情包",
+   "img": "https://image.gcores.com/5cd2ac1ab165d5221897c5a002ac5093-1124-806.jpg"
+  },
+  {
+   "startTime": 4180,
+   "title": "KPOP小卡",
+   "img": "https://image.gcores.com/1876986bac013bf64dc6350ea9c34ae1-1000-1000.jpg"
+  },
+  {
+   "startTime": 4222,
+   "title": "炸药老师",
+   "img": "https://image.gcores.com/43ef5cdc54438a5be9be091eb722ff4b-699-1111.png"
+  },
+  {
+   "startTime": 4331,
+   "title": "Hazard 4",
+   "img": "https://image.gcores.com/7b49761aa40a0d0e473bb86d42ba4ce4-779-740.png"
+  },
+  {
+   "startTime": 4446,
+   "title": "咸鱼录音笔",
+   "img": "https://image.gcores.com/c96481b37bc418e9827dbf3b7fbff9a1-871-908.png",
+   "url": "https://www.gcores.com/radios/215009"
+  },
+  {
+   "startTime": 4554,
+   "title": "CCD相机",
+   "img": "https://image.gcores.com/37d64865af7411ef718346374d97bed0-536-356.webp"
+  },
+  {
+   "startTime": 4634,
+   "title": "kindle",
+   "img": "https://image.gcores.com/a38f8e1aafc041d0614b305581f10c0b-560-468.png"
+  },
+  {
+   "startTime": 4664,
+   "title": "对老电子产品的情怀",
+   "img": "https://image.gcores.com/2a15e5cd3e34950586769d33d40f763f-563-766.png"
+  },
+  {
+   "startTime": 4779,
+   "title": "墨案",
+   "img": "https://image.gcores.com/76f105d80964fd885ac2ddb0e8487402-558-451.png"
+  },
+  {
+   "startTime": 4892,
+   "title": "上闲鱼买",
+   "img": "https://image.gcores.com/683a79afee619fb133ecd7ebc80d379b-1124-1048.jpg"
+  },
+  {
+   "startTime": 4907,
+   "title": "文石Leaf5",
+   "img": "https://image.gcores.com/2e60a3030bc6b6b73aedb1433758208c-1280-720.webp",
+   "url": "https://www.zhihu.com/tardis/zm/art/2028530443058787849?source_id=1005"
+  },
+  {
+   "startTime": 4998,
+   "title": "Action 5 Pro",
+   "img": "https://image.gcores.com/a0e6aae4ebb8aad76b12b98083e70dbb-536-257.webp"
+  },
+  {
+   "startTime": 5042,
+   "title": "口袋书",
+   "img": "https://image.gcores.com/013811dcf5a3be2189aaee29d5cbeab5-536-290.webp"
+  },
+  {
+   "startTime": 5086,
+   "title": "索尼取消实体盘",
+   "img": "https://image.gcores.com/bd8d6c8c5331a6cb9bea19ddf125962a-1131-833.png",
+   "url": "https://www.gcores.com/radios/217286"
+  },
+  {
+   "startTime": 5167,
+   "title": "“乏味的人”发愁找对象",
+   "img": "https://image.gcores.com/7bac602be07456e247f3399fed58c42d-554-471.png"
+  },
+  {
+   "startTime": 5239,
+   "title": "给你两拳",
+   "img": "https://image.gcores.com/c69ce99a24a919f5ba6939ff045608ce-181-136.gif"
+  },
+  {
+   "startTime": 5280,
+   "title": "手游焦虑",
+   "img": "https://image.gcores.com/29808b4f4c2b78770c1223de5682c0f8-517-464.jpg"
+  },
+  {
+   "startTime": 5351,
+   "title": "到岁数了"
+  },
+  {
+   "startTime": 5436,
+   "title": "把焦虑转化为行动",
+   "img": "https://image.gcores.com/b5f56be2837631719db809be6a81b1c3-474-474.webp"
+  },
+  {
+   "startTime": 5479,
+   "title": "怎么知道对方觉得乏味",
+   "img": "https://image.gcores.com/d1b87c3696f9fabb49a409e6d1da600e-636-493.png"
+  },
+  {
+   "startTime": 5500,
+   "title": "这条机组下的回复",
+   "img": "https://image.gcores.com/d7602708a7c8fc8db39ecbcfe57c22fb-701-555.png"
+  },
+  {
+   "startTime": 5579,
+   "title": "低精力老白",
+   "img": "https://image.gcores.com/5547d1fca2bdd000644866fd1eb0013c-1052-1263.png"
+  },
+  {
+   "startTime": 5724,
+   "title": "带货达人老白",
+   "img": "https://image.gcores.com/ed9019d6b506b2e2340c1eb112ed7c50-696-667.png"
+  },
+  {
+   "startTime": 5830,
+   "title": "安利《都在酒里》",
+   "img": "https://image.gcores.com/3dc9268fb2b7d0f32d24184e0d706d67-557-907.png"
+  },
+  {
+   "startTime": 5885,
+   "title": "影响用户",
+   "img": "https://image.gcores.com/417ceb9776df8fcdc791b76412da918b-696-1032.png"
+  },
+  {
+   "startTime": 5931,
+   "title": "IPA",
+   "img": "https://image.gcores.com/4851a6df4b6721b941ca7afb67557d44-536-804.webp"
+  },
+  {
+   "startTime": 5961,
+   "title": "Samiii机组",
+   "img": "https://image.gcores.com/ffbe83a5b97c7ca401e6773473843355-704-1194.png"
+  },
+  {
+   "startTime": 6137,
+   "title": "sapporo bar",
+   "img": "https://image.gcores.com/911da13f7fc44aa4e52c6f215dfebf44-768-426.png"
+  },
+  {
+   "startTime": 6196,
+   "title": "惠比寿",
+   "img": "https://image.gcores.com/105e9bfdc4d1c2022eaad8977ed8eeff-536-326.webp"
+  },
+  {
+   "startTime": 6252,
+   "title": "精酿文化",
+   "img": "https://image.gcores.com/cabd082c443e3f953737a9fc6edb31e0-536-536.webp"
+  },
+  {
+   "startTime": 6288,
+   "title": "威士忌节",
+   "img": "https://image.gcores.com/e6b81dc8bce0773e2edb9825c17392cd-1080-1763.webp"
+  },
+  {
+   "startTime": 6315,
+   "title": "子旋老师",
+   "img": "https://image.gcores.com/bac2234e8ef608eab725436e61a7b563-745-1070.png"
+  },
+  {
+   "startTime": 6369,
+   "title": "酒吧",
+   "img": "https://image.gcores.com/d3706bb9170c97cc1737c2dc7cf77c37-533-800.jpg"
+  },
+  {
+   "startTime": 6554,
+   "title": "适度饮酒",
+   "img": "https://image.gcores.com/8a52c1e8fab13433d8fe06e7d8ae2bdd-310-279.gif"
+  },
+  {
+   "startTime": 6665,
+   "title": "梦见入职机核",
+   "img": "https://image.gcores.com/68561996bf7f202338762ecdef07ebe0-553-789.png"
+  },
+  {
+   "startTime": 6752,
+   "title": "二次元气息",
+   "img": "https://image.gcores.com/3dc9e2129026e75cba14ef01f69e7ab5-633-713.png"
+  },
+  {
+   "startTime": 6840,
+   "title": "喝两杯",
+   "img": "https://image.gcores.com/42f2e8d820a997aafa9e9ccde5737e1f-703-612.png"
+  },
+  {
+   "startTime": 6910,
+   "title": "像AI写的",
+   "img": "https://image.gcores.com/57de38cbc794d7bbde626dbf063dbe51-699-766.png"
+  },
+  {
+   "startTime": 6979,
+   "title": "检查文章",
+   "img": "https://image.gcores.com/517fdd8755eba4a317707db6d9751922-672-109.png"
+  },
+  {
+   "startTime": 7029,
+   "title": "好多梦到入职机核",
+   "img": "https://image.gcores.com/778e82341694cb89e326def5b0c63fbf-564-484.png"
+  },
+  {
+   "startTime": 7100,
+   "title": "别来机核",
+   "img": "https://image.gcores.com/96556efcdb3d9d6b717dbaeaa96c4e2e-160-144.gif"
+  },
+  {
+   "startTime": 7174,
+   "title": "机核新功能",
+   "img": "https://image.gcores.com/a456b2d143453c9aa24724c0a235e907-110-100.png"
+  },
+  {
+   "startTime": 7292,
+   "title": "定期更新节目单"
+  },
+  {
+   "startTime": 7363,
+   "title": "多多尝试"
+  },
+  {
+   "startTime": 7435,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/7dad88c1c5568b56ce7bd30837456b0b-474-474.webp"
+  }
+ ]
+}

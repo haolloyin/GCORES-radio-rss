@@ -22856,30 +22856,6 @@
    "tl_checked": 1,
    "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/219595.json"
   },
-  "219915": {
-   "id": "219915",
-   "guid": "gcores-radio-219915",
-   "title": "拷打飞智联合创始人，聊聊手柄厂商不和你说的秘密【视频播客音频版】",
-   "category_raw": "核电波",
-   "category": "核电波",
-   "published_at": "2026-09-18T19:14:07+08:00",
-   "duration": 4055,
-   "audio": "https://alioss.gcores.com/uploads/audio/9b40d6cc-9d2c-4ae4-8918-f97b75c26aa0.mp3",
-   "page_url": "https://www.gcores.com/radios/219915",
-   "image": "https://image.gcores.com/6ba51e6dfb4fe7ed89b70ab590dd0860-1600-900.jpg",
-   "summary": "机核播客“核电波”邀请飞智科技联合创始人兼产品总监黄炜，与主播Nadya、西蒙、Ryoma探讨游戏手柄行业竞争加剧的现状，聊手柄厂商不为人知的秘密与产品设计思路。",
-   "content_html": "<p>欢迎回到“核电波”！今天我们邀请到了飞智科技联合创始人黄炜，跟他聊聊现在越来越卷的游戏手柄究竟有没有意义？ 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】  </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma <br/>本期嘉宾：飞智科技联合创始人&amp;产品总监 黄炜 </p>",
-   "participants": [
-    "Nadya",
-    "Ryoma",
-    "西蒙"
-   ],
-   "media_id": "22854",
-   "timelines": [],
-   "length": 64885356,
-   "tl_checked": 1,
-   "chapters_url": ""
-  },
   "219594": {
    "id": "219594",
    "guid": "gcores-radio-219594",
@@ -40818,6 +40794,844 @@
    "length": 99201059,
    "tl_checked": 1,
    "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217525.json"
+  },
+  "217524": {
+   "id": "217524",
+   "guid": "gcores-radio-217524",
+   "title": "“老登焦虑”是什么？这里集合 Vol.2",
+   "category_raw": "Gadio Life",
+   "category": "Gadio Life",
+   "published_at": "2026-07-28T23:00:00+08:00",
+   "duration": 7478,
+   "audio": "https://alioss.gcores.com/uploads/audio/d74fc327-c969-4f97-86b6-57ce243efb58.mp3",
+   "page_url": "https://www.gcores.com/radios/217524",
+   "image": "https://image.gcores.com/fcd7fb1d75e09b622cb9e30cc90b7529-1920-1080.jpg",
+   "summary": "机核《这里集合》Vol.2 汇总6月20日至7月20日站内动态，涵盖核聚变志愿者体验、世界杯舆论引发的“登味焦虑”、年轻人年龄焦虑、注意力与记忆力下降、中元夜话、机友评《后室》、闲鱼捡漏与梦见入职机核等话题，并预告机核FM功能。",
+   "content_html": "<p>本期时间轴制作：猪猪米</p>\n<p>欢迎来到7月的《这里集合》！每个月，机核站内会产生一万多条动态。编辑团队在日常运营中不断地浏览这些内容，并从中选取一些帖子进行分享和讨论。这些帖子可能是热门的，也可能是被忽略的，但它们都引发了我们的某些停顿和联想。「这里集合」并非有明确主题的精选榜单，而是尝试观察和参与机组大家所分享的生活，由机核运营团队主持，（计划）每月更新。本期涵盖了6月20日到7月20日的机组内容，我们从机组得到的话题有：</p>\n<ul>\n<li>来核聚变当志愿者是什么体验？</li>\n<li>世界杯舆论场引发的登味焦虑</li>\n<li>20岁的年轻人也有年龄焦虑？</li>\n<li>感觉注意力和记忆力下降了，该怎么办？</li>\n<li>最恐怖的中元夜话，可能来自生活</li>\n<li>机友锐评《后室》</li>\n<li>混迹闲鱼，捡到的不止是便宜</li>\n<li>在梦里入职机核</li>\n</ul>\n<p>最后，我们介绍了即将上线的机核FM功能，希望大家多多期待！ </p>",
+   "participants": [
+    "Samiii",
+    "柏亚舟",
+    "白广大",
+    "雪豆"
+   ],
+   "media_id": "22349",
+   "timelines": [
+    {
+     "at": 0,
+     "title": "开场音乐",
+     "content": "您现在听到的是《I've Got You Under My Skin》。",
+     "href": "",
+     "img": "https://image.gcores.com/695eba2e1bffb4923356b73d3eee0e18-1209-680.webp"
+    },
+    {
+     "at": 30,
+     "title": "欢迎收听",
+     "content": "大家好！欢迎收听新一期的《这里集合》节目，本期成员是Samiii、柏亚舟、雪豆和老白。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 39,
+     "title": "老白返场",
+     "content": "到底是谁在念叨老白。",
+     "href": "",
+     "img": "https://image.gcores.com/274b840ec9465c4c99257416dc693a3e-601-612.png"
+    },
+    {
+     "at": 85,
+     "title": "好快的七月",
+     "content": "是不是因为这个月录了两期，因为七月中还有一期SP。",
+     "href": "https://www.gcores.com/radios/217005",
+     "img": "https://image.gcores.com/b1cc20438a6902480d3c9be70efb6d60-1014-846.png"
+    },
+    {
+     "at": 115,
+     "title": "时间节点多",
+     "content": "深核，世界杯，BW......这个月确实发生了很多事。",
+     "href": "https://www.gcores.com/articles/216513",
+     "img": "https://image.gcores.com/732b9586b9c8a74737c81da314c91491-875-657.webp"
+    },
+    {
+     "at": 165,
+     "title": "10月北京核聚变",
+     "content": "OHHHHHHHHH~",
+     "href": "",
+     "img": "https://image.gcores.com/13eaa78345632c348363e1b6c5ed2351-2500-1406.webp"
+    },
+    {
+     "at": 173,
+     "title": "再次介绍这档节目",
+     "content": "每个月，机核站内会产生一万多条动态。编辑团队在日常运营中不断地浏览这些内容，并从中选取一些帖子进行分享和讨论。这些帖子可能是热门的，也可能是被忽略的，但它们都引发了我们的某种停顿和思考。「这里集合」并非精选榜单，而是一档基于机组内容的观察节目，将由机核运营团队主持，（计划）每月更新。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 229,
+     "title": "核聚变抓拍西蒙",
+     "content": "饱经沧桑的眼神......(救救机核)",
+     "href": "",
+     "img": "https://image.gcores.com/9b243dcc3fa3f755786ebcb7656f641f-556-556.png"
+    },
+    {
+     "at": 270,
+     "title": "李安来过核聚变",
+     "content": "第一次知道......",
+     "href": "",
+     "img": "https://image.gcores.com/1d8bf6685b57072ec5fc5903032add6e-600-519.jpg"
+    },
+    {
+     "at": 292,
+     "title": "每次必到",
+     "content": "ATXZ老师还整理了2026深圳核聚变两天的摄影合集，有任何核聚变“戒断反应”的朋友可以尝试缓解一下症状。",
+     "href": "https://www.gcores.com/articles/216516",
+     "img": "https://image.gcores.com/eeff61003b07a39e45d155eaac18f8df-700-1050.webp"
+    },
+    {
+     "at": 345,
+     "title": "高强度用户",
+     "content": "感谢宇文老师！",
+     "href": "https://www.gcores.com/talks/1258176",
+     "img": "https://image.gcores.com/d4e63b29c75b02c26e5e51f4af60b642-559-689.png"
+    },
+    {
+     "at": 459,
+     "title": "感谢所有志愿者",
+     "content": "阿陶老师镜头下的宇文老师。",
+     "href": "https://www.gcores.com/articles/216513",
+     "img": "https://image.gcores.com/5d09705e245720409adfff9c09045c53-875-657.webp"
+    },
+    {
+     "at": 486,
+     "title": "澄清志愿者迷思",
+     "content": "与其说是志愿者活动，不如说是一年一度的机核线下朋友聚会。",
+     "href": "",
+     "img": "https://image.gcores.com/d0c9f2ad12c9491db85544fb613c2715-1920-1080.webp"
+    },
+    {
+     "at": 603,
+     "title": "白广大无料",
+     "content": "球球了......",
+     "href": "",
+     "img": "https://image.gcores.com/d0b65ee9de4aefe4086cb53b5011e177-2000-857.webp"
+    },
+    {
+     "at": 628,
+     "title": "还有志愿者酒局",
+     "content": "喜欢志愿者的原因找到了（。",
+     "href": "",
+     "img": "https://image.gcores.com/6f344d6adb7069cd49d9ff6f8484eb32-703-612.png"
+    },
+    {
+     "at": 712,
+     "title": "世界杯直播",
+     "content": "录音笔里有一期当时龙马和柏亚舟的世界杯决赛直播实录。",
+     "href": "https://www.gcores.com/radios/217335",
+     "img": "https://image.gcores.com/155ab3473d0df78f95ac7aa5d978e3ad-888-879.png"
+    },
+    {
+     "at": 766,
+     "title": "Ado × adidas 日本国家队联名球衣",
+     "content": "",
+     "href": "",
+     "img": "https://image.gcores.com/29496303e2a874e9caf0af4d5885b37a-500-333.png"
+    },
+    {
+     "at": 798,
+     "title": "登味朋友圈",
+     "content": "身在登中不知登，只缘身在此登中。",
+     "href": "https://www.gcores.com/talks/1262251",
+     "img": "https://image.gcores.com/e76890ec26189d58109df94dce154639-567-359.png"
+    },
+    {
+     "at": 934,
+     "title": "锐评显登味",
+     "content": "所谓锐评，既可以是批评，也可以是独到见解，但可能那些独到见解，可能也会被别人解读为登味。",
+     "href": "",
+     "img": "https://image.gcores.com/7a170a4ea536c8d007ea62b61f40c887-128-124.png"
+    },
+    {
+     "at": 949,
+     "title": "微博达人舟老师",
+     "content": "还是陌生人社区比熟人社区用起来舒服。",
+     "href": "",
+     "img": "https://image.gcores.com/114e0be3527907bb38ea339765e7bae6-1080-1286.jpg"
+    },
+    {
+     "at": 1033,
+     "title": "更不喜欢推荐算法",
+     "content": "但现在所有平台都用推荐流了吧，微博和公众号不也一样，可能只有小平台不用，比如机组（。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 1073,
+     "title": "自我发言的权威性",
+     "content": "舟老师的这个“会”太经典了哈哈哈哈哈。",
+     "href": "",
+     "img": "https://image.gcores.com/b7486953e742565230a3ee9ca48ea8d0-244-201.gif"
+    },
+    {
+     "at": 1088,
+     "title": "洛天依线下生日歌会",
+     "content": "详细请看豆哥在站内发的文章。",
+     "href": "https://www.gcores.com/articles/217255",
+     "img": "https://image.gcores.com/5ab5551efa963a5fd79ed37245507161-875-492.webp"
+    },
+    {
+     "at": 1143,
+     "title": "不要用登来定义一项活动",
+     "content": "永远有人年轻，年轻人会用自己的方式去热爱。",
+     "href": "",
+     "img": "https://image.gcores.com/b0cfc7ba29488a70424f5058eefa2e95-875-492.webp"
+    },
+    {
+     "at": 1191,
+     "title": "别太在意登不登",
+     "content": "做返自己啦（做回自己吧）。",
+     "href": "",
+     "img": "https://image.gcores.com/6ca2d5e1b2cdb4e34ad2b21138b86f0c-1011-572.png"
+    },
+    {
+     "at": 1220,
+     "title": "戒赌节目",
+     "content": "戒戒你好。",
+     "href": "https://www.gcores.com/radios/217256",
+     "img": "https://image.gcores.com/23ca04890e35f42f676199675b97b4af-888-879.png"
+    },
+    {
+     "at": 1269,
+     "title": "对于登的焦虑",
+     "content": "害怕自己的表达散发出登味。",
+     "href": "",
+     "img": "https://image.gcores.com/85e025c607e29e3d01fa692414781fcd-1182-677.jpg"
+    },
+    {
+     "at": 1374,
+     "title": "正确支持英格兰队的方式",
+     "content": "第一，不要对英格兰夺冠抱走任何的信心\n第二，赛前赛中赛后，无论对方球迷说什么，都不要有任何回怼的行为。\n第三，不准说什么足球回家啦。It's coming home.等等云云。\n第四，如果明天真的输了，就输了。要接受。\n第五，万一他们赢了，我是说万一，那只是他们不小心赢的。\n第六，无论结果如何。红牌点球什么的，第二天继续正常上班，太阳继续从东方升起。\n第七，出门的时候不要闯红灯，红灯的时候不要过马路。\n第八，好好吃饭。\n第九，记得多喝一点水，对新陈代谢有帮助。\n第十，英格兰真的想赢的时候，他们就很可能会赢，不要太积极，保持悲观，1966年到现在都没赢过，如果这次没赢，不是你的问题。\n第十一，英格兰就像人生。",
+     "href": "https://www.gcores.com/talks/1265334",
+     "img": "https://image.gcores.com/67f3c5a99201c1fbaa2acc33602ec29f-1320-1697.webp"
+    },
+    {
+     "at": 1486,
+     "title": "身边的隐藏球迷",
+     "content": "看来这次世界杯也有不少新球迷入坑。",
+     "href": "",
+     "img": "https://image.gcores.com/104e68ec7833aab1abfb95c5dc76df57-2560-1706.jpg"
+    },
+    {
+     "at": 1548,
+     "title": "球员组CP",
+     "content": "原来说的是身体对抗啊，还以为说的是身体对抗呢。",
+     "href": "",
+     "img": "https://image.gcores.com/ddf1de69b3862598708b0e85ff4b7874-640-360.png"
+    },
+    {
+     "at": 1621,
+     "title": "亚马尔",
+     "content": "拉明·亚马尔（Lamine Yamal），2007年7月13日出生于西班牙加泰罗尼亚巴塞罗那省埃斯普卢加斯，拥有西班牙/赤道几内亚双重国籍，西班牙足球运动员，场上司职前锋，现效力于西班牙足球甲级联赛的巴塞罗那足球俱乐部。",
+     "href": "",
+     "img": "https://image.gcores.com/089345646962c2078d046048c103429e-536-722.webp"
+    },
+    {
+     "at": 1694,
+     "title": "年龄焦虑",
+     "content": "但21岁。",
+     "href": "",
+     "img": "https://image.gcores.com/f37ea0364ff7b3be28804060831bd7f1-564-320.png"
+    },
+    {
+     "at": 1746,
+     "title": "最好的年龄",
+     "content": "某位游戏推手曾经说过，25岁是成为艺术家的最好的年龄，21岁的你还有四年可以挥霍。",
+     "href": "",
+     "img": "https://image.gcores.com/a76548c676d30848de469cb2cdd13860-685-621.gif"
+    },
+    {
+     "at": 1843,
+     "title": "迷茫的年纪",
+     "content": "没事，“XX岁正是迷茫的年纪”，这个句式填多少都成立，只是迷茫的角度不同，不如活在当下吧。",
+     "href": "",
+     "img": "https://image.gcores.com/9ec8505381e670d2a945b95b256a3135-576-499.jpg"
+    },
+    {
+     "at": 1960,
+     "title": "大学高中化",
+     "content": "指大学在管理模式、教学方式、评价体系及学生成长路径上向高中阶段靠拢，课业负担加重、自主时间被压缩的现象。",
+     "href": "",
+     "img": "https://image.gcores.com/42bd31e51507db2281f12717821221cb-1920-1080.jpg"
+    },
+    {
+     "at": 2102,
+     "title": "试错成本低",
+     "content": "多多尝试自己感兴趣的方向，不行再换还来得及。",
+     "href": "",
+     "img": "https://image.gcores.com/30cf23124acd6d128a8ac5679abc56c8-474-315.webp"
+    },
+    {
+     "at": 2168,
+     "title": "人生导师豆哥",
+     "content": "建议在GPASS里开个专栏。",
+     "href": "",
+     "img": "https://image.gcores.com/e0c6511aca62b22aad4f723a4fe87c9c-633-713.png"
+    },
+    {
+     "at": 2280,
+     "title": "老白的32岁",
+     "content": "“我没有退路。”",
+     "href": "",
+     "img": "https://image.gcores.com/63c69702f315df1c2d8212fec501b639-722-1228.webp"
+    },
+    {
+     "at": 2329,
+     "title": "萝卜的机组",
+     "content": "这才是年轻人该思考的事！",
+     "href": "",
+     "img": "https://image.gcores.com/dea03e1f23d328194802a220a6b45ade-729-1110.png"
+    },
+    {
+     "at": 2361,
+     "title": "注意力下降",
+     "content": "多玩游戏是对的。",
+     "href": "",
+     "img": "https://image.gcores.com/91bb0ae408289618e11e14493e2c22ba-558-257.png"
+    },
+    {
+     "at": 2403,
+     "title": "ADHD",
+     "content": "注意力缺失过动症（ADHD），又称注意力缺陷多动障碍、过度活跃症，是一种以注意缺陷、活动过度和冲动控制困难为特征的神经发育障碍，常见于儿童期且60%-70%患者的症状会延续至成年。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 2496,
+     "title": "有病就去医院",
+     "content": "别随便把一些病理性的症状往自己身上贴，有病没病去医院查过才知道。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 2513,
+     "title": "巴纳姆效应",
+     "content": "是指人们常常认为一种笼统的,一般性的人格描述十分准确地揭示了自己的特点，是一种典型的认知偏差行为。这种效应可以部分解释一些超自然信仰和实践的广泛接受，例如占星术、算命、气场解读和某些类型的性格测试。",
+     "href": "",
+     "img": "https://image.gcores.com/af39ff232380eab108e07126c231a59c-310-198.jpg"
+    },
+    {
+     "at": 2632,
+     "title": "拒绝批评",
+     "content": "舟老师不是聋，而是专注力高！",
+     "href": "",
+     "img": "https://image.gcores.com/ca546e8d5eafc96b6cdf26fb5db6ea6f-219-210.png"
+    },
+    {
+     "at": 2754,
+     "title": "适量运动",
+     "content": "多运动肯定是没错的。",
+     "href": "",
+     "img": "https://image.gcores.com/de537c608e41312b4afb40a4e85578bb-1200-800.jpg"
+    },
+    {
+     "at": 2787,
+     "title": "番茄工作法",
+     "content": "番茄工作法包括规划、跟踪、记录、处理、可视化五个阶段，是一个完整的闭环。核心理念是将工作时间划分为若干个25分钟（时长可调整）的时间段，称为“番茄时间”。每个“番茄时间”后，进行5分钟的短暂休息，而当连续完成四个番茄时间后，可以获得一个更长的休息时间，通常为15至30分钟。",
+     "href": "",
+     "img": "https://image.gcores.com/8e67aba8440c7655054225d7ee266e36-536-427.webp"
+    },
+    {
+     "at": 2866,
+     "title": "沉浸式全屏编辑器",
+     "content": "可以最大程度地隔绝外界干扰。",
+     "href": "",
+     "img": "https://image.gcores.com/c5db052f62774cf57cdfb5b0c6b12aea-600-350.png"
+    },
+    {
+     "at": 2985,
+     "title": "《人类存钱箱制造机》",
+     "content": "大雄拿到压岁钱，深知自己意志力差、一定会忍不住乱花，拜托哆啦 A 梦把钱放进很难破解的存钱装置锁住。",
+     "href": "",
+     "img": "https://image.gcores.com/d5848d94f498ee7d4faba2dbd013c164-1200-800.png"
+    },
+    {
+     "at": 3033,
+     "title": "恐怖片录音笔",
+     "content": "",
+     "href": "https://www.gcores.com/radios/216847",
+     "img": "https://image.gcores.com/d66ae38175f2fdbc218d13d663d1c21d-1012-933.png"
+    },
+    {
+     "at": 3066,
+     "title": "病村",
+     "content": "所以这算恐怖吗。",
+     "href": "",
+     "img": "https://image.gcores.com/7cb107f6ecedf19cc4c9fea33e0d4c9a-489-276.png"
+    },
+    {
+     "at": 3126,
+     "title": "《8号出口》",
+     "content": "在地铁通道里，男主与西装大叔的反复擦肩令他感到异样，此时墙上张贴的规则，让他意识到需要仔细观察每个重复的场景，找出其中细微的“异变”。在循环中，他遇到了同样陷入循环的小男孩，最终，他发现这段经历与他不愿面对的现实密切相关，获得了成长。唯有觉察并正视这些内心的“异变”，才能找到通往真实世界的出口。\n本片改编自2023年发行的寻找“异常”的同名游戏。",
+     "href": "",
+     "img": "https://image.gcores.com/ba4ba4f63c03c48159a042af04d673c2-270-405.webp"
+    },
+    {
+     "at": 3154,
+     "title": "K版后室",
+     "content": "“后室”本就是互联网上的集体创作题材，而K版后室主要聚焦于以《后室》电影的导演凯恩·帕森斯为核心的创作部分。",
+     "href": "",
+     "img": "https://image.gcores.com/824bdd60c607ecdc7800e1b55db3a9e0-473-675.jpg"
+    },
+    {
+     "at": 3191,
+     "title": "机核办公室",
+     "content": "机核办公室也是一种后室。",
+     "href": "",
+     "img": "https://image.gcores.com/d2d5a9e5082c593f698c8b38b2b8cd13-698-1031.png"
+    },
+    {
+     "at": 3214,
+     "title": "外国人害怕简装房",
+     "content": "一生要强老中人。",
+     "href": "",
+     "img": "https://image.gcores.com/0563b11046351472c4ad712ebcca814b-553-981.png"
+    },
+    {
+     "at": 3237,
+     "title": "雪版后室",
+     "content": "还挺可爱。",
+     "href": "",
+     "img": "https://image.gcores.com/e985aef5dcb45b1e5e2387857988c774-690-862.jpg"
+    },
+    {
+     "at": 3255,
+     "title": "面无表情",
+     "content": "表面镇定，内心慌得一匹。",
+     "href": "",
+     "img": "https://image.gcores.com/b04f82f8d30534c4c2ec68d6069ca231-160-144.gif"
+    },
+    {
+     "at": 3295,
+     "title": "《灵异咒》",
+     "content": "某日，东京一处房屋失火，房屋主人小林雅文（村木仁 饰）生不见人，死不见尸。小林是一名怪奇作家，他经常到传言闹鬼的地方体验采访，著书立作，同时还是一名电台灵异节目的主持人。他的失踪引起人们广泛猜测，而其留下的DV素材则称为寻找其下落的关键所在。\n录像带中，小林曾拜访过一位家庭主妇，主妇声称在隔壁经常能够听到婴儿的哭声，而那户人家根本没有小孩。在采访结束后不久，主妇遭遇车祸身亡。小林坚信这起事故背后另有隐情，他由此展开更为深入的调查。然而调查越深入，离奇诡异的事件越来越多，而恐怖的真相也渐渐浮出水面……",
+     "href": "",
+     "img": "https://image.gcores.com/2003c2844456cec131ab724c3938585b-270-382.webp"
+    },
+    {
+     "at": 3320,
+     "title": "最古老的景象",
+     "content": "",
+     "href": "https://www.bilibili.com/video/BV1iu4y1x7Kg/?spm_id_from=333.337.search-card.all.click&vd_source=bc539f90316a679c9f8de3029479618d",
+     "img": "https://image.gcores.com/f23d8d89de88827f38cc87d7888b771c-1174-658.png"
+    },
+    {
+     "at": 3394,
+     "title": "梦核",
+     "content": "确实就是十几二十年前对现实的印象。",
+     "href": "",
+     "img": "https://image.gcores.com/498753b9d30de479def633c04522c794-800-437.jpg"
+    },
+    {
+     "at": 3432,
+     "title": "《咒》",
+     "content": "六年前，怀孕的李若男（蔡亘宴 饰）、陈立东（林敬伦 饰）和陈振原（温庆禹 饰）秉着破除迷信的态度进入了陈家村，据说那里供奉着不可冒犯的神明。陈立东和陈振原因为传入了祭坛所在的禁地而招致了灭顶之灾，李若男虽然逃过一死，精神却受到了极大的冲击。\n此事过后，李若男生下了一个女儿，因为怕触犯禁忌，李若男将女儿寄养在孤儿院中。之后，李若男一直接受着心理治疗，一晃眼就是六年过去。当李若男觉得一切都已经平息之后，她将女儿陈乐瞳（黄歆庭 饰）接回了自己身边，哪知道女儿刚到家没多久，家中便屡屡出现可怕的异像，年幼的陈乐瞳似乎和曾经陈家村所供奉的神明有着千丝万缕的联系。",
+     "href": "",
+     "img": "https://image.gcores.com/06e226f13e0d08d87e0e9e5388f1f130-270-391.webp"
+    },
+    {
+     "at": 3470,
+     "title": "老白安利恐怖片",
+     "content": "《沃伦》《自己去看》《狗镇》《生死线》《伊甸湖》。",
+     "href": "",
+     "img": "https://image.gcores.com/4e2aa036356da9b18cb25422a4d40ef1-270-399.webp"
+    },
+    {
+     "at": 3484,
+     "title": "《柳条人》",
+     "content": "20世纪70年代，苏格兰警官豪伊（ 爱德华·伍德华德 饰）收到一封信，信中称苏格兰西海岸的一个小岛——夏岛上的女孩罗恩·莫里森失踪已久，并向他求助破案。豪伊来到夏岛展开调查，发现岛上的氛围十分怪异。居民们先说不认识这个女孩，后又表示女孩已死。但豪伊没有找到女孩的尸体。失踪女孩的去向愈发不明。案件真相越来越扑朔迷离。豪伊又惊讶地发现岛上的居民是一群并不信仰耶稣基督的异教徒。夏岛勋爵（克里斯托弗·李 饰）更是似乎拥有极大的权力和声望。他们并不配合豪伊的调查。豪伊准备离开小岛时发现了小岛五月庆典中用活人来祭祀的传统，他准备一探究竟，然而他不知道危险正在向他靠近……",
+     "href": "",
+     "img": "https://image.gcores.com/7d07202eb925c07572cdc9f1d8bc36e1-270-382.webp"
+    },
+    {
+     "at": 3489,
+     "title": "《午夜凶铃》",
+     "content": "女高中生友子和同学共同看了一盘来历不明的录像带，七天后，她和她的同学相继死去，这引起了女记者浅川（松岛菜菜子 饰）的关注，她决定调查这个事件的真相。\n浅川了解到友子死前曾因看一盘录像带惊吓过度而住院，于是她找到了出租那盘录像带的旅店，也租了那盘没有名字的带子，打开录像机，极度恐怖的画面让浅川情绪几近崩溃。\n浅川的前夫高山（真田广之 饰）此时来到了她的身边，并且复制了一盘录象带决定和她一起研究。而他们只有在七天之内揭开录像带的秘密才能活下去……",
+     "href": "",
+     "img": "https://image.gcores.com/8354c0d9e961953c80c7c9c536bd2094-270-393.webp"
+    },
+    {
+     "at": 3562,
+     "title": "中元夜话2026故事征集活动开始啦！",
+     "content": "「2026 中元节灵异事件征集」已经正式开始啦！\n\n🎁2026年7月14日至8月7日期间，在【👻胆小勿入】话题内分享你的经历，即可参加获得今年的中元节专属APP图标，在本次征稿期间，吉考斯克苏鲁系列新品也将开启限时折扣！\n\n🎙️活动结束后，机核编辑部将从中选出有意思的稿件，以此为基础制作 《2026中元夜话》节目，以及 会员专属节目《中元小话》，敬请期待！投稿被选中的用户将获得 Gpass 月卡奖励～",
+     "href": "https://www.gcores.com/articles/217090",
+     "img": "https://image.gcores.com/916071a39067f62f934767f55096edc6-1250-703.webp"
+    },
+    {
+     "at": 3601,
+     "title": "亏钱才是真",
+     "content": "",
+     "href": "",
+     "img": "https://image.gcores.com/56032cfcde4684df496ef02c3ae18840-562-419.png"
+    },
+    {
+     "at": 3621,
+     "title": "大A启示录",
+     "content": "",
+     "href": "",
+     "img": "https://image.gcores.com/d754f83d0b60e39f00029189cda18ca5-558-280.png"
+    },
+    {
+     "at": 3762,
+     "title": "不要挣认知以外的钱",
+     "content": "人也挣不到认知以外的钱。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 3841,
+     "title": "买SE股票",
+     "content": "豆哥还是想当SE的股东。",
+     "href": "",
+     "img": "https://image.gcores.com/6d38d15cb37c2bac3622595d6a3e7618-599-630.png"
+    },
+    {
+     "at": 3866,
+     "title": "《偶像梦幻祭》",
+     "content": "游戏围绕“青春、偶像、高校生”等主题，玩家将扮演史上第一位转学到“私立梦之咲学院”制作科的女生，与学院中风格各异的组合的男子高中生偶像一起打造最强偶像团体。",
+     "href": "",
+     "img": "https://image.gcores.com/8b7e63f52702dd2b73a31ee14fa1bf0d-536-382.webp"
+    },
+    {
+     "at": 3920,
+     "title": "咸鱼捡漏失败",
+     "content": "没事，可能提前买也会后悔的。",
+     "href": "",
+     "img": "https://image.gcores.com/d8f90585779a917e29952b29cf411bef-564-704.png"
+    },
+    {
+     "at": 4001,
+     "title": "砍不砍价",
+     "content": "就算写明“不可刀”，但好像去刀一下也没什么损失。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 4159,
+     "title": "咸鱼表情包",
+     "content": "确实可以通过一些表情包来降低沟通成本。",
+     "href": "",
+     "img": "https://image.gcores.com/5cd2ac1ab165d5221897c5a002ac5093-1124-806.jpg"
+    },
+    {
+     "at": 4180,
+     "title": "KPOP小卡",
+     "content": "",
+     "href": "",
+     "img": "https://image.gcores.com/1876986bac013bf64dc6350ea9c34ae1-1000-1000.jpg"
+    },
+    {
+     "at": 4222,
+     "title": "炸药老师",
+     "content": "资深尼龙佬。",
+     "href": "",
+     "img": "https://image.gcores.com/43ef5cdc54438a5be9be091eb722ff4b-699-1111.png"
+    },
+    {
+     "at": 4331,
+     "title": "Hazard 4",
+     "content": "Hazard 4（危机 4），美国加州战术包具品牌，主打城市战术与专业器材收纳。产品普遍采用 1000D Cordura 耐磨尼龙，模块化 MOLLE 结构，兼顾军警实用需求与日常通勤外观。",
+     "href": "",
+     "img": "https://image.gcores.com/7b49761aa40a0d0e473bb86d42ba4ce4-779-740.png"
+    },
+    {
+     "at": 4446,
+     "title": "咸鱼录音笔",
+     "content": "支持拓展为一期生活节目。",
+     "href": "https://www.gcores.com/radios/215009",
+     "img": "https://image.gcores.com/c96481b37bc418e9827dbf3b7fbff9a1-871-908.png"
+    },
+    {
+     "at": 4554,
+     "title": "CCD相机",
+     "content": "CCD相机是任何一种带有电荷耦合器件图像传感器的数码相机。CCD是电荷耦合器件(charge coupled device)的简称。CCD相机一般包括CCD传感器、驱动电路、信号处理电路、接口电路、外壳及机械光学接口。",
+     "href": "",
+     "img": "https://image.gcores.com/37d64865af7411ef718346374d97bed0-536-356.webp"
+    },
+    {
+     "at": 4634,
+     "title": "kindle",
+     "content": "是不是现在很多国产都比kindle强了。",
+     "href": "",
+     "img": "https://image.gcores.com/a38f8e1aafc041d0614b305581f10c0b-560-468.png"
+    },
+    {
+     "at": 4664,
+     "title": "对老电子产品的情怀",
+     "content": "",
+     "href": "",
+     "img": "https://image.gcores.com/2a15e5cd3e34950586769d33d40f763f-563-766.png"
+    },
+    {
+     "at": 4779,
+     "title": "墨案",
+     "content": "是由小米科技、顺为基金和龙旗股份联合孵化的高新科技企业，墨案专注于数字阅读和轻AI办公。",
+     "href": "",
+     "img": "https://image.gcores.com/76f105d80964fd885ac2ddb0e8487402-558-451.png"
+    },
+    {
+     "at": 4892,
+     "title": "上闲鱼买",
+     "content": "call back闲鱼。",
+     "href": "",
+     "img": "https://image.gcores.com/683a79afee619fb133ecd7ebc80d379b-1124-1048.jpg"
+    },
+    {
+     "at": 4907,
+     "title": "文石Leaf5",
+     "content": "",
+     "href": "https://www.zhihu.com/tardis/zm/art/2028530443058787849?source_id=1005",
+     "img": "https://image.gcores.com/2e60a3030bc6b6b73aedb1433758208c-1280-720.webp"
+    },
+    {
+     "at": 4998,
+     "title": "Action 5 Pro",
+     "content": "大疆Osmo Action 5 Pro是DJI大疆创新于2024年9月19日发布的超旗舰运动相机，主打户外运动场景拍摄。其搭载1/1.3英寸传感器，支持4K/120fps视频录制和4000万像素静态拍摄，动态范围达13.5挡，内置10-bit D-Log M和HLG模式优化色彩表现，通过4纳米芯片实现32倍超级慢放及AI降噪。",
+     "href": "",
+     "img": "https://image.gcores.com/a0e6aae4ebb8aad76b12b98083e70dbb-536-257.webp"
+    },
+    {
+     "at": 5042,
+     "title": "口袋书",
+     "content": "指开本小于小32开、印张不超过10个的便携书籍，中文又称“袖珍本”，英文称为“pocket book”。",
+     "href": "",
+     "img": "https://image.gcores.com/013811dcf5a3be2189aaee29d5cbeab5-536-290.webp"
+    },
+    {
+     "at": 5086,
+     "title": "索尼取消实体盘",
+     "content": "节目已经上了。",
+     "href": "https://www.gcores.com/radios/217286",
+     "img": "https://image.gcores.com/bd8d6c8c5331a6cb9bea19ddf125962a-1131-833.png"
+    },
+    {
+     "at": 5167,
+     "title": "“乏味的人”发愁找对象",
+     "content": "老白已经给支招了。",
+     "href": "",
+     "img": "https://image.gcores.com/7bac602be07456e247f3399fed58c42d-554-471.png"
+    },
+    {
+     "at": 5239,
+     "title": "给你两拳",
+     "content": "给你建议又不做，就只知道抱怨。",
+     "href": "",
+     "img": "https://image.gcores.com/c69ce99a24a919f5ba6939ff045608ce-181-136.gif"
+    },
+    {
+     "at": 5280,
+     "title": "手游焦虑",
+     "content": "等等，找对象怎么联系到玩手游的？",
+     "href": "",
+     "img": "https://image.gcores.com/29808b4f4c2b78770c1223de5682c0f8-517-464.jpg"
+    },
+    {
+     "at": 5351,
+     "title": "到岁数了",
+     "content": "感觉是经典被“什么年龄就得办什么年龄的事”这种所谓社会时钟的概念毒害了。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 5436,
+     "title": "把焦虑转化为行动",
+     "content": "支棱起来！",
+     "href": "",
+     "img": "https://image.gcores.com/b5f56be2837631719db809be6a81b1c3-474-474.webp"
+    },
+    {
+     "at": 5479,
+     "title": "怎么知道对方觉得乏味",
+     "content": "这次轮到你抛头露脸啦！先把自己推出去再说。",
+     "href": "",
+     "img": "https://image.gcores.com/d1b87c3696f9fabb49a409e6d1da600e-636-493.png"
+    },
+    {
+     "at": 5500,
+     "title": "这条机组下的回复",
+     "content": "",
+     "href": "",
+     "img": "https://image.gcores.com/d7602708a7c8fc8db39ecbcfe57c22fb-701-555.png"
+    },
+    {
+     "at": 5579,
+     "title": "低精力老白",
+     "content": "您那还真不是低精力了。",
+     "href": "",
+     "img": "https://image.gcores.com/5547d1fca2bdd000644866fd1eb0013c-1052-1263.png"
+    },
+    {
+     "at": 5724,
+     "title": "带货达人老白",
+     "content": "还是有点影响力的。",
+     "href": "",
+     "img": "https://image.gcores.com/ed9019d6b506b2e2340c1eb112ed7c50-696-667.png"
+    },
+    {
+     "at": 5830,
+     "title": "安利《都在酒里》",
+     "content": "行业指定品牌。",
+     "href": "",
+     "img": "https://image.gcores.com/3dc9268fb2b7d0f32d24184e0d706d67-557-907.png"
+    },
+    {
+     "at": 5885,
+     "title": "影响用户",
+     "content": "从看节目到自己开酒吧。",
+     "href": "",
+     "img": "https://image.gcores.com/417ceb9776df8fcdc791b76412da918b-696-1032.png"
+    },
+    {
+     "at": 5931,
+     "title": "IPA",
+     "content": "IPA啤酒，即印度淡色艾尔啤酒（India Pale Ale），是一种出口啤酒。它起源于18世纪末至19世纪的英国，由英国弓弩酒厂的酿酒师乔治·霍奇森发明配方，通过加入大量啤酒花和提升酒精度，使啤酒能够经受长途海运至殖民地印度。",
+     "href": "",
+     "img": "https://image.gcores.com/4851a6df4b6721b941ca7afb67557d44-536-804.webp"
+    },
+    {
+     "at": 5961,
+     "title": "Samiii机组",
+     "content": "酒桌会再添一员猛将。",
+     "href": "",
+     "img": "https://image.gcores.com/ffbe83a5b97c7ca401e6773473843355-704-1194.png"
+    },
+    {
+     "at": 6137,
+     "title": "sapporo bar",
+     "content": "The Sapporo Bar 是札幌（三宝乐）啤酒官方高端体验酒吧，主打黑标生啤。店内依靠专业酒头分出三种口感版本，严格把控温度与泡沫比例。多为站立式吧台，热门门店常有排队，规定每人限点两杯。门店集中在东京银座、新宿等商圈，只提供自家啤酒和少量简式下酒菜，是啤酒爱好者热门打卡点。",
+     "href": "",
+     "img": "https://image.gcores.com/911da13f7fc44aa4e52c6f215dfebf44-768-426.png"
+    },
+    {
+     "at": 6196,
+     "title": "惠比寿",
+     "content": "惠比寿啤酒是日本札幌啤酒公司旗下高端啤酒品牌，创立于1890年，为日本现存最古老的啤酒品牌。该品牌由德国技师参与筹建，采用纯麦芽酿造工艺，现隶属于札幌啤酒株式会社。",
+     "href": "",
+     "img": "https://image.gcores.com/105e9bfdc4d1c2022eaad8977ed8eeff-536-326.webp"
+    },
+    {
+     "at": 6252,
+     "title": "精酿文化",
+     "content": "该组织第二季《都在酒里》了。",
+     "href": "",
+     "img": "https://image.gcores.com/cabd082c443e3f953737a9fc6edb31e0-536-536.webp"
+    },
+    {
+     "at": 6288,
+     "title": "威士忌节",
+     "content": "北京威士忌节是亚洲规模最大的威士忌盛会，汇聚国内外品牌，并通过“万人评审团”打造权威消费指南。",
+     "href": "",
+     "img": "https://image.gcores.com/e6b81dc8bce0773e2edb9825c17392cd-1080-1763.webp"
+    },
+    {
+     "at": 6315,
+     "title": "子旋老师",
+     "content": "",
+     "href": "",
+     "img": "https://image.gcores.com/bac2234e8ef608eab725436e61a7b563-745-1070.png"
+    },
+    {
+     "at": 6369,
+     "title": "酒吧",
+     "content": "年轻人新的寄托地。",
+     "href": "",
+     "img": "https://image.gcores.com/d3706bb9170c97cc1737c2dc7cf77c37-533-800.jpg"
+    },
+    {
+     "at": 6554,
+     "title": "适度饮酒",
+     "content": "",
+     "href": "",
+     "img": "https://image.gcores.com/8a52c1e8fab13433d8fe06e7d8ae2bdd-310-279.gif"
+    },
+    {
+     "at": 6665,
+     "title": "梦见入职机核",
+     "content": "还是自由职业好。",
+     "href": "",
+     "img": "https://image.gcores.com/68561996bf7f202338762ecdef07ebe0-553-789.png"
+    },
+    {
+     "at": 6752,
+     "title": "二次元气息",
+     "content": "（笑）",
+     "href": "",
+     "img": "https://image.gcores.com/3dc9e2129026e75cba14ef01f69e7ab5-633-713.png"
+    },
+    {
+     "at": 6840,
+     "title": "喝两杯",
+     "content": "怎么还在酒里？",
+     "href": "",
+     "img": "https://image.gcores.com/42f2e8d820a997aafa9e9ccde5737e1f-703-612.png"
+    },
+    {
+     "at": 6910,
+     "title": "像AI写的",
+     "content": "完了AI已经把老白蒸馏了。",
+     "href": "",
+     "img": "https://image.gcores.com/57de38cbc794d7bbde626dbf063dbe51-699-766.png"
+    },
+    {
+     "at": 6979,
+     "title": "检查文章",
+     "content": "自己写的反而检查不出错误......",
+     "href": "",
+     "img": "https://image.gcores.com/517fdd8755eba4a317707db6d9751922-672-109.png"
+    },
+    {
+     "at": 7029,
+     "title": "好多梦到入职机核",
+     "content": "这算不算一种都市怪谈？",
+     "href": "",
+     "img": "https://image.gcores.com/778e82341694cb89e326def5b0c63fbf-564-484.png"
+    },
+    {
+     "at": 7100,
+     "title": "别来机核",
+     "content": "如果你很喜欢游戏的话。",
+     "href": "",
+     "img": "https://image.gcores.com/96556efcdb3d9d6b717dbaeaa96c4e2e-160-144.gif"
+    },
+    {
+     "at": 7174,
+     "title": "机核新功能",
+     "content": "终于能不间断地听节目啦！",
+     "href": "",
+     "img": "https://image.gcores.com/a456b2d143453c9aa24724c0a235e907-110-100.png"
+    },
+    {
+     "at": 7292,
+     "title": "定期更新节目单",
+     "content": "随时打开随时收听。",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 7363,
+     "title": "多多尝试",
+     "content": "功能上线后，也请听友们多多试用，多提意见！",
+     "href": "",
+     "img": ""
+    },
+    {
+     "at": 7435,
+     "title": "感谢收听",
+     "content": "感谢收听本期节目，我们下期节目再见！您现在听到的是《It's De-Lovely》。",
+     "href": "",
+     "img": "https://image.gcores.com/7dad88c1c5568b56ce7bd30837456b0b-474-474.webp"
+    }
+   ],
+   "tl_checked": 1,
+   "length": 119656399,
+   "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217524.json"
   }
  }
 }
