@@ -1,0 +1,284 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "欢迎收听",
+   "img": "https://image.gcores.com/7cae9c32db4d2a723a5f4f48d2a4021f-500-500.avif",
+   "url": "https://music.163.com/song?id=2733776710&uct2=U2FsdGVkX18gvh4oekKekYJgu9gL+eJCGvJz6wWkWg0="
+  },
+  {
+   "startTime": 22,
+   "title": "耿游子民",
+   "img": "https://image.gcores.com/82ec6f06266e131fdb8c76c00279f7b8-336-500.webp"
+  },
+  {
+   "startTime": 47,
+   "title": "丁幼晗",
+   "img": "https://image.gcores.com/8cdcef648d059b9665dd868f44731611-540-760.webp"
+  },
+  {
+   "startTime": 141,
+   "title": "研究聚焦",
+   "img": "https://image.gcores.com/eaabe751b6a25de19f94f7f8ea7a58dd-1365-1041.png"
+  },
+  {
+   "startTime": 219,
+   "title": "游戏的影响",
+   "img": "https://image.gcores.com/d877c7cb1cc469f2fc3d5bbd4d661b05-1024-576.avif"
+  },
+  {
+   "startTime": 262,
+   "title": "政治活动",
+   "img": "https://image.gcores.com/49aee8cf552a2e9adc6c9dea898b0611-640-360.png"
+  },
+  {
+   "startTime": 304,
+   "title": "《说服性游戏：电子游戏的表达力》",
+   "img": "https://image.gcores.com/1032a553930ad50c46d6701833cd6f70-514-800.webp"
+  },
+  {
+   "startTime": 351,
+   "title": "《玩乐何为》",
+   "img": "https://image.gcores.com/3ae3ee4d6f5ce26d8b4f9ed2cf9c53f5-516-800.webp"
+  },
+  {
+   "startTime": 430,
+   "title": "处世方式",
+   "img": "https://image.gcores.com/23c472c1a20a838eeab75abe839e6b6d-800-800.png"
+  },
+  {
+   "startTime": 505,
+   "title": "BLG夺冠",
+   "img": "https://image.gcores.com/24895b358710280838abb80fd1553d17-743-418.jpg"
+  },
+  {
+   "startTime": 547,
+   "title": "中国国际广播出版社",
+   "img": "https://image.gcores.com/fd13d4b6abe0ac0d8ce1f1ac86ea91e7-600-302.jpg"
+  },
+  {
+   "startTime": 580,
+   "title": "杰斯珀·尤尔",
+   "img": "https://image.gcores.com/02be384734797d3f692688e99d35a507-179-250.webp"
+  },
+  {
+   "startTime": 620,
+   "title": "平台研究",
+   "img": "https://image.gcores.com/bb3c87f187dfcb3407136738f37aa6d4-317-475.jpg"
+  },
+  {
+   "startTime": 656,
+   "title": "《欢乐过载 康懋达64的五重生命》",
+   "img": "https://image.gcores.com/a7100827b7a93cf0437ce932b1d6ccb5-519-800.webp"
+  },
+  {
+   "startTime": 717,
+   "title": "摩尔定律",
+   "img": "https://image.gcores.com/aa0ec0ce5c47ce264c8a571856000872-1200-633.jpg"
+  },
+  {
+   "startTime": 858,
+   "title": "Demoscene",
+   "img": "https://image.gcores.com/b7576c95e60bd6d1e0e8e93708070ca6-640-480.png"
+  },
+  {
+   "startTime": 963,
+   "title": "玩而致知"
+  },
+  {
+   "startTime": 998,
+   "title": "游戏素养"
+  },
+  {
+   "startTime": 1039,
+   "title": "防御性回答",
+   "img": "https://image.gcores.com/28baf9c94abaf6daf7e17270e7455e4a-700-525.webp"
+  },
+  {
+   "startTime": 1237,
+   "title": "物理断网",
+   "img": "https://image.gcores.com/248d13497556299c0024deb7d66de3d5-384-216.jpg"
+  },
+  {
+   "startTime": 1397,
+   "title": "自然转移"
+  },
+  {
+   "startTime": 1482,
+   "title": "狂欢式玩乐"
+  },
+  {
+   "startTime": 1639,
+   "title": "联合国教科文组织电影艺术与文化多样性教席",
+   "img": "https://image.gcores.com/5551ea11c454aa8ce0ace6dd16fa127f-499-323.png"
+  },
+  {
+   "startTime": 1650,
+   "title": "下一个伦勃朗",
+   "img": "https://image.gcores.com/1d107fb4309a28c2fdd52adc59ef28c9-1413-999.webp"
+  },
+  {
+   "startTime": 1730,
+   "title": "vibe coding",
+   "img": "https://image.gcores.com/93df62ec11525f4461302eabdad0d928-617-324.jpg"
+  },
+  {
+   "startTime": 1741,
+   "title": "开局一句话 内容全生成",
+   "img": "https://image.gcores.com/e0d9833a7e0ea3d8ec3cb42f8973362f-500-233.webp"
+  },
+  {
+   "startTime": 1759,
+   "title": "《几猫》",
+   "img": "https://image.gcores.com/a7fa20135046865b32c64c61f4a41e12-500-239.webp"
+  },
+  {
+   "startTime": 1799,
+   "title": "供给侧改革"
+  },
+  {
+   "startTime": 1908,
+   "title": "CRT滤镜",
+   "img": "https://image.gcores.com/c236666200b227b4e6c1a72cbff6b162-640-352.png"
+  },
+  {
+   "startTime": 1944,
+   "title": "CRT",
+   "img": "https://image.gcores.com/e338f9aad29940d0d37307054dc12a38-339-376.jpg"
+  },
+  {
+   "startTime": 1971,
+   "title": "隔行扫描",
+   "img": "https://image.gcores.com/a6aac847f7dea9bb192e2bfbdd658ec0-3072-2048.jpg"
+  },
+  {
+   "startTime": 2012,
+   "title": "格式塔",
+   "img": "https://image.gcores.com/38a8c6e6474ea66dbc49b4cef36fc78c-1280-720.webp"
+  },
+  {
+   "startTime": 2028,
+   "title": "辉光",
+   "img": "https://image.gcores.com/7d002986ed3073c092c31d255a5001fe-2784-1536.jpg"
+  },
+  {
+   "startTime": 2144,
+   "title": "半透明",
+   "img": "https://image.gcores.com/47f3387dcba64d6ff0cdd93c8f455c5c-640-448.gif"
+  },
+  {
+   "startTime": 2378,
+   "title": "创造力"
+  },
+  {
+   "startTime": 2553,
+   "title": "《诗云》",
+   "img": "https://image.gcores.com/052eafdd2887901ba15dd3f970f10850-536-536.webp"
+  },
+  {
+   "startTime": 2619,
+   "title": "文献不再稀缺 判断力才稀缺"
+  },
+  {
+   "startTime": 2703,
+   "title": "空气投篮",
+   "img": "https://image.gcores.com/2444d63399405fe2d67600eb8b4f6f63-230-498.webp"
+  },
+  {
+   "startTime": 2811,
+   "title": "机核会员",
+   "img": "https://image.gcores.com/8ba6aa019110eff532d2d24f2b00f021-347-535.png"
+  },
+  {
+   "startTime": 2825,
+   "title": "SPEC丨博尔赫斯：迷宫与顿悟",
+   "img": "https://image.gcores.com/f09654a12ccae316217f8d1c8ce5e288-1000-1000.jpg"
+  },
+  {
+   "startTime": 2830,
+   "title": "《巴别图书馆》",
+   "img": "https://image.gcores.com/d2a96517744754e5657673a011f23060-800-800.jpg"
+  },
+  {
+   "startTime": 2957,
+   "title": "人的主体性"
+  },
+  {
+   "startTime": 3048,
+   "title": "玩乐的挪用性"
+  },
+  {
+   "startTime": 3080,
+   "title": "裁剪长上下文",
+   "img": "https://image.gcores.com/2a26c49514f2876b6dc6fa3f363652df-461-465.jpg"
+  },
+  {
+   "startTime": 3238,
+   "title": "马克斯·韦伯",
+   "img": "https://image.gcores.com/08f38da10119e4be0cc5786cae511f58-439-600.webp"
+  },
+  {
+   "startTime": 3273,
+   "title": "取用与沉溺"
+  },
+  {
+   "startTime": 3378,
+   "title": "玩家主掌边界"
+  },
+  {
+   "startTime": 3564,
+   "title": "赫伊津哈与凯约瓦"
+  },
+  {
+   "startTime": 3711,
+   "title": "不对劲",
+   "img": "https://image.gcores.com/0d15ed9a02c1a80c866ccbdd9ff38878-561-350.avif"
+  },
+  {
+   "startTime": 3845,
+   "title": "汉阴丈人"
+  },
+  {
+   "startTime": 4089,
+   "title": "《蚱蜢：游戏、生命与乌托邦》",
+   "img": "https://image.gcores.com/3891f1bc052d6b7b1841b9d3a82841b6-350-350.webp",
+   "url": "https://www.gcores.com/albums/146"
+  },
+  {
+   "startTime": 4196,
+   "title": "《后会友期》",
+   "img": "https://image.gcores.com/496cd5b74c112998a2a0fe668dd22cc0-500-281.webp"
+  },
+  {
+   "startTime": 4324,
+   "title": "语言的玩乐"
+  },
+  {
+   "startTime": 4484,
+   "title": "《围城》重印前记"
+  },
+  {
+   "startTime": 4675,
+   "title": "译后记"
+  },
+  {
+   "startTime": 4931,
+   "title": "鸡蛋图",
+   "img": "https://image.gcores.com/61297adb6832193f493570997a8a9ad4-1272-711.png"
+  },
+  {
+   "startTime": 4966,
+   "title": "liquidzigong",
+   "img": "https://image.gcores.com/41ce89a1a8188c41df6fcdb1e038329b-640-482.jpg"
+  },
+  {
+   "startTime": 5108,
+   "title": "分论玩与结果"
+  },
+  {
+   "startTime": 5253,
+   "title": "感谢收听"
+  }
+ ]
+}
