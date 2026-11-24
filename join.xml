@@ -5,8 +5,8 @@
 <link>https://www.gcores.com/radios?filter=join</link>
 <description>机核「入驻播客」节目，按发布时间降序排列，每集附时间轴。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 05:50:34 +0800</lastBuildDate>
-<pubDate>Tue, 24 Nov 2026 05:50:34 +0800</pubDate>
+<lastBuildDate>Tue, 24 Nov 2026 13:38:21 +0800</lastBuildDate>
+<pubDate>Tue, 24 Nov 2026 13:38:21 +0800</pubDate>
 <generator>gcores-rss</generator>
 <ttl>30</ttl>
 <atom:link href="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/join.xml" rel="self" type="application/rss+xml"/>
@@ -18,6 +18,27 @@
 <itunes:category text="Leisure"><itunes:category text="Video Games"/></itunes:category>
 <itunes:image href="https://image.gcores.com/72c564186057a94288949bffc6865811-2048-2048.png?v=2"/>
 <image><url>https://image.gcores.com/72c564186057a94288949bffc6865811-2048-2048.png?v=2</url><title>机核 GCORES · 入驻播客</title><link>https://www.gcores.com/radios?filter=join</link></image>
+<item>
+<title>星海悲歌，聊聊星际争霸的回忆与故事 | 闲聊八匹马</title>
+<link>https://www.gcores.com/radios/222714</link>
+<guid isPermaLink="false">gcores-radio-222714</guid>
+<pubDate>Mon, 23 Nov 2026 23:06:43 +0800</pubDate>
+<description>最近星际争霸的模型战棋游戏发货了，很多不玩战棋的星际争霸老粉，DNA里的那些回忆也纷纷被激活。 这期节目就从以这个游戏为引子，聊聊我和杨总当年沉迷于 星际争霸 的菜鸡回忆。以及讲述一个当年我们并不完全知晓的，在游戏之外横亘无数岁月和星海的《星际争霸》故事。重新想起 凯瑞甘、雷诺、泽拉图……这些当初熟悉的名字和他们的史诗</description>
+<content:encoded><![CDATA[<p><a href="https://www.gcores.com/radios/222714">🔗 在机核查看本集原始页面</a></p>
+<hr/>
+<p>最近星际争霸的模型战棋游戏发货了，很多不玩战棋的星际争霸老粉，DNA里的那些回忆也纷纷被激活。</p>
+<p>这期节目就从以这个游戏为引子，聊聊我和杨总当年沉迷于 星际争霸 的菜鸡回忆。以及讲述一个当年我们并不完全知晓的，在游戏之外横亘无数岁月和星海的《星际争霸》故事。重新想起 凯瑞甘、雷诺、泽拉图……这些当初熟悉的名字和他们的史诗。</p>]]></content:encoded>
+<author>机核 GCORES</author>
+<itunes:author>机核 GCORES</itunes:author>
+<category>闲聊八匹马</category>
+<itunes:keywords>闲聊八匹马</itunes:keywords>
+<itunes:summary>最近星际争霸的模型战棋游戏发货了，很多不玩战棋的星际争霸老粉，DNA里的那些回忆也纷纷被激活。 这期节目就从以这个游戏为引子，聊聊我和杨总当年沉迷于 星际争霸 的菜鸡回忆。以及讲述一个当年我们并不完全知晓的，在游戏之外横亘无数岁月和星海的《星际争霸》故事。重新想起 凯瑞甘、雷诺、泽拉图……这些当初熟悉的名字和他们的史诗</itunes:summary>
+<itunes:duration>1:05:12</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:image href="https://image.gcores.com/e915f0fb-335d-4e69-a495-c100ea4c1fed-1743-1743.jpeg"/>
+<enclosure url="https://jt.ximalaya.com//GKwRIUEO2hnsAeM8vQUALzwv.m4a?channel=rss&amp;album_id=46498795&amp;track_id=1035014696&amp;uid=8701771&amp;jt=https://aod.cos.tx.xmcdn.com/storages/df98-audiofreehighqps/1F/99/GKwRIUEO2hnsAeM8vQUALzwv.m4a" length="31669437" type="audio/mp4"/>
+</item>
 <item>
 <title>我会发着呆、然后忘记你、最后吹起时之笛 再荐茶社45 | 再荐茶社</title>
 <link>https://www.gcores.com/radios/222682</link>
@@ -2966,27 +2987,6 @@
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/c129a616-c3b0-4b76-82e2-34f8b3bfc225-656-656.jpg"/>
 <enclosure url="https://dts-api.xiaoyuzhoufm.com/track/67a0b12f5542b1eca66731c1/6abddccd195d838e2aec46ca/media.xyzcdn.net/67a0b12f5542b1eca66731c1/lsdWvigdq-wbydxfl20U5tR5byVx.m4a" length="69523643" type="audio/mp4"/>
-</item>
-<item>
-<title>Vol.192·Meta Connect 现场见闻·Meta VR Glasses 怎么看·Steam Frame 社区人声鼎沸 | 元语咒</title>
-<link>https://www.gcores.com/radios/220440</link>
-<guid isPermaLink="false">gcores-radio-220440</guid>
-<pubDate>Thu, 01 Oct 2026 06:00:00 +0800</pubDate>
-<description>本期「元语咒」电台由脑潘、潮玩VR等主播与嘉宾回顾 Meta Connect 2026 现场见闻，讨论 Meta VR Glasses 的体验与取舍、Meta 重心转向 AI 与智能眼镜，以及 Steam Frame 社区涌现的软硬件项目。</description>
-<content:encoded><![CDATA[<p>本期「元语咒」电台由脑潘、潮玩VR等主播与嘉宾回顾 Meta Connect 2026 现场见闻，讨论 Meta VR Glasses 的体验与取舍、Meta 重心转向 AI 与智能眼镜，以及 Steam Frame 社区涌现的软硬件项目。</p>
-<p><a href="https://www.gcores.com/radios/220440">🔗 在机核查看本集原始页面</a></p>
-<hr/>
-<p>本期主播与嘉宾：<br/>脑潘 / 潮玩VR / 空间绘画KudoAlbus / 视界任意门<br/><br/>直播录制时间：<br/>2026-09-30<br/><br/>-----------------------<br/><br/>主观片面的「元语咒」是专属 VR 玩家的闲聊电台。<br/>以虚拟圆桌的形式在某平台直播，以一刀不剪的态度在这里回放。<br/><br/>-----------------------<br/><br/>章节：<br/>00:00 开场<br/>02:02 Meta Connect 2026 现场有哪些变化<br/>10:36 发布会之外的观察：平台资源流向 AI、Horizon 与智能眼镜<br/>19:09 Meta VR Glasses 现场体验反馈与讨论，谁会为它买单？<br/>26:03 为了 “看起来像眼镜” 牺牲 FOV 真的值得吗<br/>39:20 内容消费和使用场景的顾虑<br/>50:02 Meta VR 游戏生态的转向，与对 Quest 4 的期待<br/>01:02:32 从整场发布会看 Meta 的重心：AI 服务与智能眼镜<br/>01:10:40 Steam Frame 这边人声鼎沸：涌现海量社区软硬件项目<br/>01:28:26 行业又回到百花齐放：有线与无线的轮回，标准分化带来的开发压力与新机会<br/>01:32:52 开发者活动预告：10月17日 VRplay Demo Day 北京站</p>]]></content:encoded>
-<author>机核 GCORES</author>
-<itunes:author>机核 GCORES</itunes:author>
-<category>元语咒</category>
-<itunes:keywords>元语咒</itunes:keywords>
-<itunes:summary>本期「元语咒」电台由脑潘、潮玩VR等主播与嘉宾回顾 Meta Connect 2026 现场见闻，讨论 Meta VR Glasses 的体验与取舍、Meta 重心转向 AI 与智能眼镜，以及 Steam Frame 社区涌现的软硬件项目。</itunes:summary>
-<itunes:duration>1:33:37</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-<itunes:image href="https://image.gcores.com/0fd760d5-ac7f-469f-b5db-df656b28a0db-1400-1400.jpeg"/>
-<enclosure url="https://jt.ximalaya.com//GKwRIW4Oku-oArXntgTgj5k1.m4a?channel=rss&amp;album_id=69720546&amp;track_id=1020277887&amp;uid=410344542&amp;jt=https://aod.cos.tx.xmcdn.com/storages/f6cb-audiofreehighqps/AF/F2/GKwRIW4Oku-oArXntgTgj5k1.m4a" length="45475766" type="audio/mp4"/>
 </item>
 </channel>
 </rss>
