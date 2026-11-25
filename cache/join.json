@@ -1,5 +1,27 @@
 {
  "items": {
+  "222755": {
+   "id": "222755",
+   "guid": "gcores-radio-222755",
+   "title": "Vol.146 摇摆听歌会：K-POP女团音乐质量滑坡能力鉴赏",
+   "category_raw": "摇摆指南",
+   "category": "摇摆指南",
+   "published_at": "2026-11-25T10:00:00+08:00",
+   "duration": 6656,
+   "audio": "https://jt.ximalaya.com//GKwRIJIO2y8IAzY0MgUAjPeu.m4a?channel=rss&album_id=80844654&track_id=1035272151&uid=497337994&jt=https://aod.cos.tx.xmcdn.com/storages/bad6-audiofreehighqps/4C/8A/GKwRIJIO2y8IAzY0MgUAjPeu.m4a",
+   "page_url": "https://www.gcores.com/radios/222755",
+   "image": "https://image.gcores.com/1717dba4-7935-46bd-9ac6-d3ea4a4e86f8-1280-1280.jpeg",
+   "summary": "摇摆听歌会本期聚焦2026年K-pop女团回归，凌子选出ILLIT、IVE、MEOVV、BabyMonster、ITZY五组令她失望的作品，与嘉宾逐首品评音乐质量滑坡与转型问题。",
+   "content_html": "<p>嘉宾：我真的不是烤叽<br/>封面：Ac<br/>策划/剪辑/后期：凌子<br/><br/><br/>2026年对于K-pop女子团体来说算得上小年，不管是五代团回归的乏力还是六代团转型的磕磕绊绊都日益凸显。在这样一个时间节点，凌子筛选出今年对于她来讲最失望的五个回归，诚邀大家伙一起来品鉴厕曲。<br/><br/><br/>本期时间轴：<br/><br/><br/>【00:07:01】ILLIT 《你被逮捕了》<br/><br/><br/>【00:28:36】IVE 《Looks Can Kill》<br/><br/><br/>【00:51:46】MEOVV 《Go Hard》<br/><br/><br/>【01:04:32】BabyMonster 《Choom》<br/><br/><br/>【01:20:42】ITZY 《Motto》<br/><br/><br/>如果大家对本期入选的歌曲有不同的见解，或者对于自己认为难听的歌曲未能入选感到遗憾的话，欢迎在评论区留下您的看法。<br/><br/><br/>感谢大家的收听，我们下期再见！</p>",
+   "participants": [
+    "喵臣"
+   ],
+   "media_id": "23437",
+   "timelines": [],
+   "tl_checked": 1,
+   "length": 53883954,
+   "chapters_url": ""
+  },
   "222714": {
    "id": "222714",
    "guid": "gcores-radio-222714",
@@ -18,8 +40,8 @@
    ],
    "media_id": "23429",
    "timelines": [],
-   "tl_checked": 1,
    "length": 31669437,
+   "tl_checked": 1,
    "chapters_url": ""
   },
   "222682": {
@@ -2195,30 +2217,6 @@
    "media_id": "22980",
    "timelines": [],
    "length": 62679338,
-   "tl_checked": 1,
-   "chapters_url": ""
-  },
-  "220464": {
-   "id": "220464",
-   "guid": "gcores-radio-220464",
-   "title": "我翻译了一个小游戏！ 茶社波浪05",
-   "category_raw": "再荐茶社",
-   "category": "再荐茶社",
-   "published_at": "2026-10-01T12:13:16+08:00",
-   "duration": 4298,
-   "audio": "https://dts-api.xiaoyuzhoufm.com/track/67a0b12f5542b1eca66731c1/6abddccd195d838e2aec46ca/media.xyzcdn.net/67a0b12f5542b1eca66731c1/lsdWvigdq-wbydxfl20U5tR5byVx.m4a",
-   "page_url": "https://www.gcores.com/radios/220464",
-   "image": "https://image.gcores.com/c129a616-c3b0-4b76-82e2-34f8b3bfc225-656-656.jpg",
-   "summary": "《再荐茶社》本期分享游戏翻译小故事，聊了聊主播们认为优秀、有趣或糟糕的游戏本地化案例，并邀请听众在评论区分享自己遇到的有趣翻译。",
-   "content_html": "<p>🐧👉《再荐茶社》更新通知QQ群：1055561149</p>\n<p>感谢大家一直以来的赞赏、订阅和支持，欢迎朋友们在评论中和我们一起分享游戏体验！</p>\n<p>本期我们分享了一些游戏翻译小故事，并且聊了聊我们觉得很优秀、很有趣或者很糟糕的游戏本地化例子。如果你也有遇到过很有趣的翻译，欢迎在评论区分享！</p>",
-   "participants": [
-    "NoSleepLee",
-    "雏雏",
-    "MARS12138"
-   ],
-   "media_id": "22978",
-   "timelines": [],
-   "length": 69523643,
    "tl_checked": 1,
    "chapters_url": ""
   }
