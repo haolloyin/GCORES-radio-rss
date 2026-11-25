@@ -1,0 +1,433 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/2cce732a6493a7e71b6ce5af1d3afe6a-640-640.jpg"
+  },
+  {
+   "startTime": 42,
+   "title": "《魔兽世界：永恒》",
+   "img": "https://image.gcores.com/890243278d7376f5ad4cf5cacffce2cf-343-290.webp"
+  },
+  {
+   "startTime": 129,
+   "title": "人满为患",
+   "img": "https://image.gcores.com/7603154d8a4a021ab176bbc9186c9cd2-1125-844.webp"
+  },
+  {
+   "startTime": 262,
+   "title": "首个满级小队",
+   "img": "https://image.gcores.com/f771ac231516cff9c34df2b958b85500-477-419.jpg"
+  },
+  {
+   "startTime": 361,
+   "title": "空气交互",
+   "img": "https://image.gcores.com/b6211a799ab385cc223ec0f69c9fa47d-220-170.gif"
+  },
+  {
+   "startTime": 409,
+   "title": "“规则集”",
+   "img": "https://image.gcores.com/28821a2eb1f915ac3118d9d4d35cf5b5-2066-1066.jpg"
+  },
+  {
+   "startTime": 513,
+   "title": "抢怪",
+   "img": "https://image.gcores.com/300167e5b5622497f50c1561c8cf012c-739-415.jpg"
+  },
+  {
+   "startTime": 605,
+   "title": "探索赛季",
+   "img": "https://image.gcores.com/665ceea2dbee04a1d84159edc9db6b48-742-413.jpg"
+  },
+  {
+   "startTime": 645,
+   "title": "解谜任务",
+   "img": "https://image.gcores.com/02deaa5b2308f8b2c47236490d2ea683-1280-720.jpg"
+  },
+  {
+   "startTime": 772,
+   "title": "语言不通",
+   "img": "https://image.gcores.com/628468cc9b5e78adce917c770a2132dd-2600-1463.avif"
+  },
+  {
+   "startTime": 863,
+   "title": "睡袋",
+   "img": "https://image.gcores.com/6065285bfa9f4934f27e528a439788b8-640-480.jpg"
+  },
+  {
+   "startTime": 897,
+   "title": "死亡矿井",
+   "img": "https://image.gcores.com/c4494d8474ac6df06e586d1f49ee28a1-596-335.jpg"
+  },
+  {
+   "startTime": 972,
+   "title": "艾德温·范克里夫",
+   "img": "https://image.gcores.com/2d26471a5d03f99de355211c5f719ed5-640-837.webp"
+  },
+  {
+   "startTime": 1122,
+   "title": "不太平衡",
+   "img": "https://image.gcores.com/d3a806fbd44861a5488be154ff51e2bd-1280-720.jpg"
+  },
+  {
+   "startTime": 1277,
+   "title": "就嗯杀",
+   "img": "https://image.gcores.com/4c26ed9b04849783397ee3407664f005-565-353.jpg"
+  },
+  {
+   "startTime": 1351,
+   "title": "阿拉希高地",
+   "img": "https://image.gcores.com/fa63404495dc6c33bf92ead30d7174a9-1600-900.jpg"
+  },
+  {
+   "startTime": 1586,
+   "title": "自发形成",
+   "img": "https://image.gcores.com/35a64eda3533c446923df4f5a4c8f2bf-1920-1200.jpg"
+  },
+  {
+   "startTime": 1616,
+   "title": "主题乐园MMO",
+   "img": "https://image.gcores.com/473b3afdc819e7443835d76719a6a453-1920-1080.webp"
+  },
+  {
+   "startTime": 1739,
+   "title": "基本不打架",
+   "img": "https://image.gcores.com/ef24417b51fe1478c9707e638008a711-739-415.jpg"
+  },
+  {
+   "startTime": 1798,
+   "title": "被堵了",
+   "img": "https://image.gcores.com/f79774fee7616b7384c0154e9b5a99bd-400-842.gif"
+  },
+  {
+   "startTime": 1880,
+   "title": "大大方方杀",
+   "img": "https://image.gcores.com/037c364ad21ba0a922c898ccec0e75c4-480-640.jpg"
+  },
+  {
+   "startTime": 2002,
+   "title": "阴间兵营",
+   "img": "https://image.gcores.com/83aa28896d655342212788b0a7e93556-739-415.jpg"
+  },
+  {
+   "startTime": 2092,
+   "title": "舒适的睡袋",
+   "img": "https://image.gcores.com/260df18da79a196b802a39c1929baac7-480-360.jpg"
+  },
+  {
+   "startTime": 2132,
+   "title": "营火机制",
+   "img": "https://image.gcores.com/0f7e5bd9483703b791700f7c2000f18e-2400-1350.avif"
+  },
+  {
+   "startTime": 2215,
+   "title": "888礼包",
+   "img": "https://image.gcores.com/6a0ab221b34335cbb71d732f74449428-1080-608.webp"
+  },
+  {
+   "startTime": 2263,
+   "title": "资深冒险者的探险帐篷",
+   "img": "https://image.gcores.com/3e103dae65c0f704434204c6a7399813-762-537.jpg"
+  },
+  {
+   "startTime": 2401,
+   "title": "人嫌狗厌",
+   "img": "https://image.gcores.com/89dcb7664cb9ae3857400c2a4ddaef6c-250-401.webp"
+  },
+  {
+   "startTime": 2467,
+   "title": "入队的门票",
+   "img": "https://image.gcores.com/5a6b51b9e4bc1ebce47165e866585a7e-1920-1080.webp"
+  },
+  {
+   "startTime": 2515,
+   "title": "熟悉的陌生人",
+   "img": "https://image.gcores.com/f9fcc8df6cb62656a4ff3bd76faf633d-334-246.jpg"
+  },
+  {
+   "startTime": 2639,
+   "title": "野外相遇",
+   "img": "https://image.gcores.com/89930386c6cefb5fdb2c02ac4fe0fb3c-716-868.png"
+  },
+  {
+   "startTime": 2704,
+   "title": "天然门槛高",
+   "img": "https://image.gcores.com/86eb58305e5d4337ddd7001c80f073d7-739-415.jpg"
+  },
+  {
+   "startTime": 2848,
+   "title": "突然来了一下",
+   "img": "https://image.gcores.com/ec140653f884aad4e65d086a63d6ffe1-750-1000.webp"
+  },
+  {
+   "startTime": 2962,
+   "title": "达拉然之乱",
+   "img": "https://image.gcores.com/af6d8d212adad871a076baa474abce3a-1921-1066.webp"
+  },
+  {
+   "startTime": 3111,
+   "title": "全新光影",
+   "img": "https://image.gcores.com/906659e432245ae31a62661b8a1add4c-3840-2160.webp"
+  },
+  {
+   "startTime": 3244,
+   "title": "大雾+暴雪",
+   "img": "https://image.gcores.com/8d1fc122de3fcebdabb954ff4aa1b4d7-2560-1511.webp"
+  },
+  {
+   "startTime": 3364,
+   "title": "扰乱",
+   "img": "https://image.gcores.com/53e7f4250eeabdc40546477d06dc7e90-586-462.png",
+   "url": "https://www.bilibili.com/video/BV1KSivBYEeg?vd_source=c50c1753d4defc2ea97046d7c12899ef&spm_id_from=333.788.videopod.sections"
+  },
+  {
+   "startTime": 3445,
+   "title": "远景渲染",
+   "img": "https://image.gcores.com/f966d91a6bffab66e68ce212874ee923-1920-1080.webp"
+  },
+  {
+   "startTime": 3517,
+   "title": "匿名邮件",
+   "img": "https://image.gcores.com/92a2601166c62821df78babd8827b60e-640-360.webp"
+  },
+  {
+   "startTime": 3604,
+   "title": "盗贼故事",
+   "img": "https://image.gcores.com/3b525e102e406a274fbfda90665c2288-300-234.jpg"
+  },
+  {
+   "startTime": 3687,
+   "title": "最后一级",
+   "img": "https://image.gcores.com/3364c09cbc93eda7c124a0a9a58b7b42-480-360.jpg"
+  },
+  {
+   "startTime": 3783,
+   "title": "猎魔人",
+   "img": "https://image.gcores.com/ba853b7f305b35778965578b0e332c98-701-438.jpg"
+  },
+  {
+   "startTime": 3854,
+   "title": "“精神”属性",
+   "img": "https://image.gcores.com/bb6962a86554c0bff789b2aed1511667-560-469.jpg"
+  },
+  {
+   "startTime": 3901,
+   "title": "得看着",
+   "img": "https://image.gcores.com/a13b6650863501e1c77078f1f257a656-319-458.gif"
+  },
+  {
+   "startTime": 4014,
+   "title": "动态的不均衡",
+   "img": "https://image.gcores.com/001c5055b2b3468472f52a7635f82cf8-1200-600.webp"
+  },
+  {
+   "startTime": 4106,
+   "title": "狐狸人",
+   "img": "https://image.gcores.com/1ae224da3c0e8efe2bff74336e524cf2-1200-675.avif"
+  },
+  {
+   "startTime": 4202,
+   "title": "丰富就是一切",
+   "img": "https://image.gcores.com/7dd3e461e39130d320ee32622e51b9b7-696-683.png",
+   "url": "https://www.gcores.com/radios/222410"
+  },
+  {
+   "startTime": 4257,
+   "title": "屡创新高",
+   "img": "https://image.gcores.com/da3fb043f2385a34056d295f48ba133e.jpg"
+  },
+  {
+   "startTime": 4356,
+   "title": "学骑术",
+   "img": "https://image.gcores.com/c6cb5298fa78375ab31f39be11e92068-701-438.jpg"
+  },
+  {
+   "startTime": 4458,
+   "title": "建个公会",
+   "img": "https://image.gcores.com/b8922773c2941f88bc5582da4926aea1-297-297.jpg"
+  },
+  {
+   "startTime": 4522,
+   "title": "下期再见（不是）",
+   "img": "https://image.gcores.com/1d10dc35cb1eb998b62bedcb9bfee1ce-1200-675.avif"
+  },
+  {
+   "startTime": 4586,
+   "title": "都是机制",
+   "img": "https://image.gcores.com/59022e55e4fd4cc900125bfb318c6ec0-1920-1080.png"
+  },
+  {
+   "startTime": 4756,
+   "title": "仇恨系统",
+   "img": "https://image.gcores.com/dd452a583a6dc687be06a01882e2f8a4-640-360.webp"
+  },
+  {
+   "startTime": 5006,
+   "title": "额外互动",
+   "img": "https://image.gcores.com/7a46adac12ac6f09bf2a9cdd5fd263ea-1200-675.jpg"
+  },
+  {
+   "startTime": 5051,
+   "title": "哀嚎洞穴",
+   "img": "https://image.gcores.com/8437de22b16a82b44d2f848b7006be27-1080-1080.jpg"
+  },
+  {
+   "startTime": 5176,
+   "title": "宠物系统",
+   "img": "https://image.gcores.com/13a314c70c97cff8a74418b7a3a99aab-723-424.jpg"
+  },
+  {
+   "startTime": 5275,
+   "title": "狮王修玛",
+   "img": "https://image.gcores.com/bfc7b16c8f4c98b8f2dec67eaccbd746-300-217.jpg"
+  },
+  {
+   "startTime": 5373,
+   "title": "暴雪概率论",
+   "img": "https://image.gcores.com/bbd56283e89e7f8bdbe7c47d6cb7a28a-400-400.webp"
+  },
+  {
+   "startTime": 5440,
+   "title": "恶意PvP",
+   "img": "https://image.gcores.com/a2fc0959215ba6454c698b7d4750eafa-736-748.jpg"
+  },
+  {
+   "startTime": 5533,
+   "title": "场景叙事",
+   "img": "https://image.gcores.com/a26ebe6a6194f279b4e400015cc63166-335-597.jpg"
+  },
+  {
+   "startTime": 5628,
+   "title": "公主必须死！",
+   "img": "https://image.gcores.com/290f5bdc016621740ebbfef09b7318f0-998-788.jpg"
+  },
+  {
+   "startTime": 5702,
+   "title": "兵源问题",
+   "img": "https://image.gcores.com/2d18b43c83a31fd19fa9baf52875190f-825-413.avif"
+  },
+  {
+   "startTime": 5803,
+   "title": "不稳定的能力",
+   "img": "https://image.gcores.com/28cd220b50eadaf9b311e5f32561529e-630-400.png"
+  },
+  {
+   "startTime": 5877,
+   "title": "邪恶牛头人",
+   "img": "https://image.gcores.com/be9891e7a76acced85a58f2768ef3ea1-300-300.png"
+  },
+  {
+   "startTime": 5940,
+   "title": "凯恩·血蹄",
+   "img": "https://image.gcores.com/8eaaabb287545a89c3ef0d3d2fff2fa3-800-1066.jpg"
+  },
+  {
+   "startTime": 6002,
+   "title": "邪门故事",
+   "img": "https://image.gcores.com/c8a38f39b314dda249116f0fd83dd5f4-2550-1425.jpg"
+  },
+  {
+   "startTime": 6221,
+   "title": "不想回去",
+   "img": "https://image.gcores.com/5294eba404f93652e54260533c5660fb-739-415.jpg"
+  },
+  {
+   "startTime": 6295,
+   "title": "守尸体",
+   "img": "https://image.gcores.com/c726024deb5ed626d63566f490ee5967-299-168.jpg"
+  },
+  {
+   "startTime": 6325,
+   "title": "传承系统",
+   "img": "https://image.gcores.com/cabcfeaecb16f07912a3b95b6546fb31-790-493.webp"
+  },
+  {
+   "startTime": 6432,
+   "title": "生产生活技能",
+   "img": "https://image.gcores.com/47156f237d990135d43a5afe07c7333f-2000-1000.avif"
+  },
+  {
+   "startTime": 6530,
+   "title": "一分钱难倒英雄汉",
+   "img": "https://image.gcores.com/0a8c27f7d5e2923c2b261e5c3a5372ce-420-420.webp"
+  },
+  {
+   "startTime": 6628,
+   "title": "送一段演出",
+   "img": "https://image.gcores.com/09eecf71d6a913da78f3ded2da4939c6-1325-906.jpg"
+  },
+  {
+   "startTime": 6717,
+   "title": "深空当铺",
+   "img": "https://image.gcores.com/fea1f7ac6c31ef590de7e54b37f585e7-460-215.jpg",
+   "url": "https://www.gcores.com/radios/222328"
+  },
+  {
+   "startTime": 6729,
+   "title": "熟练度",
+   "img": "https://image.gcores.com/0e3af46ffbf9417749965a2eca73d4de-675-380.jpg"
+  },
+  {
+   "startTime": 6790,
+   "title": "填充体验",
+   "img": "https://image.gcores.com/44670742c435e0ca13fa73209dabdbe9-1920-1080.jpg"
+  },
+  {
+   "startTime": 6891,
+   "title": "高度不公平",
+   "img": "https://image.gcores.com/12f735609f64811677556c681c62c2fc-2560-1440.png"
+  },
+  {
+   "startTime": 6945,
+   "title": "自傲",
+   "img": "https://image.gcores.com/f2d0566c9472249bc53ad9e426778dbd-800-470.webp"
+  },
+  {
+   "startTime": 7024,
+   "title": "紊乱",
+   "img": "https://image.gcores.com/2ee62d2d7dbf7f36d5645d26b9e9c872-1920-1080.png"
+  },
+  {
+   "startTime": 7105,
+   "title": "一期一会",
+   "img": "https://image.gcores.com/311030c04d69fb9f1c64e4c7d91d94de-1920-1080.webp"
+  },
+  {
+   "startTime": 7301,
+   "title": "十八波",
+   "img": "https://image.gcores.com/ec6e0518826ab43c8455691ab9a80d34-1275-717.jpg"
+  },
+  {
+   "startTime": 7369,
+   "title": "黑石深渊",
+   "img": "https://image.gcores.com/3833b61036a54632a79b9110e672f3ad-701-438.jpg"
+  },
+  {
+   "startTime": 7478,
+   "title": "新地图新副本",
+   "img": "https://image.gcores.com/bd6ed46e17edc08b198034335c22b24c-1600-900.jpg"
+  },
+  {
+   "startTime": 7670,
+   "title": "辛德拉",
+   "img": "https://image.gcores.com/0645d748d3f891f99e7ef2dc368d9e59-1600-900.webp"
+  },
+  {
+   "startTime": 7816,
+   "title": "装备需求",
+   "img": "https://image.gcores.com/4a70563e060403e69036ba71c85c3e37-540-405.jpg"
+  },
+  {
+   "startTime": 7895,
+   "title": "“需贪比”",
+   "img": "https://image.gcores.com/8d275394551d0e8cda89c92036e473d6-297-297.jpg"
+  },
+  {
+   "startTime": 8018,
+   "title": "结尾",
+   "img": "https://image.gcores.com/3cb16e69abe5c61255b608cb55d49a79-600-600.webp"
+  }
+ ]
+}
