@@ -1,0 +1,314 @@
+{
+ "version": "1.2.0",
+ "chapters": [
+  {
+   "startTime": 0,
+   "title": "开场BGM",
+   "img": "https://image.gcores.com/8afc6479ff970d9d9dec0a6731bc49e3-1400-1400.jpg",
+   "url": "https://music.163.com/song?id=536599&uct2=U2FsdGVkX19cndTIDDSuDQkVBeev0fNRZ7UmqS3pRzY="
+  },
+  {
+   "startTime": 60,
+   "title": "欢迎收听"
+  },
+  {
+   "startTime": 85,
+   "title": "前情提要",
+   "img": "https://image.gcores.com/abc7ef213a20db5e7d2d07d8d9a3f35f-251-251.webp"
+  },
+  {
+   "startTime": 150,
+   "title": "意外之喜",
+   "img": "https://image.gcores.com/2ac526577a2823f2fbbb1280e53f195b-1200-669.jpeg"
+  },
+  {
+   "startTime": 177,
+   "title": "IP运营",
+   "img": "https://image.gcores.com/904d0edf440977e3a3cce628f6899a54-637-850.png"
+  },
+  {
+   "startTime": 221,
+   "title": "生化危机手游",
+   "img": "https://image.gcores.com/7a451a250e98e59f1de803834e964871-1556-954.png"
+  },
+  {
+   "startTime": 270,
+   "title": "CG电影",
+   "img": "https://image.gcores.com/6da7ea39928bc354734c7539f168b0c0-1080-1538.jpg"
+  },
+  {
+   "startTime": 335,
+   "title": "《命运的浣熊市》",
+   "img": "https://image.gcores.com/30fbada897733fb8b2404ce1c410ead8-452-400.jpg",
+   "url": "https://www.youtube.com/watch?v=qerm7YdnJTU"
+  },
+  {
+   "startTime": 369,
+   "title": "《马科巴村的惨剧》",
+   "img": "https://image.gcores.com/689e624c1fba9043762230dd589f758f-954-725.png"
+  },
+  {
+   "startTime": 411,
+   "title": "99年作品",
+   "img": "https://image.gcores.com/680349253ae7f558003922c505ed4b7c-956-730.png"
+  },
+  {
+   "startTime": 490,
+   "title": "《命运的浣熊市》Vol.1",
+   "img": "https://image.gcores.com/f0391817068cd3692e5c0a256cd2f7a6-953-731.png",
+   "url": "https://www.projectumbrella.net/bio-hazard-drama-album-the-doomed-raccoon-city-vol1.html"
+  },
+  {
+   "startTime": 549,
+   "title": "简的父母"
+  },
+  {
+   "startTime": 609,
+   "title": "悲剧之兆",
+   "img": "https://image.gcores.com/7a3a3987e4f08736429fbc3d77be7211-800-1055.webp"
+  },
+  {
+   "startTime": 668,
+   "title": "S.T.A.R.S.",
+   "img": "https://image.gcores.com/4365b3de34cacd5a0d57d0d80adba8b5-386-448.webp"
+  },
+  {
+   "startTime": 717,
+   "title": "恶犬袭来",
+   "img": "https://image.gcores.com/e182c60000a7cb1f1badc1bdf6fbbdec-353-461.png"
+  },
+  {
+   "startTime": 784,
+   "title": "好友来访"
+  },
+  {
+   "startTime": 802,
+   "title": "悲伤过度",
+   "img": "https://image.gcores.com/3c5fa9774b1ffd90191076e20f684494-951-543.png"
+  },
+  {
+   "startTime": 838,
+   "title": "突发恶疾",
+   "img": "https://image.gcores.com/f92a514212ac14104e6196b0594d8334-407-427.png"
+  },
+  {
+   "startTime": 912,
+   "title": "地理位置",
+   "img": "https://image.gcores.com/ee1c832a852f34add01fdb2154245212-732-1489.webp"
+  },
+  {
+   "startTime": 1017,
+   "title": "重返洋馆",
+   "img": "https://image.gcores.com/be0f877472103f05c14273695992315e-1057-593.png"
+  },
+  {
+   "startTime": 1100,
+   "title": "丧尸出现",
+   "img": "https://image.gcores.com/d92638832eafb14d67453edd66358671-273-312.png"
+  },
+  {
+   "startTime": 1155,
+   "title": "久别重逢",
+   "img": "https://image.gcores.com/f2694c087611ec3452c64df12cdfcb87-602-384.png"
+  },
+  {
+   "startTime": 1180,
+   "title": "酒吧买醉"
+  },
+  {
+   "startTime": 1276,
+   "title": "怪事频发"
+  },
+  {
+   "startTime": 1350,
+   "title": "恶臭弥漫"
+  },
+  {
+   "startTime": 1374,
+   "title": "天花板的尸体"
+  },
+  {
+   "startTime": 1416,
+   "title": "尸体失踪"
+  },
+  {
+   "startTime": 1450,
+   "title": "发现诺曼"
+  },
+  {
+   "startTime": 1505,
+   "title": "愤然离去"
+  },
+  {
+   "startTime": 1530,
+   "title": "死者复生"
+  },
+  {
+   "startTime": 1578,
+   "title": "暗流涌动",
+   "img": "https://image.gcores.com/694b8f27b4bc56530894a9d4c2d669ad-268-221.png"
+  },
+  {
+   "startTime": 1678,
+   "title": "瘟疫泛滥"
+  },
+  {
+   "startTime": 1738,
+   "title": "马克自杀"
+  },
+  {
+   "startTime": 1814,
+   "title": "异变降临"
+  },
+  {
+   "startTime": 1895,
+   "title": "无人相信"
+  },
+  {
+   "startTime": 1940,
+   "title": "美丽周末"
+  },
+  {
+   "startTime": 1983,
+   "title": "重围之下",
+   "img": "https://image.gcores.com/d99a1df2b121e1e59f7c11f6c0dfd6cb-667-406.png"
+  },
+  {
+   "startTime": 2055,
+   "title": "回忆往事"
+  },
+  {
+   "startTime": 2130,
+   "title": "父子团聚"
+  },
+  {
+   "startTime": 2240,
+   "title": "尼克负伤"
+  },
+  {
+   "startTime": 2293,
+   "title": "同归于尽",
+   "img": "https://image.gcores.com/89a12e7f5b91c57c1c0e8d1965c79301-977-652.png"
+  },
+  {
+   "startTime": 2367,
+   "title": "难逃心魔"
+  },
+  {
+   "startTime": 2391,
+   "title": "暗伏祸根",
+   "img": "https://image.gcores.com/f3feb62825d88dfd633020e655054f67-992-662.png"
+  },
+  {
+   "startTime": 2446,
+   "title": "《命运的浣熊市》Vol.2",
+   "img": "https://image.gcores.com/b0b269ec65369afe09908ddfc88649df-925-916.png",
+   "url": "https://www.projectumbrella.net/bio-hazard-drama-album-the-doomed-raccoon-city-vol2.html"
+  },
+  {
+   "startTime": 2464,
+   "title": "危急病患",
+   "img": "https://image.gcores.com/619f0243d608b1942628a553413ae6e5-1061-597.png"
+  },
+  {
+   "startTime": 2541,
+   "title": "男友艾德"
+  },
+  {
+   "startTime": 2594,
+   "title": "孤儿鲍比"
+  },
+  {
+   "startTime": 2651,
+   "title": "艾德的请求"
+  },
+  {
+   "startTime": 2730,
+   "title": "刻意回避"
+  },
+  {
+   "startTime": 2769,
+   "title": "看望罗丝"
+  },
+  {
+   "startTime": 2848,
+   "title": "危机浮现"
+  },
+  {
+   "startTime": 2925,
+   "title": "返程途中",
+   "img": "https://image.gcores.com/dc07736bc5b21e83332b890789ed831b-742-393.png"
+  },
+  {
+   "startTime": 2999,
+   "title": "躲进教堂",
+   "img": "https://image.gcores.com/917f8d9fb3c6bc82bf6c546bec10a2bd-565-356.png"
+  },
+  {
+   "startTime": 3051,
+   "title": "痛苦往事"
+  },
+  {
+   "startTime": 3113,
+   "title": "仓皇逃窜",
+   "img": "https://image.gcores.com/d7271abbcf497d4f64d63d67ff6d19a8-997-433.png"
+  },
+  {
+   "startTime": 3162,
+   "title": "一片死寂",
+   "img": "https://image.gcores.com/bbdd84eee843bd8dd18d647004718107-789-313.png"
+  },
+  {
+   "startTime": 3216,
+   "title": "寻找艾德",
+   "img": "https://image.gcores.com/f48c36c9d7ccb4f122b0fa5b3ff7e137-350-299.png"
+  },
+  {
+   "startTime": 3342,
+   "title": "神秘油罐车",
+   "img": "https://image.gcores.com/734f43f5a87d275e24a62f86277f9d88-856-453.png"
+  },
+  {
+   "startTime": 3385,
+   "title": "英雄救美"
+  },
+  {
+   "startTime": 3500,
+   "title": "憧憬未来"
+  },
+  {
+   "startTime": 3582,
+   "title": "破解密码",
+   "img": "https://image.gcores.com/d841b91beea2726577aa337c0266a377-886-466.png"
+  },
+  {
+   "startTime": 3680,
+   "title": "发现罪源",
+   "img": "https://image.gcores.com/5a8bc18d578fb4f89047b818b6e659e2-874-545.png"
+  },
+  {
+   "startTime": 3759,
+   "title": "擦窗吊篮",
+   "img": "https://image.gcores.com/09c9e1bfd952e43dfd55f215367b9aad-1038-453.png"
+  },
+  {
+   "startTime": 3785,
+   "title": "忍痛割爱"
+  },
+  {
+   "startTime": 3865,
+   "title": "付之东流"
+  },
+  {
+   "startTime": 3917,
+   "title": "《生化危机：爆发夜》",
+   "img": "https://image.gcores.com/a78b8985d5e06bc0a34192e266986545-1080-1600.jpg"
+  },
+  {
+   "startTime": 3961,
+   "title": "感谢收听",
+   "img": "https://image.gcores.com/a1766f79c71da54fae865fb0a2b1ae62-1400-1400.jpg",
+   "url": "https://music.163.com/song?id=536599&uct2=U2FsdGVkX19N0hs7hVyWX1h9x1U5tf+q7rgK/TiA4yI="
+  }
+ ]
+}
