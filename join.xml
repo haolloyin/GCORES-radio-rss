@@ -5,8 +5,8 @@
 <link>https://www.gcores.com/radios?filter=join</link>
 <description>机核「入驻播客」节目，按发布时间降序排列，每集附时间轴。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 25 Nov 2026 18:34:41 +0800</lastBuildDate>
-<pubDate>Wed, 25 Nov 2026 18:34:41 +0800</pubDate>
+<lastBuildDate>Thu, 26 Nov 2026 12:59:22 +0800</lastBuildDate>
+<pubDate>Thu, 26 Nov 2026 12:59:22 +0800</pubDate>
 <generator>gcores-rss</generator>
 <ttl>30</ttl>
 <atom:link href="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/join.xml" rel="self" type="application/rss+xml"/>
@@ -18,6 +18,28 @@
 <itunes:category text="Leisure"><itunes:category text="Video Games"/></itunes:category>
 <itunes:image href="https://image.gcores.com/72c564186057a94288949bffc6865811-2048-2048.png?v=2"/>
 <image><url>https://image.gcores.com/72c564186057a94288949bffc6865811-2048-2048.png?v=2</url><title>机核 GCORES · 入驻播客</title><link>https://www.gcores.com/radios?filter=join</link></image>
+<item>
+<title>93期：英伟达，从我12岁那年说起 | 游戏人有态度</title>
+<link>https://www.gcores.com/radios/222793</link>
+<guid isPermaLink="false">gcores-radio-222793</guid>
+<pubDate>Wed, 25 Nov 2026 11:08:56 +0800</pubDate>
+<description>大盛以近30年DIY爱好者与英伟达资深用户身份，讲述自己12岁起27年间与这家公司及硬件的故事，并借本地V100显卡上的大模型合写口播稿，回顾个体与公司这些年的变化。</description>
+<content:encoded><![CDATA[<p>大盛以近30年DIY爱好者与英伟达资深用户身份，讲述自己12岁起27年间与这家公司及硬件的故事，并借本地V100显卡上的大模型合写口播稿，回顾个体与公司这些年的变化。</p>
+<p><a href="https://www.gcores.com/radios/222793">🔗 在机核查看本集原始页面</a></p>
+<hr/>
+<p>大家好，我是大盛，这是一期我的单口。</p>
+<p>作为一名近30年的DIY爱好者、游戏玩家、游戏行业从业者、影视内容创作者、英伟达的资深用户，我一直希望有机会聊聊我和这家公司以及这些硬件的故事，于是借着老黄龙王回归的契机，我把我过去27年DIY的经历，详细的告诉了部署在我本地V100显卡上的大模型，我们俩合力写出了这期节目的口播稿，也想用这种方式，告诉大家，一家公司，一个个体的人，在过去27年里，经历了什么，改变了什么，成为了什么。</p>]]></content:encoded>
+<author>机核 GCORES</author>
+<itunes:author>机核 GCORES</itunes:author>
+<category>游戏人有态度</category>
+<itunes:keywords>游戏人有态度</itunes:keywords>
+<itunes:summary>大盛以近30年DIY爱好者与英伟达资深用户身份，讲述自己12岁起27年间与这家公司及硬件的故事，并借本地V100显卡上的大模型合写口播稿，回顾个体与公司这些年的变化。</itunes:summary>
+<itunes:duration>47:20</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:image href="https://image.gcores.com/bd7c02b4-fbeb-40ef-8a90-e70a0ef4e448-2048-2048.jpeg"/>
+<enclosure url="https://tk.wavpub.com/WPTK_tIOtnJLoBrxRMIFa-49cb62bfe671.m4a" length="22992448" type="audio/mp4"/>
+</item>
 <item>
 <title>Vol.146 摇摆听歌会：K-POP女团音乐质量滑坡能力鉴赏 | 摇摆指南</title>
 <link>https://www.gcores.com/radios/222755</link>
@@ -2893,98 +2915,6 @@
 <itunes:episodeType>full</itunes:episodeType>
 <itunes:image href="https://image.gcores.com/8e1de3942fb3bcb7ea394c97d5ede70a-1400-1400.jpg"/>
 <enclosure url="https://dts-api.xiaoyuzhoufm.com/track/65aa24db7a25782e57f796c9/6abe682fe742e36efcbd8b40/media.xyzcdn.net/65aa24db7a25782e57f796c9/liZak4hW9JIpc3Hdi6HnfYSCPN_j.m4a" length="59792577" type="audio/mp4"/>
-</item>
-<item>
-<title>被AI「偷走」的声音值多少钱，得从100多年前聊起… | 菠萝油子</title>
-<link>https://www.gcores.com/radios/220466</link>
-<guid isPermaLink="false">gcores-radio-220466</guid>
-<pubDate>Thu, 01 Oct 2026 19:29:02 +0800</pubDate>
-<description>我的“声音”到底归谁？ 我的“声音”又到底值多少钱？ 当AI开始轻而易举的模仿我们的声音肆意表达，许多过去从未出现的问题逐一浮现。知名声优、演员、主持人津田健次郎今日起诉tiktok平台引发争议，而在播客圈儿，也不断有我们熟悉的主播声音出现在互联网的视频中，所以我们决定从“声音的价值”这个角度切入，从广播剧的诞生，到声</description>
-<content:encoded><![CDATA[<p><a href="https://www.gcores.com/radios/220466">🔗 在机核查看本集原始页面</a></p>
-<hr/>
-<p>我的“声音”到底归谁？</p>
-<p>我的“声音”又到底值多少钱？</p>
-<p>当AI开始轻而易举的模仿我们的声音肆意表达，许多过去从未出现的问题逐一浮现。知名声优、演员、主持人津田健次郎今日起诉tiktok平台引发争议，而在播客圈儿，也不断有我们熟悉的主播声音出现在互联网的视频中，所以我们决定从“声音的价值”这个角度切入，从广播剧的诞生，到声优行业的出现，再到播客时代，被录下的声音如何定价、授权？百年变化背后，藏着和你有关的版权难题，但也似乎是在给ai时代的困境指明了一条出路。</p>
-<p>【时间轴】</p>
-<p>02:01 声音背后的争议：从津田健次郎在TIKTOK上的诉讼案例聊起<br/>10:40 探索百年人类声音记录的科技历程…<br/>21:20 日本近现代文学中的“言文一致”运动：平民百姓的文化需求与创作潮流<br/>32:01 声优行业的起点：1925年广播剧研究与日本声优史的关系<br/>42:43 动画片制作背后的艰辛与收益分配：手冢治虫与后续动画行业的博弈<br/>53:24 演员罢工引发的连锁反应：电视台滚动更新受阻，配音行业的重要性逐渐被重视<br/>01:04:03 日本排优联合提出动画重播费用问题，动画配音演员的待遇能否改善？<br/>01:14:44 声音的版权争议：卡拉OK中的法律模糊性与配音演员的权益<br/>01:25:26 声优行业的崛起与挑战：公众形象与个人生活的边界模糊<br/>01:36:08 日本动画产业的盈利模式与挑战：动画工作室的赚钱之路<br/>01:46:47 声音模型的边界问题：权利人同意与间接受益的挑战<br/>01:57:28 AI语音技术的崛起对声优行业的影响：挑战与机遇</p>
-<p>【相关资料补充】</p>
-<p>声优、演员、主持人、导演：津田健次郎</p>
-<p>知的財産高等裁判所·东京地裁中目黒支部_日本知识产权审判场景</p>
-<p>声波记振仪1857_人类最早的声音记录装置</p>
-<p>爱迪生与留声机1877_声音首次可回放</p>
-<p>贝利纳与圆盘唱机1887_唱片工业起点</p>
-<p>费森登1906平安夜_人类首次无线电广播</p>
-<p>KDKA电台1920_世界首座公共广播电台</p>
-<p>贝尔德机械电视1926_声音被固定到脸上</p>
-<p>东京放送局JOAK_1925年《桐一叶》播出电台</p>
-<p>筑地小剧场1924_日本新剧与广播剧演员摇篮</p>
-<p>小山内薰_自由剧场创办人·《炭坑之中》译导</p>
-<p>永井一郎_波平初代声优·日俳连维权核心</p>
-<p>林原惠，日本声优歌手兼顾的重要先行者</p>
-<p>水树奈奈是日本声优界第一位登上红白歌会舞台的声优歌手</p>
-<p>北京互联网法院_2024年首例AI声音侵权案</p>
-<p>SAG-AFTRA罢工2023_数字声音复制条款</p>
-<p>【参考资料】</p>
-<p>东京地方法院《津田健次郎诉 TikTok 投稿删除案判决书》</p>
-<p>日本法务省《肖像、声音等未经许可使用的民事责任检讨会报告》</p>
-<p>日本最高法院《Pink Lady案判决》</p>
-<p>日本俳优连合《1971年组织成立沿革》</p>
-<p>日本俳优连合《1973年演员游行与24小时拒演行动》</p>
-<p>日本俳优连合《1978—1979年外画日语版重播费用协商》</p>
-<p>日本俳优连合《1980年动画重播费用争议》</p>
-<p>日本俳优连合《1981—1982年电视动画出演协定》</p>
-<p>日本俳优连合《1986年目的外使用费及〈忠臣藏〉录像带案例》</p>
-<p>日本俳优连合《动画录像化费用未付诉讼经过》</p>
-<p>First Sounds《斯科特声波记录仪与早期声音记录》</p>
-<p>First Sounds《〈月光下〉早期音频还原说明》</p>
-<p>美国国会图书馆《早期广播史与KDKA选举播报》</p>
-<p>PBS《费森登与早期无线电声音传输》</p>
-<p>日本实演家著作邻接权中心《日本广播诞生与表演者权益》</p>
-<p>一桥大学《日本早期广播剧与〈炭坑の中〉》</p>
-<p>明治大学《日本声优史与“声优第一号”的定义》</p>
-<p>《中华人民共和国民法典》</p>
-<p>人民法院案例库《殷某某声音权益案》</p>
-<p>SAG-AFTRA《2024年录音合同中的AI声音复制保护》</p>
-<p>日本动画协会《动画产业报告2025》</p>
-<p>《第十五回声优奖获奖名单》</p>
-<p>津田健次郎官方网站</p>
-<p>【关于”菠萝油子“】</p>
-<p>菠萝油子（波螺油子），是青岛的一条已经消失不见的老路，那里曾经充满了老城区的烟火气，但对于80、90后的孩子来说，菠萝油子路上开着几家买二手漫画书的小店，打开了无数孩子对漫画世界大门。虽然那条路已经消失不见，但它却成了我们生命中，关于“漫画”所有记忆的开始。</p>
-<p>（图自：摄影师吴正中老师）</p>
-<p>【支持＆酒】</p>
-<p>这期内容依旧精彩，希望你们的耳朵会喜欢。如果觉得这期节目不错，请不要吝啬您的赞美，欢迎点赞评论任何您的想法，并把这期节目分享给您重要的人。同时也欢迎酌情在您收听的平台给我们打赏鼓励。</p>
-<p>同时，欢迎选购【菠萝油子“醉牛啤”啤酒】，进群享用，独家呈现，仅此一家~</p>
-<p>主播：BiG 炸年糕大王</p>
-<p>声音设计：高筒靴不是高同学</p>
-<p>听友群 +V：BiG202107</p>
-<p>【BGM】</p>
-<p>Maria and The Children - The Sound of Music</p>
-<p>V.A. - 두근 두근 나두림</p>
-<p>华尔兹</p>
-<p>Miro - Whisper</p>
-<p>X-Ray Dog - Electric Horizon</p>
-<p>宗次郎 - 月の沙漠</p>
-<p>European Jazz Trio - 赤とんぼ</p>
-<p>和田薫 - 暗妇のテーマ</p>
-<p>Steve Allen - Body and Soul</p>
-<p>鷺巣詩郎,林原めぐみ - VOYAGER～日付のない墓標</p>
-<p>水樹奈々 - 迷宮バタフライ</p>
-<p>Karel Boehlee Trio - Nocturne No.2 Op.92</p>
-<p>Brad Mehldau - Bewitched, Bothered and Bewildered</p>
-<p>Pink Lady - UFO</p>
-<p>Bill Evans,Jim Hall - My Man&#x27;s Gone Now</p>
-<p>吱吱吱小吱 - 【钢琴版】绿洲</p>
-<p>梁博 - 出现又离开 (Live)</p>]]></content:encoded>
-<author>机核 GCORES</author>
-<itunes:author>机核 GCORES</itunes:author>
-<category>菠萝油子</category>
-<itunes:keywords>菠萝油子</itunes:keywords>
-<itunes:summary>我的“声音”到底归谁？ 我的“声音”又到底值多少钱？ 当AI开始轻而易举的模仿我们的声音肆意表达，许多过去从未出现的问题逐一浮现。知名声优、演员、主持人津田健次郎今日起诉tiktok平台引发争议，而在播客圈儿，也不断有我们熟悉的主播声音出现在互联网的视频中，所以我们决定从“声音的价值”这个角度切入，从广播剧的诞生，到声</itunes:summary>
-<itunes:duration>2:09:03</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-<itunes:image href="https://image.gcores.com/e0b85333-c973-4a72-92b3-d84ffcb86f63-1280-1280.jpeg"/>
-<enclosure url="https://jt.ximalaya.com//GKwRIaIOlAfkA7xpKgTg9U0n.m4a?channel=rss&amp;album_id=46600880&amp;track_id=1020451529&amp;uid=63393987&amp;jt=https://aod.cos.tx.xmcdn.com/storages/3b16-audiofreehighqps/12/B8/GKwRIaIOlAfkA7xpKgTg9U0n.m4a" length="62679338" type="audio/mp4"/>
 </item>
 </channel>
 </rss>
