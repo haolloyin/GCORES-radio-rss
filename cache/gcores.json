@@ -1,5 +1,28 @@
 {
  "items": {
+  "222863": {
+   "id": "222863",
+   "guid": "gcores-radio-222863",
+   "title": "合力一击，无所不用其极·和薄彩生一起盘点《影之刃零》音乐的精彩瞬间",
+   "category_raw": "Gadio Music",
+   "category": "Gadio Music",
+   "published_at": "2026-11-27T18:32:49+08:00",
+   "duration": 5804,
+   "audio": "https://alioss.gcores.com/uploads/audio/d6fbcc8b-a983-4e6c-8f94-e337e3eb151d.mp3",
+   "page_url": "https://www.gcores.com/radios/222863",
+   "image": "https://image.gcores.com/49cbad0876f4e0ecfe95f8b1f575491b-1600-900.jpg",
+   "summary": "机核音频节目中，重轻对话《影之刃零》配乐薄彩生，逐轨分析白赤练、榕树连战 BOSS 战配乐，探讨乐谱如何平衡战斗压迫感与演奏可行性，并梳理编曲巧思与高能瞬间。",
+   "content_html": "<p>重轻老师对话《影之刃零》配乐薄彩生，逐轨剖开白赤练、榕树连战的 BOSS 战配乐，探讨乐谱如何平衡战斗压迫感与演奏可行性，细细梳理曲目里的编曲巧思与高能瞬间。</p>\n<p>咪咕游戏x机核x灵游坊联合出品，本期视频我们一同感受东方武侠配乐独有的张力，一次聊透创作取舍与幕后巧思！</p>",
+   "participants": [
+    "这样重这样轻",
+    "薄彩生"
+   ],
+   "media_id": "23467",
+   "timelines": [],
+   "tl_checked": 1,
+   "length": 92867306,
+   "chapters_url": ""
+  },
   "222591": {
    "id": "222591",
    "guid": "gcores-radio-222591",
@@ -490,8 +513,8 @@
      "img": "https://image.gcores.com/a1766f79c71da54fae865fb0a2b1ae62-1400-1400.jpg"
     }
    ],
-   "tl_checked": 1,
    "length": 63970026,
+   "tl_checked": 1,
    "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/222591.json"
   },
   "222596": {
@@ -41612,30 +41635,6 @@
    "length": 54437630,
    "tl_checked": 1,
    "chapters_url": "https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217527.json"
-  },
-  "217825": {
-   "id": "217825",
-   "guid": "gcores-radio-217825",
-   "title": "什么叫中式神仙打架游戏？深度对话《古神: 风里希》制作人【视频播客音频版】",
-   "category_raw": "核电波",
-   "category": "核电波",
-   "published_at": "2026-08-01T12:00:00+08:00",
-   "duration": 4129,
-   "audio": "https://alioss.gcores.com/uploads/audio/ceaf59be-3e4e-44b7-88b3-27c121cdbf8c.mp3",
-   "page_url": "https://www.gcores.com/radios/217825",
-   "image": "https://image.gcores.com/01c3229e789baf5981f4c6dc3ee45eff-1600-900.jpg",
-   "summary": "机核播客“核电波”邀请动作游戏《古神：风里希》制作人刘大锤，聊首曝后的玩家反馈，以及这款被称作“中式神仙打架”的游戏究竟是什么样的作品。",
-   "content_html": "<p>欢迎回到“核电波”！年初公开的动作游戏《古神: 风里希》让不少人感到好奇，今天我们请来了游戏的制作人刘大锤，跟他聊聊首曝后的玩家反馈，再聊聊这究竟是一款什么样的游戏。 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href=\"https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click\">核电波</a>】         </p>\n<p>本期主播：Nadya / 西蒙 / Ryoma <br/>本期嘉宾：《古神：风里希》制作人 盘古刘大锤 </p>",
-   "participants": [
-    "Nadya",
-    "Ryoma",
-    "西蒙"
-   ],
-   "media_id": "22391",
-   "timelines": [],
-   "length": 66071106,
-   "tl_checked": 1,
-   "chapters_url": ""
   }
  }
 }

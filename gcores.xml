@@ -5,8 +5,8 @@
 <link>https://www.gcores.com/radios?filter=gcores</link>
 <description>机核出品的播客节目，按发布时间降序排列，每集附时间轴与参与者。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 26 Nov 2026 23:06:53 +0800</lastBuildDate>
-<pubDate>Thu, 26 Nov 2026 23:06:53 +0800</pubDate>
+<lastBuildDate>Fri, 27 Nov 2026 22:27:24 +0800</lastBuildDate>
+<pubDate>Fri, 27 Nov 2026 22:27:24 +0800</pubDate>
 <generator>gcores-rss</generator>
 <ttl>30</ttl>
 <atom:link href="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/gcores.xml" rel="self" type="application/rss+xml"/>
@@ -18,6 +18,29 @@
 <itunes:category text="Leisure"><itunes:category text="Video Games"/></itunes:category>
 <itunes:image href="https://www.gcores.com/android-chrome-256x256.png"/>
 <image><url>https://www.gcores.com/android-chrome-256x256.png</url><title>机核 GCORES · 机核出品</title><link>https://www.gcores.com/radios?filter=gcores</link></image>
+<item>
+<title>合力一击，无所不用其极·和薄彩生一起盘点《影之刃零》音乐的精彩瞬间 | Gadio Music</title>
+<link>https://www.gcores.com/radios/222863</link>
+<guid isPermaLink="false">gcores-radio-222863</guid>
+<pubDate>Fri, 27 Nov 2026 18:32:49 +0800</pubDate>
+<description>机核音频节目中，重轻对话《影之刃零》配乐薄彩生，逐轨分析白赤练、榕树连战 BOSS 战配乐，探讨乐谱如何平衡战斗压迫感与演奏可行性，并梳理编曲巧思与高能瞬间。</description>
+<content:encoded><![CDATA[<p>机核音频节目中，重轻对话《影之刃零》配乐薄彩生，逐轨分析白赤练、榕树连战 BOSS 战配乐，探讨乐谱如何平衡战斗压迫感与演奏可行性，并梳理编曲巧思与高能瞬间。</p>
+<p><a href="https://www.gcores.com/radios/222863">🔗 在机核查看本集原始页面</a></p>
+<p>本期参与：这样重这样轻、薄彩生</p>
+<hr/>
+<p>重轻老师对话《影之刃零》配乐薄彩生，逐轨剖开白赤练、榕树连战的 BOSS 战配乐，探讨乐谱如何平衡战斗压迫感与演奏可行性，细细梳理曲目里的编曲巧思与高能瞬间。</p>
+<p>咪咕游戏x机核x灵游坊联合出品，本期视频我们一同感受东方武侠配乐独有的张力，一次聊透创作取舍与幕后巧思！</p>]]></content:encoded>
+<author>机核 GCORES</author>
+<itunes:author>机核 GCORES</itunes:author>
+<category>Gadio Music</category>
+<itunes:keywords>Gadio Music</itunes:keywords>
+<itunes:summary>机核音频节目中，重轻对话《影之刃零》配乐薄彩生，逐轨分析白赤练、榕树连战 BOSS 战配乐，探讨乐谱如何平衡战斗压迫感与演奏可行性，并梳理编曲巧思与高能瞬间。</itunes:summary>
+<itunes:duration>1:36:44</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+<itunes:image href="https://image.gcores.com/49cbad0876f4e0ecfe95f8b1f575491b-1600-900.jpg"/>
+<enclosure url="https://alioss.gcores.com/uploads/audio/d6fbcc8b-a983-4e6c-8f94-e337e3eb151d.mp3" length="92867306" type="audio/mpeg"/>
+</item>
 <item>
 <title>生化危机 - 爆发夜 | Gadio Story</title>
 <link>https://www.gcores.com/radios/222591</link>
@@ -8371,29 +8394,6 @@
 <itunes:image href="https://image.gcores.com/000120f30a75cae84e2286a045e53e30-1600-900.png"/>
 <enclosure url="https://alioss.gcores.com/uploads/audio/a0c6530b-b744-4928-a223-1681129822e1.mp3" length="54437630" type="audio/mpeg"/>
 <podcast:chapters url="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/chapters/217527.json" type="application/json+chapters"/>
-</item>
-<item>
-<title>什么叫中式神仙打架游戏？深度对话《古神: 风里希》制作人【视频播客音频版】 | 核电波</title>
-<link>https://www.gcores.com/radios/217825</link>
-<guid isPermaLink="false">gcores-radio-217825</guid>
-<pubDate>Sat, 01 Aug 2026 12:00:00 +0800</pubDate>
-<description>机核播客“核电波”邀请动作游戏《古神：风里希》制作人刘大锤，聊首曝后的玩家反馈，以及这款被称作“中式神仙打架”的游戏究竟是什么样的作品。</description>
-<content:encoded><![CDATA[<p>机核播客“核电波”邀请动作游戏《古神：风里希》制作人刘大锤，聊首曝后的玩家反馈，以及这款被称作“中式神仙打架”的游戏究竟是什么样的作品。</p>
-<p><a href="https://www.gcores.com/radios/217825">🔗 在机核查看本集原始页面</a></p>
-<p>本期参与：Nadya、Ryoma、西蒙</p>
-<hr/>
-<p>欢迎回到“核电波”！年初公开的动作游戏《古神: 风里希》让不少人感到好奇，今天我们请来了游戏的制作人刘大锤，跟他聊聊首曝后的玩家反馈，再聊聊这究竟是一款什么样的游戏。 本期为机核视频播客节目音频版，若大家想看我们在录节目的时候究竟是什么样的状态,可以关注我们的B站账号【<a href="https://www.gcores.com/link?target=https%3A%2F%2Fspace.bilibili.com%2F39861398%3Fspm_id_from%3D333.1369.opus.module_author_name.click">核电波</a>】         </p>
-<p>本期主播：Nadya / 西蒙 / Ryoma <br/>本期嘉宾：《古神：风里希》制作人 盘古刘大锤 </p>]]></content:encoded>
-<author>机核 GCORES</author>
-<itunes:author>机核 GCORES</itunes:author>
-<category>核电波</category>
-<itunes:keywords>核电波</itunes:keywords>
-<itunes:summary>机核播客“核电波”邀请动作游戏《古神：风里希》制作人刘大锤，聊首曝后的玩家反馈，以及这款被称作“中式神仙打架”的游戏究竟是什么样的作品。</itunes:summary>
-<itunes:duration>1:08:49</itunes:duration>
-<itunes:explicit>false</itunes:explicit>
-<itunes:episodeType>full</itunes:episodeType>
-<itunes:image href="https://image.gcores.com/01c3229e789baf5981f4c6dc3ee45eff-1600-900.jpg"/>
-<enclosure url="https://alioss.gcores.com/uploads/audio/ceaf59be-3e4e-44b7-88b3-27c121cdbf8c.mp3" length="66071106" type="audio/mpeg"/>
 </item>
 </channel>
 </rss>
