@@ -5,8 +5,8 @@
 <link>https://www.gcores.com/radios?filter=join</link>
 <description>机核「入驻播客」节目，按发布时间降序排列，每集附时间轴。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 27 Nov 2026 12:37:13 +0800</lastBuildDate>
-<pubDate>Fri, 27 Nov 2026 12:37:13 +0800</pubDate>
+<lastBuildDate>Fri, 27 Nov 2026 16:18:56 +0800</lastBuildDate>
+<pubDate>Fri, 27 Nov 2026 16:18:56 +0800</pubDate>
 <generator>gcores-rss</generator>
 <ttl>30</ttl>
 <atom:link href="https://raw.githubusercontent.com/haolloyin/GCORES-radio-rss/main/join.xml" rel="self" type="application/rss+xml"/>
@@ -86,15 +86,16 @@
 <link>https://www.gcores.com/radios/222838</link>
 <guid isPermaLink="false">gcores-radio-222838</guid>
 <pubDate>Thu, 26 Nov 2026 17:40:00 +0800</pubDate>
-<description>前几天发出的《装甲骑兵 灰色魔女》冒头九分钟片段，结合在日本那边剧场版的热影，我们来一期大电影前瞻！</description>
-<content:encoded><![CDATA[<p><a href="https://www.gcores.com/radios/222838">🔗 在机核查看本集原始页面</a></p>
+<description>结合《装甲骑兵 灰色魔女》九分钟片段与日本剧场版热度，本期节目对这部大电影进行前瞻介绍。</description>
+<content:encoded><![CDATA[<p>结合《装甲骑兵 灰色魔女》九分钟片段与日本剧场版热度，本期节目对这部大电影进行前瞻介绍。</p>
+<p><a href="https://www.gcores.com/radios/222838">🔗 在机核查看本集原始页面</a></p>
 <hr/>
 <p>前几天发出的《装甲骑兵 灰色魔女》冒头九分钟片段，结合在日本那边剧场版的热影，我们来一期大电影前瞻！</p>]]></content:encoded>
 <author>机核 GCORES</author>
 <itunes:author>机核 GCORES</itunes:author>
 <category>终声嗜好</category>
 <itunes:keywords>终声嗜好</itunes:keywords>
-<itunes:summary>前几天发出的《装甲骑兵 灰色魔女》冒头九分钟片段，结合在日本那边剧场版的热影，我们来一期大电影前瞻！</itunes:summary>
+<itunes:summary>结合《装甲骑兵 灰色魔女》九分钟片段与日本剧场版热度，本期节目对这部大电影进行前瞻介绍。</itunes:summary>
 <itunes:duration>1:19:29</itunes:duration>
 <itunes:explicit>false</itunes:explicit>
 <itunes:episodeType>full</itunes:episodeType>
